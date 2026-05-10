@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "William James's *The Varieties of Religious Experience* is primarily trying to address the problem of **how to understand and validate religious experience in an increasingly scientific, materialistic, and skeptical age.**\n\nMore specifically, he was grappling with several interconnected problems:\n\n1.  **The Problem of Reductionism and \"Medical Materialism\":** In the late 19th and early 20th centuries, the rise of scientific inquiry (especially in psychology, biology, and neurology) led many to dismiss religious experiences as mere psychological aberrations, brain states, or pathological conditions. The prevailing scientific worldview often sought to reduce complex human phenomena to their simplest material or physiological origins.\n    *   **James's Response:** He directly confronts this \"medical materialism.\" While acknowledging that religious experiences often have physiological correlates or can occur in individuals with certain temperaments or even mental illnesses, he argues forcefully that the *origin* of an experience does not necessarily invalidate its *meaning, truth, or value*. He insists that we must look at the *fruits* or practical effects of the experience, rather than just its roots.\n\n2.  **The Problem of Neglecting Individual, Personal Religion:** Traditional approaches to religion often focused on institutions, dogmas, creeds, and historical narratives. James felt this missed the living, dynamic core of religion.\n    *   **James's Response:** He deliberately shifts the focus to \"personal religion\" – the direct, subjective, and often intense experiences of individuals. He believed that by studying these raw, first-hand accounts, one could gain a truer understanding of what religion *is* and what it *does* for people, rather than getting bogged down in theological disputes or institutional politics.\n\n3.  **The Problem of Finding a Legitimate (Non-Hostile) Scientific/Psychological Approach to Religion:** Psychology was a nascent science, and there wasn't a widely accepted methodology for studying religion that didn't either reduce it to pathology or simply ignore it as outside the realm of scientific inquiry.\n    *   **James's Response:** He pioneers a phenomenological and pragmatic approach. He collects a vast array of empirical data (case studies, letters, autobiographies) and describes the phenomena of religious experience without immediate judgment. He then proposes a pragmatic test for their value: do they lead to positive, life-affirming changes in the individual's life? He sought to carve out a space for the serious, empirical study of religion that respected its unique character and potential for truth.\n\n4.  **The Problem of Meaning and Purpose in a Secularizing World:** As traditional religious frameworks weakened under scientific scrutiny, many individuals faced existential questions about life's meaning, suffering, and death without clear answers.\n    *   **James's Response:** He demonstrates how religious experience, in its various forms (from the \"healthy-minded\" optimism to the \"sick soul's\" struggle and subsequent conversion), provides powerful ways for individuals to find meaning, cope with adversity, achieve a sense of purpose, and connect with a \"more\" or transcendent reality. He highlights religion's therapeutic, moral, and life-affirming functions.\n\nIn essence, James was trying to rescue religious experience from being either dismissed as delusion by science or stifled by rigid dogma, by demonstrating its profound psychological reality and its undeniable practical value in human life. He sought to bridge the gap between the scientific worldview and the enduring human need for spiritual meaning.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Varieties of Religious Experience by William James.",
+  "session_uuid": "1cd3eb74-b84b-430b-b20b-8ddbfbde1ffd",
+  "token_usage": {
+    "input_tokens": 781,
+    "output_tokens": 705,
+    "total_tokens": 2562
+  },
+  "latency_seconds": 9.53,
+  "timestamp_utc": "2026-05-09T12:15:07.443771+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion_for_cross_ref": "Ambrose",
+  "cluster": "G1",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central problem *The Confessions* tries to address is the **human condition of spiritual restlessness and the search for meaning and fulfillment in all the wrong places.**\n\nAugustine uses his own life story as a universal example to illustrate several interconnected problems:\n\n1.  **Existential Emptiness and Dissatisfaction:** The fundamental problem is that humans are created with an innate longing for God, but they often try to satisfy this longing with finite, worldly things. Augustine shows how he pursued pleasure, ambition, intellectual pride, and various philosophical systems (Manichaeism, Neoplatonism), only to find them ultimately unsatisfying, leaving him with a pervasive sense of emptiness and spiritual anguish.\n\n2.  **The Destructive Power of Sin:** The book vividly portrays how sin—lust, pride, ambition, deceit, and the pursuit of fleeting pleasures—corrupts the soul, alienates individuals from God, and leads to moral degradation and inner turmoil. Augustine meticulously details his own moral failings and the misery they brought him.\n\n3.  **Intellectual Pride and False Wisdom:** Augustine grapples with the limitations of human reason and the dangers of intellectual arrogance. He recounts his journey through Manichaeism, which offered a seemingly rational explanation for evil but ultimately proved intellectually and spiritually bankrupt, and Neoplatonism, which offered profound insights but lacked the concept of a personal, incarnate God and the grace necessary for salvation. The problem here is seeking ultimate truth and wisdom apart from divine revelation.\n\n4.  **The Divided Will:** A significant problem Augustine explores, particularly in Book VIII, is the internal struggle of the human will. He describes knowing what is good and desiring it, yet being unable to fully commit due to the pull of old habits and sinful desires. This \"sickness of the soul\" prevents individuals from choosing God wholeheartedly, even when they intellectually understand the truth.\n\n5.  **Alienation from God:** Underlying all these problems is the fundamental alienation of humanity from its Creator. Augustine argues that this separation is the root cause of all human suffering and restlessness.\n\nIn essence, *The Confessions* is an extended diagnosis of the human spiritual malady—the condition of being lost, restless, and unfulfilled when separated from God—and a testament to the only true cure: surrender to God's grace and finding rest in Him.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Confessions of St. Augustine by Augustine of Hippo.",
+  "session_uuid": "0bec4e18-d18d-4488-90e0-089e3ef82684",
+  "token_usage": {
+    "input_tokens": 632,
+    "output_tokens": 484,
+    "total_tokens": 2076
+  },
+  "latency_seconds": 7.57,
+  "timestamp_utc": "2026-05-09T11:44:06.249315+00:00"
+}

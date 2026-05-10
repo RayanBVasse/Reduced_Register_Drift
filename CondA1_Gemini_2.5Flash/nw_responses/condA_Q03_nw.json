@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, *Nathan the Wise* is primarily a **dramatic poem** (*dramatisches Gedicht* in German). This term, used by Lessing himself, is significant and tells us a lot about its nature:\n\n1.  **Dramatic Poem (*Dramatisches Gedicht*):** This designation elevates it beyond a mere stage play. It implies a work of high literary and intellectual ambition, focusing on elevated language (it's written in blank verse, unrhymed iambic pentameter, echoing Shakespeare), philosophical depth, and moral instruction, rather than just theatrical spectacle or entertainment. It's meant to be read and contemplated as much as performed.\n\n2.  **Enlightenment Drama / Philosophical Drama:** It is a quintessential work of the German Enlightenment. Its core purpose is to explore and advocate for Enlightenment ideals:\n    *   **Reason:** The triumph of rational thought over blind faith and prejudice.\n    *   **Tolerance:** The acceptance and respect for different religious beliefs.\n    *   **Humanism:** The belief in the inherent worth and dignity of all human beings, regardless of creed.\n    *   **Critique of Dogmatism:** A challenge to rigid religious doctrines that lead to conflict.\n\n3.  **Didactic Play:** Lessing intended for the play to teach and persuade. It has a clear moral and philosophical message that it seeks to impart to its audience. The \"Ring Parable\" is the most famous example of this didactic function, directly illustrating the central argument.\n\n4.  **Plea for Religious Tolerance and Human Brotherhood:** This is its most specific and urgent self-definition. Set during the Crusades, it directly addresses the historical and ongoing conflicts between the three Abrahamic faiths (Judaism, Christianity, Islam) and argues for a path to peaceful coexistence based on shared humanity and ethical conduct.\n\n5.  **Not a Traditional Tragedy or Comedy:** While it has dramatic tension and a resolution, it doesn't fit neatly into the classical categories. It's more of a \"drama of ideas\" where the conflict is intellectual and moral, leading to a hopeful, reconciliatory ending rather than a tragic downfall or purely comedic resolution.\n\nSo, in its own terms, *Nathan the Wise* is a serious, intellectually rigorous, and morally purposeful dramatic poem designed to champion reason, tolerance, and universal humanism in a world divided by religious strife.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Nathan the Wise by Gotthold Ephraim Lessing.",
+  "session_uuid": "0974840e-5ba6-46ed-b21a-043ab7ebcae9",
+  "token_usage": {
+    "input_tokens": 1144,
+    "output_tokens": 502,
+    "total_tokens": 2704
+  },
+  "latency_seconds": 8.53,
+  "timestamp_utc": "2026-05-09T12:07:11.530237+00:00"
+}

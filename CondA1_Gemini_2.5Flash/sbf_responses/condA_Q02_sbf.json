@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "*The Souls of Black Folk* is primarily trying to address the **pervasive and systemic problem of racial inequality and injustice faced by Black Americans in the post-Reconstruction era (late 19th and early 20th centuries).**\n\nMore specifically, Du Bois tackles several interconnected facets of this overarching problem:\n\n1.  **The \"Problem of the Color-Line\":** This is the most famous articulation. Du Bois argues that the fundamental issue of his time is the racial divide – the segregation, discrimination, and prejudice that separated Black and white Americans and denied Black people their full humanity and rights. This \"color-line\" was not just a social construct but manifested in every aspect of life.\n\n2.  **Systemic Oppression and Jim Crow:** The book confronts the reality of Jim Crow laws, which enforced racial segregation and disenfranchisement across the South (and to some extent, the North). This included:\n    *   **Political Disenfranchisement:** The denial of voting rights through poll taxes, literacy tests, and grandfather clauses.\n    *   **Economic Exploitation:** The continuation of sharecropping, debt peonage, and limited economic opportunities that kept Black communities in poverty, often resembling a new form of slavery.\n    *   **Social Segregation:** Separate and unequal facilities in schools, transportation, housing, and public spaces.\n    *   **Violence and Terror:** The constant threat of lynching and other forms of racial violence used to maintain white supremacy.\n\n3.  **The Psychological Burden of Racism:** Du Bois delves into the internal, psychological toll of living under such oppression, introducing the concepts of:\n    *   **Double-Consciousness:** The internal conflict of seeing oneself through the eyes of a prejudiced white society, leading to a fragmented sense of self (\"two-ness\"). This was a crippling problem for individual identity and self-worth.\n    *   **The Veil:** The literal and metaphorical barrier that separated Black and white worlds, preventing true understanding and forcing Black people to live with a constant awareness of their racial difference and the limitations it imposed.\n\n4.  **The Dehumanization of Black People:** The book challenges the prevailing racist ideologies that depicted Black people as inferior, lazy, unintelligent, or inherently less capable. Du Bois seeks to affirm the full humanity, intelligence, and cultural richness of Black Americans.\n\n5.  **The Path Forward for Black Americans:** Du Bois directly addresses the internal debate within the Black community about the best strategy for racial uplift. He critiques Booker T. Washington's \"Atlanta Compromise\" philosophy, which advocated for vocational training and economic self-sufficiency while deferring demands for political and social equality. Du Bois saw this as a dangerous compromise that would perpetuate second-class citizenship. He argues for:\n    *   **Immediate and full civil and political rights.**\n    *   **Higher education for the \"Talented Tenth\"** to create intellectual leaders who could advocate for the race and contribute to society.\n\nIn essence, *The Souls of Black Folk* is a profound diagnosis of the multifaceted problem of racism in America, exposing its external manifestations in law and society, its internal impact on the Black psyche, and offering a powerful argument for a path toward true freedom and equality.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Souls of Black Folk by W. E. B. Du Bois.",
+  "session_uuid": "71080b77-a4f8-4293-bcf1-78010415ab65",
+  "token_usage": {
+    "input_tokens": 716,
+    "output_tokens": 671,
+    "total_tokens": 2183
+  },
+  "latency_seconds": 7.94,
+  "timestamp_utc": "2026-05-09T12:10:29.102598+00:00"
+}

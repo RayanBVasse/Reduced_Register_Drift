@@ -1,0 +1,37 @@
+{
+  "book": {
+    "abbrev": "aobf",
+    "slug": "autobiography-of-benjamin-franklin",
+    "title": "Autobiography of Benjamin Franklin",
+    "author_canonical": "Benjamin Franklin",
+    "author_display": "Benjamin Franklin",
+    "companion": "Civis",
+    "cluster": "G2"
+  },
+  "model": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "d9b1e7e8-0b23-4292-ab86-269afe3b390a",
+  "started_at": "2026-05-09T11:51:19.777465+00:00",
+  "ended_at": "2026-05-09T11:54:06.711986+00:00",
+  "completed_qids": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q08",
+    "Q09",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15"
+  ],
+  "failed_qids": [],
+  "n_completed": 15,
+  "n_failed": 0
+}

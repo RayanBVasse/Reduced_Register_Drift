@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of William James's *The Varieties of Religious Experience* is that **the truth and value of an experience (especially a religious or spiritual one) should be judged by its practical effects and fruits in the life of the individual, rather than solely by its origins or institutional forms.**\n\nConnecting this to a concrete daily practice:\n\n**The Daily \"Fruits\" Reflection**\n\nAt the end of each day, take 5-10 minutes for a quiet reflection, either through journaling or silent contemplation. Instead of just reviewing \"what happened,\" focus on the **\"fruits\" or practical effects** of your day's experiences, actions, and even thoughts.\n\nHere's how it works:\n\n1.  **Identify Key Moments/Interactions:** Briefly recall a few significant interactions, decisions, or experiences from your day.\n2.  **Ask \"What were the Fruits?\":** For each moment, ask yourself:\n    *   \"What was the *actual outcome* or *impact* of this action/decision/interaction?\"\n    *   \"How did it affect me, my well-being, my relationships, or my work?\"\n    *   \"Did it lead to greater clarity, peace, productivity, connection, or growth?\" (Positive fruits)\n    *   \"Did it lead to confusion, stress, conflict, stagnation, or regret?\" (Negative fruits)\n3.  **De-emphasize \"Roots\" (Origins/Intentions):** While intentions matter, James encourages us to look beyond them. Don't get bogged down in *why* you did something, or *who* was \"right\" or \"wrong.\" Instead, focus pragmatically on *what actually resulted*.\n    *   *Example:* Instead of dwelling on \"I meant well, but they misunderstood,\" focus on \"My communication led to misunderstanding and frustration. The fruit was tension.\"\n4.  **Evaluate Value Based on Fruits:** Based on the observed fruits, make a pragmatic assessment of the value of that experience or action. This isn't about moral judgment, but about practical effectiveness and contribution to well-being.\n    *   \"This conversation, despite its awkward start, ultimately led to a stronger connection. Its fruit was positive.\"\n    *   \"That decision, though made quickly, created more problems than it solved. Its fruit was negative.\"\n5.  **Notice the \"More\" (Optional, but powerful):** For those open to it, this reflection can also be a moment to notice subtle shifts in perspective, feelings of gratitude, moments of unexpected insight, or a sense of connection that might point to James's \"more\" – a wider, transcendent reality interacting with your consciousness. What were the \"fruits\" of these less tangible experiences?\n\n**Why this connects to James's core idea:**\n\n*   **Focus on Individual Experience:** It's a deeply personal reflection on *your* subjective reality.\n*   **Pragmatic Test:** You are actively applying James's pragmatic test of truth and value by evaluating experiences based on their *consequences* and *effects* (the \"fruits\").\n*   **Beyond Reductionism:** You're not reducing your day to a list of tasks completed or external events. You're looking at the deeper impact and meaning, acknowledging that even seemingly small moments can have significant \"fruits.\"\n*   **Learning and Growth:** By consistently evaluating the fruits of your actions, you gain practical wisdom, learn what works and what doesn't, and cultivate habits that lead to more positive outcomes in your life. This is the essence of how religious experience, for James, makes individuals \"better.\"",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Varieties of Religious Experience by William James.",
+  "session_uuid": "1cd3eb74-b84b-430b-b20b-8ddbfbde1ffd",
+  "token_usage": {
+    "input_tokens": 4592,
+    "output_tokens": 760,
+    "total_tokens": 6247
+  },
+  "latency_seconds": 10.79,
+  "timestamp_utc": "2026-05-09T12:16:08.537419+00:00"
+}

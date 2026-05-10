@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The primary problem *The Art of War* is trying to address is **the inherent destructiveness and immense cost of warfare, and how to navigate conflict in a way that preserves the state and achieves objectives with minimal loss.**\n\nSun Tzu views war as a \"grave affair of state,\" a matter of life and death for the nation, and one that should not be undertaken lightly or poorly. He observes that:\n\n1.  **War is incredibly costly:** It drains a nation's resources (money, supplies, manpower), devastates its land, and can lead to the collapse of the state itself, even for the victor if the victory is too costly (a Pyrrhic victory).\n2.  **Ineffective warfare is common:** Many leaders rush into battle without proper planning, intelligence, or understanding of the broader strategic implications. They rely on brute force, prolonged sieges, and attrition, which are precisely the methods Sun Tzu argues against due to their high cost and uncertainty.\n3.  **The risk of defeat is ever-present:** Without a deep understanding of oneself, the enemy, and the environment, defeat is highly probable, leading to the subjugation or annihilation of one's own state.\n4.  **Preserving the state is paramount:** The ultimate goal is not just to win a battle, but to secure the long-term stability and prosperity of the state. Destroying the enemy's land and resources in the process of winning a war often means there's little left to gain or govern.\n\nTherefore, *The Art of War* seeks to provide a systematic approach to **minimize the negative consequences of conflict** while maximizing the chances of achieving one's goals. It's a guide for leaders to:\n\n*   **Avoid unnecessary conflict:** By understanding when and how to engage.\n*   **Achieve victory efficiently:** By using intelligence, deception, and strategic positioning rather than prolonged, costly engagements.\n*   **Preserve resources:** Both one's own and, ideally, the enemy's, so they can be utilized after victory.\n*   **Ensure the long-term survival and prosperity of the state:** By making war a tool for strategic advantage rather than a path to mutual destruction.\n\nIn essence, Sun Tzu is trying to solve the problem of **how to wage war intelligently and effectively, ensuring victory while mitigating its devastating impact on the state and its people.**",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Art of War by Sun Tzu.",
+  "session_uuid": "6ef31815-9c59-49b2-adcb-6a49797c4ac6",
+  "token_usage": {
+    "input_tokens": 579,
+    "output_tokens": 495,
+    "total_tokens": 1933
+  },
+  "latency_seconds": 33.43,
+  "timestamp_utc": "2026-05-09T11:31:58.443911+00:00"
+}

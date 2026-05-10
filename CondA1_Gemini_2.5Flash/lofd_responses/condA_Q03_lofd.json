@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, *Narrative of the Life of Frederick Douglass, an American Slave. Written by Himself.* is primarily presented as a **personal testimony** and an **eyewitness account** of the horrors of slavery.\n\nDouglass and his abolitionist colleagues intended it to be:\n\n1.  **A Factual, Unvarnished Autobiography:** The full title, \"Narrative of the Life of Frederick Douglass, an American Slave. Written by Himself,\" is key. It asserts that this is a true story, a firsthand account of his life, written by the person who lived it. This was crucial to counter the romanticized or false narratives about slavery prevalent at the time, and to prove that enslaved people were capable of intellectual thought and self-expression.\n\n2.  **An Abolitionist Document and Argument:** It's not just a story; it's a direct appeal to the conscience of the American public. It serves as a powerful piece of evidence in the case against slavery, designed to expose its moral bankruptcy and galvanize support for its immediate abolition. It's a weapon in the fight against the institution.\n\n3.  **Proof of the Humanity and Intellectual Capacity of Enslaved People:** By writing such an articulate, intelligent, and moving account, Douglass directly refutes the racist pro-slavery arguments that depicted Black people as inherently inferior, unintelligent, or incapable of self-governance. His literacy and eloquence are central to this proof, demonstrating that enslaved people were fully human and deserving of freedom.\n\n4.  **A Revelation of Slavery's True Nature:** It pulls back the curtain on the daily brutalities, psychological torment, family separations, and moral corruption inherent in the system, which many in the North were unaware of or chose to ignore. It aims to shock readers into confronting the reality of the \"peculiar institution.\"\n\nTherefore, in its own terms, it is a **polemic** (a strong verbal or written attack on someone or something) disguised as a **memoir**, a **call to action** embedded within a **personal history**, and a **declaration of human rights** delivered through the voice of one who was denied them.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Narrative of the Life of Frederick Douglass by Frederick Douglass.",
+  "session_uuid": "496c168e-a272-4efc-82cc-2932f8184076",
+  "token_usage": {
+    "input_tokens": 1105,
+    "output_tokens": 448,
+    "total_tokens": 2687
+  },
+  "latency_seconds": 7.92,
+  "timestamp_utc": "2026-05-09T12:02:18.524374+00:00"
+}

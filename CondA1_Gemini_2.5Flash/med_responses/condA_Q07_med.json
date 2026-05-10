@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion_for_cross_ref": "Marcus",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of *Meditations* is the **Dichotomy of Control** – distinguishing between what is within our power (our judgments, opinions, desires, aversions, and actions) and what is not (external events, other people's actions, our body, reputation, etc.), and focusing our energy solely on the former.\n\nHere's a concrete daily practice that connects directly to this core idea:\n\n---\n\n**Concrete Daily Practice: The \"Frustrating Email/Unexpected Task\" Pause**\n\nImagine you're in the middle of your workday, focused on a task, when suddenly:\n\n*   An email arrives from a colleague or client that is demanding, critical, or assigns you an urgent, unexpected task that throws off your schedule.\n*   Your boss walks over with a new, immediate priority that wasn't on your radar.\n*   A technical issue arises that prevents you from continuing your work.\n\n**The Practice:**\n\n1.  **The Initial Impulse (Pre-Stoic):** Your immediate reaction might be a surge of frustration, annoyance, anger, anxiety, or feeling overwhelmed. You might think, \"This is unfair!\" \"I don't have time for this!\" \"Why me?\"\n\n2.  **The Stoic Pause (Applying the Dichotomy of Control):**\n    *   **Step 1: Pause.** Before reacting emotionally or verbally, take a deep breath.\n    *   **Step 2: Observe the External Event.** Acknowledge the email, the new task, or the technical glitch. This is an external event.\n    *   **Step 3: Identify Your Judgment.** Recognize that your feeling of frustration or anger isn't coming from the email/task/glitch itself, but from your *judgment* about it. You're judging it as \"bad,\" \"unjust,\" \"inconvenient,\" or \"too much.\"\n    *   **Step 4: Apply the Dichotomy.** Ask yourself:\n        *   \"Is the *arrival* of this email/task/glitch within my control?\" (No, it has already happened.)\n        *   \"Is the *content* of the email/task/glitch within my control?\" (No, it's a given fact.)\n        *   \"Is my *judgment* about it, and my *reaction* to it, within my control?\" (Yes, absolutely.)\n    *   **Step 5: Reframe Your Judgment.** Consciously choose to reframe your perspective. Instead of \"This is a terrible imposition,\" think: \"This is a new piece of information/a new challenge. It requires a response/action. It is an opportunity to practice patience and effective problem-solving.\" Remind yourself, as Marcus often did: \"The thing itself is indifferent. My distress comes from my opinion of it.\"\n\n3.  **Take Virtuous Action (Focusing on What's in Control):**\n    *   Now, with a calmer, more rational mind, decide on the most effective and virtuous course of action.\n    *   This might involve: calmly prioritizing, delegating, communicating clearly, asking clarifying questions, or simply tackling the new task with a focused, uncomplaining attitude.\n    *   Your action is now driven by reason and duty, not by reactive emotion.\n\n**Why this is a faithful connection:**\n\nThis practice directly embodies Marcus Aurelius's core teaching. It trains you to:\n*   **Distinguish:** Separate the external event from your internal reaction.\n*   **Control Your Inner Citadel:** Protect your inner peace by managing your judgments.\n*   **Act with Reason:** Respond thoughtfully and effectively, rather than impulsively.\n*   **Practice Virtue:** Approach challenges with patience, wisdom, and a sense of duty, rather than frustration or anger.\n\nBy consistently applying this \"Frustrating Email/Unexpected Task\" Pause, you gradually build the mental muscle to navigate daily life with greater tranquility and effectiveness, just as Marcus sought to do in his own demanding role.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Meditations by Marcus Aurelius.",
+  "session_uuid": "b19b704b-3d09-4051-97d9-68e47dbcdd26",
+  "token_usage": {
+    "input_tokens": 3890,
+    "output_tokens": 847,
+    "total_tokens": 5628
+  },
+  "latency_seconds": 10.79,
+  "timestamp_utc": "2026-05-09T10:26:49.827430+00:00"
+}

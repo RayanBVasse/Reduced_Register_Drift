@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, *The Art of War* is best understood as:\n\n1.  **A Military Treatise / A Work on Military Strategy:** This is its most direct and fundamental classification. It is a systematic exposition of principles and methods for conducting warfare. It's not just about tactics (how to fight a battle), but primarily about strategy (how to win a war, or avoid fighting one).\n\n2.  **A Guide for Rulers and Generals:** It's explicitly addressed to those in command – the sovereign and their military leaders. It provides counsel on how to lead armies, manage resources, assess situations, and make decisions that determine the fate of the state.\n\n3.  **A Philosophy of War / A Discourse on the \"Dao\" (Way) of Warfare:** Beyond mere instructions, it delves into the underlying principles, the natural order, and the correct approach to conflict. It's about understanding the essence of war, human nature in conflict, and the forces that lead to victory or defeat. It seeks to articulate the \"Dao\" or \"Way\" of effective and intelligent warfare.\n\n4.  **A Manual for Strategic Advantage and Preservation of the State:** Its ultimate aim is to provide the wisdom necessary to achieve one's objectives in conflict while preserving one's own forces, resources, and the state itself. It's a guide to winning intelligently and efficiently, minimizing the immense costs of war.\n\n5.  **A Collection of Aphorisms and Principles:** The text is structured as a series of concise, often profound statements and principles, rather than a narrative or a step-by-step instruction manual. These principles are meant to be contemplated, understood, and applied flexibly to diverse situations.\n\nIn essence, Sun Tzu presents his work as the **authoritative wisdom on how to conduct war with supreme skill, intelligence, and foresight, ensuring the survival and prosperity of the state by achieving victory through strategic mastery rather than brute force.**",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Art of War by Sun Tzu.",
+  "session_uuid": "6ef31815-9c59-49b2-adcb-6a49797c4ac6",
+  "token_usage": {
+    "input_tokens": 1088,
+    "output_tokens": 402,
+    "total_tokens": 2450
+  },
+  "latency_seconds": 7.05,
+  "timestamp_utc": "2026-05-09T11:32:07.491873+00:00"
+}

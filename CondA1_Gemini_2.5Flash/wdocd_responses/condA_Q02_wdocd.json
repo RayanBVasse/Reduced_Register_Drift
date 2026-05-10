@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "Henry David Thoreau, in both *Walden* and *On the Duty of Civil Disobedience*, addresses a fundamental problem: **the widespread failure of individuals to live authentically, deliberately, and morally, often due to the corrupting influences of society and an unjust state.**\n\nHe sees this problem manifesting in several interconnected ways:\n\n### Problems Addressed in *Walden*:\n\n1.  **Unexamined, Inauthentic Lives (\"Lives of Quiet Desperation\"):** Thoreau observes that most people live lives dictated by routine, tradition, and societal expectations rather than by their own conscious choices. They are \"sleepwalkers,\" caught in a cycle of work, consumption, and conformity, without ever truly questioning the purpose or meaning of their existence. He famously states, \"The mass of men lead lives of quiet desperation.\"\n2.  **Materialism and Economic Enslavement:** Society places an excessive emphasis on acquiring material possessions, leading individuals into debt and endless labor. People work tirelessly to maintain a certain standard of living, often for things they don't truly need, thereby sacrificing their freedom, time, and spiritual well-being. They become \"tools of their tools.\"\n3.  **Loss of Self-Reliance and Independence:** Individuals become overly dependent on societal structures, institutions, and the opinions of others, losing their capacity for independent thought and action. They are afraid to be different or to forge their own path.\n4.  **Disconnection from Nature and Essential Truths:** By focusing on artificial societal constructs and material pursuits, people lose touch with the natural world, which Thoreau believes is a source of profound wisdom, spiritual renewal, and a clearer understanding of life's \"essential facts.\"\n\n### Problems Addressed in *On the Duty of Civil Disobedience*:\n\n1.  **Unjust and Immoral Government:** Thoreau directly confronts the problem of a government that acts contrary to justice and morality. He specifically cites the institution of slavery and the Mexican-American War as egregious examples of state-sanctioned wrongdoing, arguing that the government is often an instrument of injustice rather than a promoter of good.\n2.  **Passive and Unthinking Citizenship:** The majority of citizens, Thoreau argues, are content to obey laws without question, even when those laws are unjust. They become \"machines\" rather than moral agents, prioritizing order and convenience over justice and conscience. They allow the government to act on their behalf, even when it commits wrongs, without taking personal responsibility.\n3.  **Abdication of Individual Moral Responsibility:** People often believe that their individual actions don't matter, or that they should simply wait for the majority to change an unjust law. Thoreau challenges this, asserting that each individual has a moral duty to act according to their conscience, even if it means standing alone against the state. He sees the problem as a failure of individuals to assert their moral authority.\n4.  **The Tyranny of the Majority:** While democracy is often lauded, Thoreau points out that the majority can also be wrong and can impose its will in ways that violate the rights and consciences of individuals. The problem is not just bad government, but a populace that allows itself to be governed by expediency rather than principle.\n\nIn essence, both works are a call to **\"wake up\"** – in *Walden*, to the richness and truth of one's personal existence; in *Civil Disobedience*, to one's civic responsibilities and the moral failings of the state. The overarching problem is the **erosion of individual integrity and autonomy** in the face of societal pressures and governmental power.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau.",
+  "session_uuid": "e61f875c-2424-47f9-94ac-cc3393205a56",
+  "token_usage": {
+    "input_tokens": 872,
+    "output_tokens": 731,
+    "total_tokens": 2703
+  },
+  "latency_seconds": 9.24,
+  "timestamp_utc": "2026-05-09T12:21:36.196075+00:00"
+}

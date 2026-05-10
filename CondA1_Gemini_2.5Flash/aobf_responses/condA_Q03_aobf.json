@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, Benjamin Franklin's *Autobiography* presents itself primarily as:\n\n1.  **A Personal History or Memoir:** Franklin explicitly states in the opening letter to his son, William, that he is writing down \"some account of my life\" for his son's information and amusement. He refers to it as \"my memoirs.\" It's a narrative recounting the events, experiences, and observations of his life.\n\n2.  **A Guide or Instruction for Self-Improvement and Virtue:** Especially in the later parts, Franklin makes it clear that he hopes his experiences, particularly his \"bold and arduous project of arriving at moral perfection\" through the 13 virtues, will be useful to others. He presents his life as an **example** – both of successes to emulate and \"errata\" (mistakes) to learn from. He aims to show how one can cultivate good habits, overcome vices, and achieve a virtuous character.\n\n3.  **A Practical Manual for Achieving Success and Prosperity:** Franklin details his strategies for business, frugality, industry, and making connections. He shows *how* he rose from poverty to affluence and influence. It's a demonstration of practical wisdom applied to daily life and career.\n\n4.  **A Testament to the Power of Public Spirit and Civic Engagement:** He meticulously describes his various projects for the improvement of Philadelphia (the Junto, the library, the fire company, the hospital, the academy). He presents these as the natural outcome of individual success being channeled into the common good, demonstrating how one can be a useful and beneficial member of society.\n\nIn essence, Franklin presents his book as a **narrative of his life intended to be instructive and beneficial to others, particularly young people, by providing a practical example of how to live a virtuous, successful, and publicly useful life.** He's not just telling a story; he's offering a blueprint based on his own lived experience.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "d9b1e7e8-0b23-4292-ab86-269afe3b390a",
+  "token_usage": {
+    "input_tokens": 923,
+    "output_tokens": 402,
+    "total_tokens": 2355
+  },
+  "latency_seconds": 8.83,
+  "timestamp_utc": "2026-05-09T11:51:46.865449+00:00"
+}

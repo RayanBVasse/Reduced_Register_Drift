@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument or teaching of Benjamin Franklin's *Autobiography* is that **a successful, virtuous, and publicly beneficial life can be achieved through diligent self-improvement, practical application of reason, hard work, frugality, and a commitment to civic engagement.**\n\nFranklin presents his own life as a **model or blueprint** for how an individual, starting from humble beginnings, can cultivate moral character, achieve material prosperity, and contribute significantly to society. He emphasizes:\n\n1.  **Systematic Self-Improvement:** His famous project of the 13 virtues is a prime example of his belief that moral perfection is an achievable goal through conscious effort, self-discipline, and habit formation.\n2.  **Practicality and Pragmatism:** Franklin is less concerned with abstract philosophy and more with what works in the real world. His virtues are chosen for their utility in fostering social harmony and personal success.\n3.  **Industry and Frugality:** He demonstrates how hard work, careful management of resources, and avoidance of debt are foundational to economic independence and the ability to pursue higher goals.\n4.  **Civic Engagement and Public Service:** Once he achieves personal success, Franklin dedicates himself to improving his community through various public projects (library, fire department, hospital, university, etc.), illustrating that individual success should ultimately serve the common good.\n5.  **Reason and Enlightenment Principles:** His approach to life is rational, experimental, and based on observation, reflecting the Enlightenment ideals of his time.\n\nIn essence, Franklin's *Autobiography* is a **how-to guide for becoming a \"self-made man\"** – not just in terms of wealth, but in terms of character, influence, and contribution to society. It's a testament to the power of individual agency and self-discipline in shaping one's destiny and contributing to the common good.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "d9b1e7e8-0b23-4292-ab86-269afe3b390a",
+  "token_usage": {
+    "input_tokens": 32,
+    "output_tokens": 387,
+    "total_tokens": 1366
+  },
+  "latency_seconds": 6.86,
+  "timestamp_utc": "2026-05-09T11:51:26.641648+00:00"
+}

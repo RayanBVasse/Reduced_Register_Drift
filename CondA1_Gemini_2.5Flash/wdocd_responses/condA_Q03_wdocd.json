@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In their own terms, *Walden* and *On the Duty of Civil Disobedience* are not easily categorized by conventional literary genres, as they blend elements of several forms, all driven by Thoreau's unique philosophical and practical approach.\n\n### *Walden; or, Life in the Woods*\n\nThoreau himself might have described *Walden* as:\n\n*   **A Report on an Experiment in Living:** He explicitly states his purpose was to \"front only the essential facts of life\" and \"live deliberately.\" The book is his detailed account, observations, and conclusions from this two-year experiment in self-sufficient living.\n*   **A Philosophical Inquiry into the Art of Living:** It's a deep dive into questions of purpose, necessity, wealth, poverty, and the true meaning of life, stripped of societal conventions.\n*   **A Manual for Awakening:** It's an urgent call for individuals to \"wake up\" from their \"sleepwalking\" lives of quiet desperation, to examine their own existence, and to live more consciously and intentionally.\n*   **A Critique of Society and Materialism:** It functions as a sustained argument against the prevailing values of his time – the pursuit of wealth, conformity, and the \"progress\" that often enslaves rather than liberates.\n*   **A Spiritual Autobiography/Confession:** While not a full autobiography, it's a deeply personal reflection on his spiritual and intellectual journey during his time at the pond.\n*   **A Nature Journal/Observation:** It contains meticulous observations of the natural world around Walden Pond, reflecting his belief that nature holds profound truths.\n\nIn essence, *Walden* is a **philosophical and practical guide to living a more authentic, self-reliant, and meaningful life**, presented through the lens of a personal experiment and a sharp critique of societal norms.\n\n### *On the Duty of Civil Disobedience*\n\nThoreau might have described this essay as:\n\n*   **A Moral and Political Argument/Treatise:** It's a direct, forceful argument for a specific principle: the supremacy of individual conscience over the state, especially when the state acts unjustly.\n*   **An Exhortation to Moral Action:** It's not just an intellectual exercise; it's a passionate plea for individuals to actively resist unjust laws and governments, rather than passively complying.\n*   **A Defense of Individual Conscience and Integrity:** It champions the individual's right and duty to follow their inner moral compass, even if it means breaking the law and facing imprisonment.\n*   **A Critique of Government and Passive Citizenship:** It challenges the legitimacy of a government that acts immorally and criticizes citizens who allow themselves to be used as instruments of injustice.\n*   **A Statement of Principle:** It lays out fundamental beliefs about the relationship between the individual and the state, asserting that \"the only obligation which I have a right to assume is to do at any time what I think right.\"\n\nIn essence, *Civil Disobedience* is a **radical declaration of individual moral autonomy and a call to principled, non-violent resistance against state-sanctioned injustice.**\n\nTogether, both works are **calls to conscience and deliberate action**, urging individuals to live lives of integrity, whether in their personal choices or their civic responsibilities. They are fundamentally **philosophical provocations** designed to challenge the reader's assumptions about life, society, and government.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau.",
+  "session_uuid": "e61f875c-2424-47f9-94ac-cc3393205a56",
+  "token_usage": {
+    "input_tokens": 1617,
+    "output_tokens": 703,
+    "total_tokens": 3439
+  },
+  "latency_seconds": 9.81,
+  "timestamp_utc": "2026-05-09T12:21:48.009138+00:00"
+}

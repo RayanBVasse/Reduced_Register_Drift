@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "Gotthold Ephraim Lessing's *Nathan the Wise* is trying to address the pervasive and destructive problem of **religious intolerance, prejudice, and the resulting conflict and division among people of different faiths.**\n\nSpecifically, it tackles several interconnected facets of this problem:\n\n1.  **Religious Bigotry and Prejudice:** The play directly confronts the deep-seated biases and stereotypes that people hold against those of different religions. Nathan, as a Jew, is a constant target of prejudice, even from characters like the Templar who initially views all Jews with contempt. The play shows how these prejudices are often irrational, inherited, and based on ignorance rather than actual experience.\n\n2.  **The Folly and Destructiveness of Religious Conflict:** Set during the Crusades, a period of intense religious warfare between Christians and Muslims, the play implicitly critiques the historical cycle of violence fueled by religious differences. It seeks to offer an alternative to this bloodshed, suggesting that peace and understanding are possible even amidst historical animosity.\n\n3.  **Dogmatism and Blind Faith:** The play challenges the rigid adherence to religious dogma that often prevents people from seeing the shared humanity in others. The \"Ring Parable\" is a direct assault on the idea that only one religion can possess the absolute truth, arguing that such claims lead to endless strife and prevent people from focusing on the ethical core of their beliefs.\n\n4.  **The Dehumanization of \"The Other\":** When individuals are reduced to their religious labels (Jew, Christian, Muslim), their individual character, virtues, and shared humanity are often overlooked. The play strives to re-humanize these \"others,\" demonstrating that goodness, wisdom, and compassion can be found in people of any faith.\n\n5.  **The Lack of a Basis for Peaceful Coexistence:** In a multi-religious society, how can people live together without constant strife? Lessing, writing during the Enlightenment, was deeply concerned with finding a rational and humane foundation for social harmony. The play proposes that shared humanity, reason, empathy, and ethical conduct should transcend religious boundaries and serve as the basis for mutual respect.\n\nIn essence, Lessing saw religious differences as a primary source of human suffering and division. *Nathan the Wise* is his dramatic attempt to diagnose this problem and offer a powerful, humanistic solution: that true wisdom lies in recognizing our common humanity, practicing tolerance, and judging individuals by their deeds rather than their creeds.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Nathan the Wise by Gotthold Ephraim Lessing.",
+  "session_uuid": "0974840e-5ba6-46ed-b21a-043ab7ebcae9",
+  "token_usage": {
+    "input_tokens": 632,
+    "output_tokens": 498,
+    "total_tokens": 1893
+  },
+  "latency_seconds": 6.91,
+  "timestamp_utc": "2026-05-09T12:07:01.002055+00:00"
+}

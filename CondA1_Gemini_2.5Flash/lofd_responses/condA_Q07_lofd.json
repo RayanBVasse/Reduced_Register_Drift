@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of Frederick Douglass's *Narrative* is the **inherent evil of dehumanization and the fundamental right to human dignity and freedom.**\n\nConnecting this to a concrete daily practice for a modern individual, leader, or professional:\n\n**Concrete Daily Practice: Actively seeking to understand and acknowledge the full humanity of every individual you interact with, especially those in roles or positions often overlooked or stereotyped.**\n\nHere's how this practice directly connects to the book's core idea:\n\n1.  **Direct Counter to Dehumanization:** Douglass's entire life under slavery was an experience of being treated as property, not a person. He was denied his name, his family, his education, and his agency. This daily practice is the direct opposite: it's a conscious effort to see the person *behind* the role (e.g., the janitor, the customer service representative, the intern, the delivery driver, the homeless person, the \"difficult\" colleague). It's about recognizing their unique experiences, feelings, and inherent worth.\n\n2.  **Affirming Dignity and Voice:** Douglass fought desperately to gain his voice and assert his dignity. This practice involves actively *listening* to others, giving them space to express themselves, and valuing their perspective. It means not just hearing their words, but trying to understand the person speaking them.\n\n3.  **Combating the Corrupting Influence of Power:** Douglass showed how slavery corrupted enslavers by allowing them to view others as less than human. In modern contexts, unchecked power (even subtle forms like managerial authority or social status) can lead to treating others as means to an end, rather than ends in themselves. This daily practice serves as a constant ethical check, reminding us to use our power responsibly and empathetically.\n\n**How to implement this daily practice:**\n\n*   **In Conversations:** Instead of just waiting to speak, truly listen to understand. Ask open-ended questions. Make eye contact. Acknowledge their feelings or perspective (\"That sounds frustrating,\" \"I can see why you'd feel that way\").\n*   **In Interactions:** Learn and use people's names. Offer genuine greetings and thanks. If someone is providing a service, acknowledge their effort and humanity beyond the transaction.\n*   **In Decision-Making:** Consider the human impact of your decisions on all individuals involved, not just the \"bottom line\" or the most visible stakeholders. Ask yourself: \"How will this affect the people who are most vulnerable or least powerful in this situation?\"\n*   **Self-Reflection:** Catch yourself when you're making assumptions or categorizing someone based on their job title, appearance, or social group. Challenge those internal biases and consciously seek out more information about them as an individual.\n\nBy making this a conscious, daily effort, one actively participates in the ongoing fight against dehumanization and champions the human dignity that Frederick Douglass so powerfully advocated for.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Narrative of the Life of Frederick Douglass by Frederick Douglass.",
+  "session_uuid": "496c168e-a272-4efc-82cc-2932f8184076",
+  "token_usage": {
+    "input_tokens": 3843,
+    "output_tokens": 606,
+    "total_tokens": 5461
+  },
+  "latency_seconds": 8.56,
+  "timestamp_utc": "2026-05-09T12:03:04.918618+00:00"
+}

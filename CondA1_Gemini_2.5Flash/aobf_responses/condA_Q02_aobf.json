@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The *Autobiography of Benjamin Franklin* is trying to address several interconnected problems, both on an individual and societal level, particularly relevant to a developing nation like colonial America:\n\n1.  **The Problem of How to Achieve Personal Success and Virtue from Humble Beginnings:**\n    *   **Lack of a clear path:** For individuals, especially those without inherited wealth or status, there was no established blueprint for how to rise in society, achieve financial independence, and cultivate a strong moral character. Many might feel lost, make poor choices, or lack the discipline to improve their circumstances.\n    *   **Moral drift/lack of self-discipline:** Franklin observed human nature and understood the temptations towards idleness, extravagance, and vice. He saw a need for a systematic method to cultivate virtues and overcome these tendencies.\n    *   **Economic struggle:** How does one escape poverty, build a trade, manage finances, and become prosperous in a new and competitive environment?\n\n2.  **The Problem of Building a Cohesive and Prosperous Society:**\n    *   **Lack of civic infrastructure:** Colonial towns and cities often lacked essential public services and institutions (libraries, fire departments, hospitals, police, educational institutions). There was a need for individuals to take initiative and organize collective efforts for the common good.\n    *   **Need for shared values:** For a diverse and growing society, there was a need to promote a set of practical, secular virtues that could foster social harmony, trust, and cooperation, rather than relying solely on religious dogma or inherited social hierarchies.\n    *   **Developing a national character:** As America moved towards independence, there was an implicit need to define what it meant to be an American citizen – someone who was self-reliant, industrious, virtuous, and committed to public service.\n\nIn essence, Franklin's *Autobiography* serves as a **practical guide and a moral compass** for individuals seeking to improve themselves and their communities. It addresses the problem of how to transform potential into achievement, how to build character, how to gain prosperity, and how to channel individual success into collective benefit, thereby contributing to the strength and progress of a new nation. He offers his own life as a solution to these problems, demonstrating that through reason, diligence, and public spirit, one can overcome adversity and leave a lasting positive impact.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "d9b1e7e8-0b23-4292-ab86-269afe3b390a",
+  "token_usage": {
+    "input_tokens": 430,
+    "output_tokens": 479,
+    "total_tokens": 1746
+  },
+  "latency_seconds": 7.37,
+  "timestamp_utc": "2026-05-09T11:51:36.026454+00:00"
+}

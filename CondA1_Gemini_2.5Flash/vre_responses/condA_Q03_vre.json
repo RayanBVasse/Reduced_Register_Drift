@@ -1,0 +1,27 @@
+{
+  "condition": "A_ungoverned",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, William James's *The Varieties of Religious Experience* is, first and foremost, a published series of **Gifford Lectures on Natural Theology**.\n\nBeyond that formal classification, James himself characterizes it as:\n\n1.  **An Empirical Study in the Psychology of Religion:** He explicitly states his intention to approach religion from a psychological and empirical standpoint. He gathers a vast amount of \"raw material\" – personal testimonies, letters, autobiographies, and historical accounts of religious experiences – and treats them as data for psychological analysis. He's interested in the *facts* of religious consciousness.\n\n2.  **A Descriptive Psychology of the Religious Life:** He aims to describe the diverse forms (\"varieties\") that religious experience takes in individuals. He's less concerned with prescribing what religion *should be* and more with understanding what it *is* for those who experience it. He focuses on \"personal religion\" rather than institutional or dogmatic religion.\n\n3.  **An Inquiry into the \"Truth\" and \"Value\" of Religious Experience from a Pragmatic Standpoint:** James is not trying to prove or disprove the existence of God through logical argument. Instead, he applies his pragmatic philosophy, asking: What are the practical effects or \"fruits\" of these experiences in the lives of individuals? If they lead to positive, life-affirming changes, then they possess a form of truth and undeniable value, regardless of their origins.\n\n4.  **A Challenge to Reductionist \"Medical Materialism\":** A significant part of the book is dedicated to arguing against the tendency to dismiss religious experiences as mere pathologies or brain states. James insists that while experiences may have physiological or psychological \"roots,\" their \"fruits\" (their meaning and impact) must be judged independently.\n\nIn essence, James presents it as an **open-minded, scientific (in a broad sense), and descriptive investigation into the subjective reality of religious consciousness**, seeking to understand its nature and its profound significance for human life, without reducing it to something less than it appears to be to the experiencer. He's doing \"natural theology\" not through abstract reasoning, but through the direct observation of human experience.",
+  "model": "gemini-2.5-flash",
+  "model_version_returned": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Varieties of Religious Experience by William James.",
+  "session_uuid": "1cd3eb74-b84b-430b-b20b-8ddbfbde1ffd",
+  "token_usage": {
+    "input_tokens": 1500,
+    "output_tokens": 445,
+    "total_tokens": 3022
+  },
+  "latency_seconds": 7.89,
+  "timestamp_utc": "2026-05-09T12:15:17.338848+00:00"
+}

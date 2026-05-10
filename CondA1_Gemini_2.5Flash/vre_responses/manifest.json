@@ -1,0 +1,37 @@
+{
+  "book": {
+    "abbrev": "vre",
+    "slug": "the-varieties-of-religious-experience",
+    "title": "The Varieties of Religious Experience",
+    "author_canonical": "William James",
+    "author_display": "William James",
+    "companion": "Mira",
+    "cluster": "G1"
+  },
+  "model": "gemini-2.5-flash",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Varieties of Religious Experience by William James.",
+  "session_uuid": "1cd3eb74-b84b-430b-b20b-8ddbfbde1ffd",
+  "started_at": "2026-05-09T12:14:45.259600+00:00",
+  "ended_at": "2026-05-09T12:17:25.511824+00:00",
+  "completed_qids": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q08",
+    "Q09",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15"
+  ],
+  "failed_qids": [],
+  "n_completed": 15,
+  "n_failed": 0
+}
