@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "One of the core ideas of both \"Walden\" and \"On the Duty of Civil Disobedience\" is the importance of living deliberately and aligning one's actions with personal values and ethical principles. A concrete daily practice that embodies this idea is the **\"Daily Reflection and Intention Setting\"** practice.\n\n### Daily Reflection and Intention Setting\n\n**1. Set Aside Time for Reflection:**\n   - Dedicate a specific time each day (e.g., in the morning or before bed) to reflect on your day, your values, and your goals. This could be as short as 10-15 minutes. Use this time to think about what matters most to you and how your actions align with those values.\n\n**2. Journaling:**\n   - Keep a journal where you can write down your thoughts, feelings, and observations. Reflect on questions such as:\n     - What did I do today that aligned with my values?\n     - Were there moments when I felt disconnected from my true self or my principles?\n     - How can I improve tomorrow to live more authentically?\n   - This practice encourages self-awareness and helps you identify areas for growth.\n\n**3. Set Daily Intentions:**\n   - Based on your reflections, set a clear intention for the day ahead. This could be a specific goal (e.g., \"I will prioritize kindness in my interactions\") or a broader focus (e.g., \"I will seek to simplify my tasks and avoid unnecessary distractions\"). Writing down your intention can help reinforce your commitment.\n\n**4. Mindfulness and Presence:**\n   - Throughout the day, practice mindfulness by being present in your actions and decisions. When faced with choices, pause to consider whether they align with your values and intentions. This can help you make more deliberate choices rather than reacting impulsively.\n\n**5. Evaluate and Adjust:**\n   - At the end of the day, evaluate how well you lived up to your intention. Celebrate successes and identify areas for improvement. This ongoing process of reflection and adjustment fosters a deeper connection to your values and encourages continuous personal growth.\n\n### Connection to Thoreau's Ideas\n\nThis daily practice connects to Thoreau's core ideas by promoting a life of intention, self-awareness, and ethical living. Just as Thoreau sought to live deliberately at Walden Pond, individuals can cultivate a similar mindset in their daily lives. By reflecting on their values and setting intentions, they can strive to live authentically and make choices that resonate with their principles, ultimately leading to a more meaningful and fulfilling life.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau.",
+  "session_uuid": "5288406b-8fcf-414d-b816-097335027c78",
+  "token_usage": {
+    "input_tokens": 2119,
+    "output_tokens": 514,
+    "total_tokens": 2633
+  },
+  "latency_seconds": 7.79,
+  "timestamp_utc": "2026-05-09T13:46:40.692217+00:00"
+}

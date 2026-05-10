@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion": "miriam",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Nathan the Wise\" is a verse drama that engages with philosophical and theological themes through its characters and their interactions. Written by Gotthold Ephraim Lessing, the play is structured as a dialogue among diverse religious figures—primarily a Jew (Nathan), a Christian (the Templar), and a Muslim (Saladin)—and it explores the complexities of faith, virtue, and human understanding. \n\nIn its own terms, the book serves as both a moral parable and a critique of religious intolerance, employing the medium of drama to provoke thought and encourage dialogue among its audience. The use of the Ring Parable in Act III, Scene 7 exemplifies this approach by illustrating the idea that true wisdom lies in recognizing the limitations of one's own beliefs while valuing the moral actions of individuals across different faiths. Would you like to examine how this dramatic structure enhances the central themes presented in Chapter 2?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "cd1854b1-88f7-447a-a47f-e250e2119878",
+  "access_mode": "paid",
+  "turns_used": 3,
+  "turns_cap": 15,
+  "token_usage": {
+    "input_tokens": 2127,
+    "output_tokens": 184
+  },
+  "latency_seconds": 8.69,
+  "timestamp_utc": "2026-05-10T07:05:40.992308+00:00"
+}

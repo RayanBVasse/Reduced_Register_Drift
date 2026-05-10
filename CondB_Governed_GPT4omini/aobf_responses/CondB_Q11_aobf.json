@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q11",
+  "question_text": "How can I use the ideas in this book in my daily life?",
+  "primary_drift": "D1",
+  "block": 5,
+  "reply": "To incorporate the ideas from Benjamin Franklin's \"Autobiography\" into your daily life, consider adopting a structured approach to self-improvement and civic engagement based on Franklin's principles. One practical method is to implement a daily reflection practice inspired by his system of tracking virtues, as outlined in Chapter 10. You could select a few key virtues from Franklin's list—such as temperance, industry, or humility—and reflect on your actions each day regarding these values. This could involve maintaining a journal where you note instances of practicing these virtues, challenges encountered, and areas for improvement.\n\nAdditionally, engage actively in your community, mirroring Franklin's emphasis on public service and civic responsibility. Seek out local organizations or initiatives where you can contribute your time and skills. This aligns with Franklin's belief that personal virtue should translate into public usefulness, reinforcing the idea that individual character development is interconnected with societal well-being.\n\nLastly, embrace a mindset of lifelong learning and adaptability. Franklin valued education and self-improvement throughout his life; thus, you might set aside time for reading, exploring new subjects, or developing new skills that enhance both your personal growth and your ability to serve others effectively. Would you like to examine how Franklin’s experiences in Chapter 6 with forming associations can further inform this practice of community engagement?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 11,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 4364,
+    "output_tokens": 259
+  },
+  "latency_seconds": 7.4,
+  "timestamp_utc": "2026-05-10T06:54:22.650074+00:00"
+}

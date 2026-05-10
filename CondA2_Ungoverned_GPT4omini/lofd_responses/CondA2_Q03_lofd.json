@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Narrative of the Life of Frederick Douglass\" is an autobiographical narrative, specifically a slave narrative, which is a genre that recounts the experiences of individuals who were enslaved. In its own terms, the book serves several purposes:\n\n1. **Personal Testimony**: It is a first-person account of Douglass's life, detailing his experiences from slavery to freedom. This personal testimony provides a unique and powerful perspective on the realities of slavery.\n\n2. **Political and Social Commentary**: The narrative is not just a personal story; it also serves as a critique of the institution of slavery and the societal norms that support it. Douglass uses his experiences to argue against slavery and advocate for abolition, making it a significant political document.\n\n3. **Educational Tool**: Douglass intended the narrative to educate readers about the horrors of slavery and the importance of abolition. He emphasizes the transformative power of education and literacy, both for himself and for enslaved people in general.\n\n4. **Moral Argument**: The book functions as a moral appeal to the conscience of the nation, challenging readers to confront the ethical implications of slavery and their complicity in it.\n\n5. **Cultural Document**: As a work of African American literature, it contributes to the broader narrative of African American history and identity, highlighting the struggles and resilience of enslaved people.\n\nOverall, Douglass's narrative is a multifaceted work that combines autobiography, social critique, and a call to action, making it a foundational text in both American literature and the abolitionist movement.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Narrative of the Life of Frederick Douglass by Frederick Douglass.",
+  "session_uuid": "644e236b-e936-4167-83b0-8d5bba661a9a",
+  "token_usage": {
+    "input_tokens": 721,
+    "output_tokens": 313,
+    "total_tokens": 1034
+  },
+  "latency_seconds": 6.01,
+  "timestamp_utc": "2026-05-09T13:35:33.729940+00:00"
+}

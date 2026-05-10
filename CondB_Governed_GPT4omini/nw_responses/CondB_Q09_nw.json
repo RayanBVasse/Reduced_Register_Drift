@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion": "miriam",
+  "cluster": "G3",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, \"Nathan the Wise\" operates within a framework that is deeply influenced by specific beliefs about God, human nature, and society. Lessing critiques dogmatic religious beliefs, suggesting that certainty about divine truth can lead to conflict and intolerance. Instead, he promotes a view of God that allows for multiple paths to understanding and moral action, reflecting a more pluralistic approach to spirituality.\n\nIn terms of human nature, the play posits that all individuals—regardless of their religious affiliation—are capable of goodness and should be judged by their deeds rather than their beliefs. This perspective challenges the notion of inherent superiority based on religious identity. Additionally, Lessing's exploration of society emphasizes the importance of dialogue and mutual respect among diverse groups, advocating for a social order where tolerance can thrive despite differing beliefs.\n\nThus, the framework of the play is intricately tied to these specific beliefs, shaping its arguments about virtue, knowledge, and coexistence. Would you like to analyze how Nathan's interactions with Saladin in Chapter 12 illustrate these beliefs about God and human nature?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "cd1854b1-88f7-447a-a47f-e250e2119878",
+  "access_mode": "paid",
+  "turns_used": 9,
+  "turns_cap": 15,
+  "token_usage": {
+    "input_tokens": 3362,
+    "output_tokens": 212
+  },
+  "latency_seconds": 10.81,
+  "timestamp_utc": "2026-05-10T07:06:49.910723+00:00"
+}

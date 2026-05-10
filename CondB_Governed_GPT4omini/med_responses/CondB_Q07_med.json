@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion": "marcus",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "While \"Meditations\" does not prescribe specific daily practices, its core ideas can inspire reflective habits that align with Stoic principles. One such practice is the daily examination of one's thoughts and actions, akin to what Marcus Aurelius engages in throughout his reflections. This involves setting aside time each day to contemplate one's judgments, responses to events, and adherence to virtue.\n\nFor instance, a leader or professional might begin their day by reflecting on the Stoic concept that external circumstances are beyond their control. They could ask themselves how they will respond to challenges with reason and integrity, thereby preparing their mind for the day's demands. At the end of the day, they might review their actions and decisions, assessing whether they aligned with Stoic virtues such as justice, courage, and wisdom. This practice of self-examination fosters a deeper understanding of one's motivations and promotes continual growth in character.\n\nSuch a reflective routine echoes Marcus's own discipline of self-governance found throughout \"Meditations,\" reinforcing the importance of aligning one's life with reason and virtue. Would you like to explore how Marcus's reflections on judgment in Book VIII can further inform this practice?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "1015ca7f-c99c-4e78-a7ee-6e414d852744",
+  "access_mode": "paid",
+  "turns_used": 7,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2659,
+    "output_tokens": 226
+  },
+  "latency_seconds": 6.44,
+  "timestamp_utc": "2026-05-10T07:03:56.755578+00:00"
+}

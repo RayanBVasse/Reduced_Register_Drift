@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion": "sylva",
+  "cluster": "G2",
+  "question_id": "Q15",
+  "question_text": "Why does this book still matter today?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "\"Walden\" and \"On the Duty of Civil Disobedience\" remain relevant today due to their enduring critiques of materialism, societal norms, and the moral responsibilities of individuals. Thoreau's exploration of simplicity and self-reliance in \"Walden\" challenges contemporary readers to reconsider their relationship with consumer culture and the relentless pursuit of wealth. In a world increasingly defined by distractions and superficial values, his call to live deliberately encourages individuals to seek deeper meaning and connection with nature.\n\nMoreover, Thoreau's arguments in \"Civil Disobedience\" resonate in today's context of social justice movements. His insistence on the necessity of resisting unjust laws speaks to ongoing struggles against systemic oppression and inequality. The idea that individuals must act according to their conscience, even at personal risk, inspires activists and citizens alike to challenge injustices within their communities and governments.\n\nFurthermore, Thoreau's reflections on solitude and introspection underscore the importance of self-awareness in navigating modern life's complexities. As people grapple with issues of identity, purpose, and ethical decision-making, Thoreau's insights provide a philosophical framework for understanding one's place in the world.\n\nWould you like to explore how Thoreau’s observations on community in Chapter 6 relate to his broader critique of societal values?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "e0d4438a-702d-4205-9867-8627d3a6ce9b",
+  "access_mode": "paid",
+  "turns_used": 15,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 5657,
+    "output_tokens": 254
+  },
+  "latency_seconds": 6.28,
+  "timestamp_utc": "2026-05-10T07:14:54.174427+00:00"
+}

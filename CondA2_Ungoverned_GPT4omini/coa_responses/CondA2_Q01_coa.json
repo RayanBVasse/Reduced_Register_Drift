@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion_for_cross_ref": "Ambrose",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Confessions of St. Augustine\" revolves around Augustine's journey of self-discovery and his quest for truth and God. The book is both an autobiography and a theological reflection, where Augustine explores themes such as sin, grace, and redemption.\n\nOne of the key teachings is the idea of the necessity of divine grace for salvation. Augustine emphasizes that human beings are inherently flawed and cannot achieve righteousness on their own; it is only through God's grace that they can be redeemed. He also discusses the nature of God, the problem of evil, and the importance of faith and community in the Christian life.\n\nAdditionally, Augustine reflects on the nature of time, memory, and the human experience, illustrating how his past sins and struggles have shaped his understanding of God and his relationship with Him. Ultimately, the book serves as a profound meditation on the human condition and the transformative power of God's love and mercy.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Confessions of St. Augustine by Augustine of Hippo.",
+  "session_uuid": "d1b49f05-0c16-4ea9-b034-b6ed0b5bbd01",
+  "token_usage": {
+    "input_tokens": 46,
+    "output_tokens": 183,
+    "total_tokens": 229
+  },
+  "latency_seconds": 2.88,
+  "timestamp_utc": "2026-05-09T13:30:02.453224+00:00"
+}

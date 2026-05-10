@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion": "aletheia",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Souls of Black Folk\" is that the problem of the color line is the defining issue of the twentieth century in America. W.E.B. Du Bois articulates the unique psychological and existential condition of African Americans, which he describes through the concept of double-consciousness. This notion captures the struggle of Black Americans to reconcile their identity as both Americans and members of a marginalized race, leading to a fragmented sense of self.\n\nDu Bois emphasizes that true progress for Black Americans hinges on political rights, higher education, and an honest engagement with racial realities. He critiques Booker T. Washington's philosophy of accommodation and vocational training, arguing that such an approach undermines essential political and educational rights. Throughout the book, Du Bois also highlights the cultural contributions of Black Americans, particularly through the Sorrow Songs, which express their history and resilience.\n\nHow does Du Bois's exploration of double-consciousness in Chapter 2 deepen our understanding of the social dynamics he addresses throughout the book?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "4a207fc6-7f27-469f-9f05-11c850117b04",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1355,
+    "output_tokens": 197
+  },
+  "latency_seconds": 10.24,
+  "timestamp_utc": "2026-05-10T07:08:21.198442+00:00"
+}

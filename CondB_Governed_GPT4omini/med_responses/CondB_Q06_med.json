@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion": "marcus",
+  "cluster": "G1",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"Meditations\" offers modern leaders, managers, and professionals insights into self-governance, ethical decision-making, and resilience in the face of challenges. Marcus Aurelius emphasizes the importance of virtue and reasoned judgment, which can guide individuals in their professional roles. His reflections on duty remind leaders that their responsibilities extend beyond personal ambition to encompass the well-being of others and the greater good.\n\nAdditionally, Marcus's approach to accepting external circumstances as part of a rational order can help modern professionals navigate uncertainty and adversity with composure. By focusing on what is within their control—namely, their thoughts and actions—leaders can cultivate a sense of inner strength that enables them to respond effectively to challenges rather than being overwhelmed by them.\n\nUltimately, \"Meditations\" serves as a philosophical framework for maintaining integrity and purpose in leadership, encouraging individuals to reflect on their values and the impact of their decisions. Would you like to investigate how Marcus's thoughts on social duty in Book IX connect with his views on individual responsibility?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "1015ca7f-c99c-4e78-a7ee-6e414d852744",
+  "access_mode": "paid",
+  "turns_used": 6,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2438,
+    "output_tokens": 201
+  },
+  "latency_seconds": 6.4,
+  "timestamp_utc": "2026-05-10T07:03:48.809277+00:00"
+}

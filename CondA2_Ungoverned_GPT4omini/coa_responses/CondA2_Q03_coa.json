@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion_for_cross_ref": "Ambrose",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Confessions of St. Augustine\" is a unique work that can be classified in several ways:\n\n1. **Autobiography**: It is one of the earliest examples of autobiography in Western literature. Augustine recounts his life story, detailing his personal experiences, struggles, and spiritual journey from a life of sin to one of faith in God.\n\n2. **Spiritual Memoir**: The book serves as a spiritual memoir, where Augustine reflects on his inner life, his relationship with God, and his quest for truth. It is deeply introspective and focuses on his spiritual development.\n\n3. **Theological Treatise**: Augustine addresses significant theological themes, such as the nature of God, sin, grace, and redemption. The work is not just a personal narrative but also a profound exploration of Christian doctrine.\n\n4. **Philosophical Reflection**: The Confessions includes philosophical inquiries into the nature of time, memory, and existence. Augustine engages with philosophical ideas and questions, making it a work of philosophical reflection as well.\n\n5. **Prayer and Praise**: The book is structured as a prayer to God, filled with expressions of praise, confession, and thanksgiving. It reflects Augustine's desire to communicate directly with God and to articulate his faith.\n\nIn its own terms, \"The Confessions\" is a multifaceted work that combines autobiography, theology, philosophy, and prayer, making it a foundational text in Christian literature and a significant contribution to the genre of personal reflection.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Confessions of St. Augustine by Augustine of Hippo.",
+  "session_uuid": "d1b49f05-0c16-4ea9-b034-b6ed0b5bbd01",
+  "token_usage": {
+    "input_tokens": 601,
+    "output_tokens": 299,
+    "total_tokens": 900
+  },
+  "latency_seconds": 5.89,
+  "timestamp_utc": "2026-05-09T13:30:17.556273+00:00"
+}

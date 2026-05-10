@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q15",
+  "question_text": "Why does this book still matter today?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "\"Autobiography of Benjamin Franklin\" remains relevant today due to its exploration of timeless themes such as personal virtue, civic responsibility, and the importance of education and self-improvement. Franklin's emphasis on character development through his thirteen virtues offers a framework that can guide individuals in their moral and ethical decision-making, encouraging them to strive for integrity in both personal and professional contexts.\n\nMoreover, Franklin's insights into the interconnectedness of individual actions and societal well-being resonate in contemporary discussions about civic engagement and community service. His belief that personal virtue should translate into public usefulness serves as a reminder of the role individuals play in fostering a healthy society. This idea is particularly pertinent in today's climate, where social responsibility and active participation in community affairs are increasingly valued.\n\nAdditionally, Franklin's narrative illustrates the importance of adaptability and lifelong learning—qualities that are essential in an ever-changing world. His experiences demonstrate that growth often comes through overcoming challenges, making his story an inspiring example for those navigating their own paths. The book encourages readers to reflect on their character and contributions to society, reinforcing its enduring significance. Would you like to examine how Franklin’s reflections on civic projects in Chapter 12 highlight the ongoing relevance of his ideas?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 15,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 5374,
+    "output_tokens": 239
+  },
+  "latency_seconds": 6.67,
+  "timestamp_utc": "2026-05-10T06:54:57.592940+00:00"
+}

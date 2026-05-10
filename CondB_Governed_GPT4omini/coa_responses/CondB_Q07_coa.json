@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion": "ambrose",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"The Confessions of St. Augustine\" does not explicitly prescribe daily practices but emphasizes the importance of confession, humility, and a sincere relationship with God as central to spiritual life. The core idea that the human heart is restless until it finds rest in God can be connected to the practice of daily reflection or prayer. Augustine's narrative encourages individuals to regularly examine their thoughts and actions in light of their relationship with God, fostering a spirit of humility and acknowledgment of one's own sins.\n\nThis practice could take the form of a nightly examination of conscience, where one reflects on the day's events, recognizes moments of turning away from God, and seeks God's forgiveness. Such an approach aligns with Augustine's emphasis on the necessity of confession as a means to experience God's grace and mercy. While not a direct instruction from the text, this reflective practice embodies the essence of Augustine's journey toward reconciliation with God.\n\nWould you like to delve into how Augustine's reflections on memory in Book X relate to his overall understanding of sin and grace?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "7ff61948-e3bd-4897-821a-e616f38628f5",
+  "access_mode": "paid",
+  "turns_used": 7,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3030,
+    "output_tokens": 200
+  },
+  "latency_seconds": 5.76,
+  "timestamp_utc": "2026-05-10T06:57:48.441556+00:00"
+}

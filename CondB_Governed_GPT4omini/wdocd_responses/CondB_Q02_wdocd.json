@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion": "sylva",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Walden\" addresses the problem of modern society's disconnection from nature and the detrimental effects of materialism and unnecessary labor on the human spirit. Thoreau critiques the prevailing social conventions that lead individuals to prioritize wealth and status over genuine fulfillment. He argues that many people are trapped in a cycle of work and consumption, which prevents them from living authentically and understanding their true needs. In Chapter 1, he states his intention to \"live deliberately,\" highlighting the need to confront life's essential facts rather than succumb to societal distractions.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau tackles the problem of unjust governance and the moral implications of complicity in systemic injustice. He emphasizes that individuals have a duty to act according to their conscience, even if it means breaking the law. This work critiques the complacency of citizens who allow unjust practices to persist by adhering to societal norms. Thoreau's call for civil disobedience is a response to the moral obligation to resist oppression and injustice, urging readers to consider their role in fostering a just society.\n\nWould you like to examine how Thoreau's views on labor in Chapter 7 connect with his critique of material pursuits?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "e0d4438a-702d-4205-9867-8627d3a6ce9b",
+  "access_mode": "paid",
+  "turns_used": 2,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2066,
+    "output_tokens": 240
+  },
+  "latency_seconds": 6.15,
+  "timestamp_utc": "2026-05-10T07:13:04.873878+00:00"
+}

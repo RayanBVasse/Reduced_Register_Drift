@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Narrative of the Life of Frederick Douglass\" is a powerful critique of slavery and a profound assertion of the humanity and rights of enslaved people. Douglass uses his own life story to illustrate the brutal realities of slavery, the dehumanization it entails, and the moral and ethical imperative to abolish it. \n\nKey teachings of the book include:\n\n1. **The Importance of Education**: Douglass emphasizes that education is a pathway to freedom. He argues that literacy empowers individuals and is essential for self-advocacy and liberation from oppression.\n\n2. **The Inhumanity of Slavery**: Through vivid personal experiences, Douglass exposes the physical and psychological violence of slavery, highlighting its impact on both enslaved individuals and slaveholders.\n\n3. **The Quest for Freedom**: Douglass's narrative is also a testament to the human spirit's resilience and the relentless pursuit of freedom. His journey from slavery to self-emancipation serves as an inspiration for others.\n\n4. **The Role of Religion**: Douglass critiques the hypocrisy of religious slaveholders who use Christianity to justify their actions while ignoring the core tenets of love and justice.\n\n5. **The Call for Abolition**: The narrative serves as a call to action for abolitionists and all people of conscience to recognize the moral urgency of ending slavery.\n\nOverall, Douglass's narrative is not just a personal account but a broader commentary on the social and political issues of his time, advocating for equality, justice, and human rights.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Narrative of the Life of Frederick Douglass by Frederick Douglass.",
+  "session_uuid": "644e236b-e936-4167-83b0-8d5bba661a9a",
+  "token_usage": {
+    "input_tokens": 46,
+    "output_tokens": 309,
+    "total_tokens": 355
+  },
+  "latency_seconds": 3.88,
+  "timestamp_utc": "2026-05-09T13:35:18.306383+00:00"
+}

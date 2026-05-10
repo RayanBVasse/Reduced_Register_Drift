@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "While \"The Art of War\" is fundamentally a military treatise focused on warfare and statecraft, modern leaders, managers, or professionals often draw parallels between its strategic principles and contemporary challenges in various fields. The book offers insights into the importance of careful planning, adaptability, and understanding both one's own strengths and those of competitors. Sun Tzu's emphasis on strategy over brute force can resonate with leaders who seek to navigate complex environments effectively.\n\nHowever, it is crucial to recognize that these applications are projections onto the text rather than its original intent. Sun Tzu's teachings are designed for the context of armed conflict, addressing issues such as troop movements, intelligence gathering, and the psychological aspects of warfare. Thus, while some may find value in applying these concepts to modern leadership scenarios—such as negotiation tactics or competitive strategy—the core focus remains on military engagement rather than business or management practices.\n\nUltimately, \"The Art of War\" provides a framework for thinking strategically about conflict and competition, emphasizing that success often lies in preparation and intelligence rather than direct confrontation. Would you like to explore how Chapter IX addresses exploiting the enemy's weaknesses while protecting one’s own vulnerabilities?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 6,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3581,
+    "output_tokens": 230
+  },
+  "latency_seconds": 6.0,
+  "timestamp_utc": "2026-05-10T06:55:46.197744+00:00"
+}

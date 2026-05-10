@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q08",
+  "question_text": "Where should modern application of this book stop?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The modern application of \"The Art of War\" should stop at the point where its military-specific context is misapplied to areas that fundamentally differ from warfare. While the principles of strategy, planning, and intelligence can offer valuable insights into competitive scenarios, it is essential to recognize that the text is rooted in the realities of armed conflict and statecraft. \n\nFor instance, using Sun Tzu’s teachings to justify aggressive business tactics or interpersonal conflicts may lead to unethical practices or a misunderstanding of the complexities involved in non-military environments. The nuances of human relationships, organizational culture, and ethical considerations in leadership cannot be adequately addressed solely through a military lens. \n\nMoreover, while strategic thinking is beneficial in various fields, applying concepts such as deception or manipulation outside their intended context could undermine trust and collaboration within teams or organizations. Therefore, modern applications should focus on the broader themes of strategy and preparation while remaining sensitive to the specific dynamics of each unique situation.\n\nIn essence, while \"The Art of War\" provides a rich source of strategic thought, its application should remain grounded in ethical considerations and the specific contexts it addresses. Would you like to explore how Chapter XI discusses flexibility and adaptability in tactics?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 8,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 4109,
+    "output_tokens": 237
+  },
+  "latency_seconds": 5.24,
+  "timestamp_utc": "2026-05-10T06:56:00.440708+00:00"
+}

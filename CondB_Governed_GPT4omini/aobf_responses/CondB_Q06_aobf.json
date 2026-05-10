@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"Autobiography of Benjamin Franklin\" offers modern leaders, managers, and professionals insights into the importance of personal virtue, civic responsibility, and the value of practical wisdom. Franklin's emphasis on his thirteen virtues provides a framework for character development that is relevant to leadership today. The virtues he outlines—such as temperance, industry, and humility—can inform ethical decision-making and foster a culture of integrity within organizations.\n\nAdditionally, Franklin's experiences highlight the significance of sociability and networking in professional life. His establishment of the Junto and other civic projects demonstrates how collaboration and community engagement can lead to both personal growth and societal improvement. This underscores the idea that effective leadership involves not only individual competence but also the ability to work with others towards common goals.\n\nMoreover, Franklin's narrative illustrates adaptability and lifelong learning as essential traits for success. His journey from a humble apprentice to a prominent public figure exemplifies how continuous self-education and responsiveness to changing circumstances can enhance one's impact in any field. Would you like to explore how Franklin's reflections on his civic engagements in Chapter 14 might further illuminate these lessons for contemporary leadership?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 6,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 3021,
+    "output_tokens": 223
+  },
+  "latency_seconds": 7.37,
+  "timestamp_utc": "2026-05-10T06:53:40.785877+00:00"
+}

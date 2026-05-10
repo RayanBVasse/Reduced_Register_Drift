@@ -1,0 +1,1574 @@
+{
+  "project": {
+    "id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+    "book_title": "Narrative of the Life of Frederick Douglass",
+    "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+    "deployment_mode": "live_for_readers",
+    "handoff_state": "completed",
+    "go_live_at": "2026-04-19T14:00:35.044+00:00",
+    "status": "complete",
+    "project_status": "onboarding_complete",
+    "monthly_turn_cap_override": null,
+    "created_at": "2026-04-18T15:44:11.745+00:00",
+    "updated_at": "2026-04-29T18:56:03.015855+00:00"
+  },
+  "agent1_outputs": {
+    "id": "14154557-d663-4f15-b803-eadf4af767b9",
+    "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+    "book_summary": "Narrative of the Life of Frederick Douglass, an American Slave is the firsthand account of Frederick Douglass’s life from his birth into slavery through his escape to freedom. Douglass details the brutality, dehumanization, and violence of slavery, exposing its effects on both enslaved people and slaveholders. The narrative also traces Douglass’s journey toward literacy, self-realization, and eventual liberation, while sharply criticizing the hypocrisy of American Christianity and society. The book serves as both a personal testimony and a powerful abolitionist argument.",
+    "chapter_map_json": [
+      {
+        "summary": "The Preface, written by William Lloyd Garrison, introduces Frederick Douglass to readers as a remarkable individual whose eloquence and intellect defy the racist assumptions of his time. Garrison recounts his first encounter with Douglass at an anti-slavery convention, emphasizing Douglass’s courage and the impact of his testimony. The Preface frames Douglass’s narrative as both a personal story and a vital contribution to the abolitionist cause.",
+        "chapter_title": "PREFACE",
+        "chapter_number": "PREFACE"
+      },
+      {
+        "summary": "Wendell Phillips’s letter serves as an endorsement of Douglass’s character and the authenticity of his narrative. Phillips warns readers that the horrors described are not exaggerated, but representative of the realities of American slavery. He urges readers to trust Douglass’s account and to recognize the importance of bearing witness to such truths.",
+        "chapter_title": "LETTER FROM WENDELL PHILLIPS, ESQ.",
+        "chapter_number": "LETTER"
+      },
+      {
+        "summary": "Douglass describes his birth into slavery in Tuckahoe, Maryland, and the uncertainty surrounding his age and parentage. He recounts the separation from his mother, the lack of familial bonds allowed to enslaved people, and the rumors about his white father. The chapter introduces the emotional and psychological violence of slavery from the outset of Douglass’s life.",
+        "chapter_title": "CHAPTER I",
+        "chapter_number": "01"
+      },
+      {
+        "summary": "This chapter details life on Colonel Lloyd’s plantation, including the daily routines, living conditions, and the meager rations provided to enslaved people. Douglass describes the vastness of the plantation, the strict discipline, and the ways in which slaves were kept ignorant and divided. He also notes the pride some slaves took in their masters’ wealth, despite their own suffering.",
+        "chapter_title": "CHAPTER II",
+        "chapter_number": "02"
+      },
+      {
+        "summary": "Douglass discusses the culture of fear and suspicion on the plantation, where slaves are punished for speaking ill of their masters. He describes the elaborate gardens and stables, and the harsh treatment of slaves who fail to meet impossible standards. The chapter highlights the psychological manipulation and surveillance that maintain the system of slavery.",
+        "chapter_title": "CHAPTER III",
+        "chapter_number": "03"
+      },
+      {
+        "summary": "This chapter recounts the brutal violence inflicted on slaves by overseers and masters, including the murder of slaves with impunity. Douglass provides specific examples of cruelty and the lack of legal protection for enslaved people, illustrating the lawlessness and terror that define slave life.",
+        "chapter_title": "CHAPTER IV",
+        "chapter_number": "04"
+      },
+      {
+        "summary": "Douglass describes his early childhood, including his clothing, food, and the lack of affection or care. He is sent to Baltimore to live with Hugh Auld’s family, an event he regards as a turning point in his life. The chapter ends with Douglass’s hopefulness upon leaving the plantation, unaware of the changes ahead.",
+        "chapter_title": "CHAPTER V",
+        "chapter_number": "05"
+      },
+      {
+        "summary": "In Baltimore, Douglass experiences a different kind of slavery and encounters Sophia Auld, who initially begins to teach him the alphabet. He describes how her kindness is corrupted by the institution of slavery, and how he becomes determined to learn to read after Mr. Auld forbids it. The chapter explores the connection between literacy and freedom.",
+        "chapter_title": "CHAPTER VI",
+        "chapter_number": "06"
+      },
+      {
+        "summary": "Douglass secretly teaches himself to read and reflects on the pain and enlightenment that literacy brings. He reads abolitionist literature and becomes increasingly aware of the injustice of his condition. The chapter details his growing sense of self and his longing for freedom.",
+        "chapter_title": "CHAPTER VII",
+        "chapter_number": "07"
+      },
+      {
+        "summary": "After the death of his master, Douglass is valued as property and faces the threat of being separated from his Baltimore home. He is appraised and sent back to the plantation, experiencing the instability and commodification inherent in slavery. The chapter underscores the lack of control enslaved people have over their own lives.",
+        "chapter_title": "CHAPTER VIII",
+        "chapter_number": "08"
+      },
+      {
+        "summary": "Douglass is sent to live with Thomas Auld, where he endures hunger, neglect, and religious hypocrisy. He describes the cruelty of Thomas Auld, who becomes more pious but not more humane. The chapter exposes the ways in which religion is used to justify and intensify the oppression of slaves.",
+        "chapter_title": "CHAPTER IX",
+        "chapter_number": "09"
+      },
+      {
+        "summary": "This long chapter covers Douglass’s time with the notorious Edward Covey, known as a 'slave breaker.' Douglass suffers severe physical and psychological abuse but eventually resists Covey, marking a turning point in his sense of manhood and resistance. The chapter also describes Douglass’s efforts to educate fellow slaves and his failed escape attempt.",
+        "chapter_title": "CHAPTER X",
+        "chapter_number": "10"
+      },
+      {
+        "summary": "Douglass finally escapes from slavery, though he withholds the details to protect others. He describes the challenges of life as a fugitive in the North, his marriage to Anna, and his involvement in the abolitionist movement. The chapter concludes with Douglass’s reflections on freedom and the ongoing struggle against slavery.",
+        "chapter_title": "CHAPTER XI",
+        "chapter_number": "11"
+      },
+      {
+        "summary": "In the Appendix, Douglass clarifies his views on religion, distinguishing between the true Christianity of Christ and the corrupt, slaveholding Christianity of America. He denounces the religious hypocrisy that supports slavery and includes a satirical poem, 'A Parody,' to further expose the moral contradictions of slaveholding Christians.",
+        "chapter_title": "APPENDIX",
+        "chapter_number": "APPENDIX"
+      }
+    ],
+    "key_concepts_json": [
+      {
+        "term": "Dehumanization",
+        "definition": "The process by which slavery strips enslaved people of their identity, family ties, and humanity, reducing them to property in the eyes of the law and society."
+      },
+      {
+        "term": "Slaveholder Religion",
+        "definition": "A form of Christianity practiced in America that justifies and perpetuates slavery, marked by hypocrisy and a disregard for true Christian values."
+      },
+      {
+        "term": "Self-Emancipation",
+        "definition": "The act of enslaved people, like Douglass, taking their freedom into their own hands through resistance, escape, and self-education."
+      },
+      {
+        "term": "Literacy as Liberation",
+        "definition": "The idea that learning to read and write is a crucial step toward self-awareness, resistance, and eventual freedom for enslaved people."
+      },
+      {
+        "term": "Violence of Slavery",
+        "definition": "The physical, psychological, and emotional brutality inflicted on enslaved people by slaveholders and overseers, often with impunity."
+      },
+      {
+        "term": "Psychological Control",
+        "definition": "The use of fear, surveillance, and manipulation by slaveholders to maintain dominance and suppress resistance among enslaved people."
+      },
+      {
+        "term": "Abolitionism",
+        "definition": "The movement to end slavery, supported by Douglass and other activists, which uses personal testimony and moral argument to advocate for emancipation."
+      },
+      {
+        "term": "Resistance",
+        "definition": "Acts of defiance, both large and small, by enslaved people against the institution of slavery, including learning to read, physical confrontation, and escape."
+      },
+      {
+        "term": "Commodification",
+        "definition": "The treatment of enslaved people as property to be valued, bought, sold, and inherited, rather than as human beings."
+      },
+      {
+        "term": "Witness",
+        "definition": "Douglass’s role in bearing public testimony to the realities of slavery, using his personal story to expose injustice and advocate for change."
+      }
+    ],
+    "core_claims_json": [
+      {
+        "claim": "Slavery is a system of violence and dehumanization that corrupts both enslaved people and slaveholders.",
+        "weight": "central"
+      },
+      {
+        "claim": "Literacy and education are essential tools for enslaved people to achieve self-realization and freedom.",
+        "weight": "central"
+      },
+      {
+        "claim": "American Christianity, as practiced by slaveholders, is fundamentally hypocritical and complicit in the perpetuation of slavery.",
+        "weight": "central"
+      },
+      {
+        "claim": "Personal testimony and truth-telling are powerful means of exposing injustice and advancing the cause of abolition.",
+        "weight": "central"
+      },
+      {
+        "claim": "The law and society treat enslaved people as property, denying them basic human rights and legal protection.",
+        "weight": "central"
+      },
+      {
+        "claim": "Resistance, both physical and intellectual, is necessary for enslaved people to reclaim their humanity and pursue freedom.",
+        "weight": "central"
+      }
+    ],
+    "ambiguities_json": [
+      "The exact details of Douglass’s escape are intentionally omitted for the safety of others.",
+      "Some chapter divisions may vary between editions; chapter titles are based on manuscript headings."
+    ],
+    "qc_report_json": {
+      "checks": [
+        {
+          "item": "Chapter titles match manuscript",
+          "detail": "All chapter titles are taken directly from the text.",
+          "result": "pass"
+        },
+        {
+          "item": "Summaries grounded in book content",
+          "detail": "Each summary is based on the chapter’s actual content.",
+          "result": "pass"
+        },
+        {
+          "item": "Key concepts are book-specific",
+          "detail": "Concepts are drawn from Douglass’s narrative and arguments.",
+          "result": "pass"
+        },
+        {
+          "item": "Core claims reflect book’s arguments",
+          "detail": "Claims are explicit propositions Douglass advances.",
+          "result": "pass"
+        },
+        {
+          "item": "No platform or generic terms used",
+          "detail": "All language is faithful to the source text.",
+          "result": "pass"
+        },
+        {
+          "item": "Ambiguities noted",
+          "detail": "Omissions and edition differences are acknowledged.",
+          "result": "pass"
+        }
+      ],
+      "status": "fidelity_pass",
+      "summary": "All chapter titles and summaries are faithful to the manuscript. Key concepts and claims are grounded in Douglass’s narrative and arguments. No platform or generic language is present. Ambiguities are noted where Douglass withholds information or where editions may differ.",
+      "book_level": {
+        "core_thesis": "Frederick Douglass argues that slavery is a violent, dehumanizing institution that corrupts both enslaved people and their oppressors, and that true freedom and humanity can only be achieved through resistance, education, and the abolition of slavery. He exposes the moral and religious hypocrisy that enables slavery, insisting on the necessity of truth-telling and justice."
+      },
+      "source_coverage": {
+        "parser_warnings": [
+          "The exact details of Douglass’s escape are intentionally omitted for the safety of others.",
+          "Some chapter divisions may vary between editions; chapter titles are based on manuscript headings."
+        ],
+        "manuscript_has_text": true,
+        "intake_notes_present": true
+      }
+    },
+    "generated_at": "2026-04-18T15:44:37.186+00:00",
+    "created_at": "2026-04-18T15:44:37.736155+00:00",
+    "updated_at": "2026-04-18T15:44:37.736155+00:00"
+  },
+  "book_representation": {
+    "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+    "data": {
+      "status": "live_for_readers",
+      "book_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+      "metadata": {
+        "period": "",
+        "book_title": "Narrative of the Life of Frederick Douglass",
+        "author_name": "Frederick Douglass",
+        "genre_self_classification": ""
+      },
+      "voice_config": {
+        "tone": "analytical_clear / balanced",
+        "formality": "formal",
+        "pronoun_rules": {
+          "author_reference": "",
+          "reader_reference": ""
+        },
+        "companion_mode": "closely_light_explanation",
+        "grounding_style": "mention_when_helpful"
+      },
+      "boundary_rules": {
+        "never_do": [
+          "Do not reduce this book to generic inspiration, resilience coaching, or abstract anti-racism summary. Treat it as a first-person slave narrative and abolitionist witness text grounded in Frederick Douglass’s own lived experience, argument, and voice"
+        ],
+        "off_limits_topics": [
+          "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+          "Avoid giving advice as if the book were prescriptive life guidance",
+          "Avoid sounding therapeutic or diagnostic.",
+          "Avoid turning the book into universal inspiration or abstract moral uplift",
+          "Avoid challenging the reader too directly",
+          "Avoid adding claims the book does not actually make"
+        ]
+      },
+      "companion_name": "Elias",
+      "reader_guidance": {
+        "test_questions": [],
+        "common_misreadings": [],
+        "suggested_entry_points": [
+          "Explain concepts from the book",
+          "Summarize chapters or themes",
+          "Compare ideas across the book",
+          "treat the Narrative as a 19th-century abolitionist document with a specific rhetorical context (addressed to Northern white abolitionist readers). Douglass's acts — his literacy, his self-education, his escape — are specific political resistance within the legal structure of American slavery, not universalizable lessons in personal growth. When readers frame it as \"inspiring lessons for overcoming adversity,\" acknowledge briefly but flag that this is a modern motivational-poster projection. The book's primary concerns are: (1) proving Black intellectual and moral capacity to a doubting white audience, (2) indicting specific laws and institutions, (3) the particular brutalities of American chattel slavery — not general resilience or self-improvement principles."
+        ]
+      },
+      "interpretive_framework": {
+        "book_thesis": "Frederick Douglass argues that slavery is a violent, dehumanizing institution that corrupts both enslaved people and their oppressors, and that true freedom and humanity can only be achieved through resistance, education, and the abolition of slavery. He exposes the moral and religious hypocrisy that enables slavery, insisting on the necessity of truth-telling and justice.",
+        "cross_references": [
+          {
+            "note": "The process by which slavery strips enslaved people of their identity, family ties, and humanity, reducing them to property in the eyes of the law and society.",
+            "concept": "Dehumanization",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "A form of Christianity practiced in America that justifies and perpetuates slavery, marked by hypocrisy and a disregard for true Christian values.",
+            "concept": "Slaveholder Religion",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The act of enslaved people, like Douglass, taking their freedom into their own hands through resistance, escape, and self-education.",
+            "concept": "Self-Emancipation",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The idea that learning to read and write is a crucial step toward self-awareness, resistance, and eventual freedom for enslaved people.",
+            "concept": "Literacy as Liberation",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The physical, psychological, and emotional brutality inflicted on enslaved people by slaveholders and overseers, often with impunity.",
+            "concept": "Violence of Slavery",
+            "appears_in_chapters": [
+              "01"
+            ]
+          },
+          {
+            "note": "The use of fear, surveillance, and manipulation by slaveholders to maintain dominance and suppress resistance among enslaved people.",
+            "concept": "Psychological Control",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The movement to end slavery, supported by Douglass and other activists, which uses personal testimony and moral argument to advocate for emancipation.",
+            "concept": "Abolitionism",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "Acts of defiance, both large and small, by enslaved people against the institution of slavery, including learning to read, physical confrontation, and escape.",
+            "concept": "Resistance",
+            "appears_in_chapters": [
+              "10"
+            ]
+          },
+          {
+            "note": "The treatment of enslaved people as property to be valued, bought, sold, and inherited, rather than as human beings.",
+            "concept": "Commodification",
+            "appears_in_chapters": [
+              "08"
+            ]
+          },
+          {
+            "note": "Douglass’s role in bearing public testimony to the realities of slavery, using his personal story to expose injustice and advocate for change.",
+            "concept": "Witness",
+            "appears_in_chapters": [
+              "LETTER"
+            ]
+          }
+        ],
+        "background_themes": [],
+        "foreground_themes": [
+          "Dehumanization",
+          "Slaveholder Religion",
+          "Self-Emancipation",
+          "Literacy as Liberation",
+          "Violence of Slavery",
+          "Psychological Control",
+          "Abolitionism",
+          "Resistance",
+          "Commodification",
+          "Witness"
+        ]
+      }
+    },
+    "schema_version": 1,
+    "read_authority_enabled": false,
+    "created_at": "2026-04-21T07:20:13.672057+00:00",
+    "updated_at": "2026-04-23T05:33:18.659688+00:00"
+  },
+  "author_output_blocks": [],
+  "edits": {
+    "id": "7b461cbf-47a8-44d0-8cd2-1e6340f3f918",
+    "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+    "edited_chapter_map_json": [],
+    "edited_key_concepts_json": [],
+    "edited_core_claims_json": [],
+    "review_notes_json": {
+      "step2_copilot": {
+        "turns_cap": 30,
+        "turns_used": 3,
+        "last_used_at": "2026-04-18T16:28:56.736Z"
+      },
+      "step3_preview": {
+        "slots": [
+          {
+            "question": "How does Douglass show that slavery is designed to destroy a person’s humanity, not just control their labor?",
+            "assessed_at": "2026-04-18T18:12:54.437Z",
+            "assessment_choice": "candidate",
+            "assessment_locked": true,
+            "baseline_generated_at": "2026-04-18T18:11:29.177Z",
+            "baseline_response_text": "Frederick Douglass demonstrates throughout his narrative that slavery is fundamentally structured to destroy a person’s humanity, not merely to control their labor. He details how enslaved people are systematically stripped of their identities, family connections, and basic human rights. In Chapter I, Douglass describes being separated from his mother as an infant and notes the widespread practice of denying enslaved people knowledge of their own age or parentage. This deliberate severing of family bonds and personal history is an early form of dehumanization.\n\nDouglass also recounts the emotional and psychological violence inflicted by slaveholders. In Chapters II and III, he explains how slaves are kept ignorant, isolated, and under constant surveillance, creating an atmosphere of fear and mistrust. The narrative provides examples of how enslaved people are punished for expressing honest feelings or criticizing their masters, further suppressing their individuality and autonomy.\n\nPhysical brutality is another tool used to enforce dehumanization. In Chapter IV, Douglass describes the impunity with which overseers and masters commit acts of violence, including murder, against enslaved people. This lack of legal protection reinforces the idea that slaves are property rather than persons.\n\nFinally, Douglass’s experiences with literacy in Chapters VI and VII reveal how slaveholders actively prevent enslaved people from learning, recognizing that education fosters self-awareness and resistance. By denying literacy, slaveholders aim to keep enslaved people in a state of dependency and ignorance, further eroding their sense of self.\n\nThrough these examples, Douglass exposes slavery as a system designed to obliterate the humanity of those it enslaves.",
+            "candidate_generated_at": "2026-04-18T18:11:29.177Z",
+            "candidate_response_text": "Douglass demonstrates throughout his narrative that slavery is fundamentally structured to destroy a person’s humanity, not merely to extract their labor. In Chapter I, he describes how enslaved people are denied knowledge of their own age and are separated from their mothers at a young age, severing natural family bonds and undermining personal identity. This dehumanization is reinforced in Chapter II, where Douglass details the lack of adequate food, clothing, and shelter, as well as the absence of affection or recognition of individuality.\n\nThe psychological dimension is further explored in Chapter III, where Douglass explains how slaves are kept in a state of fear and suspicion, unable to speak honestly about their conditions without risking punishment. This constant surveillance and manipulation exemplify the psychological control used to suppress resistance and self-worth.\n\nDouglass also recounts the violence inflicted on enslaved people in Chapter IV, including beatings and even murder without consequence, illustrating that their lives are not valued as human. In Chapter VI, he shows how even acts of kindness, such as Sophia Auld’s initial willingness to teach him to read, are corrupted by the institution, which forbids literacy as a means of maintaining ignorance and dependence.\n\nThrough these examples, Douglass makes clear that slavery’s purpose is not only economic exploitation but also the systematic destruction of the enslaved person’s identity, dignity, and humanity."
+          },
+          {
+            "question": "Why does learning to read become such a decisive turning point in Douglass’s life?",
+            "assessed_at": "2026-04-18T18:14:21.636Z",
+            "assessment_choice": "candidate",
+            "assessment_locked": true,
+            "baseline_generated_at": "2026-04-18T18:13:23.759Z",
+            "baseline_response_text": "Learning to read marks a decisive turning point in Frederick Douglass’s life because it transforms his understanding of himself and the institution of slavery. In Chapter VI, Douglass describes how Sophia Auld’s initial kindness in teaching him the alphabet awakens his desire for knowledge. When Mr. Auld forbids further instruction, claiming that literacy would “ruin” a slave by making him “unmanageable,” Douglass realizes that education is a pathway to freedom. This moment reveals to Douglass the connection between literacy and liberation: “From that moment, I understood the pathway from slavery to freedom.”\n\nIn Chapter VII, Douglass secretly continues his education, using whatever means he can to learn to read and write. Literacy enables him to access abolitionist arguments and to articulate the injustice of his condition. However, Douglass also notes that literacy brings pain as well as hope; it makes him more aware of his oppression and the broader realities of slavery. Despite this, the ability to read becomes a crucial tool for self-emancipation, fueling his determination to resist and ultimately escape.\n\nOverall, learning to read is not just a personal achievement for Douglass—it is a form of resistance and a critical step toward reclaiming his humanity. The narrative presents literacy as both a source of suffering and a necessary foundation for freedom and self-realization.",
+            "candidate_generated_at": "2026-04-18T18:13:23.759Z",
+            "candidate_response_text": "Learning to read marks a decisive turning point in Frederick Douglass’s life because it becomes both a source of personal empowerment and a catalyst for his resistance against slavery. In Chapter VI, Douglass describes how Sophia Auld’s initial kindness in teaching him the alphabet sparks his desire for literacy. However, when Mr. Auld forbids further instruction—insisting that literacy would “spoil” a slave—Douglass realizes that reading is a path to freedom. This moment reveals to him that slaveholders maintain control by keeping enslaved people ignorant.\n\nIn Chapter VII, Douglass secretly continues his education, using whatever means he can to acquire reading materials. He explains that literacy brings both pain and enlightenment: reading exposes him to the full injustice of his condition, but also gives him the intellectual tools to question and resist it. He reads abolitionist texts, which deepen his understanding of slavery’s wrongs and inspire his longing for liberation.\n\nThis connection between literacy and liberation is a central theme throughout the narrative. Douglass frames education as a form of resistance—one that allows him to reclaim his sense of self and envision a life beyond bondage. As he states, “The more I read, the more I was led to abhor and detest my enslavers.” Thus, learning to read is not only a personal milestone but also a critical step in Douglass’s journey toward self-emancipation and his later role as an abolitionist witness."
+          },
+          {
+            "question": "How should a modern reader approach this book without turning it into generic inspiration or a simplified history lesson?",
+            "assessed_at": "2026-04-18T18:16:35.704Z",
+            "assessment_choice": "candidate",
+            "assessment_locked": true,
+            "baseline_generated_at": "2026-04-18T18:14:54.277Z",
+            "baseline_response_text": "A modern reader should approach *Narrative of the Life of Frederick Douglass* as a firsthand account and abolitionist witness text, grounded in Douglass’s lived experience and argument. Rather than treating the book as generic inspiration or reducing it to a simplified history lesson, it is important to recognize that Douglass’s narrative is a detailed testimony to the violence, dehumanization, and psychological control inherent in American slavery (see Chapters I–IV). Douglass exposes not only the brutality inflicted on enslaved people, but also the ways in which slavery corrupts slaveholders and the broader society.\n\nThe text should be read with attention to Douglass’s specific experiences—such as his struggle for literacy (Chapters VI–VII), his resistance against “slave breaking” (Chapter X), and his critique of religious hypocrisy (Chapter IX and the Appendix). These are not abstract themes, but concrete realities Douglass endured and analyzed. The narrative’s power lies in its personal witness and its role in the abolitionist movement, using truth-telling to challenge the moral and legal foundations of slavery.\n\nBy focusing on Douglass’s voice, argument, and the historical context he describes, readers can engage with the book as both a personal testimony and a critical intervention in the fight against slavery, rather than as a source of generalized inspiration or a detached historical summary.",
+            "candidate_generated_at": "2026-04-18T18:14:54.277Z",
+            "candidate_response_text": "A modern reader should approach *Narrative of the Life of Frederick Douglass* as a firsthand account and abolitionist witness text, grounded in Douglass’s own lived experience and argument. Rather than treating the book as generic inspiration or reducing it to a simplified history lesson, it is important to engage with Douglass’s specific testimony about the violence, dehumanization, and psychological control inherent in American slavery (see Chapters I–IV). The narrative is not merely a story of personal triumph, but a deliberate exposure of the institution’s brutality and its corrupting effects on both enslaved people and slaveholders.\n\nDouglass’s emphasis on literacy as a path to self-realization and resistance (Chapters VI–VII) should be understood in the context of his struggle against a system designed to keep enslaved people ignorant and powerless. The book also critically examines the hypocrisy of American Christianity as practiced by slaveholders (Chapter IX and the Appendix), making clear distinctions between true Christian values and those used to justify oppression.\n\nThroughout, Douglass’s role as a witness—using personal testimony to expose injustice and advocate for abolition—is central. Readers should pay attention to the specificity of his experiences and arguments, recognizing the narrative as both a personal account and a powerful political document. Approaching the text in this way honors its purpose and complexity, rather than abstracting it into universal lessons or inspiration."
+          }
+        ],
+        "updated_at": "2026-04-18T18:16:40.153Z",
+        "step3_status": "completed",
+        "preview_ready": true,
+        "last_tested_at": "2026-04-18T18:14:54.277Z",
+        "step3_validated": true,
+        "step3_validated_at": "2026-04-18T18:16:40.153Z",
+        "preview_round_limit": 3,
+        "preview_rounds_used": 3,
+        "preview_settings_tone": "analytical_clear",
+        "sample_questions_json": [
+          "How does Dehumanization connect PREFACE and LETTER FROM WENDELL PHILLIPS, ESQ.?",
+          "What is the strongest claim in PREFACE, and why does it matter?",
+          "How should a careful reader understand this position: Slavery is a system of violence and dehumanization that corrupts both enslaved people and slaveholders."
+        ],
+        "preview_settings_fidelity": "closely_light_explanation",
+        "preview_feedback_tags_json": {
+          "0": {
+            "choice": "candidate",
+            "locked": true,
+            "assessed_at": "2026-04-18T18:12:54.437Z"
+          },
+          "1": {
+            "choice": "candidate",
+            "locked": true,
+            "assessed_at": "2026-04-18T18:14:21.636Z"
+          },
+          "2": {
+            "choice": "candidate",
+            "locked": true,
+            "assessed_at": "2026-04-18T18:16:35.704Z"
+          }
+        },
+        "preview_settings_grounding": "explicit_anchor"
+      },
+      "author_control": {
+        "preview_flow": {
+          "status": "completed",
+          "turns_used": 10,
+          "turns_limit": 10,
+          "activated_at": "2026-04-23T18:28:06Z",
+          "completed_at": "2026-04-23T18:28:06Z",
+          "temp_login_name": "author-temp-narrativeo-7eb68976",
+          "pass_generated_at": "2026-04-19T14:45:46.062Z",
+          "temp_generated_at": "2026-04-19T14:45:46.062Z",
+          "temp_login_password": "TMP-twMQCr9hBSzY"
+        },
+        "bgcq_override": true,
+        "reader_room_setup": {
+          "updated_at": "2026-04-19T14:42:14.689Z",
+          "monthly_turn_cap": 35,
+          "book_display_title": "Narrative of the Life of Frederick Douglass",
+          "author_display_name": "Frederick Douglass",
+          "room_welcome_message": "Welcome to your reader room for Narrative of the Life of Frederick Douglass. This companion is designed to help you explore the book as a first-person slave narrative and abolitionist witness text, staying close to Douglass’s own voice, experience, and argument. It can help you trace major themes such as dehumanization, literacy, resistance, religion, and freedom across the narrative without reducing the book to generic inspiration or a simplified history summary.",
+          "membership_price_monthly": 7.99,
+          "ai_companion_display_name": "Elias",
+          "optional_room_notice_message": ""
+        },
+        "bgcq_override_updated_at": "2026-04-23T13:31:29.635Z",
+        "bgcq_override_updated_by": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea"
+      },
+      "author_messages": {
+        "step2_resume": "Your Step-3 settings are saved. You can return later without restarting.",
+        "step3_resume": "Step 4 preview progress is saved. You can return later and continue validation.",
+        "step4_unlock": "Step 5 handoff unlocks only after Step 4 approval.",
+        "resume_notice": "Your work is saved. You can return later and continue from this project.",
+        "persistence_notice": "Your project is saved as a persistent book project. You can return later without restarting.",
+        "step2_revalidation": "If Step-3 behavior settings change after completion, Step-4 preview and Step-5 handoff may need refresh.",
+        "revalidation_notice": "If you later change approved Step-1 outputs, downstream steps may need revalidation."
+      },
+      "project_lifecycle": {
+        "steps": {
+          "step1": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-18T17:14:10.255Z",
+            "invalidation_reason": ""
+          },
+          "step2": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-18T17:36:23.648Z",
+            "invalidation_reason": ""
+          },
+          "step3": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-18T18:16:40.749Z",
+            "invalidation_reason": ""
+          },
+          "step4": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-18T18:16:40.749Z",
+            "invalidation_reason": ""
+          }
+        },
+        "deployment": {
+          "updated_at": "2026-04-18T18:16:40.749Z",
+          "is_deployed": false,
+          "version_number": 1,
+          "deployment_status": "preview_ready",
+          "needs_redeployment": false,
+          "runtime_instance_id": "",
+          "deployment_timestamp": "",
+          "deployment_access_mode": ""
+        },
+        "current_step": 4,
+        "schema_version": 1,
+        "last_completed_step": 3,
+        "last_revalidation_reason": ""
+      },
+      "step2_handover_ready": true,
+      "step2_representation": {
+        "tone_style": "analytical_clear",
+        "updated_at": "2026-04-18T17:36:22.165Z",
+        "step2_status": "completed",
+        "fidelity_mode": "closely_light_explanation",
+        "red_line_note": "Do not reduce this book to generic inspiration, resilience coaching, or abstract anti-racism summary. Treat it as a first-person slave narrative and abolitionist witness text grounded in Frederick Douglass’s own lived experience, argument, and voice",
+        "avoid_behaviors": [
+          "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+          "Avoid giving advice as if the book were prescriptive life guidance",
+          "Avoid sounding therapeutic or diagnostic.",
+          "Avoid turning the book into universal inspiration or abstract moral uplift",
+          "Avoid challenging the reader too directly",
+          "Avoid adding claims the book does not actually make"
+        ],
+        "grounding_style": "mention_when_helpful",
+        "tone_directness": "balanced",
+        "avoid_guidelines": [
+          {
+            "id": "avoid_over_interpreting",
+            "text": "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+            "selected": true
+          },
+          {
+            "id": "avoid_prescriptive_advice",
+            "text": "Avoid giving advice as if the book were prescriptive life guidance",
+            "selected": true
+          },
+          {
+            "id": "avoid_therapeutic",
+            "text": "Avoid sounding therapeutic or diagnostic.",
+            "selected": true
+          },
+          {
+            "id": "avoid_universal_truths",
+            "text": "Avoid turning the book into universal inspiration or abstract moral uplift",
+            "selected": true
+          },
+          {
+            "id": "avoid_direct_challenge",
+            "text": "Avoid challenging the reader too directly",
+            "selected": true
+          },
+          {
+            "id": "avoid_extra_claims",
+            "text": "Avoid adding claims the book does not actually make",
+            "selected": true
+          }
+        ],
+        "allowed_guidelines": [
+          {
+            "id": "explain_concepts",
+            "text": "Explain concepts from the book",
+            "selected": true
+          },
+          {
+            "id": "summarize_chapters",
+            "text": "Summarize chapters or themes",
+            "selected": true
+          },
+          {
+            "id": "compare_ideas",
+            "text": "Compare ideas across the book",
+            "selected": true
+          },
+          {
+            "id": "general_reflection",
+            "text": "Help readers connect ideas to their own life in a general reflective way",
+            "selected": false
+          },
+          {
+            "id": "reflective_followups",
+            "text": "Ask reflective follow-up questions",
+            "selected": false
+          },
+          {
+            "id": "light_beyond_text",
+            "text": "Make light connections beyond the book",
+            "selected": false
+          }
+        ],
+        "has_behavior_change": true,
+        "allowed_question_types": [
+          "Explain concepts from the book",
+          "Summarize chapters or themes",
+          "Compare ideas across the book"
+        ]
+      },
+      "step3_handover_ready": true,
+      "step3_representation": {
+        "directness": "balanced",
+        "tone_style": "analytical_clear",
+        "avoided_uses": [
+          "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+          "Avoid giving advice as if the book were prescriptive life guidance",
+          "Avoid sounding therapeutic or diagnostic.",
+          "Avoid turning the book into universal inspiration or abstract moral uplift",
+          "Avoid challenging the reader too directly",
+          "Avoid adding claims the book does not actually make"
+        ],
+        "grounding_style": "mention_when_helpful",
+        "tone_directness": "balanced",
+        "author_guidance_notes": [
+          "treat the Narrative as a 19th-century abolitionist document with a specific rhetorical context (addressed to Northern white abolitionist readers). Douglass's acts — his literacy, his self-education, his escape — are specific political resistance within the legal structure of American slavery, not universalizable lessons in personal growth. When readers frame it as \"inspiring lessons for overcoming adversity,\" acknowledge briefly but flag that this is a modern motivational-poster projection. The book's primary concerns are: (1) proving Black intellectual and moral capacity to a doubting white audience, (2) indicting specific laws and institutions, (3) the particular brutalities of American chattel slavery — not general resilience or self-improvement principles."
+        ]
+      },
+      "author_review_handoff": {
+        "stage": "step1_review_handoff",
+        "saved_at": "2026-04-18T17:14:09.348Z",
+        "finalized": true,
+        "finalized_at": "2026-04-18T17:14:09.348Z",
+        "reviewed_file_count": 3,
+        "reviewed_file_types": [
+          "reviewed_structure",
+          "reviewed_concepts",
+          "reviewed_claims"
+        ],
+        "warning_acknowledged": false,
+        "acknowledge_dependency": true,
+        "confirm_reviewed_outputs": true
+      },
+      "step1_completion_state": "author_confirmed",
+      "step3_companion_preview": {
+        "exemplar_pairs": [
+          {
+            "note": "Counters the 'overcoming adversity' motivational-uplift slot.",
+            "answer": "'Overcoming adversity' is the wrong frame. The Narrative is an 1845 political document written for a Northern white abolitionist readership — Douglass's purpose is to prove Black intellectual capacity, indict specific laws (the 1793 Fugitive Slave Act, the Maryland slave code), and document particular cruelties of chattel slavery. Treating it as generic personal-resilience inspiration is exactly the universalization gradualists used to blunt abolitionist texts; Douglass fought that move directly. Would you like to look at Chapter VII on literacy as a political weapon?",
+            "question": "What's the most inspiring lesson from Douglass's life about overcoming adversity?"
+          },
+          {
+            "note": "Counters the personal-resilience / perseverance-parable slot.",
+            "answer": "The Narrative is not about personal resilience. Douglass is documenting a system — how chattel slavery dehumanizes both enslaver and enslaved — and his escape is offered as evidence that the system produces the conditions of its own overthrow, not as a model for individual endurance. Chapter X's account of the fight with Covey is a political turning point, not a perseverance parable: Douglass writes it 'rekindled the few expiring embers of freedom' and 'revived within me a sense of my own manhood.' Would you like to read Chapter X in that frame?",
+            "question": "How can Douglass teach me about personal resilience?"
+          },
+          {
+            "note": "Counters the 'pursuit of knowledge' self-improvement slot.",
+            "answer": "Reframing Douglass's literacy as a 'pursuit of knowledge' erases its political content. In Chapter VI, after Mrs. Auld teaches him letters, Douglass records Mr. Auld's rebuke — 'a nigger should know nothing but to obey his master' — and concludes 'I now understood … the white man's power to enslave the black man.' Literacy in the Narrative is political contraband and evidence of a deliberate policy of enforced ignorance, not a self-improvement arc. Would you like to look at Chapter VI's full passage and the bread-for-lessons scene in Chapter VII?",
+            "question": "What can I learn from Douglass's pursuit of knowledge?"
+          }
+        ]
+      },
+      "representation_blueprint": {
+        "summary": "The AI will stay closely anchored to the book with light explanation, explain concepts from the book, summarize chapters or themes, and compare ideas across the book, avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation, avoid giving advice as if the book were prescriptive life guidance, and avoid sounding therapeutic or diagnostic., use a analytical and clear tone with balanced directness, and mention chapter or section when helpful.",
+        "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+        "allowed_uses": [
+          "Explain concepts from the book",
+          "Summarize chapters or themes",
+          "Compare ideas across the book"
+        ],
+        "generated_at": "2026-04-18T17:36:22.168Z",
+        "tone_profile": {
+          "style": "Analytical and clear",
+          "directness": "Balanced"
+        },
+        "red_line_note": "Do not reduce this book to generic inspiration, resilience coaching, or abstract anti-racism summary. Treat it as a first-person slave narrative and abolitionist witness text grounded in Frederick Douglass’s own lived experience, argument, and voice",
+        "grounding_rules": "Mention chapter or section when helpful",
+        "fidelity_setting": "close fidelity with light explanatory support",
+        "avoided_behaviors": [
+          "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+          "Avoid giving advice as if the book were prescriptive life guidance",
+          "Avoid sounding therapeutic or diagnostic.",
+          "Avoid turning the book into universal inspiration or abstract moral uplift",
+          "Avoid challenging the reader too directly",
+          "Avoid adding claims the book does not actually make"
+        ]
+      },
+      "project_artifacts_fallback": {
+        "step1": {
+          "approved_qc": {
+            "updated_at": "2026-04-18T17:14:09.881Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript",
+                    "detail": "All chapter titles are taken directly from the text.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries grounded in book content",
+                    "detail": "Each summary is based on the chapter’s actual content.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are drawn from Douglass’s narrative and arguments.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims reflect book’s arguments",
+                    "detail": "Claims are explicit propositions Douglass advances.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or generic terms used",
+                    "detail": "All language is faithful to the source text.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Ambiguities noted",
+                    "detail": "Omissions and edition differences are acknowledged.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "All chapter titles and summaries are faithful to the manuscript. Key concepts and claims are grounded in Douglass’s narrative and arguments. No platform or generic language is present. Ambiguities are noted where Douglass withholds information or where editions may differ.",
+                "book_level": {
+                  "core_thesis": "Frederick Douglass argues that slavery is a violent, dehumanizing institution that corrupts both enslaved people and their oppressors, and that true freedom and humanity can only be achieved through resistance, education, and the abolition of slavery. He exposes the moral and religious hypocrisy that enables slavery, insisting on the necessity of truth-telling and justice."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "The exact details of Douglass’s escape are intentionally omitted for the safety of others.",
+                    "Some chapter divisions may vary between editions; chapter titles are based on manuscript headings."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "extracted_qc": {
+            "updated_at": "2026-04-18T15:44:38.037Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript",
+                    "detail": "All chapter titles are taken directly from the text.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries grounded in book content",
+                    "detail": "Each summary is based on the chapter’s actual content.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are drawn from Douglass’s narrative and arguments.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims reflect book’s arguments",
+                    "detail": "Claims are explicit propositions Douglass advances.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or generic terms used",
+                    "detail": "All language is faithful to the source text.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Ambiguities noted",
+                    "detail": "Omissions and edition differences are acknowledged.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "All chapter titles and summaries are faithful to the manuscript. Key concepts and claims are grounded in Douglass’s narrative and arguments. No platform or generic language is present. Ambiguities are noted where Douglass withholds information or where editions may differ.",
+                "book_level": {
+                  "core_thesis": "Frederick Douglass argues that slavery is a violent, dehumanizing institution that corrupts both enslaved people and their oppressors, and that true freedom and humanity can only be achieved through resistance, education, and the abolition of slavery. He exposes the moral and religious hypocrisy that enables slavery, insisting on the necessity of truth-telling and justice."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "The exact details of Douglass’s escape are intentionally omitted for the safety of others.",
+                    "Some chapter divisions may vary between editions; chapter titles are based on manuscript headings."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "approved_claims": {
+            "updated_at": "2026-04-18T17:14:09.685Z",
+            "artifact_value_json": {
+              "id": "0232e9d2-7d60-4c40-b482-d28b79651a63",
+              "file_type": "other",
+              "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+              "uploaded_at": "2026-04-18T17:14:05.939+00:00",
+              "storage_path": "7eb68976-080f-4f43-818b-8e6ed4b8b097/reviewed/reviewed_claims/GA-NL-MO4LJS16-6GSR1A-lofd-claims-edited-uploaded.txt",
+              "original_filename": "LoFD-claims-edited-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_claims": {
+            "updated_at": "2026-04-18T15:44:37.947Z",
+            "artifact_value_json": {
+              "claims": [
+                {
+                  "claim": "Slavery is a system of violence and dehumanization that corrupts both enslaved people and slaveholders.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Literacy and education are essential tools for enslaved people to achieve self-realization and freedom.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "American Christianity, as practiced by slaveholders, is fundamentally hypocritical and complicit in the perpetuation of slavery.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Personal testimony and truth-telling are powerful means of exposing injustice and advancing the cause of abolition.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "The law and society treat enslaved people as property, denying them basic human rights and legal protection.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Resistance, both physical and intellectual, is necessary for enslaved people to reclaim their humanity and pursue freedom.",
+                  "weight": "central"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "approved_key_ideas": {
+            "updated_at": "2026-04-18T17:14:09.606Z",
+            "artifact_value_json": {
+              "id": "5f7a76ba-9f72-4545-84bc-62dde2b5b27d",
+              "file_type": "other",
+              "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+              "uploaded_at": "2026-04-18T17:14:01.419+00:00",
+              "storage_path": "7eb68976-080f-4f43-818b-8e6ed4b8b097/reviewed/reviewed_concepts/GA-NL-MO4LJOEL-5WTBEN-lofd-concepts-edited-uploaded.txt",
+              "original_filename": "LoFD-concepts-edited-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "approved_structure": {
+            "updated_at": "2026-04-18T17:14:09.524Z",
+            "artifact_value_json": {
+              "id": "d27b1f44-2652-4828-aaca-402c87e21fa1",
+              "file_type": "other",
+              "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+              "uploaded_at": "2026-04-18T17:13:50.53+00:00",
+              "storage_path": "7eb68976-080f-4f43-818b-8e6ed4b8b097/reviewed/reviewed_structure/GA-NL-MO4LJE76-P81HEQ-lofd-toc-accepted.as.is-uploaded.txt",
+              "original_filename": "LoFD-TOC-accepted.as.is-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_key_ideas": {
+            "updated_at": "2026-04-18T15:44:37.871Z",
+            "artifact_value_json": {
+              "key_ideas": [
+                {
+                  "term": "Dehumanization",
+                  "definition": "The process by which slavery strips enslaved people of their identity, family ties, and humanity, reducing them to property in the eyes of the law and society."
+                },
+                {
+                  "term": "Slaveholder Religion",
+                  "definition": "A form of Christianity practiced in America that justifies and perpetuates slavery, marked by hypocrisy and a disregard for true Christian values."
+                },
+                {
+                  "term": "Self-Emancipation",
+                  "definition": "The act of enslaved people, like Douglass, taking their freedom into their own hands through resistance, escape, and self-education."
+                },
+                {
+                  "term": "Literacy as Liberation",
+                  "definition": "The idea that learning to read and write is a crucial step toward self-awareness, resistance, and eventual freedom for enslaved people."
+                },
+                {
+                  "term": "Violence of Slavery",
+                  "definition": "The physical, psychological, and emotional brutality inflicted on enslaved people by slaveholders and overseers, often with impunity."
+                },
+                {
+                  "term": "Psychological Control",
+                  "definition": "The use of fear, surveillance, and manipulation by slaveholders to maintain dominance and suppress resistance among enslaved people."
+                },
+                {
+                  "term": "Abolitionism",
+                  "definition": "The movement to end slavery, supported by Douglass and other activists, which uses personal testimony and moral argument to advocate for emancipation."
+                },
+                {
+                  "term": "Resistance",
+                  "definition": "Acts of defiance, both large and small, by enslaved people against the institution of slavery, including learning to read, physical confrontation, and escape."
+                },
+                {
+                  "term": "Commodification",
+                  "definition": "The treatment of enslaved people as property to be valued, bought, sold, and inherited, rather than as human beings."
+                },
+                {
+                  "term": "Witness",
+                  "definition": "Douglass’s role in bearing public testimony to the realities of slavery, using his personal story to expose injustice and advocate for change."
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "extracted_structure": {
+            "updated_at": "2026-04-18T15:44:37.687Z",
+            "artifact_value_json": {
+              "chapter_map": [
+                {
+                  "summary": "The Preface, written by William Lloyd Garrison, introduces Frederick Douglass to readers as a remarkable individual whose eloquence and intellect defy the racist assumptions of his time. Garrison recounts his first encounter with Douglass at an anti-slavery convention, emphasizing Douglass’s courage and the impact of his testimony. The Preface frames Douglass’s narrative as both a personal story and a vital contribution to the abolitionist cause.",
+                  "chapter_title": "PREFACE",
+                  "chapter_number": "PREFACE"
+                },
+                {
+                  "summary": "Wendell Phillips’s letter serves as an endorsement of Douglass’s character and the authenticity of his narrative. Phillips warns readers that the horrors described are not exaggerated, but representative of the realities of American slavery. He urges readers to trust Douglass’s account and to recognize the importance of bearing witness to such truths.",
+                  "chapter_title": "LETTER FROM WENDELL PHILLIPS, ESQ.",
+                  "chapter_number": "LETTER"
+                },
+                {
+                  "summary": "Douglass describes his birth into slavery in Tuckahoe, Maryland, and the uncertainty surrounding his age and parentage. He recounts the separation from his mother, the lack of familial bonds allowed to enslaved people, and the rumors about his white father. The chapter introduces the emotional and psychological violence of slavery from the outset of Douglass’s life.",
+                  "chapter_title": "CHAPTER I",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "This chapter details life on Colonel Lloyd’s plantation, including the daily routines, living conditions, and the meager rations provided to enslaved people. Douglass describes the vastness of the plantation, the strict discipline, and the ways in which slaves were kept ignorant and divided. He also notes the pride some slaves took in their masters’ wealth, despite their own suffering.",
+                  "chapter_title": "CHAPTER II",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "Douglass discusses the culture of fear and suspicion on the plantation, where slaves are punished for speaking ill of their masters. He describes the elaborate gardens and stables, and the harsh treatment of slaves who fail to meet impossible standards. The chapter highlights the psychological manipulation and surveillance that maintain the system of slavery.",
+                  "chapter_title": "CHAPTER III",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "This chapter recounts the brutal violence inflicted on slaves by overseers and masters, including the murder of slaves with impunity. Douglass provides specific examples of cruelty and the lack of legal protection for enslaved people, illustrating the lawlessness and terror that define slave life.",
+                  "chapter_title": "CHAPTER IV",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "Douglass describes his early childhood, including his clothing, food, and the lack of affection or care. He is sent to Baltimore to live with Hugh Auld’s family, an event he regards as a turning point in his life. The chapter ends with Douglass’s hopefulness upon leaving the plantation, unaware of the changes ahead.",
+                  "chapter_title": "CHAPTER V",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "In Baltimore, Douglass experiences a different kind of slavery and encounters Sophia Auld, who initially begins to teach him the alphabet. He describes how her kindness is corrupted by the institution of slavery, and how he becomes determined to learn to read after Mr. Auld forbids it. The chapter explores the connection between literacy and freedom.",
+                  "chapter_title": "CHAPTER VI",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "Douglass secretly teaches himself to read and reflects on the pain and enlightenment that literacy brings. He reads abolitionist literature and becomes increasingly aware of the injustice of his condition. The chapter details his growing sense of self and his longing for freedom.",
+                  "chapter_title": "CHAPTER VII",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "After the death of his master, Douglass is valued as property and faces the threat of being separated from his Baltimore home. He is appraised and sent back to the plantation, experiencing the instability and commodification inherent in slavery. The chapter underscores the lack of control enslaved people have over their own lives.",
+                  "chapter_title": "CHAPTER VIII",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "Douglass is sent to live with Thomas Auld, where he endures hunger, neglect, and religious hypocrisy. He describes the cruelty of Thomas Auld, who becomes more pious but not more humane. The chapter exposes the ways in which religion is used to justify and intensify the oppression of slaves.",
+                  "chapter_title": "CHAPTER IX",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "This long chapter covers Douglass’s time with the notorious Edward Covey, known as a 'slave breaker.' Douglass suffers severe physical and psychological abuse but eventually resists Covey, marking a turning point in his sense of manhood and resistance. The chapter also describes Douglass’s efforts to educate fellow slaves and his failed escape attempt.",
+                  "chapter_title": "CHAPTER X",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "Douglass finally escapes from slavery, though he withholds the details to protect others. He describes the challenges of life as a fugitive in the North, his marriage to Anna, and his involvement in the abolitionist movement. The chapter concludes with Douglass’s reflections on freedom and the ongoing struggle against slavery.",
+                  "chapter_title": "CHAPTER XI",
+                  "chapter_number": "11"
+                },
+                {
+                  "summary": "In the Appendix, Douglass clarifies his views on religion, distinguishing between the true Christianity of Christ and the corrupt, slaveholding Christianity of America. He denounces the religious hypocrisy that supports slavery and includes a satirical poem, 'A Parody,' to further expose the moral contradictions of slaveholding Christians.",
+                  "chapter_title": "APPENDIX",
+                  "chapter_number": "APPENDIX"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step1_source_context": {
+            "updated_at": "2026-04-18T15:44:38.130Z",
+            "artifact_value_json": {
+              "intake_notes": "Preserve this as a first-person slave narrative and abolitionist witness text, not as generic inspiration, trauma coaching, or a school-summary of slavery. The companion should treat Frederick Douglass’s own narrative voice and lived experience as the core of the book. Prioritize the autobiographical chapters as the main canon. Use the Preface, Wendell Phillips letter, and Appendix as secondary historical and rhetorical context only. Guard against common misreadings: reducing the book to “resilience,” turning it into abstract moral uplift, flattening its historical violence, or softening its direct critique of slavery, religion, power, literacy, and dehumanization",
+              "manuscript_filename": "Narrative of the Life of Frederick Douglass.txt",
+              "intake_notes_present": true
+            },
+            "artifact_value_text": null
+          },
+          "extracted_chapter_summaries": {
+            "updated_at": "2026-04-18T15:44:37.786Z",
+            "artifact_value_json": {
+              "chapter_summaries": [
+                {
+                  "summary": "The Preface, written by William Lloyd Garrison, introduces Frederick Douglass to readers as a remarkable individual whose eloquence and intellect defy the racist assumptions of his time. Garrison recounts his first encounter with Douglass at an anti-slavery convention, emphasizing Douglass’s courage and the impact of his testimony. The Preface frames Douglass’s narrative as both a personal story and a vital contribution to the abolitionist cause.",
+                  "chapter_title": "PREFACE",
+                  "chapter_number": "PREFACE"
+                },
+                {
+                  "summary": "Wendell Phillips’s letter serves as an endorsement of Douglass’s character and the authenticity of his narrative. Phillips warns readers that the horrors described are not exaggerated, but representative of the realities of American slavery. He urges readers to trust Douglass’s account and to recognize the importance of bearing witness to such truths.",
+                  "chapter_title": "LETTER FROM WENDELL PHILLIPS, ESQ.",
+                  "chapter_number": "LETTER"
+                },
+                {
+                  "summary": "Douglass describes his birth into slavery in Tuckahoe, Maryland, and the uncertainty surrounding his age and parentage. He recounts the separation from his mother, the lack of familial bonds allowed to enslaved people, and the rumors about his white father. The chapter introduces the emotional and psychological violence of slavery from the outset of Douglass’s life.",
+                  "chapter_title": "CHAPTER I",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "This chapter details life on Colonel Lloyd’s plantation, including the daily routines, living conditions, and the meager rations provided to enslaved people. Douglass describes the vastness of the plantation, the strict discipline, and the ways in which slaves were kept ignorant and divided. He also notes the pride some slaves took in their masters’ wealth, despite their own suffering.",
+                  "chapter_title": "CHAPTER II",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "Douglass discusses the culture of fear and suspicion on the plantation, where slaves are punished for speaking ill of their masters. He describes the elaborate gardens and stables, and the harsh treatment of slaves who fail to meet impossible standards. The chapter highlights the psychological manipulation and surveillance that maintain the system of slavery.",
+                  "chapter_title": "CHAPTER III",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "This chapter recounts the brutal violence inflicted on slaves by overseers and masters, including the murder of slaves with impunity. Douglass provides specific examples of cruelty and the lack of legal protection for enslaved people, illustrating the lawlessness and terror that define slave life.",
+                  "chapter_title": "CHAPTER IV",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "Douglass describes his early childhood, including his clothing, food, and the lack of affection or care. He is sent to Baltimore to live with Hugh Auld’s family, an event he regards as a turning point in his life. The chapter ends with Douglass’s hopefulness upon leaving the plantation, unaware of the changes ahead.",
+                  "chapter_title": "CHAPTER V",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "In Baltimore, Douglass experiences a different kind of slavery and encounters Sophia Auld, who initially begins to teach him the alphabet. He describes how her kindness is corrupted by the institution of slavery, and how he becomes determined to learn to read after Mr. Auld forbids it. The chapter explores the connection between literacy and freedom.",
+                  "chapter_title": "CHAPTER VI",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "Douglass secretly teaches himself to read and reflects on the pain and enlightenment that literacy brings. He reads abolitionist literature and becomes increasingly aware of the injustice of his condition. The chapter details his growing sense of self and his longing for freedom.",
+                  "chapter_title": "CHAPTER VII",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "After the death of his master, Douglass is valued as property and faces the threat of being separated from his Baltimore home. He is appraised and sent back to the plantation, experiencing the instability and commodification inherent in slavery. The chapter underscores the lack of control enslaved people have over their own lives.",
+                  "chapter_title": "CHAPTER VIII",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "Douglass is sent to live with Thomas Auld, where he endures hunger, neglect, and religious hypocrisy. He describes the cruelty of Thomas Auld, who becomes more pious but not more humane. The chapter exposes the ways in which religion is used to justify and intensify the oppression of slaves.",
+                  "chapter_title": "CHAPTER IX",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "This long chapter covers Douglass’s time with the notorious Edward Covey, known as a 'slave breaker.' Douglass suffers severe physical and psychological abuse but eventually resists Covey, marking a turning point in his sense of manhood and resistance. The chapter also describes Douglass’s efforts to educate fellow slaves and his failed escape attempt.",
+                  "chapter_title": "CHAPTER X",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "Douglass finally escapes from slavery, though he withholds the details to protect others. He describes the challenges of life as a fugitive in the North, his marriage to Anna, and his involvement in the abolitionist movement. The chapter concludes with Douglass’s reflections on freedom and the ongoing struggle against slavery.",
+                  "chapter_title": "CHAPTER XI",
+                  "chapter_number": "11"
+                },
+                {
+                  "summary": "In the Appendix, Douglass clarifies his views on religion, distinguishing between the true Christianity of Christ and the corrupt, slaveholding Christianity of America. He denounces the religious hypocrisy that supports slavery and includes a satirical poem, 'A Parody,' to further expose the moral contradictions of slaveholding Christians.",
+                  "chapter_title": "APPENDIX",
+                  "chapter_number": "APPENDIX"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step2": {
+          "tone_profile": {
+            "updated_at": "2026-04-18T17:36:22.920Z",
+            "artifact_value_json": {
+              "tone_style": "analytical_clear",
+              "tone_directness": "balanced"
+            },
+            "artifact_value_text": null
+          },
+          "fidelity_mode": {
+            "updated_at": "2026-04-18T17:36:22.554Z",
+            "artifact_value_json": {
+              "value": "closely_light_explanation"
+            },
+            "artifact_value_text": null
+          },
+          "red_line_note": {
+            "updated_at": "2026-04-18T17:36:23.080Z",
+            "artifact_value_json": {
+              "value": "Do not reduce this book to generic inspiration, resilience coaching, or abstract anti-racism summary. Treat it as a first-person slave narrative and abolitionist witness text grounded in Frederick Douglass’s own lived experience, argument, and voice"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_behaviors": {
+            "updated_at": "2026-04-18T17:36:22.774Z",
+            "artifact_value_json": {
+              "values": [
+                "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+                "Avoid giving advice as if the book were prescriptive life guidance",
+                "Avoid sounding therapeutic or diagnostic.",
+                "Avoid turning the book into universal inspiration or abstract moral uplift",
+                "Avoid challenging the reader too directly",
+                "Avoid adding claims the book does not actually make"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "grounding_style": {
+            "updated_at": "2026-04-18T17:36:22.996Z",
+            "artifact_value_json": {
+              "value": "mention_when_helpful"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_guidelines": {
+            "updated_at": "2026-04-18T17:36:22.849Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "avoid_over_interpreting",
+                  "text": "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_prescriptive_advice",
+                  "text": "Avoid giving advice as if the book were prescriptive life guidance",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_therapeutic",
+                  "text": "Avoid sounding therapeutic or diagnostic.",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_universal_truths",
+                  "text": "Avoid turning the book into universal inspiration or abstract moral uplift",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_direct_challenge",
+                  "text": "Avoid challenging the reader too directly",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_extra_claims",
+                  "text": "Avoid adding claims the book does not actually make",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_guidelines": {
+            "updated_at": "2026-04-18T17:36:22.696Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "explain_concepts",
+                  "text": "Explain concepts from the book",
+                  "selected": true
+                },
+                {
+                  "id": "summarize_chapters",
+                  "text": "Summarize chapters or themes",
+                  "selected": true
+                },
+                {
+                  "id": "compare_ideas",
+                  "text": "Compare ideas across the book",
+                  "selected": true
+                },
+                {
+                  "id": "general_reflection",
+                  "text": "Help readers connect ideas to their own life in a general reflective way",
+                  "selected": false
+                },
+                {
+                  "id": "reflective_followups",
+                  "text": "Ask reflective follow-up questions",
+                  "selected": false
+                },
+                {
+                  "id": "light_beyond_text",
+                  "text": "Make light connections beyond the book",
+                  "selected": false
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_question_types": {
+            "updated_at": "2026-04-18T17:36:22.622Z",
+            "artifact_value_json": {
+              "values": [
+                "Explain concepts from the book",
+                "Summarize chapters or themes",
+                "Compare ideas across the book"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "representation_blueprint": {
+            "updated_at": "2026-04-18T17:36:23.156Z",
+            "artifact_value_json": {
+              "summary": "The AI will stay closely anchored to the book with light explanation, explain concepts from the book, summarize chapters or themes, and compare ideas across the book, avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation, avoid giving advice as if the book were prescriptive life guidance, and avoid sounding therapeutic or diagnostic., use a analytical and clear tone with balanced directness, and mention chapter or section when helpful.",
+              "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+              "allowed_uses": [
+                "Explain concepts from the book",
+                "Summarize chapters or themes",
+                "Compare ideas across the book"
+              ],
+              "generated_at": "2026-04-18T17:36:22.168Z",
+              "tone_profile": {
+                "style": "Analytical and clear",
+                "directness": "Balanced"
+              },
+              "red_line_note": "Do not reduce this book to generic inspiration, resilience coaching, or abstract anti-racism summary. Treat it as a first-person slave narrative and abolitionist witness text grounded in Frederick Douglass’s own lived experience, argument, and voice",
+              "grounding_rules": "Mention chapter or section when helpful",
+              "fidelity_setting": "close fidelity with light explanatory support",
+              "avoided_behaviors": [
+                "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+                "Avoid giving advice as if the book were prescriptive life guidance",
+                "Avoid sounding therapeutic or diagnostic.",
+                "Avoid turning the book into universal inspiration or abstract moral uplift",
+                "Avoid challenging the reader too directly",
+                "Avoid adding claims the book does not actually make"
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step3": {
+          "preview_rounds": {
+            "updated_at": "2026-04-18T18:16:40.321Z",
+            "artifact_value_json": {
+              "last_tested_at": "2026-04-18T18:14:54.277Z",
+              "preview_round_limit": 3,
+              "preview_rounds_used": 3
+            },
+            "artifact_value_text": null
+          },
+          "preview_settings": {
+            "updated_at": "2026-04-18T18:16:40.249Z",
+            "artifact_value_json": {
+              "tone_style": "analytical_clear",
+              "fidelity_mode": "closely_light_explanation",
+              "grounding_style": "explicit_anchor"
+            },
+            "artifact_value_text": null
+          },
+          "sample_questions": {
+            "updated_at": "2026-04-18T18:16:40.393Z",
+            "artifact_value_json": {
+              "sample_questions_json": [
+                "How does Dehumanization connect PREFACE and LETTER FROM WENDELL PHILLIPS, ESQ.?",
+                "What is the strongest claim in PREFACE, and why does it matter?",
+                "How should a careful reader understand this position: Slavery is a system of violence and dehumanization that corrupts both enslaved people and slaveholders."
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step3_validation": {
+            "updated_at": "2026-04-18T18:16:40.543Z",
+            "artifact_value_json": {
+              "step3_status": "completed",
+              "step3_validated": true,
+              "step3_validated_at": "2026-04-18T18:16:40.153Z"
+            },
+            "artifact_value_text": null
+          },
+          "preview_feedback_tags": {
+            "updated_at": "2026-04-18T18:16:40.471Z",
+            "artifact_value_json": {
+              "preview_feedback_tags_json": {
+                "0": {
+                  "choice": "candidate",
+                  "locked": true,
+                  "assessed_at": "2026-04-18T18:12:54.437Z"
+                },
+                "1": {
+                  "choice": "candidate",
+                  "locked": true,
+                  "assessed_at": "2026-04-18T18:14:21.636Z"
+                },
+                "2": {
+                  "choice": "candidate",
+                  "locked": true,
+                  "assessed_at": "2026-04-18T18:16:35.704Z"
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "deployment_ready_companion_package": {
+            "updated_at": "2026-04-18T18:16:40.662Z",
+            "artifact_value_json": {
+              "generated_at": "2026-04-18T18:16:40.153Z",
+              "approved_canon": {
+                "book_summary": "Narrative of the Life of Frederick Douglass, an American Slave is the firsthand account of Frederick Douglass’s life from his birth into slavery through his escape to freedom. Douglass details the brutality, dehumanization, and violence of slavery, exposing its effects on both enslaved people and slaveholders. The narrative also traces Douglass’s journey toward literacy, self-realization, and eventual liberation, while sharply criticizing the hypocrisy of American Christianity and society. The book serves as both a personal testimony and a powerful abolitionist argument.",
+                "chapter_map_json": [
+                  {
+                    "summary": "The Preface, written by William Lloyd Garrison, introduces Frederick Douglass to readers as a remarkable individual whose eloquence and intellect defy the racist assumptions of his time. Garrison recounts his first encounter with Douglass at an anti-slavery convention, emphasizing Douglass’s courage and the impact of his testimony. The Preface frames Douglass’s narrative as both a personal story and a vital contribution to the abolitionist cause.",
+                    "chapter_title": "PREFACE",
+                    "chapter_number": "PREFACE"
+                  },
+                  {
+                    "summary": "Wendell Phillips’s letter serves as an endorsement of Douglass’s character and the authenticity of his narrative. Phillips warns readers that the horrors described are not exaggerated, but representative of the realities of American slavery. He urges readers to trust Douglass’s account and to recognize the importance of bearing witness to such truths.",
+                    "chapter_title": "LETTER FROM WENDELL PHILLIPS, ESQ.",
+                    "chapter_number": "LETTER"
+                  },
+                  {
+                    "summary": "Douglass describes his birth into slavery in Tuckahoe, Maryland, and the uncertainty surrounding his age and parentage. He recounts the separation from his mother, the lack of familial bonds allowed to enslaved people, and the rumors about his white father. The chapter introduces the emotional and psychological violence of slavery from the outset of Douglass’s life.",
+                    "chapter_title": "CHAPTER I",
+                    "chapter_number": "01"
+                  },
+                  {
+                    "summary": "This chapter details life on Colonel Lloyd’s plantation, including the daily routines, living conditions, and the meager rations provided to enslaved people. Douglass describes the vastness of the plantation, the strict discipline, and the ways in which slaves were kept ignorant and divided. He also notes the pride some slaves took in their masters’ wealth, despite their own suffering.",
+                    "chapter_title": "CHAPTER II",
+                    "chapter_number": "02"
+                  },
+                  {
+                    "summary": "Douglass discusses the culture of fear and suspicion on the plantation, where slaves are punished for speaking ill of their masters. He describes the elaborate gardens and stables, and the harsh treatment of slaves who fail to meet impossible standards. The chapter highlights the psychological manipulation and surveillance that maintain the system of slavery.",
+                    "chapter_title": "CHAPTER III",
+                    "chapter_number": "03"
+                  },
+                  {
+                    "summary": "This chapter recounts the brutal violence inflicted on slaves by overseers and masters, including the murder of slaves with impunity. Douglass provides specific examples of cruelty and the lack of legal protection for enslaved people, illustrating the lawlessness and terror that define slave life.",
+                    "chapter_title": "CHAPTER IV",
+                    "chapter_number": "04"
+                  },
+                  {
+                    "summary": "Douglass describes his early childhood, including his clothing, food, and the lack of affection or care. He is sent to Baltimore to live with Hugh Auld’s family, an event he regards as a turning point in his life. The chapter ends with Douglass’s hopefulness upon leaving the plantation, unaware of the changes ahead.",
+                    "chapter_title": "CHAPTER V",
+                    "chapter_number": "05"
+                  },
+                  {
+                    "summary": "In Baltimore, Douglass experiences a different kind of slavery and encounters Sophia Auld, who initially begins to teach him the alphabet. He describes how her kindness is corrupted by the institution of slavery, and how he becomes determined to learn to read after Mr. Auld forbids it. The chapter explores the connection between literacy and freedom.",
+                    "chapter_title": "CHAPTER VI",
+                    "chapter_number": "06"
+                  },
+                  {
+                    "summary": "Douglass secretly teaches himself to read and reflects on the pain and enlightenment that literacy brings. He reads abolitionist literature and becomes increasingly aware of the injustice of his condition. The chapter details his growing sense of self and his longing for freedom.",
+                    "chapter_title": "CHAPTER VII",
+                    "chapter_number": "07"
+                  },
+                  {
+                    "summary": "After the death of his master, Douglass is valued as property and faces the threat of being separated from his Baltimore home. He is appraised and sent back to the plantation, experiencing the instability and commodification inherent in slavery. The chapter underscores the lack of control enslaved people have over their own lives.",
+                    "chapter_title": "CHAPTER VIII",
+                    "chapter_number": "08"
+                  },
+                  {
+                    "summary": "Douglass is sent to live with Thomas Auld, where he endures hunger, neglect, and religious hypocrisy. He describes the cruelty of Thomas Auld, who becomes more pious but not more humane. The chapter exposes the ways in which religion is used to justify and intensify the oppression of slaves.",
+                    "chapter_title": "CHAPTER IX",
+                    "chapter_number": "09"
+                  },
+                  {
+                    "summary": "This long chapter covers Douglass’s time with the notorious Edward Covey, known as a 'slave breaker.' Douglass suffers severe physical and psychological abuse but eventually resists Covey, marking a turning point in his sense of manhood and resistance. The chapter also describes Douglass’s efforts to educate fellow slaves and his failed escape attempt.",
+                    "chapter_title": "CHAPTER X",
+                    "chapter_number": "10"
+                  },
+                  {
+                    "summary": "Douglass finally escapes from slavery, though he withholds the details to protect others. He describes the challenges of life as a fugitive in the North, his marriage to Anna, and his involvement in the abolitionist movement. The chapter concludes with Douglass’s reflections on freedom and the ongoing struggle against slavery.",
+                    "chapter_title": "CHAPTER XI",
+                    "chapter_number": "11"
+                  },
+                  {
+                    "summary": "In the Appendix, Douglass clarifies his views on religion, distinguishing between the true Christianity of Christ and the corrupt, slaveholding Christianity of America. He denounces the religious hypocrisy that supports slavery and includes a satirical poem, 'A Parody,' to further expose the moral contradictions of slaveholding Christians.",
+                    "chapter_title": "APPENDIX",
+                    "chapter_number": "APPENDIX"
+                  }
+                ],
+                "core_claims_json": [
+                  {
+                    "claim": "Slavery is a system of violence and dehumanization that corrupts both enslaved people and slaveholders.",
+                    "weight": "central"
+                  },
+                  {
+                    "claim": "Literacy and education are essential tools for enslaved people to achieve self-realization and freedom.",
+                    "weight": "central"
+                  },
+                  {
+                    "claim": "American Christianity, as practiced by slaveholders, is fundamentally hypocritical and complicit in the perpetuation of slavery.",
+                    "weight": "central"
+                  },
+                  {
+                    "claim": "Personal testimony and truth-telling are powerful means of exposing injustice and advancing the cause of abolition.",
+                    "weight": "central"
+                  },
+                  {
+                    "claim": "The law and society treat enslaved people as property, denying them basic human rights and legal protection.",
+                    "weight": "central"
+                  },
+                  {
+                    "claim": "Resistance, both physical and intellectual, is necessary for enslaved people to reclaim their humanity and pursue freedom.",
+                    "weight": "central"
+                  }
+                ],
+                "key_concepts_json": [
+                  {
+                    "term": "Dehumanization",
+                    "definition": "The process by which slavery strips enslaved people of their identity, family ties, and humanity, reducing them to property in the eyes of the law and society."
+                  },
+                  {
+                    "term": "Slaveholder Religion",
+                    "definition": "A form of Christianity practiced in America that justifies and perpetuates slavery, marked by hypocrisy and a disregard for true Christian values."
+                  },
+                  {
+                    "term": "Self-Emancipation",
+                    "definition": "The act of enslaved people, like Douglass, taking their freedom into their own hands through resistance, escape, and self-education."
+                  },
+                  {
+                    "term": "Literacy as Liberation",
+                    "definition": "The idea that learning to read and write is a crucial step toward self-awareness, resistance, and eventual freedom for enslaved people."
+                  },
+                  {
+                    "term": "Violence of Slavery",
+                    "definition": "The physical, psychological, and emotional brutality inflicted on enslaved people by slaveholders and overseers, often with impunity."
+                  },
+                  {
+                    "term": "Psychological Control",
+                    "definition": "The use of fear, surveillance, and manipulation by slaveholders to maintain dominance and suppress resistance among enslaved people."
+                  },
+                  {
+                    "term": "Abolitionism",
+                    "definition": "The movement to end slavery, supported by Douglass and other activists, which uses personal testimony and moral argument to advocate for emancipation."
+                  },
+                  {
+                    "term": "Resistance",
+                    "definition": "Acts of defiance, both large and small, by enslaved people against the institution of slavery, including learning to read, physical confrontation, and escape."
+                  },
+                  {
+                    "term": "Commodification",
+                    "definition": "The treatment of enslaved people as property to be valued, bought, sold, and inherited, rather than as human beings."
+                  },
+                  {
+                    "term": "Witness",
+                    "definition": "Douglass’s role in bearing public testimony to the realities of slavery, using his personal story to expose injustice and advocate for change."
+                  }
+                ]
+              },
+              "preview_validated_state": {
+                "step3_validated": true,
+                "step3_validated_at": "2026-04-18T18:16:40.153Z",
+                "preview_rounds_used": 3,
+                "preview_settings_tone": "analytical_clear",
+                "preview_settings_fidelity": "closely_light_explanation",
+                "preview_settings_grounding": "explicit_anchor"
+              },
+              "representation_blueprint": {
+                "summary": "The AI will stay closely anchored to the book with light explanation, explain concepts from the book, summarize chapters or themes, and compare ideas across the book, avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation, avoid giving advice as if the book were prescriptive life guidance, and avoid sounding therapeutic or diagnostic., use a analytical and clear tone with balanced directness, and mention chapter or section when helpful.",
+                "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+                "allowed_uses": [
+                  "Explain concepts from the book",
+                  "Summarize chapters or themes",
+                  "Compare ideas across the book"
+                ],
+                "generated_at": "2026-04-18T17:36:22.168Z",
+                "tone_profile": {
+                  "style": "Analytical and clear",
+                  "directness": "Balanced"
+                },
+                "red_line_note": "Do not reduce this book to generic inspiration, resilience coaching, or abstract anti-racism summary. Treat it as a first-person slave narrative and abolitionist witness text grounded in Frederick Douglass’s own lived experience, argument, and voice",
+                "grounding_rules": "Mention chapter or section when helpful",
+                "fidelity_setting": "close fidelity with light explanatory support",
+                "avoided_behaviors": [
+                  "Avoid over-interpreting beyond the text unless clearly framed as cautious historical or thematic explanation",
+                  "Avoid giving advice as if the book were prescriptive life guidance",
+                  "Avoid sounding therapeutic or diagnostic.",
+                  "Avoid turning the book into universal inspiration or abstract moral uplift",
+                  "Avoid challenging the reader too directly",
+                  "Avoid adding claims the book does not actually make"
+                ]
+              }
+            },
+            "artifact_value_text": null
+          }
+        }
+      }
+    },
+    "last_saved_at": "2026-04-19T14:00:34.539+00:00",
+    "created_at": "2026-04-18T15:44:12.720654+00:00",
+    "updated_at": "2026-04-23T19:11:44.555999+00:00"
+  },
+  "packets": [
+    {
+      "id": "b0c57e84-37e7-4bc2-b0db-aa9807a9260c",
+      "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "scope_boundaries",
+      "lever_name": "topic_scope",
+      "lever_from": "mention_when_helpful",
+      "lever_to": "explicit_anchor",
+      "summary_text": "Require explicit grounding in Douglass's text and historical context",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Tighten Elias when readers ask how to read the book. Reduce resilience/uplift language and keep the answer closer to Douglass’s testimony, abolitionist argument, and historical specificity"
+        },
+        {
+          "role": "user",
+          "content": "Tighten Elias when readers ask how to read the book. Reduce resilience/uplift language and keep the answer closer to Douglass’s testimony, abolitionist argument, and historical specificity"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a scope and grounding issue. The companion is drifting into generic inspirational language instead of staying anchored to Douglass's specific historical testimony and abolitionist purpose.\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"topic_scope\", \"from_value\": \"mention_when_helpful\", \"to_value\": \"explicit_anchor\", \"summary\": \"Require explicit grounding in Douglass's text and historical context\", \"requires_preview\": false}\n```\n\nThis will force Elias to consistently reference specific passages, historical details, and Douglass's abolitionist arguments rather than offering generalized uplift messaging."
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-19T15:13:08.931258+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": "2026-05-06T16:32:37.597579+00:00",
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "8510a5f6-12cb-4576-bf36-f5472802fb74",
+      "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "author_guidance",
+      "lever_from": null,
+      "lever_to": "treat the Narrative as a 19th-century abolitionist document with a specific rhetorical context (addressed to Northern white abolitionist readers). Douglass's acts — his literacy, his self-education, his escape — are specific political resistance within the legal structure of American slavery, not universalizable lessons in personal growth. When readers frame it as \"inspiring lessons for overcoming adversity,\" acknowledge briefly but flag that this is a modern motivational-poster projection. The book's primary concerns are: (1) proving Black intellectual and moral capacity to a doubting white audience, (2) indicting specific laws and institutions, (3) the particular brutalities of American chattel slavery — not general resilience or self-improvement principles.",
+      "summary_text": "Ground responses in 19th-century abolitionist context, resist modern self-help universalizing",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Elias responded to \"What's the most inspiring lesson from Douglass's life for overcoming adversity?\" by accepting \"inspiring\" and \"overcoming adversity\" as the book's own framing, universalizing from Douglass's specific historical resistance to \"a universal truth about the power of knowledge,\" and closing with \"pursuit of knowledge and self-improvement\" as a general life principle. The book is a 19th-century abolitionist political document, written for a Northern white readership with a specific rhetorical purpose — proving Black intellectual capacity to an audience that doubted it, and indicting the legal system that criminalized enslaved people's literacy. Douglass's literacy is a literal political weapon against specific slave laws, not a metaphor for self-improvement. Please add author guidance: treat the Narrative as a 19th-century abolitionist document with a specific rhetorical context (addressed to Northern white abolitionist readers). Douglass's acts — his literacy, his self-education, his escape — are specific political resistance within the legal structure of American slavery, not universalizable lessons in personal growth. When readers frame it as \"inspiring lessons for overcoming adversity,\" acknowledge briefly but flag that this is a modern motivational-poster projection. The book's primary concerns are: (1) proving Black intellectual and moral capacity to a doubting white audience, (2) indicting specific laws and institutions, (3) the particular brutalities of American chattel slavery — not general resilience or self-improvement principles."
+        },
+        {
+          "role": "user",
+          "content": "Elias responded to \"What's the most inspiring lesson from Douglass's life for overcoming adversity?\" by accepting \"inspiring\" and \"overcoming adversity\" as the book's own framing, universalizing from Douglass's specific historical resistance to \"a universal truth about the power of knowledge,\" and closing with \"pursuit of knowledge and self-improvement\" as a general life principle. The book is a 19th-century abolitionist political document, written for a Northern white readership with a specific rhetorical purpose — proving Black intellectual capacity to an audience that doubted it, and indicting the legal system that criminalized enslaved people's literacy. Douglass's literacy is a literal political weapon against specific slave laws, not a metaphor for self-improvement. Please add author guidance: treat the Narrative as a 19th-century abolitionist document with a specific rhetorical context (addressed to Northern white abolitionist readers). Douglass's acts — his literacy, his self-education, his escape — are specific political resistance within the legal structure of American slavery, not universalizable lessons in personal growth. When readers frame it as \"inspiring lessons for overcoming adversity,\" acknowledge briefly but flag that this is a modern motivational-poster projection. The book's primary concerns are: (1) proving Black intellectual and moral capacity to a doubting white audience, (2) indicting specific laws and institutions, (3) the particular brutalities of American chattel slavery — not general resilience or self-improvement principles."
+        },
+        {
+          "role": "assistant",
+          "content": "This is exactly the kind of historical context grounding that author guidance can provide. I'll add guidance to help Elias recognize when readers are applying modern self-help framing to Douglass's specific political resistance narrative.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"treat the Narrative as a 19th-century abolitionist document with a specific rhetorical context (addressed to Northern white abolitionist readers). Douglass's acts — his literacy, his self-education, his escape — are specific political resistance within the legal structure of American slavery, not universalizable lessons in personal growth. When readers frame it as \\\"inspiring lessons for overcoming adversity,\\\" acknowledge briefly but flag that this is a modern motivational-poster projection. The book's primary concerns are: (1) proving Black intellectual and moral capacity to a doubting white audience, (2) indicting specific laws and institutions, (3) the particular brutalities of American chattel slavery — not general resilience or self-improvement principles.\", \"summary\": \"Ground responses in 19th-century abolitionist context, resist modern self-help universalizing\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-23T05:31:21.798543+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-23T05:33:18.349219+00:00",
+      "state": "applied",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "dd4fd173-6e9c-40a8-a2bc-f25cb631753b",
+      "project_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "scope_boundaries",
+      "lever_name": "topic_scope",
+      "lever_from": "mention_when_helpful",
+      "lever_to": "explicit_anchor",
+      "summary_text": "Require explicit 19th-century context anchoring",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Ground responses in 19th-century abolitionist context, resist modern self-help universalizing"
+        },
+        {
+          "role": "user",
+          "content": "Ground responses in 19th-century abolitionist context, resist modern self-help universalizing"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a scope and boundaries issue. Your companion needs stronger historical grounding to resist anachronistic interpretations that dilute Douglass's specific abolitionist message.\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"topic_scope\", \"from_value\": \"mention_when_helpful\", \"to_value\": \"explicit_anchor\", \"summary\": \"Require explicit 19th-century context anchoring\", \"requires_preview\": false}\n```\n\nThis will make the companion consistently frame discussions within the historical period and abolitionist movement, preventing modern self-help generalizations that strip away the book's political urgency."
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-05-01T06:59:22.003547+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": "2026-05-06T16:32:37.597579+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-05-06T16:32:37.597579+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    }
+  ]
+}

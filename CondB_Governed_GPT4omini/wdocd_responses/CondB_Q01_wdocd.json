@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion": "sylva",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Walden\" revolves around the idea that a simple, self-reliant life in close connection with nature fosters a deeper understanding of existence and authentic happiness. Thoreau emphasizes the importance of living deliberately and confronting the essential facts of life, as he states in Chapter 2, \"Where I Lived.\" He critiques societal norms that lead individuals into unnecessary labor and material pursuits, arguing that these distractions prevent true fulfillment.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau presents a complementary argument regarding moral responsibility. He contends that individuals must resist unjust laws and government actions, asserting that true reform begins with one's conscience. Thoreau famously declares that \"under a government which imprisons any unjustly, the true place for a just man is also a prison,\" highlighting the necessity of noncooperation with injustice. Together, these works advocate for a life rooted in personal integrity and moral courage against societal pressures.\n\nWould you like to explore how Thoreau’s reflections on solitude in Chapter 5 relate to his broader themes of self-reliance and authenticity?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "e0d4438a-702d-4205-9867-8627d3a6ce9b",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1828,
+    "output_tokens": 221
+  },
+  "latency_seconds": 7.27,
+  "timestamp_utc": "2026-05-10T07:12:57.215430+00:00"
+}

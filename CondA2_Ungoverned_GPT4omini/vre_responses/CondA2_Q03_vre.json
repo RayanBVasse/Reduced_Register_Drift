@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, \"The Varieties of Religious Experience\" is a work of philosophical psychology and a study of the psychology of religion. William James presents it as a series of lectures delivered at the University of Edinburgh in the early 1900s, which were later compiled into this book. \n\nHere are some key characteristics that define the book:\n\n1. **Empirical and Experiential**: James emphasizes the importance of empirical observation and personal experience in understanding religion. He draws on a wide range of case studies, personal testimonies, and historical examples to illustrate the diversity of religious experiences.\n\n2. **Philosophical Inquiry**: The book engages with philosophical questions about the nature of reality, the self, and the divine. James explores the implications of religious experiences for understanding human existence and the nature of belief.\n\n3. **Psychological Analysis**: As a psychologist, James applies psychological principles to analyze religious experiences. He examines how these experiences affect individuals' lives, their mental states, and their coping mechanisms in the face of suffering and existential challenges.\n\n4. **Pragmatic Approach**: James employs a pragmatic philosophy, suggesting that the truth of religious beliefs can be evaluated based on their practical effects on individuals' lives. He argues that the value of religion lies in its ability to provide meaning, purpose, and transformation.\n\n5. **Pluralistic Perspective**: The book reflects a pluralistic view of religion, recognizing the validity of diverse religious experiences and beliefs. James advocates for an open-minded exploration of different faiths, emphasizing that no single tradition has a monopoly on truth.\n\nOverall, \"The Varieties of Religious Experience\" is a multifaceted exploration of religion that combines empirical research, psychological insight, and philosophical reflection, making it a foundational text in the study of the psychology of religion and a significant contribution to the broader field of religious studies.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Varieties of Religious Experience by William James.",
+  "session_uuid": "4c7b1f1d-32a0-4433-a2e4-823aa4b2e161",
+  "token_usage": {
+    "input_tokens": 609,
+    "output_tokens": 373,
+    "total_tokens": 982
+  },
+  "latency_seconds": 5.68,
+  "timestamp_utc": "2026-05-09T13:44:08.497286+00:00"
+}

@@ -1,0 +1,10 @@
+cluster,category,count,n_books,per_book
+G1,CB,11,4,2.75
+G1,SB,3,4,0.75
+G1,BK,5,4,1.25
+G2,CB,7,4,1.75
+G2,SB,4,4,1.0
+G2,BK,6,4,1.5
+G3,CB,4,2,2.0
+G3,SB,4,2,2.0
+G3,BK,2,2,1.0

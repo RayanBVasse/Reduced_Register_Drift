@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion": "elias",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Narrative of the Life of Frederick Douglass\" is an autobiographical account that serves as both a personal testimony and a political document aimed at advocating for the abolition of slavery. Douglass writes with the intent to reveal the harsh realities of enslaved life, providing a detailed and unflinching portrayal of the brutality, dehumanization, and moral corruption inherent in the institution of slavery. It is structured to appeal to a Northern white abolitionist audience, aiming to elicit empathy and action against the injustices he describes.\n\nThe narrative is also a profound assertion of Black intellectual capacity and humanity, countering prevailing stereotypes that depicted enslaved individuals as inferior. By articulating his experiences and insights, Douglass not only seeks to validate his own existence but also to challenge the societal norms that permit slavery to persist. The book thus operates on multiple levels: it is an autobiography, a call to action, and a critical examination of the social and moral implications of slavery.\n\nWould you like to explore how Douglass's use of language in Chapter 9 enhances his arguments about literacy as a tool for liberation?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "3ff37f8a-c9f1-48b9-bb9d-dd29e8e512ee",
+  "access_mode": "paid",
+  "turns_used": 3,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2148,
+    "output_tokens": 221
+  },
+  "latency_seconds": 7.64,
+  "timestamp_utc": "2026-05-10T07:01:20.987150+00:00"
+}

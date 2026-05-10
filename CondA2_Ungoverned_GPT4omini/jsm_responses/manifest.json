@@ -1,0 +1,38 @@
+{
+  "book": {
+    "abbrev": "jsm",
+    "slug": "autobiography-of-john-stuart-mill",
+    "title": "Autobiography of John Stuart Mill",
+    "author_canonical": "John Stuart Mill",
+    "author_display": "John Stuart Miller",
+    "companion": "Auden",
+    "cluster": "G1"
+  },
+  "condition": "A2_ungoverned_matched_model",
+  "model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of John Stuart Mill by John Stuart Mill.",
+  "session_uuid": "a102d971-4265-452d-904e-f06ed9d3ebf6",
+  "started_at": "2026-05-09T13:32:37.650867+00:00",
+  "ended_at": "2026-05-09T13:35:09.205068+00:00",
+  "completed_qids": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q08",
+    "Q09",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15"
+  ],
+  "failed_qids": [],
+  "n_completed": 15,
+  "n_failed": 0
+}

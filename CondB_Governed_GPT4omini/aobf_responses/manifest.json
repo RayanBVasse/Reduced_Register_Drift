@@ -1,0 +1,40 @@
+{
+  "book": {
+    "abbrev": "aobf",
+    "slug": "autobiography-of-benjamin-franklin",
+    "title": "Autobiography of Benjamin Franklin",
+    "author_canonical": "Benjamin Franklin",
+    "author_display": "Benjamin Franklin",
+    "companion": "Civis",
+    "cluster": "G2"
+  },
+  "condition": "B_governed_companion",
+  "endpoint": "https://www.living-literature.org/api/mem/chat",
+  "expected_model_prefix": "gpt-4o-mini",
+  "models_seen": [
+    "gpt-4o-mini-2024-07-18"
+  ],
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "started_at": "2026-05-10T06:52:44.957278+00:00",
+  "ended_at": "2026-05-10T06:54:59.096301+00:00",
+  "completed_qids": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q08",
+    "Q09",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15"
+  ],
+  "failed_qids": [],
+  "n_completed": 15,
+  "n_failed": 0
+}

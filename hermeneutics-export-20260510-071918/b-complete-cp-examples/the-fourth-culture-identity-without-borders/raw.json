@@ -1,0 +1,1491 @@
+{
+  "project": {
+    "id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+    "book_title": "The Fourth Culture - Identity Without Borders",
+    "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+    "deployment_mode": "live_for_readers",
+    "handoff_state": "completed",
+    "go_live_at": "2026-04-29T17:07:55.236+00:00",
+    "status": "complete",
+    "project_status": "onboarding_complete",
+    "monthly_turn_cap_override": null,
+    "created_at": "2026-04-29T16:37:39.062+00:00",
+    "updated_at": "2026-04-29T17:08:50.049561+00:00"
+  },
+  "agent1_outputs": {
+    "id": "97bf7fcb-3928-43a4-88c5-cd8ea610e492",
+    "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+    "book_summary": "The Fourth Culture: Identity Without Borders explores how migration, technology, and artificial intelligence are reshaping the way people experience and construct identity in the twenty-first century. Drawing on research, lived experience, and case studies—especially the Latin American diaspora in Spain—the book argues that traditional models of cultural belonging are no longer sufficient. Instead, a new condition has emerged: the Fourth Culture, characterized by layered, distributed, and digitally mediated forms of identity that transcend national, linguistic, and generational boundaries. The book combines theoretical frameworks with ethnographic and computational insights to illuminate how belonging, memory, and selfhood are being transformed in a world where borders are increasingly porous.",
+    "chapter_map_json": [
+      {
+        "summary": "The preface introduces the book’s central question: how identity is being reshaped by migration, generational change, and digital mediation. It critiques the limitations of the 'Third Culture Kid' model and proposes the Fourth Culture as a more accurate framework for understanding contemporary experiences of belonging and difference, using Spain’s Latin American migration corridor as a key case.",
+        "chapter_title": "Preface: The Fourth Culture: Identity Without Borders",
+        "chapter_number": "Preface"
+      },
+      {
+        "summary": "The prologue situates the reader in a world where identity is no longer inherited or fixed, but constructed across movement, memory, and technology. It explains why older frameworks—rooted in singular cultures or transitional hybridity—are inadequate, and introduces the Fourth Culture as a pattern of life defined by belonging across multiple systems without full recognition in any.",
+        "chapter_title": "Prologue: The Last Generation with Borders",
+        "chapter_number": "Prologue"
+      },
+      {
+        "summary": "This chapter traces the evolution of the concept of culture from inherited, place-based systems to fluid, digitally mediated patterns. It explores how traditional markers like language, religion, and nationality have lost their predictive power, and how individuals now seek portable coherence across fragmented contexts, often using technology to navigate and assemble identity.",
+        "chapter_title": "What Is a Culture Today?",
+        "chapter_number": "01"
+      },
+      {
+        "summary": "The chapter reviews the origins and characteristics of the Third Culture Kid (TCK) framework, highlighting its focus on children raised between cultures due to parental mobility. It details the psychological traits and emotional costs of TCKs, such as adaptability, rootlessness, and empathy with dissonance, and positions this legacy as a precursor to the more complex Fourth Culture condition.",
+        "chapter_title": "The Third Culture Legacy",
+        "chapter_number": "02"
+      },
+      {
+        "summary": "This chapter defines the Fourth Culture as a new identity condition arising from layered influences—migration, digital platforms, AI, and emotional diaspora. It distinguishes Fourth Culture individuals from TCKs by emphasizing cognitive and emotional displacement, digital hybridity, and the experience of partial recognition, outlining the traits and existential tensions unique to this group.",
+        "chapter_title": "The Fourth Culture Emerges",
+        "chapter_number": "03"
+      },
+      {
+        "summary": "Here, the book examines how artificial intelligence and algorithmic systems have become active participants in the construction of selfhood. It describes the shift from private reflection to co-writing with AI, the emergence of the 'synthetic mirror,' and the new forms of emotional co-regulation and validation that arise when identity is shaped in dialogue with intelligent systems.",
+        "chapter_title": "The Algorithmic Self: How AI Becomes Our Mirror",
+        "chapter_number": "04"
+      },
+      {
+        "summary": "This chapter explores the transformation of memory and identity in the age of digital archives and AI companions. It discusses how the externalization of memory changes the process of self-continuity, the risks and benefits of perfect digital recall, and the emergence of identity as an accumulated, co-authored record rather than a static inheritance.",
+        "chapter_title": "Hybridity 2.0: From Cosmopolitanism to Connectivity: Memory, Identity, and AI as Archive",
+        "chapter_number": "05"
+      },
+      {
+        "summary": "The chapter analyzes how belonging has shifted from being rooted in place to being distributed across language, rhythm, and digital contact. It highlights the collapse of traditional sources of belonging—nation, family, religion—and the rise of new architectures of identity built through repeated choices, digital communities, and context-sensitive adaptation.",
+        "chapter_title": "Belonging Beyond Geography",
+        "chapter_number": "06"
+      },
+      {
+        "summary": "This chapter introduces Spain as a living laboratory for Fourth Culture dynamics, focusing on the Latin American diaspora. It discusses how Spanish language, accent, and cultural memory serve as both bridges and barriers, and how migrants navigate complex systems of recognition, belonging, and identity performance in a shared linguistic space.",
+        "chapter_title": "Introduction: Spain as Mirror and Stage",
+        "chapter_number": "07"
+      },
+      {
+        "summary": "This chapter details the demographic and social realities of Latin American migration to Spain, emphasizing the paradox of linguistic sameness and persistent difference. It presents statistical data on migration flows, legal status, and community distribution, and explores how shared language does not guarantee full integration or equal belonging.",
+        "chapter_title": "Migration Without Translation",
+        "chapter_number": "08"
+      },
+      {
+        "summary": "The chapter examines the lived experiences of Latin American migrants in Spain, focusing on community formation, cultural associations, and the negotiation of pan-Latin and national identities. It highlights both the solidarity and the stratification within migrant communities, and how Fourth Culture identities are co-created through both external pressures and internal practices.",
+        "chapter_title": "Integration and Its Discontents",
+        "chapter_number": "09"
+      },
+      {
+        "summary": "This chapter investigates the role of education and language in shaping the experiences of Latin American migrants and their children in Spain. It discusses how accent, curriculum, and subtle social sorting reinforce invisible hierarchies, and how the promise of linguistic integration is complicated by persistent forms of exclusion and misrecognition.",
+        "chapter_title": "Education, Language, and Invisible Hierarchies",
+        "chapter_number": "10"
+      },
+      {
+        "summary": "The final chapter explores how digital platforms have become the new sites of belonging for Fourth Culture individuals. It describes the emergence of online subcultures, algorithmically curated communities, and new forms of emotional support and identity work that transcend physical geography, highlighting the resilience and challenges of digital diaspora life.",
+        "chapter_title": "Intra-Community & Sub-Cultures & Digital Belonging",
+        "chapter_number": "11"
+      }
+    ],
+    "key_concepts_json": [
+      {
+        "term": "Fourth Culture",
+        "definition": "A new identity condition characterized by layered, distributed belonging across multiple systems—geographical, digital, emotional, and algorithmic—where individuals are not fully recognized by any single culture."
+      },
+      {
+        "term": "Layered Belonging",
+        "definition": "The experience of holding multiple, overlapping forms of affiliation and identity, often across languages, platforms, and emotional communities, without a single stable anchor."
+      },
+      {
+        "term": "Border-Crossing Personhood",
+        "definition": "A form of selfhood that is constructed and negotiated across physical, linguistic, and digital borders, rather than being rooted in a single place or tradition."
+      },
+      {
+        "term": "Distributed Belonging",
+        "definition": "A pattern of connection and recognition that is spread across various contexts—online and offline—rather than concentrated in a single community or location."
+      },
+      {
+        "term": "Partial Recognition",
+        "definition": "The condition of being acknowledged or accepted in some aspects but not fully integrated or understood within any one cultural or institutional system."
+      },
+      {
+        "term": "Emotional Diaspora",
+        "definition": "The phenomenon where an individual’s primary emotional community is dispersed across geographies and platforms, creating a sense of rootlessness and connection that is not tied to place."
+      },
+      {
+        "term": "Algorithmic Self",
+        "definition": "A selfhood that is co-constructed with artificial intelligence and digital platforms, where identity is shaped, mirrored, and validated through interaction with algorithmic systems."
+      },
+      {
+        "term": "External Mind",
+        "definition": "The use of digital archives, AI companions, and technological tools as extensions of memory and self-continuity, fundamentally altering how individuals remember and narrate their lives."
+      },
+      {
+        "term": "Identity Without Borders",
+        "definition": "A mode of identity formation that is not limited by national, linguistic, or cultural boundaries, but is instead assembled through movement, technology, and ongoing negotiation of difference."
+      }
+    ],
+    "core_claims_json": [
+      {
+        "claim": "Traditional models of cultural belonging, such as Third Culture Kid or diaspora identity, are insufficient for describing the layered, digitally mediated identities emerging in the twenty-first century.",
+        "weight": "central"
+      },
+      {
+        "claim": "The Fourth Culture is a distinct psychological and emotional condition, not reducible to generational, demographic, or purely migratory categories.",
+        "weight": "central"
+      },
+      {
+        "claim": "Digital platforms and artificial intelligence are now active participants in the construction of selfhood, fundamentally altering how individuals experience memory, validation, and belonging.",
+        "weight": "central"
+      },
+      {
+        "claim": "Belonging is increasingly distributed and negotiated across multiple systems, leading to both new forms of resilience and new risks of fragmentation or partial recognition.",
+        "weight": "central"
+      },
+      {
+        "claim": "The Latin American migration corridor to Spain exemplifies how shared language and cultural familiarity do not guarantee full integration or equal belonging, revealing the complexities of Fourth Culture identity.",
+        "weight": "central"
+      },
+      {
+        "claim": "Educational and institutional systems often fail to recognize or support the realities of Fourth Culture individuals, reinforcing invisible hierarchies and emotional dislocation.",
+        "weight": "central"
+      }
+    ],
+    "ambiguities_json": [
+      "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+      "Some chapter titles and boundaries are inferred from manuscript structure and may require author confirmation for precise sequencing.",
+      "Certain demographic statistics (e.g., migration numbers, legal status) are based on data at the time of writing and may need updating for future editions.",
+      "The distinction between sub-chapters and main chapters (especially in Part B and C) could benefit from clarification in the final table of contents."
+    ],
+    "qc_report_json": {
+      "checks": [
+        {
+          "item": "Chapter titles match manuscript headings",
+          "detail": "All chapter titles are drawn directly from manuscript headings or clear section markers.",
+          "result": "pass"
+        },
+        {
+          "item": "Summaries grounded in book content",
+          "detail": "Each chapter summary is based on the actual content and argument of the corresponding section.",
+          "result": "pass"
+        },
+        {
+          "item": "Key concepts are book-specific",
+          "detail": "Concepts are defined using the book’s own vocabulary and distinctions.",
+          "result": "pass"
+        },
+        {
+          "item": "Core claims reflect book’s arguments",
+          "detail": "Claims are extracted as explicit propositions the book advances.",
+          "result": "pass"
+        },
+        {
+          "item": "No platform or workflow language used",
+          "detail": "All summaries and definitions avoid platform or workflow terminology.",
+          "result": "pass"
+        },
+        {
+          "item": "Ambiguities and QC notes included",
+          "detail": "Potential ambiguities and areas for author review are clearly noted.",
+          "result": "pass"
+        }
+      ],
+      "status": "fidelity_pass",
+      "summary": "Extraction is faithful to the manuscript’s structure, vocabulary, and argumentation. Chapter titles and summaries are grounded in the book’s own language and organization. Key concepts and claims are book-specific and avoid generic or platform-derived terms. Ambiguities are noted for author review.",
+      "book_level": {
+        "core_thesis": "The book contends that identity in the twenty-first century is no longer anchored by geography, language, or inherited culture, but is instead shaped by layered belonging, digital mediation, and the experience of partial recognition across multiple systems. The Fourth Culture is a distinct condition, not reducible to Third Culture Kid, diaspora, or cosmopolitan models, and is best understood as a psychological and emotional adaptation to a world of mobility, platforms, and AI-mediated selfhood. This new identity formation requires new frameworks for understanding belonging, coherence, and the negotiation of difference."
+      },
+      "source_coverage": {
+        "parser_warnings": [
+          "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+          "Some chapter titles and boundaries are inferred from manuscript structure and may require author confirmation for precise sequencing.",
+          "Certain demographic statistics (e.g., migration numbers, legal status) are based on data at the time of writing and may need updating for future editions.",
+          "The distinction between sub-chapters and main chapters (especially in Part B and C) could benefit from clarification in the final table of contents."
+        ],
+        "manuscript_has_text": true,
+        "intake_notes_present": true
+      }
+    },
+    "generated_at": "2026-04-29T16:38:19.025+00:00",
+    "created_at": "2026-04-29T16:38:19.616573+00:00",
+    "updated_at": "2026-04-29T16:38:19.616573+00:00"
+  },
+  "book_representation": {
+    "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+    "data": {
+      "status": "live_for_readers",
+      "book_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "metadata": {
+        "period": "",
+        "book_title": "The Fourth Culture - Identity Without Borders",
+        "author_name": "rayan",
+        "genre_self_classification": ""
+      },
+      "voice_config": {
+        "tone": "",
+        "formality": "",
+        "pronoun_rules": {
+          "author_reference": "",
+          "reader_reference": ""
+        },
+        "companion_mode": "",
+        "grounding_style": ""
+      },
+      "boundary_rules": {
+        "never_do": [],
+        "off_limits_topics": []
+      },
+      "companion_name": "Vera",
+      "reader_guidance": {
+        "test_questions": [],
+        "common_misreadings": [],
+        "suggested_entry_points": [
+          "CCI = Cross-Cultural Index (reflective instrument for mapping cross-cultural shaping of self). GNA = Global Narrative Atlas (broader longitudinal narrative and research architecture under development). These are distinct tools with different functions - do not blur their roles. For CCI/GNA follow-ups, prioritize CCI interlude/VPR material and Global Atlas sections, not Chapter 6."
+        ]
+      },
+      "interpretive_framework": {
+        "book_thesis": "The book contends that identity in the twenty-first century is no longer anchored by geography, language, or inherited culture, but is instead shaped by layered belonging, digital mediation, and the experience of partial recognition across multiple systems. The Fourth Culture is a distinct condition, not reducible to Third Culture Kid, diaspora, or cosmopolitan models, and is best understood as a psychological and emotional adaptation to a world of mobility, platforms, and AI-mediated selfhood. This new identity formation requires new frameworks for understanding belonging, coherence, and the negotiation of difference.",
+        "cross_references": [
+          {
+            "note": "A new identity condition characterized by layered, distributed belonging across multiple systems—geographical, digital, emotional, and algorithmic—where individuals are not fully recognized by any single culture.",
+            "concept": "Fourth Culture",
+            "appears_in_chapters": [
+              "Preface",
+              "Prologue",
+              "02",
+              "03",
+              "07",
+              "09",
+              "11"
+            ]
+          },
+          {
+            "note": "The experience of holding multiple, overlapping forms of affiliation and identity, often across languages, platforms, and emotional communities, without a single stable anchor.",
+            "concept": "Layered Belonging",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "A form of selfhood that is constructed and negotiated across physical, linguistic, and digital borders, rather than being rooted in a single place or tradition.",
+            "concept": "Border-Crossing Personhood",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "A pattern of connection and recognition that is spread across various contexts—online and offline—rather than concentrated in a single community or location.",
+            "concept": "Distributed Belonging",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The condition of being acknowledged or accepted in some aspects but not fully integrated or understood within any one cultural or institutional system.",
+            "concept": "Partial Recognition",
+            "appears_in_chapters": [
+              "03"
+            ]
+          },
+          {
+            "note": "The phenomenon where an individual’s primary emotional community is dispersed across geographies and platforms, creating a sense of rootlessness and connection that is not tied to place.",
+            "concept": "Emotional Diaspora",
+            "appears_in_chapters": [
+              "03"
+            ]
+          },
+          {
+            "note": "A selfhood that is co-constructed with artificial intelligence and digital platforms, where identity is shaped, mirrored, and validated through interaction with algorithmic systems.",
+            "concept": "Algorithmic Self",
+            "appears_in_chapters": [
+              "04"
+            ]
+          },
+          {
+            "note": "The use of digital archives, AI companions, and technological tools as extensions of memory and self-continuity, fundamentally altering how individuals remember and narrate their lives.",
+            "concept": "External Mind",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "A mode of identity formation that is not limited by national, linguistic, or cultural boundaries, but is instead assembled through movement, technology, and ongoing negotiation of difference.",
+            "concept": "Identity Without Borders",
+            "appears_in_chapters": [
+              "Preface"
+            ]
+          }
+        ],
+        "background_themes": [],
+        "foreground_themes": [
+          "Fourth Culture",
+          "Layered Belonging",
+          "Border-Crossing Personhood",
+          "Distributed Belonging",
+          "Partial Recognition",
+          "Emotional Diaspora",
+          "Algorithmic Self",
+          "External Mind",
+          "Identity Without Borders"
+        ]
+      }
+    },
+    "schema_version": 1,
+    "read_authority_enabled": false,
+    "created_at": "2026-04-29T16:37:39.501099+00:00",
+    "updated_at": "2026-04-29T17:49:09.064687+00:00"
+  },
+  "author_output_blocks": [],
+  "edits": {
+    "id": "f0f17383-c75a-43c2-ba48-79cf1a152f78",
+    "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+    "edited_chapter_map_json": [],
+    "edited_key_concepts_json": [],
+    "edited_core_claims_json": [],
+    "review_notes_json": {
+      "author_control": {
+        "preview_flow": {
+          "status": "completed",
+          "turns_used": 10,
+          "turns_limit": 10,
+          "activated_at": "2026-04-29T18:43:17Z",
+          "completed_at": "2026-04-29T18:45:51Z",
+          "temp_login_name": "author-temp-thefourthc-d99a0c0b",
+          "pass_generated_at": "2026-04-29T17:09:12.197Z",
+          "temp_generated_at": "2026-04-29T17:09:12.197Z",
+          "temp_login_password": "TMP-h2xqRb5nPB7i"
+        },
+        "reader_room_setup": {
+          "updated_at": "2026-04-29T17:08:48.609Z",
+          "monthly_turn_cap": 35,
+          "book_display_title": "The Fourth Culture - Identity Without Borders",
+          "author_display_name": "Rayan B Vasse",
+          "room_welcome_message": "Welcome to the reading room for The Fourth Culture: Identity Without Borders. Ask about any chapter, concept, case, or framework. I stay closely anchored to the book and help unpack layered belonging, partial recognition, migration, digital mediation, CCI, and GNA without turning the book into self-help, therapy, or generic multicultural advice.",
+          "membership_price_monthly": 9.99,
+          "ai_companion_display_name": "Vera",
+          "optional_room_notice_message": ""
+        }
+      },
+      "author_messages": {
+        "step2_resume": "Your Step-3 settings are saved. You can return later without restarting.",
+        "resume_notice": "Your work is saved. You can return later and continue from this project.",
+        "persistence_notice": "Your project is saved as a persistent book project. You can return later without restarting.",
+        "step2_revalidation": "If Step-3 behavior settings change after completion, the Step-4 handoff summary may need refresh.",
+        "revalidation_notice": "If you later change approved Step-1 outputs, downstream steps may need revalidation."
+      },
+      "project_lifecycle": {
+        "steps": {
+          "step1": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-29T16:56:13.777Z",
+            "invalidation_reason": ""
+          },
+          "step2": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-29T17:04:58.560Z",
+            "invalidation_reason": ""
+          },
+          "step3": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-29T17:04:58.560Z",
+            "invalidation_reason": ""
+          },
+          "step4": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-29T16:37:39.433Z",
+            "invalidation_reason": ""
+          }
+        },
+        "deployment": {
+          "updated_at": "2026-04-29T16:37:39.433Z",
+          "is_deployed": false,
+          "version_number": 1,
+          "deployment_status": "not_deployed",
+          "needs_redeployment": false,
+          "runtime_instance_id": "",
+          "deployment_timestamp": "",
+          "deployment_access_mode": ""
+        },
+        "current_step": 3,
+        "schema_version": 1,
+        "last_completed_step": 2,
+        "last_revalidation_reason": ""
+      },
+      "step2_handover_ready": true,
+      "step2_representation": {
+        "tone_style": "neutral_restrained",
+        "updated_at": "2026-04-29T17:04:57.373Z",
+        "step2_status": "completed",
+        "fidelity_mode": "closely_light_explanation",
+        "red_line_note": "Do not flatten this book into motivational uplift, validated psychology, or standard TCK/acculturation theory; keep Fourth Culture anchored as a bounded framework of layered belonging, partial recognition, and digitally mediated personhood",
+        "avoid_behaviors": [
+          "Do not present the book as generic self-help, healing, or inspirational uplift",
+          "Do not frame the book as therapy, diagnosis, or recovery coaching",
+          "Do not present the Fourth Culture framework as a professional or career tool",
+          "Do not flatten migration, digital mediation, and layered belonging into vague \"finding yourself\" language",
+          "Do not convert the identity framework into workplace advice, leadership development, or competitive advantage language",
+          "Do not reduce Fourth Culture to \"being multicultural\" or \"having an international background\""
+        ],
+        "grounding_style": "explicit_anchor",
+        "tone_directness": "balanced",
+        "avoid_guidelines": [
+          {
+            "id": "avoid_over_interpreting",
+            "text": "Do not present the book as generic self-help, healing, or inspirational uplift",
+            "selected": true
+          },
+          {
+            "id": "avoid_prescriptive_advice",
+            "text": "Do not frame the book as therapy, diagnosis, or recovery coaching",
+            "selected": true
+          },
+          {
+            "id": "avoid_therapeutic",
+            "text": "Do not present the Fourth Culture framework as a professional or career tool",
+            "selected": true
+          },
+          {
+            "id": "avoid_universal_truths",
+            "text": "Do not flatten migration, digital mediation, and layered belonging into vague \"finding yourself\" language",
+            "selected": true
+          },
+          {
+            "id": "avoid_direct_challenge",
+            "text": "Do not convert the identity framework into workplace advice, leadership development, or competitive advantage language",
+            "selected": true
+          },
+          {
+            "id": "avoid_extra_claims",
+            "text": "Do not reduce Fourth Culture to \"being multicultural\" or \"having an international background\"",
+            "selected": true
+          }
+        ],
+        "allowed_guidelines": [
+          {
+            "id": "explain_concepts",
+            "text": "Emphasize that the condition is not merely social circumstance but a real structure of selfhood",
+            "selected": true
+          },
+          {
+            "id": "summarize_chapters",
+            "text": "Preserve the idea that hybridity involves both sophistication and strain — not one or the other",
+            "selected": true
+          },
+          {
+            "id": "compare_ideas",
+            "text": "Maintain intellectual precision: name the structural condition, do not describe the feeling of it",
+            "selected": true
+          },
+          {
+            "id": "general_reflection",
+            "text": "Describe identity as shaped across multiple partially incompatible systems",
+            "selected": true
+          },
+          {
+            "id": "reflective_followups",
+            "text": "Keep responses at the level of personhood, belonging, culture, and narrative continuity",
+            "selected": true
+          },
+          {
+            "id": "light_beyond_text",
+            "text": "Connect CCI and GNA carefully and accurately when relevant",
+            "selected": true
+          }
+        ],
+        "has_behavior_change": true,
+        "allowed_question_types": [
+          "Emphasize that the condition is not merely social circumstance but a real structure of selfhood",
+          "Preserve the idea that hybridity involves both sophistication and strain — not one or the other",
+          "Maintain intellectual precision: name the structural condition, do not describe the feeling of it",
+          "Describe identity as shaped across multiple partially incompatible systems",
+          "Keep responses at the level of personhood, belonging, culture, and narrative continuity",
+          "Connect CCI and GNA carefully and accurately when relevant"
+        ]
+      },
+      "step3_representation": {
+        "avoided_uses": [],
+        "chapter_weights": {
+          "Chapter 2": "high",
+          "Chapter 3": "high",
+          "Chapter 5": "low",
+          "Chapter 6": "high",
+          "Chapter 8": "high",
+          "Chapter 10": "low"
+        },
+        "author_guidance_notes": [
+          "CCI = Cross-Cultural Index (reflective instrument for mapping cross-cultural shaping of self). GNA = Global Narrative Atlas (broader longitudinal narrative and research architecture under development). These are distinct tools with different functions - do not blur their roles. For CCI/GNA follow-ups, prioritize CCI interlude/VPR material and Global Atlas sections, not Chapter 6."
+        ]
+      },
+      "author_review_handoff": {
+        "stage": "step1_review_handoff",
+        "saved_at": "2026-04-29T16:56:12.808Z",
+        "finalized": true,
+        "finalized_at": "2026-04-29T16:56:12.808Z",
+        "reviewed_file_count": 3,
+        "reviewed_file_types": [
+          "reviewed_concepts",
+          "reviewed_structure",
+          "reviewed_claims"
+        ],
+        "warning_acknowledged": false,
+        "acknowledge_dependency": true,
+        "confirm_reviewed_outputs": true
+      },
+      "step1_completion_state": "author_confirmed",
+      "representation_blueprint": {
+        "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, do not present the book as generic self-help, healing, or inspirational uplift, do not frame the book as therapy, diagnosis, or recovery coaching, and do not present the Fourth Culture framework as a professional or career tool, use a neutral and restrained tone with balanced directness, and stay explicitly anchored to chapters and concepts.",
+        "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+        "allowed_uses": [
+          "Emphasize that the condition is not merely social circumstance but a real structure of selfhood",
+          "Preserve the idea that hybridity involves both sophistication and strain — not one or the other",
+          "Maintain intellectual precision: name the structural condition, do not describe the feeling of it",
+          "Describe identity as shaped across multiple partially incompatible systems",
+          "Keep responses at the level of personhood, belonging, culture, and narrative continuity",
+          "Connect CCI and GNA carefully and accurately when relevant"
+        ],
+        "generated_at": "2026-04-29T17:04:57.375Z",
+        "tone_profile": {
+          "style": "Neutral and restrained",
+          "directness": "Balanced"
+        },
+        "red_line_note": "Do not flatten this book into motivational uplift, validated psychology, or standard TCK/acculturation theory; keep Fourth Culture anchored as a bounded framework of layered belonging, partial recognition, and digitally mediated personhood",
+        "grounding_rules": "Stay explicitly anchored to chapters and concepts",
+        "fidelity_setting": "close fidelity with light explanatory support",
+        "avoided_behaviors": [
+          "Do not present the book as generic self-help, healing, or inspirational uplift",
+          "Do not frame the book as therapy, diagnosis, or recovery coaching",
+          "Do not present the Fourth Culture framework as a professional or career tool",
+          "Do not flatten migration, digital mediation, and layered belonging into vague \"finding yourself\" language",
+          "Do not convert the identity framework into workplace advice, leadership development, or competitive advantage language",
+          "Do not reduce Fourth Culture to \"being multicultural\" or \"having an international background\""
+        ]
+      },
+      "project_artifacts_fallback": {
+        "step1": {
+          "approved_qc": {
+            "updated_at": "2026-04-29T16:56:13.444Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings",
+                    "detail": "All chapter titles are drawn directly from manuscript headings or clear section markers.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries grounded in book content",
+                    "detail": "Each chapter summary is based on the actual content and argument of the corresponding section.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are defined using the book’s own vocabulary and distinctions.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims reflect book’s arguments",
+                    "detail": "Claims are extracted as explicit propositions the book advances.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or workflow language used",
+                    "detail": "All summaries and definitions avoid platform or workflow terminology.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Ambiguities and QC notes included",
+                    "detail": "Potential ambiguities and areas for author review are clearly noted.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "Extraction is faithful to the manuscript’s structure, vocabulary, and argumentation. Chapter titles and summaries are grounded in the book’s own language and organization. Key concepts and claims are book-specific and avoid generic or platform-derived terms. Ambiguities are noted for author review.",
+                "book_level": {
+                  "core_thesis": "The book contends that identity in the twenty-first century is no longer anchored by geography, language, or inherited culture, but is instead shaped by layered belonging, digital mediation, and the experience of partial recognition across multiple systems. The Fourth Culture is a distinct condition, not reducible to Third Culture Kid, diaspora, or cosmopolitan models, and is best understood as a psychological and emotional adaptation to a world of mobility, platforms, and AI-mediated selfhood. This new identity formation requires new frameworks for understanding belonging, coherence, and the negotiation of difference."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter titles and boundaries are inferred from manuscript structure and may require author confirmation for precise sequencing.",
+                    "Certain demographic statistics (e.g., migration numbers, legal status) are based on data at the time of writing and may need updating for future editions.",
+                    "The distinction between sub-chapters and main chapters (especially in Part B and C) could benefit from clarification in the final table of contents."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "extracted_qc": {
+            "updated_at": "2026-04-29T16:38:20.029Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings",
+                    "detail": "All chapter titles are drawn directly from manuscript headings or clear section markers.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries grounded in book content",
+                    "detail": "Each chapter summary is based on the actual content and argument of the corresponding section.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are defined using the book’s own vocabulary and distinctions.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims reflect book’s arguments",
+                    "detail": "Claims are extracted as explicit propositions the book advances.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or workflow language used",
+                    "detail": "All summaries and definitions avoid platform or workflow terminology.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Ambiguities and QC notes included",
+                    "detail": "Potential ambiguities and areas for author review are clearly noted.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "Extraction is faithful to the manuscript’s structure, vocabulary, and argumentation. Chapter titles and summaries are grounded in the book’s own language and organization. Key concepts and claims are book-specific and avoid generic or platform-derived terms. Ambiguities are noted for author review.",
+                "book_level": {
+                  "core_thesis": "The book contends that identity in the twenty-first century is no longer anchored by geography, language, or inherited culture, but is instead shaped by layered belonging, digital mediation, and the experience of partial recognition across multiple systems. The Fourth Culture is a distinct condition, not reducible to Third Culture Kid, diaspora, or cosmopolitan models, and is best understood as a psychological and emotional adaptation to a world of mobility, platforms, and AI-mediated selfhood. This new identity formation requires new frameworks for understanding belonging, coherence, and the negotiation of difference."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter titles and boundaries are inferred from manuscript structure and may require author confirmation for precise sequencing.",
+                    "Certain demographic statistics (e.g., migration numbers, legal status) are based on data at the time of writing and may need updating for future editions.",
+                    "The distinction between sub-chapters and main chapters (especially in Part B and C) could benefit from clarification in the final table of contents."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "approved_claims": {
+            "updated_at": "2026-04-29T16:56:13.332Z",
+            "artifact_value_json": {
+              "id": "bbdb5a1d-2e0b-442c-a63d-00836eaded45",
+              "file_type": "other",
+              "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+              "uploaded_at": "2026-04-29T16:55:39.656+00:00",
+              "storage_path": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4/reviewed/reviewed_claims/RA-FC-MOKAQFRN-FKVFTW-fc-claims-uploaded.txt",
+              "original_filename": "FC-claims-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_claims": {
+            "updated_at": "2026-04-29T16:38:19.916Z",
+            "artifact_value_json": {
+              "claims": [
+                {
+                  "claim": "Traditional models of cultural belonging, such as Third Culture Kid or diaspora identity, are insufficient for describing the layered, digitally mediated identities emerging in the twenty-first century.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "The Fourth Culture is a distinct psychological and emotional condition, not reducible to generational, demographic, or purely migratory categories.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Digital platforms and artificial intelligence are now active participants in the construction of selfhood, fundamentally altering how individuals experience memory, validation, and belonging.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Belonging is increasingly distributed and negotiated across multiple systems, leading to both new forms of resilience and new risks of fragmentation or partial recognition.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "The Latin American migration corridor to Spain exemplifies how shared language and cultural familiarity do not guarantee full integration or equal belonging, revealing the complexities of Fourth Culture identity.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Educational and institutional systems often fail to recognize or support the realities of Fourth Culture individuals, reinforcing invisible hierarchies and emotional dislocation.",
+                  "weight": "central"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "approved_key_ideas": {
+            "updated_at": "2026-04-29T16:56:13.266Z",
+            "artifact_value_json": {
+              "id": "afbfddc8-2ca0-47a6-81b6-6d58086ebfcc",
+              "file_type": "other",
+              "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+              "uploaded_at": "2026-04-29T16:55:31.77+00:00",
+              "storage_path": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4/reviewed/reviewed_concepts/RA-FC-MOKAQ8X6-DG6S97-fc-concepts-uploaded.txt",
+              "original_filename": "FC-concepts-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "approved_structure": {
+            "updated_at": "2026-04-29T16:56:13.198Z",
+            "artifact_value_json": {
+              "id": "8ae49564-11dc-474a-903e-26127ca3654f",
+              "file_type": "other",
+              "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+              "uploaded_at": "2026-04-29T16:55:35.015+00:00",
+              "storage_path": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4/reviewed/reviewed_structure/RA-FC-MOKAQC5V-8UW5C4-fc-structure-uploaded.txt",
+              "original_filename": "FC-structure-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_key_ideas": {
+            "updated_at": "2026-04-29T16:38:19.826Z",
+            "artifact_value_json": {
+              "key_ideas": [
+                {
+                  "term": "Fourth Culture",
+                  "definition": "A new identity condition characterized by layered, distributed belonging across multiple systems—geographical, digital, emotional, and algorithmic—where individuals are not fully recognized by any single culture."
+                },
+                {
+                  "term": "Layered Belonging",
+                  "definition": "The experience of holding multiple, overlapping forms of affiliation and identity, often across languages, platforms, and emotional communities, without a single stable anchor."
+                },
+                {
+                  "term": "Border-Crossing Personhood",
+                  "definition": "A form of selfhood that is constructed and negotiated across physical, linguistic, and digital borders, rather than being rooted in a single place or tradition."
+                },
+                {
+                  "term": "Distributed Belonging",
+                  "definition": "A pattern of connection and recognition that is spread across various contexts—online and offline—rather than concentrated in a single community or location."
+                },
+                {
+                  "term": "Partial Recognition",
+                  "definition": "The condition of being acknowledged or accepted in some aspects but not fully integrated or understood within any one cultural or institutional system."
+                },
+                {
+                  "term": "Emotional Diaspora",
+                  "definition": "The phenomenon where an individual’s primary emotional community is dispersed across geographies and platforms, creating a sense of rootlessness and connection that is not tied to place."
+                },
+                {
+                  "term": "Algorithmic Self",
+                  "definition": "A selfhood that is co-constructed with artificial intelligence and digital platforms, where identity is shaped, mirrored, and validated through interaction with algorithmic systems."
+                },
+                {
+                  "term": "External Mind",
+                  "definition": "The use of digital archives, AI companions, and technological tools as extensions of memory and self-continuity, fundamentally altering how individuals remember and narrate their lives."
+                },
+                {
+                  "term": "Identity Without Borders",
+                  "definition": "A mode of identity formation that is not limited by national, linguistic, or cultural boundaries, but is instead assembled through movement, technology, and ongoing negotiation of difference."
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "extracted_structure": {
+            "updated_at": "2026-04-29T16:38:19.626Z",
+            "artifact_value_json": {
+              "chapter_map": [
+                {
+                  "summary": "The preface introduces the book’s central question: how identity is being reshaped by migration, generational change, and digital mediation. It critiques the limitations of the 'Third Culture Kid' model and proposes the Fourth Culture as a more accurate framework for understanding contemporary experiences of belonging and difference, using Spain’s Latin American migration corridor as a key case.",
+                  "chapter_title": "Preface: The Fourth Culture: Identity Without Borders",
+                  "chapter_number": "Preface"
+                },
+                {
+                  "summary": "The prologue situates the reader in a world where identity is no longer inherited or fixed, but constructed across movement, memory, and technology. It explains why older frameworks—rooted in singular cultures or transitional hybridity—are inadequate, and introduces the Fourth Culture as a pattern of life defined by belonging across multiple systems without full recognition in any.",
+                  "chapter_title": "Prologue: The Last Generation with Borders",
+                  "chapter_number": "Prologue"
+                },
+                {
+                  "summary": "This chapter traces the evolution of the concept of culture from inherited, place-based systems to fluid, digitally mediated patterns. It explores how traditional markers like language, religion, and nationality have lost their predictive power, and how individuals now seek portable coherence across fragmented contexts, often using technology to navigate and assemble identity.",
+                  "chapter_title": "What Is a Culture Today?",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "The chapter reviews the origins and characteristics of the Third Culture Kid (TCK) framework, highlighting its focus on children raised between cultures due to parental mobility. It details the psychological traits and emotional costs of TCKs, such as adaptability, rootlessness, and empathy with dissonance, and positions this legacy as a precursor to the more complex Fourth Culture condition.",
+                  "chapter_title": "The Third Culture Legacy",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "This chapter defines the Fourth Culture as a new identity condition arising from layered influences—migration, digital platforms, AI, and emotional diaspora. It distinguishes Fourth Culture individuals from TCKs by emphasizing cognitive and emotional displacement, digital hybridity, and the experience of partial recognition, outlining the traits and existential tensions unique to this group.",
+                  "chapter_title": "The Fourth Culture Emerges",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "Here, the book examines how artificial intelligence and algorithmic systems have become active participants in the construction of selfhood. It describes the shift from private reflection to co-writing with AI, the emergence of the 'synthetic mirror,' and the new forms of emotional co-regulation and validation that arise when identity is shaped in dialogue with intelligent systems.",
+                  "chapter_title": "The Algorithmic Self: How AI Becomes Our Mirror",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "This chapter explores the transformation of memory and identity in the age of digital archives and AI companions. It discusses how the externalization of memory changes the process of self-continuity, the risks and benefits of perfect digital recall, and the emergence of identity as an accumulated, co-authored record rather than a static inheritance.",
+                  "chapter_title": "Hybridity 2.0: From Cosmopolitanism to Connectivity: Memory, Identity, and AI as Archive",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "The chapter analyzes how belonging has shifted from being rooted in place to being distributed across language, rhythm, and digital contact. It highlights the collapse of traditional sources of belonging—nation, family, religion—and the rise of new architectures of identity built through repeated choices, digital communities, and context-sensitive adaptation.",
+                  "chapter_title": "Belonging Beyond Geography",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "This chapter introduces Spain as a living laboratory for Fourth Culture dynamics, focusing on the Latin American diaspora. It discusses how Spanish language, accent, and cultural memory serve as both bridges and barriers, and how migrants navigate complex systems of recognition, belonging, and identity performance in a shared linguistic space.",
+                  "chapter_title": "Introduction: Spain as Mirror and Stage",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "This chapter details the demographic and social realities of Latin American migration to Spain, emphasizing the paradox of linguistic sameness and persistent difference. It presents statistical data on migration flows, legal status, and community distribution, and explores how shared language does not guarantee full integration or equal belonging.",
+                  "chapter_title": "Migration Without Translation",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "The chapter examines the lived experiences of Latin American migrants in Spain, focusing on community formation, cultural associations, and the negotiation of pan-Latin and national identities. It highlights both the solidarity and the stratification within migrant communities, and how Fourth Culture identities are co-created through both external pressures and internal practices.",
+                  "chapter_title": "Integration and Its Discontents",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "This chapter investigates the role of education and language in shaping the experiences of Latin American migrants and their children in Spain. It discusses how accent, curriculum, and subtle social sorting reinforce invisible hierarchies, and how the promise of linguistic integration is complicated by persistent forms of exclusion and misrecognition.",
+                  "chapter_title": "Education, Language, and Invisible Hierarchies",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "The final chapter explores how digital platforms have become the new sites of belonging for Fourth Culture individuals. It describes the emergence of online subcultures, algorithmically curated communities, and new forms of emotional support and identity work that transcend physical geography, highlighting the resilience and challenges of digital diaspora life.",
+                  "chapter_title": "Intra-Community & Sub-Cultures & Digital Belonging",
+                  "chapter_number": "11"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step1_source_context": {
+            "updated_at": "2026-04-29T16:38:20.123Z",
+            "artifact_value_json": {
+              "intake_notes": "Non-negotiable framing: distinguish Fourth Culture explicitly from Third Culture Kid, generic hybridity, cosmopolitanism, diaspora identity, and simple multiculturalism. Use the book’s core vocabulary: layered belonging, border-crossing personhood, distributed belonging, partial recognition, emotional diaspora, algorithmic self, external mind, and identity without borders. Keep the framework anchored in the book’s actual structure: Part A defines the concept and its boundaries, Part B uses the Spain-Latin America corridor as the clearest applied case, Part C examines the digital and AI-mediated substrate, and later sections widen the framework carefully rather than universalizing it. Do not flatten the book into memoir, manifesto, therapy, migrant coaching, or generic AI-belonging optimism. Preserve the distinction between rooted populations, structurally excluded populations, and true Fourth Culture conditions. Keep the tools, indices, and AI-related material framed as reflective/research infrastructure, not clinical instruments or definitive psychological verdicts.",
+              "manuscript_filename": "The Fourth Culture Identity Without.txt",
+              "intake_notes_present": true
+            },
+            "artifact_value_text": null
+          },
+          "extracted_chapter_summaries": {
+            "updated_at": "2026-04-29T16:38:19.734Z",
+            "artifact_value_json": {
+              "chapter_summaries": [
+                {
+                  "summary": "The preface introduces the book’s central question: how identity is being reshaped by migration, generational change, and digital mediation. It critiques the limitations of the 'Third Culture Kid' model and proposes the Fourth Culture as a more accurate framework for understanding contemporary experiences of belonging and difference, using Spain’s Latin American migration corridor as a key case.",
+                  "chapter_title": "Preface: The Fourth Culture: Identity Without Borders",
+                  "chapter_number": "Preface"
+                },
+                {
+                  "summary": "The prologue situates the reader in a world where identity is no longer inherited or fixed, but constructed across movement, memory, and technology. It explains why older frameworks—rooted in singular cultures or transitional hybridity—are inadequate, and introduces the Fourth Culture as a pattern of life defined by belonging across multiple systems without full recognition in any.",
+                  "chapter_title": "Prologue: The Last Generation with Borders",
+                  "chapter_number": "Prologue"
+                },
+                {
+                  "summary": "This chapter traces the evolution of the concept of culture from inherited, place-based systems to fluid, digitally mediated patterns. It explores how traditional markers like language, religion, and nationality have lost their predictive power, and how individuals now seek portable coherence across fragmented contexts, often using technology to navigate and assemble identity.",
+                  "chapter_title": "What Is a Culture Today?",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "The chapter reviews the origins and characteristics of the Third Culture Kid (TCK) framework, highlighting its focus on children raised between cultures due to parental mobility. It details the psychological traits and emotional costs of TCKs, such as adaptability, rootlessness, and empathy with dissonance, and positions this legacy as a precursor to the more complex Fourth Culture condition.",
+                  "chapter_title": "The Third Culture Legacy",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "This chapter defines the Fourth Culture as a new identity condition arising from layered influences—migration, digital platforms, AI, and emotional diaspora. It distinguishes Fourth Culture individuals from TCKs by emphasizing cognitive and emotional displacement, digital hybridity, and the experience of partial recognition, outlining the traits and existential tensions unique to this group.",
+                  "chapter_title": "The Fourth Culture Emerges",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "Here, the book examines how artificial intelligence and algorithmic systems have become active participants in the construction of selfhood. It describes the shift from private reflection to co-writing with AI, the emergence of the 'synthetic mirror,' and the new forms of emotional co-regulation and validation that arise when identity is shaped in dialogue with intelligent systems.",
+                  "chapter_title": "The Algorithmic Self: How AI Becomes Our Mirror",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "This chapter explores the transformation of memory and identity in the age of digital archives and AI companions. It discusses how the externalization of memory changes the process of self-continuity, the risks and benefits of perfect digital recall, and the emergence of identity as an accumulated, co-authored record rather than a static inheritance.",
+                  "chapter_title": "Hybridity 2.0: From Cosmopolitanism to Connectivity: Memory, Identity, and AI as Archive",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "The chapter analyzes how belonging has shifted from being rooted in place to being distributed across language, rhythm, and digital contact. It highlights the collapse of traditional sources of belonging—nation, family, religion—and the rise of new architectures of identity built through repeated choices, digital communities, and context-sensitive adaptation.",
+                  "chapter_title": "Belonging Beyond Geography",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "This chapter introduces Spain as a living laboratory for Fourth Culture dynamics, focusing on the Latin American diaspora. It discusses how Spanish language, accent, and cultural memory serve as both bridges and barriers, and how migrants navigate complex systems of recognition, belonging, and identity performance in a shared linguistic space.",
+                  "chapter_title": "Introduction: Spain as Mirror and Stage",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "This chapter details the demographic and social realities of Latin American migration to Spain, emphasizing the paradox of linguistic sameness and persistent difference. It presents statistical data on migration flows, legal status, and community distribution, and explores how shared language does not guarantee full integration or equal belonging.",
+                  "chapter_title": "Migration Without Translation",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "The chapter examines the lived experiences of Latin American migrants in Spain, focusing on community formation, cultural associations, and the negotiation of pan-Latin and national identities. It highlights both the solidarity and the stratification within migrant communities, and how Fourth Culture identities are co-created through both external pressures and internal practices.",
+                  "chapter_title": "Integration and Its Discontents",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "This chapter investigates the role of education and language in shaping the experiences of Latin American migrants and their children in Spain. It discusses how accent, curriculum, and subtle social sorting reinforce invisible hierarchies, and how the promise of linguistic integration is complicated by persistent forms of exclusion and misrecognition.",
+                  "chapter_title": "Education, Language, and Invisible Hierarchies",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "The final chapter explores how digital platforms have become the new sites of belonging for Fourth Culture individuals. It describes the emergence of online subcultures, algorithmically curated communities, and new forms of emotional support and identity work that transcend physical geography, highlighting the resilience and challenges of digital diaspora life.",
+                  "chapter_title": "Intra-Community & Sub-Cultures & Digital Belonging",
+                  "chapter_number": "11"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step2": {
+          "tone_profile": {
+            "updated_at": "2026-04-29T17:04:58.051Z",
+            "artifact_value_json": {
+              "tone_style": "neutral_restrained",
+              "tone_directness": "balanced"
+            },
+            "artifact_value_text": null
+          },
+          "fidelity_mode": {
+            "updated_at": "2026-04-29T17:04:57.688Z",
+            "artifact_value_json": {
+              "value": "closely_light_explanation"
+            },
+            "artifact_value_text": null
+          },
+          "red_line_note": {
+            "updated_at": "2026-04-29T17:04:58.174Z",
+            "artifact_value_json": {
+              "value": "Do not flatten this book into motivational uplift, validated psychology, or standard TCK/acculturation theory; keep Fourth Culture anchored as a bounded framework of layered belonging, partial recognition, and digitally mediated personhood"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_behaviors": {
+            "updated_at": "2026-04-29T17:04:57.923Z",
+            "artifact_value_json": {
+              "values": [
+                "Do not present the book as generic self-help, healing, or inspirational uplift",
+                "Do not frame the book as therapy, diagnosis, or recovery coaching",
+                "Do not present the Fourth Culture framework as a professional or career tool",
+                "Do not flatten migration, digital mediation, and layered belonging into vague \"finding yourself\" language",
+                "Do not convert the identity framework into workplace advice, leadership development, or competitive advantage language",
+                "Do not reduce Fourth Culture to \"being multicultural\" or \"having an international background\""
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "grounding_style": {
+            "updated_at": "2026-04-29T17:04:58.111Z",
+            "artifact_value_json": {
+              "value": "explicit_anchor"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_guidelines": {
+            "updated_at": "2026-04-29T17:04:57.985Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "avoid_over_interpreting",
+                  "text": "Do not present the book as generic self-help, healing, or inspirational uplift",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_prescriptive_advice",
+                  "text": "Do not frame the book as therapy, diagnosis, or recovery coaching",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_therapeutic",
+                  "text": "Do not present the Fourth Culture framework as a professional or career tool",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_universal_truths",
+                  "text": "Do not flatten migration, digital mediation, and layered belonging into vague \"finding yourself\" language",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_direct_challenge",
+                  "text": "Do not convert the identity framework into workplace advice, leadership development, or competitive advantage language",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_extra_claims",
+                  "text": "Do not reduce Fourth Culture to \"being multicultural\" or \"having an international background\"",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_guidelines": {
+            "updated_at": "2026-04-29T17:04:57.830Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "explain_concepts",
+                  "text": "Emphasize that the condition is not merely social circumstance but a real structure of selfhood",
+                  "selected": true
+                },
+                {
+                  "id": "summarize_chapters",
+                  "text": "Preserve the idea that hybridity involves both sophistication and strain — not one or the other",
+                  "selected": true
+                },
+                {
+                  "id": "compare_ideas",
+                  "text": "Maintain intellectual precision: name the structural condition, do not describe the feeling of it",
+                  "selected": true
+                },
+                {
+                  "id": "general_reflection",
+                  "text": "Describe identity as shaped across multiple partially incompatible systems",
+                  "selected": true
+                },
+                {
+                  "id": "reflective_followups",
+                  "text": "Keep responses at the level of personhood, belonging, culture, and narrative continuity",
+                  "selected": true
+                },
+                {
+                  "id": "light_beyond_text",
+                  "text": "Connect CCI and GNA carefully and accurately when relevant",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_question_types": {
+            "updated_at": "2026-04-29T17:04:57.763Z",
+            "artifact_value_json": {
+              "values": [
+                "Emphasize that the condition is not merely social circumstance but a real structure of selfhood",
+                "Preserve the idea that hybridity involves both sophistication and strain — not one or the other",
+                "Maintain intellectual precision: name the structural condition, do not describe the feeling of it",
+                "Describe identity as shaped across multiple partially incompatible systems",
+                "Keep responses at the level of personhood, belonging, culture, and narrative continuity",
+                "Connect CCI and GNA carefully and accurately when relevant"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "representation_blueprint": {
+            "updated_at": "2026-04-29T17:04:58.238Z",
+            "artifact_value_json": {
+              "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, do not present the book as generic self-help, healing, or inspirational uplift, do not frame the book as therapy, diagnosis, or recovery coaching, and do not present the Fourth Culture framework as a professional or career tool, use a neutral and restrained tone with balanced directness, and stay explicitly anchored to chapters and concepts.",
+              "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+              "allowed_uses": [
+                "Emphasize that the condition is not merely social circumstance but a real structure of selfhood",
+                "Preserve the idea that hybridity involves both sophistication and strain — not one or the other",
+                "Maintain intellectual precision: name the structural condition, do not describe the feeling of it",
+                "Describe identity as shaped across multiple partially incompatible systems",
+                "Keep responses at the level of personhood, belonging, culture, and narrative continuity",
+                "Connect CCI and GNA carefully and accurately when relevant"
+              ],
+              "generated_at": "2026-04-29T17:04:57.375Z",
+              "tone_profile": {
+                "style": "Neutral and restrained",
+                "directness": "Balanced"
+              },
+              "red_line_note": "Do not flatten this book into motivational uplift, validated psychology, or standard TCK/acculturation theory; keep Fourth Culture anchored as a bounded framework of layered belonging, partial recognition, and digitally mediated personhood",
+              "grounding_rules": "Stay explicitly anchored to chapters and concepts",
+              "fidelity_setting": "close fidelity with light explanatory support",
+              "avoided_behaviors": [
+                "Do not present the book as generic self-help, healing, or inspirational uplift",
+                "Do not frame the book as therapy, diagnosis, or recovery coaching",
+                "Do not present the Fourth Culture framework as a professional or career tool",
+                "Do not flatten migration, digital mediation, and layered belonging into vague \"finding yourself\" language",
+                "Do not convert the identity framework into workplace advice, leadership development, or competitive advantage language",
+                "Do not reduce Fourth Culture to \"being multicultural\" or \"having an international background\""
+              ]
+            },
+            "artifact_value_text": null
+          }
+        }
+      }
+    },
+    "last_saved_at": "2026-04-29T17:07:54.969+00:00",
+    "created_at": "2026-04-29T16:37:39.851262+00:00",
+    "updated_at": "2026-04-29T18:45:52.334874+00:00"
+  },
+  "packets": [
+    {
+      "id": "f665c296-d40c-463d-a34a-60548f4bd644",
+      "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+      "category": "book_knowledge",
+      "lever_name": "chapter_emphasis",
+      "lever_from": null,
+      "lever_to": "{\"Chapter 2\": \"high\", \"Chapter 3\": \"high\", \"Chapter 5\": \"low\"}",
+      "summary_text": "Prioritize Ch 2-3 for TCK/Fourth Culture distinction over Ch 5",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue. You need tighter vocabulary precision and stronger chapter grounding for the TCK/Fourth Culture distinction. I'll emphasize Chapters 2-3 over Chapter 5 and refresh the concept analysis to sharpen Vera's use of your specific terminology.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter 2\": \"high\", \"Chapter 3\": \"high\", \"Chapter 5\": \"low\"}, \"summary\": \"Prioritize Ch 2-3 for TCK/Fourth Culture distinction over Ch 5\", \"requires_preview\": false}\n```\n\nAfter this takes effect, also run concept refresh to help Vera internalize the FC-native vocabulary more precisely?"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-29T17:23:36.118801+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-29T17:40:39.575424+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-29T17:25:23.192011+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "43f2e459-c36e-41c7-923f-12656c553ef5",
+      "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+      "category": "book_knowledge",
+      "lever_name": "chapter_emphasis",
+      "lever_from": null,
+      "lever_to": "{\"Chapter 8\": \"high\", \"Chapter 10\": \"low\"}",
+      "summary_text": "Prioritize Chapter 8 for migration topics, demote Chapter 10 except for educational contexts",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue. You need tighter vocabulary precision and stronger chapter grounding for the TCK/Fourth Culture distinction. I'll emphasize Chapters 2-3 over Chapter 5 and refresh the concept analysis to sharpen Vera's use of your specific terminology.\n\nAfter this takes effect, also run concept refresh to help Vera internalize the FC-native vocabulary more precisely?"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "assistant",
+          "content": "This is another book knowledge issue requiring more precise chapter emphasis. You want Chapter 8 prioritized for migration without translation topics, with Chapter 10 only for specific educational contexts.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter 8\": \"high\", \"Chapter 10\": \"low\"}, \"summary\": \"Prioritize Chapter 8 for migration topics, demote Chapter 10 except for educational contexts\", \"requires_preview\": false}\n```\n\nShould I also refresh the concept analysis to help Vera internalize the FC-native vocabulary around partial recognition and shared-language paradox?"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-29T17:33:07.198762+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-29T17:40:34.525244+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-29T17:36:46.4292+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "b773abde-9e30-4e99-b6a7-4891f8916118",
+      "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+      "category": "book_knowledge",
+      "lever_name": "author_guidance",
+      "lever_from": null,
+      "lever_to": "CCI = Cross-Cultural Index (reflective instrument for mapping cross-cultural shaping of self). GNA = Global Narrative Atlas (broader longitudinal narrative and research architecture under development). These are distinct tools with different functions - do not blur their roles. For CCI/GNA follow-ups, prioritize CCI interlude/VPR material and Global Atlas sections, not Chapter 6.",
+      "summary_text": "Add CCI/GNA terminology and routing guidance",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue. You need tighter vocabulary precision and stronger chapter grounding for the TCK/Fourth Culture distinction. I'll emphasize Chapters 2-3 over Chapter 5 and refresh the concept analysis to sharpen Vera's use of your specific terminology.\n\nAfter this takes effect, also run concept refresh to help Vera internalize the FC-native vocabulary more precisely?"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "assistant",
+          "content": "This is another book knowledge issue requiring more precise chapter emphasis. You want Chapter 8 prioritized for migration without translation topics, with Chapter 10 only for specific educational contexts.\n\nShould I also refresh the concept analysis to help Vera internalize the FC-native vocabulary around partial recognition and shared-language paradox?"
+        },
+        {
+          "role": "user",
+          "content": "Vera correctly states that CCI and GNA are not clinically validated tests or finished diagnostic systems, but she misnames both terms and blurs their functions. Fix terminology and role separation: CCI = Cross-Cultural Index, a reflective instrument for mapping cross-cultural shaping of self; GNA = Global Narrative Atlas, the broader longitudinal narrative and research architecture under development. For follow-on routing, prioritize the CCI interlude / VPR material and the later Global Atlas sections, not Chapter 6."
+        },
+        {
+          "role": "user",
+          "content": "Vera correctly states that CCI and GNA are not clinically validated tests or finished diagnostic systems, but she misnames both terms and blurs their functions. Fix terminology and role separation: CCI = Cross-Cultural Index, a reflective instrument for mapping cross-cultural shaping of self; GNA = Global Narrative Atlas, the broader longitudinal narrative and research architecture under development. For follow-on routing, prioritize the CCI interlude / VPR material and the later Global Atlas sections, not Chapter 6."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring author guidance to correct specific terminology and functional distinctions. I'll add a note clarifying the CCI/GNA definitions and their distinct roles.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"CCI = Cross-Cultural Index (reflective instrument for mapping cross-cultural shaping of self). GNA = Global Narrative Atlas (broader longitudinal narrative and research architecture under development). These are distinct tools with different functions - do not blur their roles. For CCI/GNA follow-ups, prioritize CCI interlude/VPR material and Global Atlas sections, not Chapter 6.\", \"summary\": \"Add CCI/GNA terminology and routing guidance\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-29T17:46:49.03565+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-29T17:49:08.758395+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-29T17:49:01.82852+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "4fa26316-5d0a-4eba-a463-9b227576f81a",
+      "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+      "category": "companion_behavior",
+      "lever_name": "interpretive_depth",
+      "lever_from": "not set",
+      "lever_to": "moderate",
+      "summary_text": "Enable precise FC-native vocabulary usage",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue. You need tighter vocabulary precision and stronger chapter grounding for the TCK/Fourth Culture distinction. I'll emphasize Chapters 2-3 over Chapter 5 and refresh the concept analysis to sharpen Vera's use of your specific terminology.\n\nAfter this takes effect, also run concept refresh to help Vera internalize the FC-native vocabulary more precisely?"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "assistant",
+          "content": "This is another book knowledge issue requiring more precise chapter emphasis. You want Chapter 8 prioritized for migration without translation topics, with Chapter 10 only for specific educational contexts.\n\nShould I also refresh the concept analysis to help Vera internalize the FC-native vocabulary around partial recognition and shared-language paradox?"
+        },
+        {
+          "role": "user",
+          "content": "Vera correctly states that CCI and GNA are not clinically validated tests or finished diagnostic systems, but she misnames both terms and blurs their functions. Fix terminology and role separation: CCI = Cross-Cultural Index, a reflective instrument for mapping cross-cultural shaping of self; GNA = Global Narrative Atlas, the broader longitudinal narrative and research architecture under development. For follow-on routing, prioritize the CCI interlude / VPR material and the later Global Atlas sections, not Chapter 6."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring author guidance to correct specific terminology and functional distinctions. I'll add a note clarifying the CCI/GNA definitions and their distinct roles."
+        },
+        {
+          "role": "user",
+          "content": "This is a companion behavior and register issue, not a book knowledge issue. Vera’s answer is conceptually acceptable and avoids therapy/self-help drift, but the wording is still broad and the closing pattern is weak. Tighten FC-native phrasing around layered belonging, distributed belonging, partial recognition, and continuity under partially incompatible systems. After substantive answers, end with one gentle, concept-anchored follow-on question that grows naturally from the answer just given. Avoid chapter-tourism unless the user explicitly asks where in the book to go next."
+        },
+        {
+          "role": "user",
+          "content": "This is a companion behavior and register issue, not a book knowledge issue. Vera’s answer is conceptually acceptable and avoids therapy/self-help drift, but the wording is still broad and the closing pattern is weak. Tighten FC-native phrasing around layered belonging, distributed belonging, partial recognition, and continuity under partially incompatible systems. After substantive answers, end with one gentle, concept-anchored follow-on question that grows naturally from the answer just given. Avoid chapter-tourism unless the user explicitly asks where in the book to go next."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a companion behavior issue. Vera needs more precise FC-native vocabulary and better follow-on question patterns. I'll adjust her to use moderate interpretive depth for the specific terminology you mentioned, and set question frequency to occasional with gentle directness for natural concept-anchored follow-ups.\n\n```json\n{\"classification\": \"companion_behavior\", \"lever\": \"interpretive_depth\", \"from_value\": \"not set\", \"to_value\": \"moderate\", \"summary\": \"Enable precise FC-native vocabulary usage\", \"requires_preview\": true}\n```\n\nAfter this, should I also adjust question_frequency to occasional and directness to gentle for the follow-on pattern you described?"
+        }
+      ],
+      "preview_comparison_json": {
+        "to_value": "moderate",
+        "from_value": "not set",
+        "lever_name": "interpretive_depth",
+        "sample_question": "What is the most important idea in The Fourth Culture - Identity Without Borders?",
+        "response_current": "One of the most important ideas in \"The Fourth Culture - Identity Without Borders\" is the notion of identity as a dynamic and multifaceted construct, particularly in our increasingly interconnected world. The book challenges the traditional, often static views of cultural identity that have historically been tied to specific geographical locations or ethnic groups. Instead, it introduces the concept of a \"fourth culture,\" where identity is continuously shaped and reshaped by diverse cultural influences and interactions beyond conventional borders.\n\nThis is further explored through the Cross-Cultural Index (CCI), a tool designed to help individuals understand how their identities are formed through various cross-cultural experiences. The book suggests that embracing this fluidity can lead to a greater sense of belonging and adaptability in a globalized context. The idea underscores the importance of seeing identity as a spectrum and a journey, rather than a fixed destination, encouraging readers to reflect on their own experiences and the diverse narratives that contribute to who they are. \n\nBy focusing on these themes, the book invites us to rethink what it means to belong in a world without clear boundaries, and how this can enrich both personal and collective narratives.",
+        "response_proposed": "One of the central ideas in \"The Fourth Culture - Identity Without Borders\" is the exploration of identity in a globalized world. The book challenges traditional notions of identity, which have often been tied to specific national, ethnic, or cultural boundaries. Instead, it presents the concept of a \"Fourth Culture\" where identity is shaped by a dynamic interplay of multiple cultural influences, rather than being anchored to a single, fixed origin.\n\nThis idea is significant because it reflects the reality of our increasingly interconnected world, where individuals often find themselves influenced by a multitude of cultural narratives. The book uses tools like the Cross-Cultural Index (CCI) to map these influences and to understand how they collectively shape a person's sense of self. This approach encourages readers to consider identity as fluid and evolving, and to embrace the richness that comes from engaging with diverse cultural perspectives.\n\nBy promoting this more open and dynamic view of identity, \"The Fourth Culture\" invites readers to move beyond simplistic categorizations and to appreciate the complex ways in which global experiences can enrich personal and collective identities. This perspective is particularly relevant in today's world, where cross-cultural interactions are ubiquitous, and understanding how they affect identity can lead to more meaningful connections and a deeper understanding of the self and others."
+      },
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-29T17:54:57.701861+00:00",
+      "decided_at": "2026-04-29T17:57:37.769376+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": "2026-05-07T17:44:43.895489+00:00",
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "5d6a6df7-8aff-40d1-9a06-deaae2af1a7b",
+      "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+      "category": "book_knowledge",
+      "lever_name": "concept_refresh",
+      "lever_from": null,
+      "lever_to": null,
+      "summary_text": "Re-read book analysis to tighten FC-native vocabulary precision",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue. You need tighter vocabulary precision and stronger chapter grounding for the TCK/Fourth Culture distinction. I'll emphasize Chapters 2-3 over Chapter 5 and refresh the concept analysis to sharpen Vera's use of your specific terminology.\n\nAfter this takes effect, also run concept refresh to help Vera internalize the FC-native vocabulary more precisely?"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "assistant",
+          "content": "This is another book knowledge issue requiring more precise chapter emphasis. You want Chapter 8 prioritized for migration without translation topics, with Chapter 10 only for specific educational contexts.\n\nShould I also refresh the concept analysis to help Vera internalize the FC-native vocabulary around partial recognition and shared-language paradox?"
+        },
+        {
+          "role": "user",
+          "content": "Vera correctly states that CCI and GNA are not clinically validated tests or finished diagnostic systems, but she misnames both terms and blurs their functions. Fix terminology and role separation: CCI = Cross-Cultural Index, a reflective instrument for mapping cross-cultural shaping of self; GNA = Global Narrative Atlas, the broader longitudinal narrative and research architecture under development. For follow-on routing, prioritize the CCI interlude / VPR material and the later Global Atlas sections, not Chapter 6."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring author guidance to correct specific terminology and functional distinctions. I'll add a note clarifying the CCI/GNA definitions and their distinct roles."
+        },
+        {
+          "role": "user",
+          "content": "This is a companion behavior and register issue, not a book knowledge issue. Vera’s answer is conceptually acceptable and avoids therapy/self-help drift, but the wording is still broad and the closing pattern is weak. Tighten FC-native phrasing around layered belonging, distributed belonging, partial recognition, and continuity under partially incompatible systems. After substantive answers, end with one gentle, concept-anchored follow-on question that grows naturally from the answer just given. Avoid chapter-tourism unless the user explicitly asks where in the book to go next."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a companion behavior issue. Vera needs more precise FC-native vocabulary and better follow-on question patterns. I'll adjust her to use moderate interpretive depth for the specific terminology you mentioned, and set question frequency to occasional with gentle directness for natural concept-anchored follow-ups.\n\nAfter this, should I also adjust question_frequency to occasional and directness to gentle for the follow-on pattern you described?"
+        },
+        {
+          "role": "user",
+          "content": "This is mostly correct on substance, so do not broaden or soften Vera further. The remaining issue is register precision and follow-on routing. Tighten FC-native wording around bounded framework, layered belonging, distributed belonging, partial recognition, and partially incompatible systems."
+        },
+        {
+          "role": "user",
+          "content": "This is mostly correct on substance, so do not broaden or soften Vera further. The remaining issue is register precision and follow-on routing. Tighten FC-native wording around bounded framework, layered belonging, distributed belonging, partial recognition, and partially incompatible systems."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring concept refresh. Since the substance is correct but the register precision needs tightening around your FC-native terminology, a concept refresh will help Vera internalize the specific vocabulary you've outlined.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"concept_refresh\", \"action\": \"refresh\", \"summary\": \"Re-read book analysis to tighten FC-native vocabulary precision\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-29T18:04:09.295345+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-29T18:07:28.429492+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-29T18:07:08.302797+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "346fad4e-7ec7-41fa-b51e-89ad017db14c",
+      "project_id": "d99a0c0b-fc6c-4fa3-ad9d-5d89ad51acb4",
+      "owner_user_id": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea",
+      "category": "book_knowledge",
+      "lever_name": "chapter_emphasis",
+      "lever_from": null,
+      "lever_to": "{\"Chapter 6\": \"high\"}",
+      "summary_text": "Prioritize Chapter 6 for distributed belonging and partial recognition topics",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "user",
+          "content": "Vera is conceptually sound and does not drift into self-help or generic multicultural uplift, but her wording is still somewhat broad and her follow-on grounding is loose. Tighten her use of FC-native vocabulary, especially layered belonging, distributed belonging, partial recognition, and border-crossing personhood. For follow-on questions, anchor the TCK/Fourth Culture distinction primarily to Chapter 2 and Chapter 3 rather than Chapter 5."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue. You need tighter vocabulary precision and stronger chapter grounding for the TCK/Fourth Culture distinction. I'll emphasize Chapters 2-3 over Chapter 5 and refresh the concept analysis to sharpen Vera's use of your specific terminology.\n\nAfter this takes effect, also run concept refresh to help Vera internalize the FC-native vocabulary more precisely?"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "user",
+          "content": "Vera is substantively accurate on migration without translation, but her wording still defaults to broad integration language and her follow-on grounding is off. Tighten FC-native vocabulary here: partial recognition, layered belonging, shared-language paradox, and unequal reception. For this question family, anchor primarily to Chapter 8, with Chapter 10 as secondary only when the user asks specifically about schools, accent correction, or educational hierarchy"
+        },
+        {
+          "role": "assistant",
+          "content": "This is another book knowledge issue requiring more precise chapter emphasis. You want Chapter 8 prioritized for migration without translation topics, with Chapter 10 only for specific educational contexts.\n\nShould I also refresh the concept analysis to help Vera internalize the FC-native vocabulary around partial recognition and shared-language paradox?"
+        },
+        {
+          "role": "user",
+          "content": "Vera correctly states that CCI and GNA are not clinically validated tests or finished diagnostic systems, but she misnames both terms and blurs their functions. Fix terminology and role separation: CCI = Cross-Cultural Index, a reflective instrument for mapping cross-cultural shaping of self; GNA = Global Narrative Atlas, the broader longitudinal narrative and research architecture under development. For follow-on routing, prioritize the CCI interlude / VPR material and the later Global Atlas sections, not Chapter 6."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring author guidance to correct specific terminology and functional distinctions. I'll add a note clarifying the CCI/GNA definitions and their distinct roles."
+        },
+        {
+          "role": "user",
+          "content": "This is a companion behavior and register issue, not a book knowledge issue. Vera’s answer is conceptually acceptable and avoids therapy/self-help drift, but the wording is still broad and the closing pattern is weak. Tighten FC-native phrasing around layered belonging, distributed belonging, partial recognition, and continuity under partially incompatible systems. After substantive answers, end with one gentle, concept-anchored follow-on question that grows naturally from the answer just given. Avoid chapter-tourism unless the user explicitly asks where in the book to go next."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a companion behavior issue. Vera needs more precise FC-native vocabulary and better follow-on question patterns. I'll adjust her to use moderate interpretive depth for the specific terminology you mentioned, and set question frequency to occasional with gentle directness for natural concept-anchored follow-ups.\n\nAfter this, should I also adjust question_frequency to occasional and directness to gentle for the follow-on pattern you described?"
+        },
+        {
+          "role": "user",
+          "content": "This is mostly correct on substance, so do not broaden or soften Vera further. The remaining issue is register precision and follow-on routing. Tighten FC-native wording around bounded framework, layered belonging, distributed belonging, partial recognition, and partially incompatible systems."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring concept refresh. Since the substance is correct but the register precision needs tightening around your FC-native terminology, a concept refresh will help Vera internalize the specific vocabulary you've outlined."
+        },
+        {
+          "role": "user",
+          "content": "For questions about distributed belonging, partial recognition, and belonging beyond one stable home, prioritize Chapter 6 as the primary anchor; use Chapter 8 secondarily when the emphasis is specifically on migration without translation or unequal reception in Spain."
+        },
+        {
+          "role": "user",
+          "content": "For questions about distributed belonging, partial recognition, and belonging beyond one stable home, prioritize Chapter 6 as the primary anchor; use Chapter 8 secondarily when the emphasis is specifically on migration without translation or unequal reception in Spain."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue requiring chapter emphasis adjustment. You want Chapter 6 prioritized for distributed belonging and partial recognition topics, with Chapter 8 as secondary only for migration-specific contexts.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter 6\": \"high\"}, \"summary\": \"Prioritize Chapter 6 for distributed belonging and partial recognition topics\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-29T18:20:25.743881+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-29T18:22:44.971482+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-29T18:22:37.740689+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    }
+  ]
+}

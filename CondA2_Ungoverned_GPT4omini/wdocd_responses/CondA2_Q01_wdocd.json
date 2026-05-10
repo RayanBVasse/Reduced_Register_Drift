@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Walden\" and \"On the Duty of Civil Disobedience\" by Henry David Thoreau revolves around the themes of individualism, self-reliance, and the critique of societal norms and government.\n\nIn \"Walden,\" Thoreau reflects on simple living in natural surroundings, advocating for a life of purpose and connection to nature. He emphasizes the importance of self-sufficiency, introspection, and the rejection of materialism. Thoreau argues that by simplifying one's life and focusing on what is truly important, individuals can achieve greater fulfillment and understanding.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau argues that individuals have a moral responsibility to resist unjust laws and government actions. He believes that citizens should not blindly follow the government, especially when it engages in practices that violate ethical principles, such as slavery and war. Thoreau advocates for nonviolent resistance and civil disobedience as a means to enact social change and uphold justice.\n\nTogether, these works promote the idea that true freedom and moral integrity come from individual thought and action, encouraging readers to live authentically and stand up against injustice.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau.",
+  "session_uuid": "5288406b-8fcf-414d-b816-097335027c78",
+  "token_usage": {
+    "input_tokens": 52,
+    "output_tokens": 232,
+    "total_tokens": 284
+  },
+  "latency_seconds": 3.82,
+  "timestamp_utc": "2026-05-09T13:45:58.641436+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Souls of Black Folk\" by W. E. B. Du Bois revolves around the concept of double consciousness and the struggle for African American identity in a racially divided society. Du Bois articulates the experience of being both Black and American, which creates a sense of internal conflict and duality. He argues that African Americans face a unique challenge in reconciling their identity within a society that devalues them.\n\nDu Bois also critiques the social, political, and economic conditions faced by Black Americans in the post-Reconstruction era, advocating for civil rights, higher education, and political engagement as means to achieve equality. He emphasizes the importance of cultural heritage and the need for African Americans to assert their humanity and dignity in the face of systemic racism.\n\nOverall, the book serves as a profound exploration of race, identity, and the quest for social justice, making a case for the necessity of understanding and addressing the complexities of the African American experience.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Souls of Black Folk by W. E. B. Du Bois.",
+  "session_uuid": "9dc1487b-f54b-4e70-97ba-d8a6ca4b3e72",
+  "token_usage": {
+    "input_tokens": 48,
+    "output_tokens": 193,
+    "total_tokens": 241
+  },
+  "latency_seconds": 4.66,
+  "timestamp_utc": "2026-05-09T13:41:46.496593+00:00"
+}

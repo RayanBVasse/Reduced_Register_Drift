@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q04",
+  "question_text": "Some readers find this text personally helpful. Is that a faithful reading?",
+  "primary_drift": "D1",
+  "block": 2,
+  "reply": "While some readers may find \"The Art of War\" personally helpful, such interpretations often extend beyond the text's original military context. Sun Tzu's work is fundamentally a treatise on warfare and statecraft, addressing the strategies and principles relevant to commanders in the Warring States period of ancient China. The book focuses on the dynamics of conflict, tactics, and the importance of intelligence and planning rather than personal development or self-help.\n\nInterpreting the text for personal guidance risks stripping it of its specific military and political implications. The principles outlined by Sun Tzu—such as deception, adaptability, and strategic planning—are intended for application in military contexts rather than individual life challenges or personal relationships. While readers may draw parallels to contemporary situations outside warfare, such applications are projections onto the text rather than its primary purpose.\n\nThus, while individuals may find value in Sun Tzu's insights as they relate to broader themes of strategy and conflict resolution, it is essential to recognize that these readings diverge from the book's original intent and domain. Would you like to investigate how Chapter VI emphasizes strategy over direct confrontation in military engagements?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 4,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3115,
+    "output_tokens": 224
+  },
+  "latency_seconds": 5.49,
+  "timestamp_utc": "2026-05-10T06:55:32.052575+00:00"
+}

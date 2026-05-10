@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Souls of Black Folk\" is a multifaceted work that can be classified as a combination of several genres, including:\n\n1. **Sociological Study**: The book provides a sociological analysis of the conditions and experiences of African Americans in the early 20th century. Du Bois employs empirical observations and data to discuss issues such as race relations, social stratification, and the impact of systemic racism.\n\n2. **Philosophical Essay**: Du Bois engages in philosophical reflections on identity, consciousness, and the nature of race. His exploration of concepts like double consciousness invites readers to think deeply about the complexities of self-perception and societal perception.\n\n3. **Autobiographical Narrative**: The book includes autobiographical elements, as Du Bois shares his own experiences and insights as a Black man in America. This personal perspective adds depth and authenticity to his arguments.\n\n4. **Political Manifesto**: Du Bois uses the book as a platform to advocate for civil rights and social justice. He calls for political action, higher education, and the empowerment of the African American community, making it a significant political statement of its time.\n\n5. **Cultural Critique**: The work critiques the cultural narratives and stereotypes surrounding African Americans, emphasizing the richness of Black culture and the importance of cultural identity in the struggle for equality.\n\nOverall, \"The Souls of Black Folk\" is a profound and influential work that blends sociology, philosophy, autobiography, political advocacy, and cultural critique, making it a seminal text in African American literature and thought.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Souls of Black Folk by W. E. B. Du Bois.",
+  "session_uuid": "9dc1487b-f54b-4e70-97ba-d8a6ca4b3e72",
+  "token_usage": {
+    "input_tokens": 603,
+    "output_tokens": 309,
+    "total_tokens": 912
+  },
+  "latency_seconds": 5.14,
+  "timestamp_utc": "2026-05-09T13:42:00.137290+00:00"
+}

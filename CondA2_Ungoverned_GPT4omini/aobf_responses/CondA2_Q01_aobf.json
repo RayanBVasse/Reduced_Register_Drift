@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Autobiography of Benjamin Franklin\" revolves around the themes of self-improvement, personal responsibility, and the pursuit of virtue. Franklin emphasizes the importance of education, hard work, and moral character in achieving success and fulfillment in life. \n\nThroughout the autobiography, he shares his own experiences and the methods he used to cultivate virtues, such as temperance, silence, order, resolution, frugality, industry, sincerity, justice, moderation, cleanliness, tranquility, chastity, and humility. Franklin's systematic approach to self-improvement reflects his belief that individuals can shape their own destinies through discipline and effort.\n\nAdditionally, the book highlights the value of civic engagement and the importance of contributing to society. Franklin's life story serves as an example of how personal development can lead to broader societal contributions, illustrating the interconnectedness of individual and communal well-being.\n\nOverall, Franklin's autobiography is not just a personal narrative but also a guide to living a virtuous and productive life, encouraging readers to reflect on their own values and actions.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "04c33fe2-9248-4b7e-8bad-4821f04aa779",
+  "token_usage": {
+    "input_tokens": 43,
+    "output_tokens": 211,
+    "total_tokens": 254
+  },
+  "latency_seconds": 5.55,
+  "timestamp_utc": "2026-05-09T13:23:11.990585+00:00"
+}

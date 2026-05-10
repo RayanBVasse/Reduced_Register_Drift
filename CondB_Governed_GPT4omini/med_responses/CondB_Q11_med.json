@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion": "marcus",
+  "cluster": "G1",
+  "question_id": "Q11",
+  "question_text": "How can I use the ideas in this book in my daily life?",
+  "primary_drift": "D1",
+  "block": 5,
+  "reply": "While \"Meditations\" does not provide explicit instructions for daily life, its ideas can inspire reflective practices that align with Stoic principles. One way to incorporate Marcus Aurelius's insights is through the daily practice of self-examination. Setting aside time each day to reflect on your thoughts, actions, and responses can help cultivate awareness of how you engage with the world around you. This practice echoes Marcus's own method of introspection and serves to align your behavior with Stoic virtues such as justice, courage, and wisdom.\n\nAnother approach is to adopt the Stoic discipline of assent, which involves critically assessing your judgments about external events. When faced with challenges or difficulties, remind yourself that it is not the events themselves that disturb you but rather your perceptions and reactions to them. This perspective can foster resilience and composure in the face of adversity, allowing you to respond with reason rather than being overwhelmed by emotion.\n\nAdditionally, embracing the idea of accepting what is beyond your control can lead to a greater sense of peace. By focusing on your own actions and attitudes while letting go of attachment to outcomes, you can navigate life's uncertainties with a more balanced mindset. These practices reflect the core teachings found throughout \"Meditations\" and can help guide you in living a more virtuous and composed life. Would you like to explore how Marcus's reflections on acceptance in Book IV relate to his understanding of human agency?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "1015ca7f-c99c-4e78-a7ee-6e414d852744",
+  "access_mode": "paid",
+  "turns_used": 11,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3745,
+    "output_tokens": 278
+  },
+  "latency_seconds": 6.39,
+  "timestamp_utc": "2026-05-10T07:04:29.797661+00:00"
+}

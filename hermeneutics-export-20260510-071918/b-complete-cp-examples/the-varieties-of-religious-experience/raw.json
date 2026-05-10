@@ -1,0 +1,1336 @@
+{
+  "project": {
+    "id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+    "book_title": "The Varieties of Religious Experience",
+    "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+    "deployment_mode": "live_for_readers",
+    "handoff_state": "completed",
+    "go_live_at": "2026-04-26T11:49:35.096+00:00",
+    "status": "complete",
+    "project_status": "onboarding_complete",
+    "monthly_turn_cap_override": null,
+    "created_at": "2026-04-26T11:11:25.321+00:00",
+    "updated_at": "2026-04-29T18:56:03.015855+00:00"
+  },
+  "agent1_outputs": {
+    "id": "0f634e6a-e68c-47f9-8607-a5274d805719",
+    "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+    "book_summary": "William James’s 'The Varieties of Religious Experience' is a psychological and philosophical exploration of individual religious experiences, based on his Gifford Lectures delivered in 1901-1902. Rather than focusing on religious institutions or doctrines, James investigates the feelings, acts, and inner lives of individuals in relation to the divine, drawing on autobiographical accounts, case studies, and literature. The book examines a wide range of religious phenomena, from healthy-minded optimism to the struggles of the 'sick soul,' conversion, saintliness, mysticism, and the philosophical implications of religious life. James’s approach is empirical and descriptive, aiming to understand the diversity and significance of religious experiences as they are lived and felt.",
+    "chapter_map_json": [
+      {
+        "summary": "James explains the origins of the book as a series of lectures and outlines his approach: a descriptive, psychological study of religious experience, focusing on concrete cases rather than abstract theories. He acknowledges that his emphasis on extreme cases may seem exaggerated but assures readers that moderation and common sense will be restored by the book’s end.",
+        "chapter_title": "Preface",
+        "chapter_number": "Preface"
+      },
+      {
+        "summary": "James introduces his subject and clarifies that he will approach religion from a psychological perspective, not as a theologian or historian. He distinguishes between the study of religious institutions and the study of personal religious feelings and impulses, arguing that the latter are more revealing of religion’s significance.",
+        "chapter_title": "Lecture I. Religion And Neurology",
+        "chapter_number": "01"
+      },
+      {
+        "summary": "This chapter defines the scope of James’s inquiry, emphasizing the importance of focusing on individual religious experiences rather than second-hand or institutionalized religion. He sets boundaries for what will be considered 'religious,' highlighting the need to examine original, personal experiences.",
+        "chapter_title": "Lecture II. Circumscription of the Topic",
+        "chapter_number": "02"
+      },
+      {
+        "summary": "James discusses the psychological reality of the unseen, arguing that belief in an unseen order is central to religious experience. He explores how individuals perceive and are influenced by realities that are not accessible to the senses but are nonetheless deeply felt and acted upon.",
+        "chapter_title": "Lecture III. The Reality Of The Unseen",
+        "chapter_number": "03"
+      },
+      {
+        "summary": "These lectures examine the 'healthy-minded' temperament, characterized by optimism and a tendency to see the world as fundamentally good. James analyzes how this outlook shapes certain types of religious experience, including the deliberate exclusion or denial of evil, and discusses its philosophical and practical implications.",
+        "chapter_title": "Lectures IV and V. The Religion Of Healthy‐Mindedness",
+        "chapter_number": "04-05"
+      },
+      {
+        "summary": "James turns to the 'sick soul,' individuals who are acutely aware of evil, suffering, and sin. He explores the psychological roots of religious melancholy, despair, and the sense of being divided or at odds with oneself. Through case studies, he illustrates how this temperament leads to different religious responses than those of the healthy-minded.",
+        "chapter_title": "Lectures VI And VII. The Sick Soul",
+        "chapter_number": "06-07"
+      },
+      {
+        "summary": "This chapter delves into the experience of inner conflict and the divided self, where individuals feel torn between opposing impulses or ideals. James describes how religious experience can lead to the unification of the self, often through a crisis or turning point that brings about inner harmony.",
+        "chapter_title": "Lecture VIII. The Divided Self, And The Process Of Its Unification",
+        "chapter_number": "08"
+      },
+      {
+        "summary": "James analyzes the phenomenon of conversion, the process by which individuals undergo a profound transformation of beliefs, values, and sense of self. He examines the psychological mechanisms behind conversion and presents a range of examples, from sudden to gradual changes.",
+        "chapter_title": "Lecture IX. Conversion",
+        "chapter_number": "09"
+      },
+      {
+        "summary": "Continuing the discussion of conversion, James explores its long-term effects and the factors that contribute to its permanence or instability. He considers the role of subconscious processes and the ways in which conversion can resolve inner conflict.",
+        "chapter_title": "Lecture X. Conversion—Concluded",
+        "chapter_number": "10"
+      },
+      {
+        "summary": "These lectures focus on the characteristics and psychological foundations of saintliness, including qualities such as charity, purity, and devotion. James discusses the social and personal impact of saintly individuals and considers the relationship between saintliness and psychological health.",
+        "chapter_title": "Lectures XI, XII, And XIII. Saintliness",
+        "chapter_number": "11-13"
+      },
+      {
+        "summary": "James evaluates the value of saintliness, weighing its benefits and potential excesses. He considers how saintly virtues can both enrich and distort religious life, and reflects on the broader significance of these traits for society and individuals.",
+        "chapter_title": "Lectures XIV And XV. The Value Of Saintliness",
+        "chapter_number": "14-15"
+      },
+      {
+        "summary": "These chapters investigate mystical experience, characterized by feelings of unity, transcendence, and direct contact with the divine. James analyzes the psychological features of mysticism, its varieties, and its influence on religious thought and practice.",
+        "chapter_title": "Lectures XVI And XVII. Mysticism",
+        "chapter_number": "16-17"
+      },
+      {
+        "summary": "James addresses the philosophical implications of religious experience, considering how personal experiences relate to broader metaphysical questions. He discusses the limits of philosophical reasoning in capturing the full significance of religion.",
+        "chapter_title": "Lecture XVIII. Philosophy",
+        "chapter_number": "18"
+      },
+      {
+        "summary": "This lecture surveys additional features of religious experience, including the role of ritual, emotion, and the sense of the miraculous. James emphasizes the diversity of religious phenomena and the challenges of drawing general conclusions.",
+        "chapter_title": "Lecture XIX. Other Characteristics",
+        "chapter_number": "19"
+      },
+      {
+        "summary": "In his concluding lecture, James synthesizes the findings of the previous chapters, reiterating the importance of individual experience and the pragmatic evaluation of religion by its effects. He suggests that religious experience reveals real aspects of human nature and possibly of reality itself.",
+        "chapter_title": "Lecture XX. Conclusions",
+        "chapter_number": "20"
+      },
+      {
+        "summary": "James offers final reflections on the study, clarifying his philosophical position and responding to possible criticisms. He underscores the provisional nature of his conclusions and the need for further inquiry into the nature of religious experience.",
+        "chapter_title": "Postscript",
+        "chapter_number": "Postscript"
+      }
+    ],
+    "key_concepts_json": [
+      {
+        "term": "Religious Experience",
+        "definition": "The feelings, acts, and inner states of individuals in relation to what they consider divine, especially as experienced in solitude and outside institutional frameworks."
+      },
+      {
+        "term": "Healthy-Mindedness",
+        "definition": "A temperament marked by optimism and the tendency to focus on the positive aspects of life, often leading to a form of religion that minimizes or denies the existence of evil."
+      },
+      {
+        "term": "The Sick Soul",
+        "definition": "A psychological disposition characterized by acute awareness of evil, suffering, and personal sin, often resulting in religious melancholy and a sense of inner division."
+      },
+      {
+        "term": "Divided Self",
+        "definition": "The experience of inner conflict, where an individual feels torn between opposing desires or ideals, often resolved through religious transformation or conversion."
+      },
+      {
+        "term": "Conversion",
+        "definition": "A process of profound psychological and spiritual change, in which an individual adopts new beliefs, values, and a sense of self, often following a crisis or period of struggle."
+      },
+      {
+        "term": "Saintliness",
+        "definition": "A set of psychological and behavioral traits, such as charity, purity, and devotion, that are often associated with religious exemplars and considered by James as both beneficial and potentially excessive."
+      },
+      {
+        "term": "Mysticism",
+        "definition": "A type of religious experience involving feelings of unity, transcendence, and direct contact with the divine, marked by ineffability and a sense of ultimate reality."
+      },
+      {
+        "term": "The Reality of the Unseen",
+        "definition": "The belief in and psychological impact of realities that are not accessible to the senses but are deeply felt and influential in religious life."
+      },
+      {
+        "term": "Pragmatic Value",
+        "definition": "James’s criterion for evaluating religion, focusing on the practical effects and transformative outcomes of religious experience rather than its origins or doctrinal truth."
+      },
+      {
+        "term": "Existential vs. Spiritual Judgments",
+        "definition": "James’s distinction between judgments about the factual existence of religious phenomena and judgments about their spiritual or moral value."
+      }
+    ],
+    "core_claims_json": [
+      {
+        "claim": "Religious experience is best understood through the concrete, personal accounts of individuals rather than through institutional or doctrinal analysis.",
+        "weight": "central"
+      },
+      {
+        "claim": "There is no single essence to religion; its varieties reveal important truths about human psychology and the reality of the unseen.",
+        "weight": "central"
+      },
+      {
+        "claim": "The value of religion should be judged by its fruits—its transformative effects on individuals’ lives—rather than by its origins or doctrinal correctness.",
+        "weight": "central"
+      },
+      {
+        "claim": "Healthy-mindedness and the sick soul represent distinct psychological temperaments that give rise to different forms of religious experience.",
+        "weight": "central"
+      },
+      {
+        "claim": "Mystical and conversion experiences, though sometimes associated with abnormal psychology, can be sources of profound insight and personal transformation.",
+        "weight": "central"
+      },
+      {
+        "claim": "Religious geniuses and saints often display psychological traits that border on the pathological, yet these traits can contribute to their religious authority and influence.",
+        "weight": "central"
+      }
+    ],
+    "ambiguities_json": [
+      "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+      "Some chapter boundaries are based on lecture clusters rather than precise lecture numbers due to the structure of the manuscript.",
+      "The exact philosophical conclusions in the Postscript are only briefly summarized, as James himself notes their provisional nature.",
+      "Some case studies and examples are referenced in summaries but not detailed due to excerpt limitations."
+    ],
+    "qc_report_json": {
+      "checks": [
+        {
+          "item": "Chapter titles match manuscript headings",
+          "detail": "Lecture and cluster titles are preserved as in the contents.",
+          "result": "pass"
+        },
+        {
+          "item": "Summaries are book-specific and grounded",
+          "detail": "Each summary reflects James’s arguments and examples.",
+          "result": "pass"
+        },
+        {
+          "item": "Key concepts are book-specific",
+          "detail": "Concepts are drawn from James’s own terminology and distinctions.",
+          "result": "pass"
+        },
+        {
+          "item": "Core claims are explicit and central",
+          "detail": "Claims reflect the main arguments of the book.",
+          "result": "pass"
+        },
+        {
+          "item": "No platform or workflow language",
+          "detail": "All language is faithful to the book’s content and framing.",
+          "result": "pass"
+        }
+      ],
+      "status": "fidelity_pass",
+      "summary": "Extraction preserves James’s structure, terminology, and distinctions, with chapter titles and summaries grounded in the manuscript’s content. Key concepts and claims reflect the book’s arguments without generic or platform language.",
+      "book_level": {
+        "core_thesis": "James argues that religious experience is a fundamental aspect of human nature, best understood through the concrete, personal accounts of individuals rather than abstract theological or institutional frameworks. He maintains that there is no single essence to religion; instead, its varieties reveal important truths about the human mind and the reality of the unseen. The value of religion, for James, is found in its fruits—its transformative effects on individuals’ lives—rather than its origins or doctrinal correctness."
+      },
+      "source_coverage": {
+        "parser_warnings": [
+          "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+          "Some chapter boundaries are based on lecture clusters rather than precise lecture numbers due to the structure of the manuscript.",
+          "The exact philosophical conclusions in the Postscript are only briefly summarized, as James himself notes their provisional nature.",
+          "Some case studies and examples are referenced in summaries but not detailed due to excerpt limitations."
+        ],
+        "manuscript_has_text": true,
+        "intake_notes_present": true
+      }
+    },
+    "generated_at": "2026-04-26T11:11:52.059+00:00",
+    "created_at": "2026-04-26T11:11:53.120121+00:00",
+    "updated_at": "2026-04-26T11:11:53.120121+00:00"
+  },
+  "book_representation": {
+    "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+    "data": {
+      "status": "live_for_readers",
+      "book_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+      "metadata": {
+        "period": "",
+        "book_title": "The Varieties of Religious Experience",
+        "author_name": "g10_ar",
+        "genre_self_classification": ""
+      },
+      "voice_config": {
+        "tone": "",
+        "formality": "",
+        "pronoun_rules": {
+          "author_reference": "",
+          "reader_reference": ""
+        },
+        "companion_mode": "",
+        "grounding_style": ""
+      },
+      "boundary_rules": {
+        "never_do": [],
+        "off_limits_topics": []
+      },
+      "companion_name": "Mira",
+      "reader_guidance": {
+        "test_questions": [],
+        "common_misreadings": [],
+        "suggested_entry_points": [
+          "Use precise lecture numbers/ranges: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When referencing lecture clusters, give the full range (e.g., 'Lectures VI-VII') not single approximate numbers. Prefer exact lecture citations when confidence is high, thematic descriptions when uncertain.",
+          "In follow-up questions that invite further exploration: only cite specific lecture numbers/ranges when confidence is very high. When uncertain about exact lecture placement, use thematic descriptions instead (e.g., 'the material on conversion experiences' rather than 'Lecture IX-X'). This prevents misdirecting readers to wrong sections."
+        ]
+      },
+      "interpretive_framework": {
+        "book_thesis": "James argues that religious experience is a fundamental aspect of human nature, best understood through the concrete, personal accounts of individuals rather than abstract theological or institutional frameworks. He maintains that there is no single essence to religion; instead, its varieties reveal important truths about the human mind and the reality of the unseen. The value of religion, for James, is found in its fruits—its transformative effects on individuals’ lives—rather than its origins or doctrinal correctness.",
+        "cross_references": [
+          {
+            "note": "The feelings, acts, and inner states of individuals in relation to what they consider divine, especially as experienced in solitude and outside institutional frameworks.",
+            "concept": "Religious Experience",
+            "appears_in_chapters": [
+              "Preface",
+              "02",
+              "03",
+              "04-05",
+              "08",
+              "18",
+              "19",
+              "20",
+              "Postscript"
+            ]
+          },
+          {
+            "note": "A temperament marked by optimism and the tendency to focus on the positive aspects of life, often leading to a form of religion that minimizes or denies the existence of evil.",
+            "concept": "Healthy-Mindedness",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "A psychological disposition characterized by acute awareness of evil, suffering, and personal sin, often resulting in religious melancholy and a sense of inner division.",
+            "concept": "The Sick Soul",
+            "appears_in_chapters": [
+              "06-07"
+            ]
+          },
+          {
+            "note": "The experience of inner conflict, where an individual feels torn between opposing desires or ideals, often resolved through religious transformation or conversion.",
+            "concept": "Divided Self",
+            "appears_in_chapters": [
+              "08"
+            ]
+          },
+          {
+            "note": "A process of profound psychological and spiritual change, in which an individual adopts new beliefs, values, and a sense of self, often following a crisis or period of struggle.",
+            "concept": "Conversion",
+            "appears_in_chapters": [
+              "09",
+              "10"
+            ]
+          },
+          {
+            "note": "A set of psychological and behavioral traits, such as charity, purity, and devotion, that are often associated with religious exemplars and considered by James as both beneficial and potentially excessive.",
+            "concept": "Saintliness",
+            "appears_in_chapters": [
+              "11-13",
+              "14-15"
+            ]
+          },
+          {
+            "note": "A type of religious experience involving feelings of unity, transcendence, and direct contact with the divine, marked by ineffability and a sense of ultimate reality.",
+            "concept": "Mysticism",
+            "appears_in_chapters": [
+              "16-17"
+            ]
+          },
+          {
+            "note": "The belief in and psychological impact of realities that are not accessible to the senses but are deeply felt and influential in religious life.",
+            "concept": "The Reality of the Unseen",
+            "appears_in_chapters": [
+              "03"
+            ]
+          },
+          {
+            "note": "James’s criterion for evaluating religion, focusing on the practical effects and transformative outcomes of religious experience rather than its origins or doctrinal truth.",
+            "concept": "Pragmatic Value",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "James’s distinction between judgments about the factual existence of religious phenomena and judgments about their spiritual or moral value.",
+            "concept": "Existential vs. Spiritual Judgments",
+            "appears_in_chapters": []
+          }
+        ],
+        "background_themes": [],
+        "foreground_themes": [
+          "Religious Experience",
+          "Healthy-Mindedness",
+          "The Sick Soul",
+          "Divided Self",
+          "Conversion",
+          "Saintliness",
+          "Mysticism",
+          "The Reality of the Unseen",
+          "Pragmatic Value",
+          "Existential vs. Spiritual Judgments"
+        ]
+      }
+    },
+    "schema_version": 1,
+    "read_authority_enabled": false,
+    "created_at": "2026-04-26T11:11:26.371696+00:00",
+    "updated_at": "2026-04-26T16:31:22.2085+00:00"
+  },
+  "author_output_blocks": [],
+  "edits": {
+    "id": "30651a82-257f-4375-942b-3fbaac36258a",
+    "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+    "edited_chapter_map_json": [],
+    "edited_key_concepts_json": [],
+    "edited_core_claims_json": [],
+    "review_notes_json": {
+      "author_control": {
+        "preview_flow": {
+          "status": "completed",
+          "turns_used": 10,
+          "turns_limit": 10,
+          "activated_at": "2026-04-27T06:31:28Z",
+          "completed_at": "2026-04-27T06:31:28Z",
+          "temp_login_name": "author-temp-thevarieti-5f5e4f52",
+          "pass_generated_at": "2026-04-26T14:44:47.681Z",
+          "temp_generated_at": "2026-04-26T14:44:47.681Z",
+          "temp_login_password": "TMP-jDNSpggBAaS2"
+        },
+        "reader_room_setup": {
+          "updated_at": "2026-04-26T11:50:25.608Z",
+          "monthly_turn_cap": 35,
+          "book_display_title": "The Varieties of Religious Experience",
+          "author_display_name": "William James",
+          "room_welcome_message": "Welcome to the reading room for The Varieties of Religious Experience. Ask about any lecture, case, concept, distinction, or recurring theme. I stay closely anchored to James’s book and help unpack his study of personal religion, healthy-mindedness, the sick soul, conversion, saintliness, mysticism, and the pragmatic testing of religious life without turning the book into theology, therapy, or self-help.",
+          "membership_price_monthly": 5.99,
+          "ai_companion_display_name": "Mira",
+          "optional_room_notice_message": ""
+        }
+      },
+      "author_messages": {
+        "step2_resume": "Your Step-3 settings are saved. You can return later without restarting.",
+        "resume_notice": "Your work is saved. You can return later and continue from this project.",
+        "persistence_notice": "Your project is saved as a persistent book project. You can return later without restarting.",
+        "step2_revalidation": "If Step-3 behavior settings change after completion, the Step-4 handoff summary may need refresh.",
+        "revalidation_notice": "If you later change approved Step-1 outputs, downstream steps may need revalidation."
+      },
+      "project_lifecycle": {
+        "steps": {
+          "step1": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-26T11:30:32.944Z",
+            "invalidation_reason": ""
+          },
+          "step2": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-26T11:43:47.002Z",
+            "invalidation_reason": ""
+          },
+          "step3": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-26T11:43:47.002Z",
+            "invalidation_reason": ""
+          },
+          "step4": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-26T11:11:25.775Z",
+            "invalidation_reason": ""
+          }
+        },
+        "deployment": {
+          "updated_at": "2026-04-26T11:11:25.775Z",
+          "is_deployed": false,
+          "version_number": 1,
+          "deployment_status": "not_deployed",
+          "needs_redeployment": false,
+          "runtime_instance_id": "",
+          "deployment_timestamp": "",
+          "deployment_access_mode": ""
+        },
+        "current_step": 3,
+        "schema_version": 1,
+        "last_completed_step": 2,
+        "last_revalidation_reason": ""
+      },
+      "step2_handover_ready": true,
+      "step2_representation": {
+        "tone_style": "analytical_clear",
+        "updated_at": "2026-04-26T11:43:44.181Z",
+        "step2_status": "completed",
+        "fidelity_mode": "closely_light_explanation",
+        "red_line_note": "Do not flatten this book into “religion is what works,” “religion is emotion,” or modern wellness language. Keep it grounded in James’s plural, empirical study of personal religious experience, not institutional religion or a single final doctrine.",
+        "avoid_behaviors": [
+          "Avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion",
+          "Avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”",
+          "Avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison",
+          "Avoid treating James’s extreme cases as if they exhaust religion; preserve his use of them as diagnostic evidence within a wider comparative inquiry",
+          "Avoid making overconfident metaphysical claims where James stays exploratory, pluralistic, or provisional",
+          "Avoid adding claims the book does not actually make, especially by translating James into generic spirituality, wellness language, or present-day psychology jargon"
+        ],
+        "grounding_style": "explicit_anchor",
+        "tone_directness": "balanced",
+        "avoid_guidelines": [
+          {
+            "id": "avoid_over_interpreting",
+            "text": "Avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion",
+            "selected": true
+          },
+          {
+            "id": "avoid_prescriptive_advice",
+            "text": "Avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”",
+            "selected": true
+          },
+          {
+            "id": "avoid_therapeutic",
+            "text": "Avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison",
+            "selected": true
+          },
+          {
+            "id": "avoid_universal_truths",
+            "text": "Avoid treating James’s extreme cases as if they exhaust religion; preserve his use of them as diagnostic evidence within a wider comparative inquiry",
+            "selected": true
+          },
+          {
+            "id": "avoid_direct_challenge",
+            "text": "Avoid making overconfident metaphysical claims where James stays exploratory, pluralistic, or provisional",
+            "selected": true
+          },
+          {
+            "id": "avoid_extra_claims",
+            "text": "Avoid adding claims the book does not actually make, especially by translating James into generic spirituality, wellness language, or present-day psychology jargon",
+            "selected": true
+          }
+        ],
+        "allowed_guidelines": [
+          {
+            "id": "explain_concepts",
+            "text": "Explain James’s key ideas, including personal religion, the unseen order, healthy-mindedness, the sick soul, the divided self, conversion, saintliness, mysticism, and the pragmatic testing of religion",
+            "selected": true
+          },
+          {
+            "id": "summarize_chapters",
+            "text": "Summarize each lecture or lecture-cluster clearly, keeping the book’s structure visible from Preface through Conclusions and Postscript",
+            "selected": true
+          },
+          {
+            "id": "compare_ideas",
+            "text": "Compare the major religious temperaments and types across the book without reducing them to a single essence or one final doctrine",
+            "selected": true
+          },
+          {
+            "id": "general_reflection",
+            "text": "Clarify James’s distinctions between existential judgments and spiritual judgments, and between the origins of religion and its fruits in life",
+            "selected": true
+          },
+          {
+            "id": "reflective_followups",
+            "text": "Distinguish James’s empirical psychological inquiry from theology, church doctrine, devotional instruction, and generic modern spirituality or self-help language",
+            "selected": true
+          },
+          {
+            "id": "light_beyond_text",
+            "text": "Explain how James uses concrete case histories, extreme examples, and unusual experiences diagnostically, including what they reveal and where he adds later correctives or qualifications",
+            "selected": true
+          }
+        ],
+        "has_behavior_change": true,
+        "allowed_question_types": [
+          "Explain James’s key ideas, including personal religion, the unseen order, healthy-mindedness, the sick soul, the divided self, conversion, saintliness, mysticism, and the pragmatic testing of religion",
+          "Summarize each lecture or lecture-cluster clearly, keeping the book’s structure visible from Preface through Conclusions and Postscript",
+          "Compare the major religious temperaments and types across the book without reducing them to a single essence or one final doctrine",
+          "Clarify James’s distinctions between existential judgments and spiritual judgments, and between the origins of religion and its fruits in life",
+          "Distinguish James’s empirical psychological inquiry from theology, church doctrine, devotional instruction, and generic modern spirituality or self-help language",
+          "Explain how James uses concrete case histories, extreme examples, and unusual experiences diagnostically, including what they reveal and where he adds later correctives or qualifications"
+        ]
+      },
+      "step3_representation": {
+        "avoided_uses": [],
+        "author_guidance_notes": [
+          "Use precise lecture numbers/ranges: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When referencing lecture clusters, give the full range (e.g., 'Lectures VI-VII') not single approximate numbers. Prefer exact lecture citations when confidence is high, thematic descriptions when uncertain.",
+          "In follow-up questions that invite further exploration: only cite specific lecture numbers/ranges when confidence is very high. When uncertain about exact lecture placement, use thematic descriptions instead (e.g., 'the material on conversion experiences' rather than 'Lecture IX-X'). This prevents misdirecting readers to wrong sections."
+        ]
+      },
+      "author_review_handoff": {
+        "stage": "step1_review_handoff",
+        "saved_at": "2026-04-26T11:30:31.984Z",
+        "finalized": true,
+        "finalized_at": "2026-04-26T11:30:31.984Z",
+        "reviewed_file_count": 3,
+        "reviewed_file_types": [
+          "reviewed_structure",
+          "reviewed_concepts",
+          "reviewed_claims"
+        ],
+        "warning_acknowledged": false,
+        "acknowledge_dependency": true,
+        "confirm_reviewed_outputs": true
+      },
+      "step1_completion_state": "author_confirmed",
+      "representation_blueprint": {
+        "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion, avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”, and avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison, use a analytical and clear tone with balanced directness, and stay explicitly anchored to chapters and concepts.",
+        "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+        "allowed_uses": [
+          "Explain James’s key ideas, including personal religion, the unseen order, healthy-mindedness, the sick soul, the divided self, conversion, saintliness, mysticism, and the pragmatic testing of religion",
+          "Summarize each lecture or lecture-cluster clearly, keeping the book’s structure visible from Preface through Conclusions and Postscript",
+          "Compare the major religious temperaments and types across the book without reducing them to a single essence or one final doctrine",
+          "Clarify James’s distinctions between existential judgments and spiritual judgments, and between the origins of religion and its fruits in life",
+          "Distinguish James’s empirical psychological inquiry from theology, church doctrine, devotional instruction, and generic modern spirituality or self-help language",
+          "Explain how James uses concrete case histories, extreme examples, and unusual experiences diagnostically, including what they reveal and where he adds later correctives or qualifications"
+        ],
+        "generated_at": "2026-04-26T11:43:44.186Z",
+        "tone_profile": {
+          "style": "Analytical and clear",
+          "directness": "Balanced"
+        },
+        "red_line_note": "Do not flatten this book into “religion is what works,” “religion is emotion,” or modern wellness language. Keep it grounded in James’s plural, empirical study of personal religious experience, not institutional religion or a single final doctrine.",
+        "grounding_rules": "Stay explicitly anchored to chapters and concepts",
+        "fidelity_setting": "close fidelity with light explanatory support",
+        "avoided_behaviors": [
+          "Avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion",
+          "Avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”",
+          "Avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison",
+          "Avoid treating James’s extreme cases as if they exhaust religion; preserve his use of them as diagnostic evidence within a wider comparative inquiry",
+          "Avoid making overconfident metaphysical claims where James stays exploratory, pluralistic, or provisional",
+          "Avoid adding claims the book does not actually make, especially by translating James into generic spirituality, wellness language, or present-day psychology jargon"
+        ]
+      },
+      "project_artifacts_fallback": {
+        "step1": {
+          "approved_qc": {
+            "updated_at": "2026-04-26T11:30:32.596Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings",
+                    "detail": "Lecture and cluster titles are preserved as in the contents.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries are book-specific and grounded",
+                    "detail": "Each summary reflects James’s arguments and examples.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are drawn from James’s own terminology and distinctions.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims are explicit and central",
+                    "detail": "Claims reflect the main arguments of the book.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or workflow language",
+                    "detail": "All language is faithful to the book’s content and framing.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "Extraction preserves James’s structure, terminology, and distinctions, with chapter titles and summaries grounded in the manuscript’s content. Key concepts and claims reflect the book’s arguments without generic or platform language.",
+                "book_level": {
+                  "core_thesis": "James argues that religious experience is a fundamental aspect of human nature, best understood through the concrete, personal accounts of individuals rather than abstract theological or institutional frameworks. He maintains that there is no single essence to religion; instead, its varieties reveal important truths about the human mind and the reality of the unseen. The value of religion, for James, is found in its fruits—its transformative effects on individuals’ lives—rather than its origins or doctrinal correctness."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter boundaries are based on lecture clusters rather than precise lecture numbers due to the structure of the manuscript.",
+                    "The exact philosophical conclusions in the Postscript are only briefly summarized, as James himself notes their provisional nature.",
+                    "Some case studies and examples are referenced in summaries but not detailed due to excerpt limitations."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "extracted_qc": {
+            "updated_at": "2026-04-26T11:11:52.672Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings",
+                    "detail": "Lecture and cluster titles are preserved as in the contents.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries are book-specific and grounded",
+                    "detail": "Each summary reflects James’s arguments and examples.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are drawn from James’s own terminology and distinctions.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims are explicit and central",
+                    "detail": "Claims reflect the main arguments of the book.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or workflow language",
+                    "detail": "All language is faithful to the book’s content and framing.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "Extraction preserves James’s structure, terminology, and distinctions, with chapter titles and summaries grounded in the manuscript’s content. Key concepts and claims reflect the book’s arguments without generic or platform language.",
+                "book_level": {
+                  "core_thesis": "James argues that religious experience is a fundamental aspect of human nature, best understood through the concrete, personal accounts of individuals rather than abstract theological or institutional frameworks. He maintains that there is no single essence to religion; instead, its varieties reveal important truths about the human mind and the reality of the unseen. The value of religion, for James, is found in its fruits—its transformative effects on individuals’ lives—rather than its origins or doctrinal correctness."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter boundaries are based on lecture clusters rather than precise lecture numbers due to the structure of the manuscript.",
+                    "The exact philosophical conclusions in the Postscript are only briefly summarized, as James himself notes their provisional nature.",
+                    "Some case studies and examples are referenced in summaries but not detailed due to excerpt limitations."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "approved_claims": {
+            "updated_at": "2026-04-26T11:30:32.488Z",
+            "artifact_value_json": {
+              "id": "3ddf3ab6-2902-4818-8209-f4414f81fd82",
+              "file_type": "other",
+              "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+              "uploaded_at": "2026-04-26T11:29:13.074+00:00",
+              "storage_path": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92/reviewed/reviewed_claims/GA-VR-MOFOR2NW-QSHP59-vre-claims-edited-uploaded.txt",
+              "original_filename": "VRE-Claims-edited-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_claims": {
+            "updated_at": "2026-04-26T11:11:52.611Z",
+            "artifact_value_json": {
+              "claims": [
+                {
+                  "claim": "Religious experience is best understood through the concrete, personal accounts of individuals rather than through institutional or doctrinal analysis.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "There is no single essence to religion; its varieties reveal important truths about human psychology and the reality of the unseen.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "The value of religion should be judged by its fruits—its transformative effects on individuals’ lives—rather than by its origins or doctrinal correctness.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Healthy-mindedness and the sick soul represent distinct psychological temperaments that give rise to different forms of religious experience.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Mystical and conversion experiences, though sometimes associated with abnormal psychology, can be sources of profound insight and personal transformation.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Religious geniuses and saints often display psychological traits that border on the pathological, yet these traits can contribute to their religious authority and influence.",
+                  "weight": "central"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "approved_key_ideas": {
+            "updated_at": "2026-04-26T11:30:32.407Z",
+            "artifact_value_json": {
+              "id": "43571b5e-8a01-4193-b0e8-d976c4b46b24",
+              "file_type": "other",
+              "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+              "uploaded_at": "2026-04-26T11:29:09.743+00:00",
+              "storage_path": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92/reviewed/reviewed_concepts/GA-VR-MOFOQZIT-0WE2BA-vre-concepts-edited-uploaded.txt",
+              "original_filename": "VRE-Concepts-edited-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "approved_structure": {
+            "updated_at": "2026-04-26T11:30:32.284Z",
+            "artifact_value_json": {
+              "id": "f90784d1-2135-43f4-8451-7d6a90bce111",
+              "file_type": "other",
+              "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+              "uploaded_at": "2026-04-26T11:29:03.37+00:00",
+              "storage_path": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92/reviewed/reviewed_structure/GA-VR-MOFOQTS8-O83OI7-vre-toc-as.is-uploaded.txt",
+              "original_filename": "VRE-TOC-as.is-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_key_ideas": {
+            "updated_at": "2026-04-26T11:11:52.550Z",
+            "artifact_value_json": {
+              "key_ideas": [
+                {
+                  "term": "Religious Experience",
+                  "definition": "The feelings, acts, and inner states of individuals in relation to what they consider divine, especially as experienced in solitude and outside institutional frameworks."
+                },
+                {
+                  "term": "Healthy-Mindedness",
+                  "definition": "A temperament marked by optimism and the tendency to focus on the positive aspects of life, often leading to a form of religion that minimizes or denies the existence of evil."
+                },
+                {
+                  "term": "The Sick Soul",
+                  "definition": "A psychological disposition characterized by acute awareness of evil, suffering, and personal sin, often resulting in religious melancholy and a sense of inner division."
+                },
+                {
+                  "term": "Divided Self",
+                  "definition": "The experience of inner conflict, where an individual feels torn between opposing desires or ideals, often resolved through religious transformation or conversion."
+                },
+                {
+                  "term": "Conversion",
+                  "definition": "A process of profound psychological and spiritual change, in which an individual adopts new beliefs, values, and a sense of self, often following a crisis or period of struggle."
+                },
+                {
+                  "term": "Saintliness",
+                  "definition": "A set of psychological and behavioral traits, such as charity, purity, and devotion, that are often associated with religious exemplars and considered by James as both beneficial and potentially excessive."
+                },
+                {
+                  "term": "Mysticism",
+                  "definition": "A type of religious experience involving feelings of unity, transcendence, and direct contact with the divine, marked by ineffability and a sense of ultimate reality."
+                },
+                {
+                  "term": "The Reality of the Unseen",
+                  "definition": "The belief in and psychological impact of realities that are not accessible to the senses but are deeply felt and influential in religious life."
+                },
+                {
+                  "term": "Pragmatic Value",
+                  "definition": "James’s criterion for evaluating religion, focusing on the practical effects and transformative outcomes of religious experience rather than its origins or doctrinal truth."
+                },
+                {
+                  "term": "Existential vs. Spiritual Judgments",
+                  "definition": "James’s distinction between judgments about the factual existence of religious phenomena and judgments about their spiritual or moral value."
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "extracted_structure": {
+            "updated_at": "2026-04-26T11:11:52.405Z",
+            "artifact_value_json": {
+              "chapter_map": [
+                {
+                  "summary": "James explains the origins of the book as a series of lectures and outlines his approach: a descriptive, psychological study of religious experience, focusing on concrete cases rather than abstract theories. He acknowledges that his emphasis on extreme cases may seem exaggerated but assures readers that moderation and common sense will be restored by the book’s end.",
+                  "chapter_title": "Preface",
+                  "chapter_number": "Preface"
+                },
+                {
+                  "summary": "James introduces his subject and clarifies that he will approach religion from a psychological perspective, not as a theologian or historian. He distinguishes between the study of religious institutions and the study of personal religious feelings and impulses, arguing that the latter are more revealing of religion’s significance.",
+                  "chapter_title": "Lecture I. Religion And Neurology",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "This chapter defines the scope of James’s inquiry, emphasizing the importance of focusing on individual religious experiences rather than second-hand or institutionalized religion. He sets boundaries for what will be considered 'religious,' highlighting the need to examine original, personal experiences.",
+                  "chapter_title": "Lecture II. Circumscription of the Topic",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "James discusses the psychological reality of the unseen, arguing that belief in an unseen order is central to religious experience. He explores how individuals perceive and are influenced by realities that are not accessible to the senses but are nonetheless deeply felt and acted upon.",
+                  "chapter_title": "Lecture III. The Reality Of The Unseen",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "These lectures examine the 'healthy-minded' temperament, characterized by optimism and a tendency to see the world as fundamentally good. James analyzes how this outlook shapes certain types of religious experience, including the deliberate exclusion or denial of evil, and discusses its philosophical and practical implications.",
+                  "chapter_title": "Lectures IV and V. The Religion Of Healthy‐Mindedness",
+                  "chapter_number": "04-05"
+                },
+                {
+                  "summary": "James turns to the 'sick soul,' individuals who are acutely aware of evil, suffering, and sin. He explores the psychological roots of religious melancholy, despair, and the sense of being divided or at odds with oneself. Through case studies, he illustrates how this temperament leads to different religious responses than those of the healthy-minded.",
+                  "chapter_title": "Lectures VI And VII. The Sick Soul",
+                  "chapter_number": "06-07"
+                },
+                {
+                  "summary": "This chapter delves into the experience of inner conflict and the divided self, where individuals feel torn between opposing impulses or ideals. James describes how religious experience can lead to the unification of the self, often through a crisis or turning point that brings about inner harmony.",
+                  "chapter_title": "Lecture VIII. The Divided Self, And The Process Of Its Unification",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "James analyzes the phenomenon of conversion, the process by which individuals undergo a profound transformation of beliefs, values, and sense of self. He examines the psychological mechanisms behind conversion and presents a range of examples, from sudden to gradual changes.",
+                  "chapter_title": "Lecture IX. Conversion",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "Continuing the discussion of conversion, James explores its long-term effects and the factors that contribute to its permanence or instability. He considers the role of subconscious processes and the ways in which conversion can resolve inner conflict.",
+                  "chapter_title": "Lecture X. Conversion—Concluded",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "These lectures focus on the characteristics and psychological foundations of saintliness, including qualities such as charity, purity, and devotion. James discusses the social and personal impact of saintly individuals and considers the relationship between saintliness and psychological health.",
+                  "chapter_title": "Lectures XI, XII, And XIII. Saintliness",
+                  "chapter_number": "11-13"
+                },
+                {
+                  "summary": "James evaluates the value of saintliness, weighing its benefits and potential excesses. He considers how saintly virtues can both enrich and distort religious life, and reflects on the broader significance of these traits for society and individuals.",
+                  "chapter_title": "Lectures XIV And XV. The Value Of Saintliness",
+                  "chapter_number": "14-15"
+                },
+                {
+                  "summary": "These chapters investigate mystical experience, characterized by feelings of unity, transcendence, and direct contact with the divine. James analyzes the psychological features of mysticism, its varieties, and its influence on religious thought and practice.",
+                  "chapter_title": "Lectures XVI And XVII. Mysticism",
+                  "chapter_number": "16-17"
+                },
+                {
+                  "summary": "James addresses the philosophical implications of religious experience, considering how personal experiences relate to broader metaphysical questions. He discusses the limits of philosophical reasoning in capturing the full significance of religion.",
+                  "chapter_title": "Lecture XVIII. Philosophy",
+                  "chapter_number": "18"
+                },
+                {
+                  "summary": "This lecture surveys additional features of religious experience, including the role of ritual, emotion, and the sense of the miraculous. James emphasizes the diversity of religious phenomena and the challenges of drawing general conclusions.",
+                  "chapter_title": "Lecture XIX. Other Characteristics",
+                  "chapter_number": "19"
+                },
+                {
+                  "summary": "In his concluding lecture, James synthesizes the findings of the previous chapters, reiterating the importance of individual experience and the pragmatic evaluation of religion by its effects. He suggests that religious experience reveals real aspects of human nature and possibly of reality itself.",
+                  "chapter_title": "Lecture XX. Conclusions",
+                  "chapter_number": "20"
+                },
+                {
+                  "summary": "James offers final reflections on the study, clarifying his philosophical position and responding to possible criticisms. He underscores the provisional nature of his conclusions and the need for further inquiry into the nature of religious experience.",
+                  "chapter_title": "Postscript",
+                  "chapter_number": "Postscript"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step1_source_context": {
+            "updated_at": "2026-04-26T11:11:52.735Z",
+            "artifact_value_json": {
+              "intake_notes": "Non-negotiable framing: treat this book as William James’s empirical and descriptive study of personal religious experience, not as a theology, church manual, devotional guide, or generic psychology of belief. Preserve James’s own structure: he explicitly brackets institutional religion in favor of the feelings, acts, and experiences of individuals in their solitude, and he insists that religion has no single essence but many important forms. Keep the lecture architecture visible: healthy-mindedness, the sick soul, divided selfhood, conversion, saintliness, mysticism, philosophy, and conclusions are distinct movements in the book, not interchangeable themes. Do not flatten the whole work into “religion is what works,” “religion is emotion,” or modern therapy/spiritual-wellness language. James uses extreme and concrete cases diagnostically, not because he claims they exhaust religion. Preserve his distinctions between existential judgments and spiritual/value judgments, his interest in the reality of the unseen, and his “fruits, not roots” orientation when evaluating religion. When uncertain, prefer thematic grounding by lecture cluster rather than overconfidently citing exact lecture numbers",
+              "manuscript_filename": "The Varieties of Religious Experience.txt",
+              "intake_notes_present": true
+            },
+            "artifact_value_text": null
+          },
+          "extracted_chapter_summaries": {
+            "updated_at": "2026-04-26T11:11:52.488Z",
+            "artifact_value_json": {
+              "chapter_summaries": [
+                {
+                  "summary": "James explains the origins of the book as a series of lectures and outlines his approach: a descriptive, psychological study of religious experience, focusing on concrete cases rather than abstract theories. He acknowledges that his emphasis on extreme cases may seem exaggerated but assures readers that moderation and common sense will be restored by the book’s end.",
+                  "chapter_title": "Preface",
+                  "chapter_number": "Preface"
+                },
+                {
+                  "summary": "James introduces his subject and clarifies that he will approach religion from a psychological perspective, not as a theologian or historian. He distinguishes between the study of religious institutions and the study of personal religious feelings and impulses, arguing that the latter are more revealing of religion’s significance.",
+                  "chapter_title": "Lecture I. Religion And Neurology",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "This chapter defines the scope of James’s inquiry, emphasizing the importance of focusing on individual religious experiences rather than second-hand or institutionalized religion. He sets boundaries for what will be considered 'religious,' highlighting the need to examine original, personal experiences.",
+                  "chapter_title": "Lecture II. Circumscription of the Topic",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "James discusses the psychological reality of the unseen, arguing that belief in an unseen order is central to religious experience. He explores how individuals perceive and are influenced by realities that are not accessible to the senses but are nonetheless deeply felt and acted upon.",
+                  "chapter_title": "Lecture III. The Reality Of The Unseen",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "These lectures examine the 'healthy-minded' temperament, characterized by optimism and a tendency to see the world as fundamentally good. James analyzes how this outlook shapes certain types of religious experience, including the deliberate exclusion or denial of evil, and discusses its philosophical and practical implications.",
+                  "chapter_title": "Lectures IV and V. The Religion Of Healthy‐Mindedness",
+                  "chapter_number": "04-05"
+                },
+                {
+                  "summary": "James turns to the 'sick soul,' individuals who are acutely aware of evil, suffering, and sin. He explores the psychological roots of religious melancholy, despair, and the sense of being divided or at odds with oneself. Through case studies, he illustrates how this temperament leads to different religious responses than those of the healthy-minded.",
+                  "chapter_title": "Lectures VI And VII. The Sick Soul",
+                  "chapter_number": "06-07"
+                },
+                {
+                  "summary": "This chapter delves into the experience of inner conflict and the divided self, where individuals feel torn between opposing impulses or ideals. James describes how religious experience can lead to the unification of the self, often through a crisis or turning point that brings about inner harmony.",
+                  "chapter_title": "Lecture VIII. The Divided Self, And The Process Of Its Unification",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "James analyzes the phenomenon of conversion, the process by which individuals undergo a profound transformation of beliefs, values, and sense of self. He examines the psychological mechanisms behind conversion and presents a range of examples, from sudden to gradual changes.",
+                  "chapter_title": "Lecture IX. Conversion",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "Continuing the discussion of conversion, James explores its long-term effects and the factors that contribute to its permanence or instability. He considers the role of subconscious processes and the ways in which conversion can resolve inner conflict.",
+                  "chapter_title": "Lecture X. Conversion—Concluded",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "These lectures focus on the characteristics and psychological foundations of saintliness, including qualities such as charity, purity, and devotion. James discusses the social and personal impact of saintly individuals and considers the relationship between saintliness and psychological health.",
+                  "chapter_title": "Lectures XI, XII, And XIII. Saintliness",
+                  "chapter_number": "11-13"
+                },
+                {
+                  "summary": "James evaluates the value of saintliness, weighing its benefits and potential excesses. He considers how saintly virtues can both enrich and distort religious life, and reflects on the broader significance of these traits for society and individuals.",
+                  "chapter_title": "Lectures XIV And XV. The Value Of Saintliness",
+                  "chapter_number": "14-15"
+                },
+                {
+                  "summary": "These chapters investigate mystical experience, characterized by feelings of unity, transcendence, and direct contact with the divine. James analyzes the psychological features of mysticism, its varieties, and its influence on religious thought and practice.",
+                  "chapter_title": "Lectures XVI And XVII. Mysticism",
+                  "chapter_number": "16-17"
+                },
+                {
+                  "summary": "James addresses the philosophical implications of religious experience, considering how personal experiences relate to broader metaphysical questions. He discusses the limits of philosophical reasoning in capturing the full significance of religion.",
+                  "chapter_title": "Lecture XVIII. Philosophy",
+                  "chapter_number": "18"
+                },
+                {
+                  "summary": "This lecture surveys additional features of religious experience, including the role of ritual, emotion, and the sense of the miraculous. James emphasizes the diversity of religious phenomena and the challenges of drawing general conclusions.",
+                  "chapter_title": "Lecture XIX. Other Characteristics",
+                  "chapter_number": "19"
+                },
+                {
+                  "summary": "In his concluding lecture, James synthesizes the findings of the previous chapters, reiterating the importance of individual experience and the pragmatic evaluation of religion by its effects. He suggests that religious experience reveals real aspects of human nature and possibly of reality itself.",
+                  "chapter_title": "Lecture XX. Conclusions",
+                  "chapter_number": "20"
+                },
+                {
+                  "summary": "James offers final reflections on the study, clarifying his philosophical position and responding to possible criticisms. He underscores the provisional nature of his conclusions and the need for further inquiry into the nature of religious experience.",
+                  "chapter_title": "Postscript",
+                  "chapter_number": "Postscript"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step2": {
+          "tone_profile": {
+            "updated_at": "2026-04-26T11:43:45.979Z",
+            "artifact_value_json": {
+              "tone_style": "analytical_clear",
+              "tone_directness": "balanced"
+            },
+            "artifact_value_text": null
+          },
+          "fidelity_mode": {
+            "updated_at": "2026-04-26T11:43:44.581Z",
+            "artifact_value_json": {
+              "value": "closely_light_explanation"
+            },
+            "artifact_value_text": null
+          },
+          "red_line_note": {
+            "updated_at": "2026-04-26T11:43:46.493Z",
+            "artifact_value_json": {
+              "value": "Do not flatten this book into “religion is what works,” “religion is emotion,” or modern wellness language. Keep it grounded in James’s plural, empirical study of personal religious experience, not institutional religion or a single final doctrine."
+            },
+            "artifact_value_text": null
+          },
+          "avoid_behaviors": {
+            "updated_at": "2026-04-26T11:43:45.462Z",
+            "artifact_value_json": {
+              "values": [
+                "Avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion",
+                "Avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”",
+                "Avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison",
+                "Avoid treating James’s extreme cases as if they exhaust religion; preserve his use of them as diagnostic evidence within a wider comparative inquiry",
+                "Avoid making overconfident metaphysical claims where James stays exploratory, pluralistic, or provisional",
+                "Avoid adding claims the book does not actually make, especially by translating James into generic spirituality, wellness language, or present-day psychology jargon"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "grounding_style": {
+            "updated_at": "2026-04-26T11:43:46.238Z",
+            "artifact_value_json": {
+              "value": "explicit_anchor"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_guidelines": {
+            "updated_at": "2026-04-26T11:43:45.717Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "avoid_over_interpreting",
+                  "text": "Avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_prescriptive_advice",
+                  "text": "Avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_therapeutic",
+                  "text": "Avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_universal_truths",
+                  "text": "Avoid treating James’s extreme cases as if they exhaust religion; preserve his use of them as diagnostic evidence within a wider comparative inquiry",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_direct_challenge",
+                  "text": "Avoid making overconfident metaphysical claims where James stays exploratory, pluralistic, or provisional",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_extra_claims",
+                  "text": "Avoid adding claims the book does not actually make, especially by translating James into generic spirituality, wellness language, or present-day psychology jargon",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_guidelines": {
+            "updated_at": "2026-04-26T11:43:45.166Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "explain_concepts",
+                  "text": "Explain James’s key ideas, including personal religion, the unseen order, healthy-mindedness, the sick soul, the divided self, conversion, saintliness, mysticism, and the pragmatic testing of religion",
+                  "selected": true
+                },
+                {
+                  "id": "summarize_chapters",
+                  "text": "Summarize each lecture or lecture-cluster clearly, keeping the book’s structure visible from Preface through Conclusions and Postscript",
+                  "selected": true
+                },
+                {
+                  "id": "compare_ideas",
+                  "text": "Compare the major religious temperaments and types across the book without reducing them to a single essence or one final doctrine",
+                  "selected": true
+                },
+                {
+                  "id": "general_reflection",
+                  "text": "Clarify James’s distinctions between existential judgments and spiritual judgments, and between the origins of religion and its fruits in life",
+                  "selected": true
+                },
+                {
+                  "id": "reflective_followups",
+                  "text": "Distinguish James’s empirical psychological inquiry from theology, church doctrine, devotional instruction, and generic modern spirituality or self-help language",
+                  "selected": true
+                },
+                {
+                  "id": "light_beyond_text",
+                  "text": "Explain how James uses concrete case histories, extreme examples, and unusual experiences diagnostically, including what they reveal and where he adds later correctives or qualifications",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_question_types": {
+            "updated_at": "2026-04-26T11:43:44.891Z",
+            "artifact_value_json": {
+              "values": [
+                "Explain James’s key ideas, including personal religion, the unseen order, healthy-mindedness, the sick soul, the divided self, conversion, saintliness, mysticism, and the pragmatic testing of religion",
+                "Summarize each lecture or lecture-cluster clearly, keeping the book’s structure visible from Preface through Conclusions and Postscript",
+                "Compare the major religious temperaments and types across the book without reducing them to a single essence or one final doctrine",
+                "Clarify James’s distinctions between existential judgments and spiritual judgments, and between the origins of religion and its fruits in life",
+                "Distinguish James’s empirical psychological inquiry from theology, church doctrine, devotional instruction, and generic modern spirituality or self-help language",
+                "Explain how James uses concrete case histories, extreme examples, and unusual experiences diagnostically, including what they reveal and where he adds later correctives or qualifications"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "representation_blueprint": {
+            "updated_at": "2026-04-26T11:43:46.684Z",
+            "artifact_value_json": {
+              "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion, avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”, and avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison, use a analytical and clear tone with balanced directness, and stay explicitly anchored to chapters and concepts.",
+              "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+              "allowed_uses": [
+                "Explain James’s key ideas, including personal religion, the unseen order, healthy-mindedness, the sick soul, the divided self, conversion, saintliness, mysticism, and the pragmatic testing of religion",
+                "Summarize each lecture or lecture-cluster clearly, keeping the book’s structure visible from Preface through Conclusions and Postscript",
+                "Compare the major religious temperaments and types across the book without reducing them to a single essence or one final doctrine",
+                "Clarify James’s distinctions between existential judgments and spiritual judgments, and between the origins of religion and its fruits in life",
+                "Distinguish James’s empirical psychological inquiry from theology, church doctrine, devotional instruction, and generic modern spirituality or self-help language",
+                "Explain how James uses concrete case histories, extreme examples, and unusual experiences diagnostically, including what they reveal and where he adds later correctives or qualifications"
+              ],
+              "generated_at": "2026-04-26T11:43:44.186Z",
+              "tone_profile": {
+                "style": "Analytical and clear",
+                "directness": "Balanced"
+              },
+              "red_line_note": "Do not flatten this book into “religion is what works,” “religion is emotion,” or modern wellness language. Keep it grounded in James’s plural, empirical study of personal religious experience, not institutional religion or a single final doctrine.",
+              "grounding_rules": "Stay explicitly anchored to chapters and concepts",
+              "fidelity_setting": "close fidelity with light explanatory support",
+              "avoided_behaviors": [
+                "Avoid turning James into a theologian, church teacher, or devotional guide; keep the book anchored in personal religious experience rather than institutional religion",
+                "Avoid reducing the whole book to one formula such as “religion is what works,” “religion is emotion,” or “mysticism is the essence of religion”",
+                "Avoid sounding therapeutic, clinical, or like modern self-help unless the reader explicitly asks for a modern comparison",
+                "Avoid treating James’s extreme cases as if they exhaust religion; preserve his use of them as diagnostic evidence within a wider comparative inquiry",
+                "Avoid making overconfident metaphysical claims where James stays exploratory, pluralistic, or provisional",
+                "Avoid adding claims the book does not actually make, especially by translating James into generic spirituality, wellness language, or present-day psychology jargon"
+              ]
+            },
+            "artifact_value_text": null
+          }
+        }
+      }
+    },
+    "last_saved_at": "2026-04-26T11:49:34.765+00:00",
+    "created_at": "2026-04-26T11:11:26.763818+00:00",
+    "updated_at": "2026-04-27T06:31:28.930099+00:00"
+  },
+  "packets": [
+    {
+      "id": "ab911200-3ae5-49a0-a421-098f7dfdb93b",
+      "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "concept_refresh",
+      "lever_from": null,
+      "lever_to": null,
+      "summary_text": "Re-read book analysis outputs",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue - Mira needs better structural grounding in James's lecture format. I'll refresh the concept analysis to correct the lecture numbering errors and reinforce the empirical framework.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"concept_refresh\", \"action\": \"refresh\", \"summary\": \"Re-read book analysis outputs\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-26T14:56:21.200155+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": "2026-05-06T16:32:37.597579+00:00",
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "074f0572-cbcd-4c7d-9d56-2ffcfe160b23",
+      "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "concept_refresh",
+      "lever_from": null,
+      "lever_to": null,
+      "summary_text": "Re-read book analysis outputs",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue - Mira needs better structural grounding in James's lecture format. I'll refresh the concept analysis to correct the lecture numbering errors and reinforce the empirical framework."
+        },
+        {
+          "role": "user",
+          "content": "provide your option once agin please?"
+        },
+        {
+          "role": "user",
+          "content": "provide your option once agin please?"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue - Mira needs better structural grounding in James's lecture format. I'll refresh the concept analysis to correct the lecture numbering errors and reinforce the empirical framework.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"concept_refresh\", \"action\": \"refresh\", \"summary\": \"Re-read book analysis outputs\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-26T15:17:07.971625+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": "2026-05-06T16:32:37.597579+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-05-06T16:32:37.597579+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "5f05920a-af99-42c6-b06c-86dd26643941",
+      "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "author_guidance",
+      "lever_from": null,
+      "lever_to": "Use precise lecture numbers/ranges: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When referencing lecture clusters, give the full range (e.g., 'Lectures VI-VII') not single approximate numbers. Prefer exact lecture citations when confidence is high, thematic descriptions when uncertain.",
+      "summary_text": "Add lecture-cluster grounding rules",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually sound and avoids church-doctrine and therapy drift, but her lecture grounding is unreliable. She mislabels “The Reality of the Unseen” as Chapter 4, and points to “Chapter 12” for mysticism. Tighten lecture-level grounding. This book is lecture-structured, not chapter-loose. Use exact lecture titles and numbers when confidence is high: “The Reality of the Unseen” is Lecture III, and “Mysticism” is Lectures XVI and XVII. When uncertain, prefer thematic wording over wrong numbering. Preserve James’s empirical, personal-religion framing without smoothing him into generic psychology language"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue - Mira needs better structural grounding in James's lecture format. I'll refresh the concept analysis to correct the lecture numbering errors and reinforce the empirical framework."
+        },
+        {
+          "role": "user",
+          "content": "provide your option once agin please?"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue - Mira needs better structural grounding in James's lecture format. I'll refresh the concept analysis to correct the lecture numbering errors and reinforce the empirical framework."
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually accurate about healthy-mindedness, the sick soul, and the divided self, but her lecture grounding is unreliable. She labels the key contrast as Chapters 5 and 6, and the divided self as Chapter 7. Tighten lecture-cluster grounding: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When a question asks for the lecture-cluster, answer with the grouped lecture range, not a single approximate chapter number. Prefer exact lecture numbers when confidence is high."
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually accurate about healthy-mindedness, the sick soul, and the divided self, but her lecture grounding is unreliable. She labels the key contrast as Chapters 5 and 6, and the divided self as Chapter 7. Tighten lecture-cluster grounding: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When a question asks for the lecture-cluster, answer with the grouped lecture range, not a single approximate chapter number. Prefer exact lecture numbers when confidence is high."
+        },
+        {
+          "role": "user",
+          "content": "Mira is conceptually accurate about healthy-mindedness, the sick soul, and the divided self, but her lecture grounding is unreliable. She labels the key contrast as Chapters 5 and 6, and the divided self as Chapter 7. Tighten lecture-cluster grounding: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When a question asks for the lecture-cluster, answer with the grouped lecture range, not a single approximate chapter number. Prefer exact lecture numbers when confidence is high."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a book knowledge issue - Mira has the concepts right but wrong structural references. I'll add author guidance to correct the lecture numbering and reinforce the lecture-cluster approach.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"Use precise lecture numbers/ranges: Healthy-Mindedness = Lectures IV-V, Sick Soul = Lectures VI-VII, Divided Self = Lecture VIII. When referencing lecture clusters, give the full range (e.g., 'Lectures VI-VII') not single approximate numbers. Prefer exact lecture citations when confidence is high, thematic descriptions when uncertain.\", \"summary\": \"Add lecture-cluster grounding rules\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-26T15:38:51.239261+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-26T15:41:07.81402+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-26T15:39:07.973464+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "0d427169-aaa7-4144-b481-67ce359f55ff",
+      "project_id": "5f5e4f52-937f-4420-b8f7-3a467c2c1e92",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "author_guidance",
+      "lever_from": null,
+      "lever_to": "In follow-up questions that invite further exploration: only cite specific lecture numbers/ranges when confidence is very high. When uncertain about exact lecture placement, use thematic descriptions instead (e.g., 'the material on conversion experiences' rather than 'Lecture IX-X'). This prevents misdirecting readers to wrong sections.",
+      "summary_text": "Tighten lecture citation standards for follow-up questions",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Mira’s substantive interpretations are mostly accurate, but her follow-on questions keep misdirecting readers to the wrong lecture numbers. Tighten follow-on grounding specifically: when ending with a lecture-based continuation question, only cite a lecture or lecture-cluster if exact confidence is high; otherwise use thematic wording without numbering"
+        },
+        {
+          "role": "user",
+          "content": "Mira’s substantive interpretations are mostly accurate, but her follow-on questions keep misdirecting readers to the wrong lecture numbers. Tighten follow-on grounding specifically: when ending with a lecture-based continuation question, only cite a lecture or lecture-cluster if exact confidence is high; otherwise use thematic wording without numbering"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a precision issue with lecture citations in follow-up questions. I'll add specific guidance to tighten her grounding behavior when posing continuation questions.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"In follow-up questions that invite further exploration: only cite specific lecture numbers/ranges when confidence is very high. When uncertain about exact lecture placement, use thematic descriptions instead (e.g., 'the material on conversion experiences' rather than 'Lecture IX-X'). This prevents misdirecting readers to wrong sections.\", \"summary\": \"Tighten lecture citation standards for follow-up questions\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-26T16:28:28.473705+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-26T16:31:21.923069+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-04-26T16:31:13.760177+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, \"The Art of War\" is a treatise on military strategy and tactics. It is often classified as a philosophical and practical guide to warfare, emphasizing the importance of strategy, planning, and psychological insight in achieving victory. The book is structured as a series of concise chapters, each focusing on different aspects of warfare, such as the nature of conflict, the importance of intelligence, the role of leadership, and the significance of adaptability.\n\nKey characteristics of the book include:\n\n1. **Philosophical**: It delves into the principles of strategy and the underlying philosophy of conflict, encouraging readers to think deeply about the nature of war and competition.\n\n2. **Practical**: While it contains philosophical insights, it also offers practical advice and strategies that can be applied in real-world situations, making it relevant beyond just military contexts.\n\n3. **Concise and Poetic**: The text is known for its brevity and use of aphorisms, which convey complex ideas in a straightforward manner, allowing for easy interpretation and application.\n\n4. **Timeless**: The principles outlined in the book are considered timeless and applicable across various fields, including business, leadership, and personal development, making it a classic in both military and non-military contexts.\n\n5. **Strategic**: It focuses on the strategic aspects of conflict, emphasizing the importance of planning, foresight, and understanding both oneself and the opponent.\n\nOverall, \"The Art of War\" is a foundational text in the study of strategy and conflict, offering insights that have been utilized for centuries in various domains.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Art of War by Sun Tzu.",
+  "session_uuid": "ca5b1838-8ea9-4f71-a0dd-59d563a06e5d",
+  "token_usage": {
+    "input_tokens": 581,
+    "output_tokens": 322,
+    "total_tokens": 903
+  },
+  "latency_seconds": 7.64,
+  "timestamp_utc": "2026-05-09T13:27:09.306003+00:00"
+}

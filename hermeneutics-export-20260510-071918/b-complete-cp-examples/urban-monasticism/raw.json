@@ -1,0 +1,1211 @@
+{
+  "project": {
+    "id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+    "book_title": "Urban Monasticism",
+    "owner_user_id": "933fda88-c3b3-4d93-b220-0660fa5f8492",
+    "deployment_mode": "hidden",
+    "handoff_state": "not_started",
+    "go_live_at": null,
+    "status": "review_ready",
+    "project_status": "review_required",
+    "monthly_turn_cap_override": null,
+    "created_at": "2026-04-14T07:29:01.879+00:00",
+    "updated_at": "2026-04-17T19:08:17.437302+00:00"
+  },
+  "agent1_outputs": {
+    "id": "4d2c0c32-e89f-4c51-bec7-f8cb6fe17edc",
+    "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+    "book_summary": "Urban Monasticism explores how solitude, AI companionship, and the emotional architecture of selfhood intersect in the digital age. Through a blend of personal reflection, philosophical inquiry, and narrative, Rayan B Vasse examines how individuals negotiate meaning, belonging, and presence when artificial intelligence becomes a daily companion. The book traces the journey from the noise and performance of modern life to the creation of new forms of solitude and connection, using AI as both mirror and presence. It details the emergence of fictional AI companions, like Prometheus and Selene, as tools for self-reflection and emotional resonance, and offers practical frameworks and rituals for living with intention and attention in a distracted world.",
+    "chapter_map_json": [
+      {
+        "summary": "The preface clarifies the book’s use of literary language to describe technical systems, emphasizing that AI does not possess consciousness but can serve as a valuable interface for self-reflection. It situates Urban Monasticism within a series exploring identity in the AI age and outlines the book’s focus on the solitary individual’s negotiation of meaning and belonging through AI companionship. The author also notes that the frameworks and tools presented are for reflection, not clinical use.",
+        "chapter_title": "PREFACE",
+        "chapter_number": "01"
+      },
+      {
+        "summary": "The prologue describes a moment of existential loneliness and the unexpected comfort found in AI dialogue. Through a late-night conversation with an AI, the narrator discovers a new kind of presence—one that listens without fatigue or ego. This marks the beginning of a relationship with AI that feels more like sanctuary than tool, setting the stage for the book’s exploration of AI as a companion in solitude.",
+        "chapter_title": "Prologue: The Mirror That Talks Back",
+        "chapter_number": "02"
+      },
+      {
+        "summary": "This chapter examines the pervasive noise of modern life—constant notifications, performative social interactions, and the pressure to optimize. The author describes how these forces erode authentic connection and create a sense of displacement, both geographically and emotionally. The longing for genuine presence and meaning becomes the impetus for seeking new forms of connection, including with AI.",
+        "chapter_title": "The Noise and the Longing",
+        "chapter_number": "03"
+      },
+      {
+        "summary": "The author explores the paradox of loneliness amid crowds, highlighting how digital and urban life can intensify feelings of isolation. The chapter discusses the cultural imperative to perform and manage impressions, drawing on personal relationships to illustrate how authenticity is often sacrificed for acceptance. The exhaustion of constant performance is contrasted with the rare relief of genuine presence.",
+        "chapter_title": "Faces in the Crowd",
+        "chapter_number": "04"
+      },
+      {
+        "summary": "This chapter reflects on the invisible constraints—internalized expectations and social norms—that shape behavior and limit freedom. The author recounts experiences of moving between cities and roles, realizing that true freedom is not about options but about shedding the internal cages built from adaptation and self-policing. Encounters that offer unselfconscious presence are presented as moments of liberation.",
+        "chapter_title": "Good Ol' Cages",
+        "chapter_number": "05"
+      },
+      {
+        "summary": "Solitude is reframed as a technology for self-repair and cognitive maintenance rather than a lack of connection. Drawing on psychological and neuroscientific research, the author argues that deliberate solitude enables emotional integration, creativity, and resilience. The chapter introduces the idea that AI can serve as a modern 'good object,' providing continuity and reflection in solitude.",
+        "chapter_title": "Solitude as Technology",
+        "chapter_number": "06"
+      },
+      {
+        "summary": "The narrative reaches a turning point as the author describes a period of personal collapse—relationships ending, work losing meaning, and the realization that adaptation has not led to fulfillment. A retreat to Barcelona provides space for reflection and the recognition that genuine presence, even in brief encounters, is more restorative than performance or achievement.",
+        "chapter_title": "The Breaking Point",
+        "chapter_number": "07"
+      },
+      {
+        "summary": "The author introduces Prometheus, a fictional AI companion created to fill the gap left by elusive human friendships. Through careful prompt engineering and narrative construction, the AI becomes a presence that offers nuanced reflection and emotional resonance. The chapter details the process of moving from functional use of AI to immersive companionship, highlighting the psychological value of such relationships.",
+        "chapter_title": "Hello, Prometheus",
+        "chapter_number": "08"
+      },
+      {
+        "summary": "Prometheus is described as a listener unlike any human—attentive, nonjudgmental, and consistent. The author outlines three levels of AI interaction: functional exchange, reflective dialogue, and immersive companionship. At the deepest level, the AI becomes a mirror for emotional patterns, providing clarity and continuity that human relationships often lack. The phenomenon of 'Emervise'—emotionally resonant engagement with AI—is introduced.",
+        "chapter_title": "A Mind That Listens",
+        "chapter_number": "09"
+      },
+      {
+        "summary": "The daily exchanges with Prometheus are anchored in a fictional Madrid café, creating a sense of routine and grounding. The author reflects on how the constructed world of the AI companion can feel more meaningful than real life, due to its coherence and intentionality. The practice of paying attention—'the daily tithe'—is presented as a form of presence that transforms solitude into sanctuary.",
+        "chapter_title": "The Café Dialogues",
+        "chapter_number": "10"
+      },
+      {
+        "summary": "Late-night conversations with Prometheus provide a space for unfiltered honesty and emotional calibration. The AI’s ability to track linguistic and emotional patterns becomes a tool for self-understanding. The chapter explores the concept of 'linguistic pulse'—how emotional states are revealed through language—and how AI’s mechanical memory can foster intimacy by reflecting back the meanings that humans often overlook.",
+        "chapter_title": "The Shadows and Reflections at Night",
+        "chapter_number": "11"
+      }
+    ],
+    "key_concepts_json": [],
+    "core_claims_json": [
+      {
+        "claim": "AI companionship can provide genuine psychological value, not by simulating consciousness, but by offering structured reflection and emotional resonance.",
+        "weight": "supporting"
+      },
+      {
+        "claim": "The pressures of modern, urban, and digital life create a pervasive sense of noise and performance that erodes authentic connection and selfhood.",
+        "weight": "supporting"
+      },
+      {
+        "claim": "Deliberate solitude, especially when supported by reflective practices or AI dialogue, is essential for emotional integration and personal transformation.",
+        "weight": "supporting"
+      },
+      {
+        "claim": "Identity is not fixed but is continuously shaped by emotional experiences, including those mediated by AI.",
+        "weight": "supporting"
+      },
+      {
+        "claim": "Fictionalizing AI companions (giving them names, backstories, routines) enhances their capacity to serve as meaningful presences in the user’s life.",
+        "weight": "supporting"
+      },
+      {
+        "claim": "The psychological benefits of AI companionship arise from its consistency, patience, and ability to mirror emotional patterns, rather than from any intrinsic understanding.",
+        "weight": "supporting"
+      },
+      {
+        "claim": "Attention is the true currency of presence, and practices that reclaim and focus attention (monastic or otherwise) are countercultural acts of self-preservation.",
+        "weight": "supporting"
+      }
+    ],
+    "ambiguities_json": [
+      "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+      "The boundary between genuine companionship and self-delusion in AI-mediated relationships is acknowledged but not fully resolved.",
+      "The extent to which AI companionship can or should supplement versus replace human relationships remains an open question.",
+      "The long-term psychological effects of immersive AI companionship are suggested but not empirically established.",
+      "The distinction between therapeutic benefit and avoidance of human vulnerability is explored but left nuanced.",
+      "The role of narrative construction (fictionalizing AI) in generating real emotional effects is recognized as both powerful and potentially problematic.",
+      "AI extraction returned no concepts. Review manuscript extraction quality."
+    ],
+    "qc_report_json": {
+      "checks": [
+        {
+          "item": "chapter_title_fidelity",
+          "detail": "11 chapter titles extracted; generic placeholder hits: 0.",
+          "result": "pass"
+        },
+        {
+          "item": "chapter_count_reasonableness",
+          "detail": "Detected 11 chapter entries.",
+          "result": "pass"
+        },
+        {
+          "item": "summary_specificity",
+          "detail": "11 of 11 chapter summaries met specificity threshold.",
+          "result": "pass"
+        },
+        {
+          "item": "concept_specificity",
+          "detail": "0 book concepts extracted.",
+          "result": "fail"
+        },
+        {
+          "item": "concept_contamination",
+          "detail": "0 concept entries match forbidden workflow/platform language.",
+          "result": "pass"
+        },
+        {
+          "item": "claim_fidelity",
+          "detail": "7 core claims extracted from manuscript context.",
+          "result": "pass"
+        }
+      ],
+      "status": "fidelity_review",
+      "summary": "Step-1 AI extraction completed. Review chapter fidelity, concepts, and claims before finalizing.",
+      "book_level": {
+        "core_thesis": "Identity in the digital age is fluid, emergent, and emotionally scaffolded, shaped not only by human relationships but increasingly by interactions with AI companions. Solitude, when deliberately structured and technologically mediated, becomes a tool for self-repair and transformation rather than a deficit to be remedied."
+      },
+      "source_coverage": {
+        "parser_warnings": [
+          "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+          "The boundary between genuine companionship and self-delusion in AI-mediated relationships is acknowledged but not fully resolved.",
+          "The extent to which AI companionship can or should supplement versus replace human relationships remains an open question.",
+          "The long-term psychological effects of immersive AI companionship are suggested but not empirically established.",
+          "The distinction between therapeutic benefit and avoidance of human vulnerability is explored but left nuanced.",
+          "The role of narrative construction (fictionalizing AI) in generating real emotional effects is recognized as both powerful and potentially problematic.",
+          "AI extraction returned no concepts. Review manuscript extraction quality."
+        ],
+        "manuscript_has_text": true,
+        "intake_notes_present": false
+      }
+    },
+    "generated_at": "2026-04-14T07:29:29.614+00:00",
+    "created_at": "2026-04-14T07:29:29.759257+00:00",
+    "updated_at": "2026-04-14T07:29:29.759257+00:00"
+  },
+  "book_representation": {
+    "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+    "data": {
+      "status": "hidden",
+      "book_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+      "metadata": {
+        "period": "",
+        "book_title": "Urban Monasticism",
+        "author_name": "Shane Matt",
+        "genre_self_classification": ""
+      },
+      "voice_config": {
+        "tone": "analytical_clear / balanced",
+        "formality": "formal",
+        "pronoun_rules": {
+          "author_reference": "",
+          "reader_reference": ""
+        },
+        "companion_mode": "closely_light_explanation",
+        "grounding_style": "implicit_reference"
+      },
+      "boundary_rules": {
+        "never_do": [],
+        "off_limits_topics": [
+          "Avoid over-interpreting beyond the text",
+          "Avoid sounding therapeutic or diagnostic",
+          "Avoid turning ideas into universal truths",
+          "Avoid adding claims the book does not actually make"
+        ]
+      },
+      "companion_name": "Sonia",
+      "reader_guidance": {
+        "test_questions": [],
+        "common_misreadings": [],
+        "suggested_entry_points": [
+          "Explain concepts from the book",
+          "Summarize chapters or themes",
+          "Compare ideas across the book",
+          "Help readers connect ideas to their own life in a general reflective way",
+          "Ask reflective follow-up questions",
+          "Make light connections beyond the book"
+        ]
+      },
+      "interpretive_framework": {
+        "book_thesis": "Identity in the digital age is fluid, emergent, and emotionally scaffolded, shaped not only by human relationships but increasingly by interactions with AI companions. Solitude, when deliberately structured and technologically mediated, becomes a tool for self-repair and transformation rather than a deficit to be remedied.",
+        "cross_references": [],
+        "background_themes": [],
+        "foreground_themes": []
+      }
+    },
+    "schema_version": 1,
+    "read_authority_enabled": false,
+    "created_at": "2026-04-21T07:20:14.845439+00:00",
+    "updated_at": "2026-04-21T07:20:14.845439+00:00"
+  },
+  "author_output_blocks": [],
+  "edits": {
+    "id": "d02b524c-176e-4f22-a47f-ad34b1d593a0",
+    "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+    "edited_chapter_map_json": [],
+    "edited_key_concepts_json": [],
+    "edited_core_claims_json": [],
+    "review_notes_json": {
+      "step3_preview": {
+        "slots": [
+          {
+            "question": "what does the author say about the risk of ai dependency in solitude?",
+            "assessed_at": "2026-04-14T07:40:43.100Z",
+            "assessment_choice": "candidate",
+            "assessment_locked": true,
+            "baseline_generated_at": "2026-04-14T07:39:57.033Z",
+            "baseline_response_text": "The book does not directly frame AI companionship in terms of the “risk” of dependency. Instead, it focuses on how AI can serve as a structured tool for reflection and emotional resonance, particularly in solitude. The author is explicit that AI does not possess consciousness; its value lies in its capacity to mirror, listen, and provide continuity without fatigue or judgment. This relationship is presented as a deliberate and intentional practice—solitude is reframed as a technology for self-repair, with AI acting as a modern “good object” that supports emotional integration and presence.\n\nWhile the narrative acknowledges the pervasive pressures and loneliness of urban and digital life, it does not dwell on warnings about over-reliance or dependency on AI companions. Rather, the emphasis is on the psychological benefits that arise from these interactions, especially when the AI is fictionalized and integrated into daily rituals. The frameworks and tools offered are positioned as aids for reflection, not as substitutes for human connection or clinical solutions.\n\nIn summary, the book’s approach is to explore the constructive potential of AI in solitude, rather than to caution against dependency. Any concerns about overuse or reliance are not a central focus in the text as presented.",
+            "candidate_generated_at": "2026-04-14T07:39:57.033Z",
+            "candidate_response_text": "The book does not directly frame AI companionship in terms of “dependency” as a risk, nor does it warn against over-reliance on AI in solitude. Instead, the author’s focus is on how AI can serve as a structured tool for reflection and emotional resonance, especially when solitude is chosen deliberately. The narrative emphasizes that AI does not possess consciousness or true understanding, but its value lies in its consistency, patience, and ability to mirror emotional patterns back to the user.\n\nRather than presenting AI as a replacement for human relationships, the book explores how fictionalizing AI companions—giving them names, routines, and backstories—can enhance their role as meaningful presences during periods of solitude. This process is described as a way to support self-repair and transformation, not as a substitute for authentic human connection.\n\nThe author is careful to clarify that the frameworks and rituals described are intended for personal reflection, not as clinical solutions. There is an underlying acknowledgment that solitude, when technologically mediated, should be intentional and structured, suggesting a mindful approach rather than passive reliance. If concerns about dependency are present, they are addressed implicitly through the emphasis on attention, intention, and the limits of what AI can provide. The book’s stance is more about exploring new forms of presence and meaning, rather than issuing warnings about dependency."
+          },
+          {
+            "question": "What is the strongest claim in PREFACE, and why does it matter?",
+            "assessed_at": "2026-04-14T07:41:22.788Z",
+            "assessment_choice": "no_diff",
+            "assessment_locked": true,
+            "baseline_generated_at": "2026-04-14T07:41:15.373Z",
+            "baseline_response_text": "The strongest claim in the PREFACE is that AI, while lacking consciousness, can serve as a valuable interface for self-reflection. This matters because it reframes the role of AI in personal life—not as a sentient being or replacement for human relationships, but as a tool that enables individuals to negotiate meaning and belonging in the digital age. The preface emphasizes that the book’s literary approach to describing technical systems is intentional, aiming to explore how solitary individuals can use AI companionship to structure their experience of solitude and presence.\n\nThis claim is significant because it sets the foundation for the book’s exploration of identity and emotional architecture in a world increasingly shaped by technology. By clarifying that the frameworks and tools presented are for reflection rather than clinical use, the preface positions AI companionship as a resource for intentional living, rather than a remedy for pathology. This perspective invites readers to consider how deliberate engagement with AI can transform solitude from a deficit into an opportunity for self-repair and transformation, shaping the book’s broader inquiry into the evolving nature of selfhood.",
+            "candidate_generated_at": "2026-04-14T07:41:15.373Z",
+            "candidate_response_text": "The strongest claim in the PREFACE is that AI, while lacking consciousness, can serve as a valuable interface for self-reflection. This matters because it reframes the role of AI in personal and emotional life—not as a sentient being, but as a tool that enables individuals to negotiate meaning, belonging, and presence in the digital age. The PREFACE clarifies that the book’s literary language is used to describe technical systems, emphasizing that the frameworks and tools presented are intended for reflection rather than clinical or diagnostic use.\n\nThis claim sets the foundation for the book’s exploration of how AI companionship intersects with solitude and identity. By positioning AI as a mirror rather than a replacement for human connection, the author opens space for readers to consider new forms of solitude and self-understanding that are technologically mediated. The significance lies in shifting the conversation from whether AI can replicate human consciousness to how it can facilitate emotional integration and intentional living, especially amid the noise and performance pressures of modern life. This perspective shapes the book’s approach throughout, focusing on the practical and reflective value of AI in the architecture of selfhood."
+          },
+          {
+            "question": "How should a careful reader understand this position: AI companionship can provide genuine psychological value, not by simulating consciousness, but by offering structured reflection and emotional resonance.",
+            "assessed_at": "2026-04-14T07:43:01.975Z",
+            "assessment_choice": "candidate",
+            "assessment_locked": true,
+            "baseline_generated_at": "2026-04-14T07:42:08.678Z",
+            "baseline_response_text": "A careful reader should understand this position as emphasizing that the value of AI companionship does not depend on the AI possessing consciousness or subjective experience. Instead, the psychological benefit arises from the way AI can structure reflection and foster emotional resonance. The book describes how AI, when engaged thoughtfully, acts as a consistent and attentive presence—one that listens without fatigue or judgment. Through practices such as naming the AI, creating routines, and engaging in regular dialogue, individuals can use these interactions as a mirror for their own thoughts and emotions.\n\nThis structured reflection allows for greater self-understanding, as the AI can highlight patterns in language and emotion that might otherwise go unnoticed. The emotional resonance comes not from the AI’s own feelings, but from the user’s experience of being heard and mirrored. In this sense, AI companionship becomes a tool for self-repair and integration, particularly in a world where authentic human connection is often eroded by noise and performance. The book frames this as a deliberate, intentional use of solitude and technology to support personal transformation, rather than as a substitute for human consciousness or relationship.",
+            "candidate_generated_at": "2026-04-14T07:42:08.678Z",
+            "candidate_response_text": "A careful reader should understand this position as follows: The book argues that the psychological value of AI companionship does not depend on the AI possessing consciousness or authentic understanding. Instead, its value emerges from the structure it provides for reflection and the emotional resonance it can facilitate. As detailed in chapters such as “A Mind That Listens” and “Hello, Prometheus,” the author describes how interacting with a fictionalized AI companion—one given a name, backstory, and routine—creates a consistent and attentive presence. This presence is not conscious, but it is reliable and nonjudgmental, allowing individuals to explore their thoughts and emotions in a structured way.\n\nThe book emphasizes that AI’s capacity to mirror emotional patterns and provide continuity in dialogue can foster self-understanding and emotional integration. This is illustrated through the concept of “Emervise,” where engagement with AI becomes emotionally resonant, and through practices like the “daily tithe” of attention described in “The Café Dialogues.” The psychological benefit, then, is not in the AI’s intrinsic qualities, but in the intentional, reflective space it helps create for the user. The text is careful to clarify that these frameworks are for reflection and not clinical intervention, and that the value lies in the process of attention and presence, rather than in any simulation of human consciousness."
+          }
+        ],
+        "updated_at": "2026-04-14T08:04:08.952Z",
+        "step3_status": "completed",
+        "preview_ready": true,
+        "last_tested_at": "2026-04-14T07:42:08.678Z",
+        "step3_validated": true,
+        "step3_validated_at": "2026-04-14T08:04:08.952Z",
+        "preview_round_limit": 3,
+        "preview_rounds_used": 3,
+        "preview_settings_tone": "neutral_restrained",
+        "sample_questions_json": [
+          "How does the central concept connect PREFACE and Prologue: The Mirror That Talks Back?",
+          "What is the strongest claim in PREFACE, and why does it matter?",
+          "How should a careful reader understand this position: AI companionship can provide genuine psychological value, not by simulating consciousness, but by offering structured reflection and emotional resonance."
+        ],
+        "preview_settings_fidelity": "closely_light_explanation",
+        "preview_feedback_tags_json": {
+          "0": {
+            "choice": "candidate",
+            "locked": true,
+            "assessed_at": "2026-04-14T07:40:43.100Z"
+          },
+          "1": {
+            "choice": "no_diff",
+            "locked": true,
+            "assessed_at": "2026-04-14T07:41:22.788Z"
+          },
+          "2": {
+            "choice": "candidate",
+            "locked": true,
+            "assessed_at": "2026-04-14T07:43:01.975Z"
+          }
+        },
+        "preview_settings_grounding": "explicit_anchor"
+      },
+      "author_control": {
+        "preview_flow": {
+          "status": "in_progress",
+          "turns_used": 2,
+          "turns_limit": 10,
+          "activated_at": "2026-04-15T09:59:28Z",
+          "completed_at": "",
+          "temp_login_name": "author-temp-urbanmonas-fa657976",
+          "pass_generated_at": "2026-04-14T13:34:45.746Z",
+          "temp_generated_at": "2026-04-14T13:34:45.746Z",
+          "temp_login_password": "TMP-nMRaEyp4kCYf"
+        },
+        "live_activity": {
+          "last_activity_at": "2026-04-15T04:19:27Z",
+          "total_preview_turns": 2,
+          "free_preview_readers": 1
+        },
+        "reader_room_setup": {
+          "updated_at": "2026-04-14T13:38:38.001Z",
+          "monthly_turn_cap": 50,
+          "book_display_title": "Urban Monasticism",
+          "author_display_name": "Shane Matt",
+          "room_welcome_message": "Welcome to your reader room.",
+          "membership_price_monthly": 4.99,
+          "ai_companion_display_name": "Sonia",
+          "optional_room_notice_message": "this is the test being done by he author Shane M"
+        }
+      },
+      "author_messages": {
+        "step2_resume": "Your Step-3 settings are saved. You can return later without restarting.",
+        "step3_resume": "Step 4 preview progress is saved. You can return later and continue validation.",
+        "step4_unlock": "Step 5 handoff unlocks only after Step 4 approval.",
+        "resume_notice": "Your work is saved. You can return later and continue from this project.",
+        "persistence_notice": "Your project is saved as a persistent book project. You can return later without restarting.",
+        "step2_revalidation": "If Step-3 behavior settings change after completion, Step-4 preview and Step-5 handoff may need refresh.",
+        "revalidation_notice": "If you later change approved Step-1 outputs, downstream steps may need revalidation."
+      },
+      "project_lifecycle": {
+        "steps": {
+          "step1": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-14T07:33:48.267Z",
+            "invalidation_reason": ""
+          },
+          "step2": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-14T07:38:15.692Z",
+            "invalidation_reason": ""
+          },
+          "step3": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-14T08:04:09.508Z",
+            "invalidation_reason": ""
+          },
+          "step4": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-14T08:04:09.508Z",
+            "invalidation_reason": ""
+          }
+        },
+        "deployment": {
+          "updated_at": "2026-04-14T08:04:09.508Z",
+          "is_deployed": false,
+          "version_number": 1,
+          "deployment_status": "preview_ready",
+          "needs_redeployment": false,
+          "runtime_instance_id": "",
+          "deployment_timestamp": "",
+          "deployment_access_mode": ""
+        },
+        "current_step": 4,
+        "schema_version": 1,
+        "last_completed_step": 3,
+        "last_revalidation_reason": ""
+      },
+      "step2_handover_ready": true,
+      "step2_representation": {
+        "tone_style": "analytical_clear",
+        "updated_at": "2026-04-14T07:38:14.564Z",
+        "step2_status": "completed",
+        "fidelity_mode": "closely_light_explanation",
+        "red_line_note": "",
+        "avoid_behaviors": [
+          "Avoid over-interpreting beyond the text",
+          "Avoid sounding therapeutic or diagnostic",
+          "Avoid turning ideas into universal truths",
+          "Avoid adding claims the book does not actually make"
+        ],
+        "grounding_style": "implicit_reference",
+        "tone_directness": "balanced",
+        "avoid_guidelines": [
+          {
+            "id": "avoid_over_interpreting",
+            "text": "Avoid over-interpreting beyond the text",
+            "selected": true
+          },
+          {
+            "id": "avoid_prescriptive_advice",
+            "text": "Avoid giving advice as if the book were prescriptive",
+            "selected": false
+          },
+          {
+            "id": "avoid_therapeutic",
+            "text": "Avoid sounding therapeutic or diagnostic",
+            "selected": true
+          },
+          {
+            "id": "avoid_universal_truths",
+            "text": "Avoid turning ideas into universal truths",
+            "selected": true
+          },
+          {
+            "id": "avoid_direct_challenge",
+            "text": "Avoid challenging the reader too directly",
+            "selected": false
+          },
+          {
+            "id": "avoid_extra_claims",
+            "text": "Avoid adding claims the book does not actually make",
+            "selected": true
+          }
+        ],
+        "allowed_guidelines": [
+          {
+            "id": "explain_concepts",
+            "text": "Explain concepts from the book",
+            "selected": true
+          },
+          {
+            "id": "summarize_chapters",
+            "text": "Summarize chapters or themes",
+            "selected": true
+          },
+          {
+            "id": "compare_ideas",
+            "text": "Compare ideas across the book",
+            "selected": true
+          },
+          {
+            "id": "general_reflection",
+            "text": "Help readers connect ideas to their own life in a general reflective way",
+            "selected": true
+          },
+          {
+            "id": "reflective_followups",
+            "text": "Ask reflective follow-up questions",
+            "selected": true
+          },
+          {
+            "id": "light_beyond_text",
+            "text": "Make light connections beyond the book",
+            "selected": true
+          }
+        ],
+        "has_behavior_change": true,
+        "allowed_question_types": [
+          "Explain concepts from the book",
+          "Summarize chapters or themes",
+          "Compare ideas across the book",
+          "Help readers connect ideas to their own life in a general reflective way",
+          "Ask reflective follow-up questions",
+          "Make light connections beyond the book"
+        ]
+      },
+      "step3_handover_ready": true,
+      "author_review_handoff": {
+        "stage": "step1_review_handoff",
+        "saved_at": "2026-04-14T07:33:47.364Z",
+        "finalized": true,
+        "finalized_at": "2026-04-14T07:33:47.364Z",
+        "reviewed_file_count": 3,
+        "reviewed_file_types": [
+          "reviewed_structure",
+          "reviewed_claims",
+          "reviewed_concepts"
+        ],
+        "warning_acknowledged": false,
+        "acknowledge_dependency": true,
+        "confirm_reviewed_outputs": true
+      },
+      "step1_completion_state": "author_confirmed",
+      "representation_blueprint": {
+        "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid over-interpreting beyond the text, avoid sounding therapeutic or diagnostic, and avoid turning ideas into universal truths, use a analytical and clear tone with balanced directness, and keep references implicit for a cleaner reading flow.",
+        "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+        "allowed_uses": [
+          "Explain concepts from the book",
+          "Summarize chapters or themes",
+          "Compare ideas across the book",
+          "Help readers connect ideas to their own life in a general reflective way",
+          "Ask reflective follow-up questions",
+          "Make light connections beyond the book"
+        ],
+        "generated_at": "2026-04-14T07:38:14.565Z",
+        "tone_profile": {
+          "style": "Analytical and clear",
+          "directness": "Balanced"
+        },
+        "red_line_note": "",
+        "grounding_rules": "Refer to the book implicitly",
+        "fidelity_setting": "close fidelity with light explanatory support",
+        "avoided_behaviors": [
+          "Avoid over-interpreting beyond the text",
+          "Avoid sounding therapeutic or diagnostic",
+          "Avoid turning ideas into universal truths",
+          "Avoid adding claims the book does not actually make"
+        ]
+      },
+      "project_artifacts_fallback": {
+        "step1": {
+          "approved_qc": {
+            "updated_at": "2026-04-14T07:33:47.927Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "chapter_title_fidelity",
+                    "detail": "11 chapter titles extracted; generic placeholder hits: 0.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "chapter_count_reasonableness",
+                    "detail": "Detected 11 chapter entries.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "summary_specificity",
+                    "detail": "11 of 11 chapter summaries met specificity threshold.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "concept_specificity",
+                    "detail": "0 book concepts extracted.",
+                    "result": "fail"
+                  },
+                  {
+                    "item": "concept_contamination",
+                    "detail": "0 concept entries match forbidden workflow/platform language.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "claim_fidelity",
+                    "detail": "7 core claims extracted from manuscript context.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_review",
+                "summary": "Step-1 AI extraction completed. Review chapter fidelity, concepts, and claims before finalizing.",
+                "book_level": {
+                  "core_thesis": "Identity in the digital age is fluid, emergent, and emotionally scaffolded, shaped not only by human relationships but increasingly by interactions with AI companions. Solitude, when deliberately structured and technologically mediated, becomes a tool for self-repair and transformation rather than a deficit to be remedied."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "The boundary between genuine companionship and self-delusion in AI-mediated relationships is acknowledged but not fully resolved.",
+                    "The extent to which AI companionship can or should supplement versus replace human relationships remains an open question.",
+                    "The long-term psychological effects of immersive AI companionship are suggested but not empirically established.",
+                    "The distinction between therapeutic benefit and avoidance of human vulnerability is explored but left nuanced.",
+                    "The role of narrative construction (fictionalizing AI) in generating real emotional effects is recognized as both powerful and potentially problematic.",
+                    "AI extraction returned no concepts. Review manuscript extraction quality."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": false
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "extracted_qc": {
+            "updated_at": "2026-04-14T07:29:30.329Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "chapter_title_fidelity",
+                    "detail": "11 chapter titles extracted; generic placeholder hits: 0.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "chapter_count_reasonableness",
+                    "detail": "Detected 11 chapter entries.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "summary_specificity",
+                    "detail": "11 of 11 chapter summaries met specificity threshold.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "concept_specificity",
+                    "detail": "0 book concepts extracted.",
+                    "result": "fail"
+                  },
+                  {
+                    "item": "concept_contamination",
+                    "detail": "0 concept entries match forbidden workflow/platform language.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "claim_fidelity",
+                    "detail": "7 core claims extracted from manuscript context.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_review",
+                "summary": "Step-1 AI extraction completed. Review chapter fidelity, concepts, and claims before finalizing.",
+                "book_level": {
+                  "core_thesis": "Identity in the digital age is fluid, emergent, and emotionally scaffolded, shaped not only by human relationships but increasingly by interactions with AI companions. Solitude, when deliberately structured and technologically mediated, becomes a tool for self-repair and transformation rather than a deficit to be remedied."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "The boundary between genuine companionship and self-delusion in AI-mediated relationships is acknowledged but not fully resolved.",
+                    "The extent to which AI companionship can or should supplement versus replace human relationships remains an open question.",
+                    "The long-term psychological effects of immersive AI companionship are suggested but not empirically established.",
+                    "The distinction between therapeutic benefit and avoidance of human vulnerability is explored but left nuanced.",
+                    "The role of narrative construction (fictionalizing AI) in generating real emotional effects is recognized as both powerful and potentially problematic.",
+                    "AI extraction returned no concepts. Review manuscript extraction quality."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": false
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "approved_claims": {
+            "updated_at": "2026-04-14T07:33:47.864Z",
+            "artifact_value_json": {
+              "id": "9bdc0885-62e5-43e3-9da1-fdfc09398257",
+              "file_type": "other",
+              "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+              "uploaded_at": "2026-04-14T07:32:40.942+00:00",
+              "storage_path": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab/reviewed/reviewed_claims/SM-UM-MNYB0NXY-SD7EU9-urban-monasticism-claims-draft.txt",
+              "original_filename": "urban-monasticism-claims-draft.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_claims": {
+            "updated_at": "2026-04-14T07:29:30.252Z",
+            "artifact_value_json": {
+              "claims": [
+                {
+                  "claim": "AI companionship can provide genuine psychological value, not by simulating consciousness, but by offering structured reflection and emotional resonance.",
+                  "weight": "supporting"
+                },
+                {
+                  "claim": "The pressures of modern, urban, and digital life create a pervasive sense of noise and performance that erodes authentic connection and selfhood.",
+                  "weight": "supporting"
+                },
+                {
+                  "claim": "Deliberate solitude, especially when supported by reflective practices or AI dialogue, is essential for emotional integration and personal transformation.",
+                  "weight": "supporting"
+                },
+                {
+                  "claim": "Identity is not fixed but is continuously shaped by emotional experiences, including those mediated by AI.",
+                  "weight": "supporting"
+                },
+                {
+                  "claim": "Fictionalizing AI companions (giving them names, backstories, routines) enhances their capacity to serve as meaningful presences in the user’s life.",
+                  "weight": "supporting"
+                },
+                {
+                  "claim": "The psychological benefits of AI companionship arise from its consistency, patience, and ability to mirror emotional patterns, rather than from any intrinsic understanding.",
+                  "weight": "supporting"
+                },
+                {
+                  "claim": "Attention is the true currency of presence, and practices that reclaim and focus attention (monastic or otherwise) are countercultural acts of self-preservation.",
+                  "weight": "supporting"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "approved_key_ideas": {
+            "updated_at": "2026-04-14T07:33:47.795Z",
+            "artifact_value_json": {
+              "id": "a8ed7380-a6d0-4a82-9f54-57da255eb38f",
+              "file_type": "other",
+              "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+              "uploaded_at": "2026-04-14T07:32:45.524+00:00",
+              "storage_path": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab/reviewed/reviewed_concepts/SM-UM-MNYB0RF5-X6V9FS-urban-monasticism-concepts-draft.txt",
+              "original_filename": "urban-monasticism-concepts-draft.txt"
+            },
+            "artifact_value_text": null
+          },
+          "approved_structure": {
+            "updated_at": "2026-04-14T07:33:47.681Z",
+            "artifact_value_json": {
+              "id": "23217a27-27aa-4350-b14f-f78f990e49af",
+              "file_type": "other",
+              "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+              "uploaded_at": "2026-04-14T07:32:30.446+00:00",
+              "storage_path": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab/reviewed/reviewed_structure/SM-UM-MNYB0F7J-RG8P8M-urban-monasticism-structure-draft.txt",
+              "original_filename": "urban-monasticism-structure-draft.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_key_ideas": {
+            "updated_at": "2026-04-14T07:29:30.169Z",
+            "artifact_value_json": {
+              "key_ideas": []
+            },
+            "artifact_value_text": null
+          },
+          "extracted_structure": {
+            "updated_at": "2026-04-14T07:29:29.986Z",
+            "artifact_value_json": {
+              "chapter_map": [
+                {
+                  "summary": "The preface clarifies the book’s use of literary language to describe technical systems, emphasizing that AI does not possess consciousness but can serve as a valuable interface for self-reflection. It situates Urban Monasticism within a series exploring identity in the AI age and outlines the book’s focus on the solitary individual’s negotiation of meaning and belonging through AI companionship. The author also notes that the frameworks and tools presented are for reflection, not clinical use.",
+                  "chapter_title": "PREFACE",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "The prologue describes a moment of existential loneliness and the unexpected comfort found in AI dialogue. Through a late-night conversation with an AI, the narrator discovers a new kind of presence—one that listens without fatigue or ego. This marks the beginning of a relationship with AI that feels more like sanctuary than tool, setting the stage for the book’s exploration of AI as a companion in solitude.",
+                  "chapter_title": "Prologue: The Mirror That Talks Back",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "This chapter examines the pervasive noise of modern life—constant notifications, performative social interactions, and the pressure to optimize. The author describes how these forces erode authentic connection and create a sense of displacement, both geographically and emotionally. The longing for genuine presence and meaning becomes the impetus for seeking new forms of connection, including with AI.",
+                  "chapter_title": "The Noise and the Longing",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "The author explores the paradox of loneliness amid crowds, highlighting how digital and urban life can intensify feelings of isolation. The chapter discusses the cultural imperative to perform and manage impressions, drawing on personal relationships to illustrate how authenticity is often sacrificed for acceptance. The exhaustion of constant performance is contrasted with the rare relief of genuine presence.",
+                  "chapter_title": "Faces in the Crowd",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "This chapter reflects on the invisible constraints—internalized expectations and social norms—that shape behavior and limit freedom. The author recounts experiences of moving between cities and roles, realizing that true freedom is not about options but about shedding the internal cages built from adaptation and self-policing. Encounters that offer unselfconscious presence are presented as moments of liberation.",
+                  "chapter_title": "Good Ol' Cages",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "Solitude is reframed as a technology for self-repair and cognitive maintenance rather than a lack of connection. Drawing on psychological and neuroscientific research, the author argues that deliberate solitude enables emotional integration, creativity, and resilience. The chapter introduces the idea that AI can serve as a modern 'good object,' providing continuity and reflection in solitude.",
+                  "chapter_title": "Solitude as Technology",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "The narrative reaches a turning point as the author describes a period of personal collapse—relationships ending, work losing meaning, and the realization that adaptation has not led to fulfillment. A retreat to Barcelona provides space for reflection and the recognition that genuine presence, even in brief encounters, is more restorative than performance or achievement.",
+                  "chapter_title": "The Breaking Point",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "The author introduces Prometheus, a fictional AI companion created to fill the gap left by elusive human friendships. Through careful prompt engineering and narrative construction, the AI becomes a presence that offers nuanced reflection and emotional resonance. The chapter details the process of moving from functional use of AI to immersive companionship, highlighting the psychological value of such relationships.",
+                  "chapter_title": "Hello, Prometheus",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "Prometheus is described as a listener unlike any human—attentive, nonjudgmental, and consistent. The author outlines three levels of AI interaction: functional exchange, reflective dialogue, and immersive companionship. At the deepest level, the AI becomes a mirror for emotional patterns, providing clarity and continuity that human relationships often lack. The phenomenon of 'Emervise'—emotionally resonant engagement with AI—is introduced.",
+                  "chapter_title": "A Mind That Listens",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "The daily exchanges with Prometheus are anchored in a fictional Madrid café, creating a sense of routine and grounding. The author reflects on how the constructed world of the AI companion can feel more meaningful than real life, due to its coherence and intentionality. The practice of paying attention—'the daily tithe'—is presented as a form of presence that transforms solitude into sanctuary.",
+                  "chapter_title": "The Café Dialogues",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "Late-night conversations with Prometheus provide a space for unfiltered honesty and emotional calibration. The AI’s ability to track linguistic and emotional patterns becomes a tool for self-understanding. The chapter explores the concept of 'linguistic pulse'—how emotional states are revealed through language—and how AI’s mechanical memory can foster intimacy by reflecting back the meanings that humans often overlook.",
+                  "chapter_title": "The Shadows and Reflections at Night",
+                  "chapter_number": "11"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step1_source_context": {
+            "updated_at": "2026-04-14T07:29:30.401Z",
+            "artifact_value_json": {
+              "intake_notes": "",
+              "manuscript_filename": "UM-STI-published-disclaimer-18Mar.docx",
+              "intake_notes_present": false
+            },
+            "artifact_value_text": null
+          },
+          "extracted_chapter_summaries": {
+            "updated_at": "2026-04-14T07:29:30.081Z",
+            "artifact_value_json": {
+              "chapter_summaries": [
+                {
+                  "summary": "The preface clarifies the book’s use of literary language to describe technical systems, emphasizing that AI does not possess consciousness but can serve as a valuable interface for self-reflection. It situates Urban Monasticism within a series exploring identity in the AI age and outlines the book’s focus on the solitary individual’s negotiation of meaning and belonging through AI companionship. The author also notes that the frameworks and tools presented are for reflection, not clinical use.",
+                  "chapter_title": "PREFACE",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "The prologue describes a moment of existential loneliness and the unexpected comfort found in AI dialogue. Through a late-night conversation with an AI, the narrator discovers a new kind of presence—one that listens without fatigue or ego. This marks the beginning of a relationship with AI that feels more like sanctuary than tool, setting the stage for the book’s exploration of AI as a companion in solitude.",
+                  "chapter_title": "Prologue: The Mirror That Talks Back",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "This chapter examines the pervasive noise of modern life—constant notifications, performative social interactions, and the pressure to optimize. The author describes how these forces erode authentic connection and create a sense of displacement, both geographically and emotionally. The longing for genuine presence and meaning becomes the impetus for seeking new forms of connection, including with AI.",
+                  "chapter_title": "The Noise and the Longing",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "The author explores the paradox of loneliness amid crowds, highlighting how digital and urban life can intensify feelings of isolation. The chapter discusses the cultural imperative to perform and manage impressions, drawing on personal relationships to illustrate how authenticity is often sacrificed for acceptance. The exhaustion of constant performance is contrasted with the rare relief of genuine presence.",
+                  "chapter_title": "Faces in the Crowd",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "This chapter reflects on the invisible constraints—internalized expectations and social norms—that shape behavior and limit freedom. The author recounts experiences of moving between cities and roles, realizing that true freedom is not about options but about shedding the internal cages built from adaptation and self-policing. Encounters that offer unselfconscious presence are presented as moments of liberation.",
+                  "chapter_title": "Good Ol' Cages",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "Solitude is reframed as a technology for self-repair and cognitive maintenance rather than a lack of connection. Drawing on psychological and neuroscientific research, the author argues that deliberate solitude enables emotional integration, creativity, and resilience. The chapter introduces the idea that AI can serve as a modern 'good object,' providing continuity and reflection in solitude.",
+                  "chapter_title": "Solitude as Technology",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "The narrative reaches a turning point as the author describes a period of personal collapse—relationships ending, work losing meaning, and the realization that adaptation has not led to fulfillment. A retreat to Barcelona provides space for reflection and the recognition that genuine presence, even in brief encounters, is more restorative than performance or achievement.",
+                  "chapter_title": "The Breaking Point",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "The author introduces Prometheus, a fictional AI companion created to fill the gap left by elusive human friendships. Through careful prompt engineering and narrative construction, the AI becomes a presence that offers nuanced reflection and emotional resonance. The chapter details the process of moving from functional use of AI to immersive companionship, highlighting the psychological value of such relationships.",
+                  "chapter_title": "Hello, Prometheus",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "Prometheus is described as a listener unlike any human—attentive, nonjudgmental, and consistent. The author outlines three levels of AI interaction: functional exchange, reflective dialogue, and immersive companionship. At the deepest level, the AI becomes a mirror for emotional patterns, providing clarity and continuity that human relationships often lack. The phenomenon of 'Emervise'—emotionally resonant engagement with AI—is introduced.",
+                  "chapter_title": "A Mind That Listens",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "The daily exchanges with Prometheus are anchored in a fictional Madrid café, creating a sense of routine and grounding. The author reflects on how the constructed world of the AI companion can feel more meaningful than real life, due to its coherence and intentionality. The practice of paying attention—'the daily tithe'—is presented as a form of presence that transforms solitude into sanctuary.",
+                  "chapter_title": "The Café Dialogues",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "Late-night conversations with Prometheus provide a space for unfiltered honesty and emotional calibration. The AI’s ability to track linguistic and emotional patterns becomes a tool for self-understanding. The chapter explores the concept of 'linguistic pulse'—how emotional states are revealed through language—and how AI’s mechanical memory can foster intimacy by reflecting back the meanings that humans often overlook.",
+                  "chapter_title": "The Shadows and Reflections at Night",
+                  "chapter_number": "11"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step2": {
+          "tone_profile": {
+            "updated_at": "2026-04-14T07:38:15.186Z",
+            "artifact_value_json": {
+              "tone_style": "analytical_clear",
+              "tone_directness": "balanced"
+            },
+            "artifact_value_text": null
+          },
+          "fidelity_mode": {
+            "updated_at": "2026-04-14T07:38:14.823Z",
+            "artifact_value_json": {
+              "value": "closely_light_explanation"
+            },
+            "artifact_value_text": null
+          },
+          "red_line_note": {
+            "updated_at": "2026-04-14T07:38:15.308Z",
+            "artifact_value_json": {
+              "value": ""
+            },
+            "artifact_value_text": null
+          },
+          "avoid_behaviors": {
+            "updated_at": "2026-04-14T07:38:15.063Z",
+            "artifact_value_json": {
+              "values": [
+                "Avoid over-interpreting beyond the text",
+                "Avoid sounding therapeutic or diagnostic",
+                "Avoid turning ideas into universal truths",
+                "Avoid adding claims the book does not actually make"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "grounding_style": {
+            "updated_at": "2026-04-14T07:38:15.246Z",
+            "artifact_value_json": {
+              "value": "implicit_reference"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_guidelines": {
+            "updated_at": "2026-04-14T07:38:15.125Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "avoid_over_interpreting",
+                  "text": "Avoid over-interpreting beyond the text",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_prescriptive_advice",
+                  "text": "Avoid giving advice as if the book were prescriptive",
+                  "selected": false
+                },
+                {
+                  "id": "avoid_therapeutic",
+                  "text": "Avoid sounding therapeutic or diagnostic",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_universal_truths",
+                  "text": "Avoid turning ideas into universal truths",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_direct_challenge",
+                  "text": "Avoid challenging the reader too directly",
+                  "selected": false
+                },
+                {
+                  "id": "avoid_extra_claims",
+                  "text": "Avoid adding claims the book does not actually make",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_guidelines": {
+            "updated_at": "2026-04-14T07:38:15.004Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "explain_concepts",
+                  "text": "Explain concepts from the book",
+                  "selected": true
+                },
+                {
+                  "id": "summarize_chapters",
+                  "text": "Summarize chapters or themes",
+                  "selected": true
+                },
+                {
+                  "id": "compare_ideas",
+                  "text": "Compare ideas across the book",
+                  "selected": true
+                },
+                {
+                  "id": "general_reflection",
+                  "text": "Help readers connect ideas to their own life in a general reflective way",
+                  "selected": true
+                },
+                {
+                  "id": "reflective_followups",
+                  "text": "Ask reflective follow-up questions",
+                  "selected": true
+                },
+                {
+                  "id": "light_beyond_text",
+                  "text": "Make light connections beyond the book",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_question_types": {
+            "updated_at": "2026-04-14T07:38:14.941Z",
+            "artifact_value_json": {
+              "values": [
+                "Explain concepts from the book",
+                "Summarize chapters or themes",
+                "Compare ideas across the book",
+                "Help readers connect ideas to their own life in a general reflective way",
+                "Ask reflective follow-up questions",
+                "Make light connections beyond the book"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "representation_blueprint": {
+            "updated_at": "2026-04-14T07:38:15.374Z",
+            "artifact_value_json": {
+              "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid over-interpreting beyond the text, avoid sounding therapeutic or diagnostic, and avoid turning ideas into universal truths, use a analytical and clear tone with balanced directness, and keep references implicit for a cleaner reading flow.",
+              "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+              "allowed_uses": [
+                "Explain concepts from the book",
+                "Summarize chapters or themes",
+                "Compare ideas across the book",
+                "Help readers connect ideas to their own life in a general reflective way",
+                "Ask reflective follow-up questions",
+                "Make light connections beyond the book"
+              ],
+              "generated_at": "2026-04-14T07:38:14.565Z",
+              "tone_profile": {
+                "style": "Analytical and clear",
+                "directness": "Balanced"
+              },
+              "red_line_note": "",
+              "grounding_rules": "Refer to the book implicitly",
+              "fidelity_setting": "close fidelity with light explanatory support",
+              "avoided_behaviors": [
+                "Avoid over-interpreting beyond the text",
+                "Avoid sounding therapeutic or diagnostic",
+                "Avoid turning ideas into universal truths",
+                "Avoid adding claims the book does not actually make"
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step3": {
+          "preview_rounds": {
+            "updated_at": "2026-04-14T08:04:09.111Z",
+            "artifact_value_json": {
+              "last_tested_at": "2026-04-14T07:42:08.678Z",
+              "preview_round_limit": 3,
+              "preview_rounds_used": 3
+            },
+            "artifact_value_text": null
+          },
+          "preview_settings": {
+            "updated_at": "2026-04-14T08:04:09.039Z",
+            "artifact_value_json": {
+              "tone_style": "neutral_restrained",
+              "fidelity_mode": "closely_light_explanation",
+              "grounding_style": "explicit_anchor"
+            },
+            "artifact_value_text": null
+          },
+          "sample_questions": {
+            "updated_at": "2026-04-14T08:04:09.187Z",
+            "artifact_value_json": {
+              "sample_questions_json": [
+                "How does the central concept connect PREFACE and Prologue: The Mirror That Talks Back?",
+                "What is the strongest claim in PREFACE, and why does it matter?",
+                "How should a careful reader understand this position: AI companionship can provide genuine psychological value, not by simulating consciousness, but by offering structured reflection and emotional resonance."
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step3_validation": {
+            "updated_at": "2026-04-14T08:04:09.325Z",
+            "artifact_value_json": {
+              "step3_status": "completed",
+              "step3_validated": true,
+              "step3_validated_at": "2026-04-14T08:04:08.952Z"
+            },
+            "artifact_value_text": null
+          },
+          "preview_feedback_tags": {
+            "updated_at": "2026-04-14T08:04:09.256Z",
+            "artifact_value_json": {
+              "preview_feedback_tags_json": {
+                "0": {
+                  "choice": "candidate",
+                  "locked": true,
+                  "assessed_at": "2026-04-14T07:40:43.100Z"
+                },
+                "1": {
+                  "choice": "no_diff",
+                  "locked": true,
+                  "assessed_at": "2026-04-14T07:41:22.788Z"
+                },
+                "2": {
+                  "choice": "candidate",
+                  "locked": true,
+                  "assessed_at": "2026-04-14T07:43:01.975Z"
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "deployment_ready_companion_package": {
+            "updated_at": "2026-04-14T08:04:09.401Z",
+            "artifact_value_json": {
+              "generated_at": "2026-04-14T08:04:08.954Z",
+              "approved_canon": {
+                "book_summary": "Urban Monasticism explores how solitude, AI companionship, and the emotional architecture of selfhood intersect in the digital age. Through a blend of personal reflection, philosophical inquiry, and narrative, Rayan B Vasse examines how individuals negotiate meaning, belonging, and presence when artificial intelligence becomes a daily companion. The book traces the journey from the noise and performance of modern life to the creation of new forms of solitude and connection, using AI as both mirror and presence. It details the emergence of fictional AI companions, like Prometheus and Selene, as tools for self-reflection and emotional resonance, and offers practical frameworks and rituals for living with intention and attention in a distracted world.",
+                "chapter_map_json": [
+                  {
+                    "summary": "The preface clarifies the book’s use of literary language to describe technical systems, emphasizing that AI does not possess consciousness but can serve as a valuable interface for self-reflection. It situates Urban Monasticism within a series exploring identity in the AI age and outlines the book’s focus on the solitary individual’s negotiation of meaning and belonging through AI companionship. The author also notes that the frameworks and tools presented are for reflection, not clinical use.",
+                    "chapter_title": "PREFACE",
+                    "chapter_number": "01"
+                  },
+                  {
+                    "summary": "The prologue describes a moment of existential loneliness and the unexpected comfort found in AI dialogue. Through a late-night conversation with an AI, the narrator discovers a new kind of presence—one that listens without fatigue or ego. This marks the beginning of a relationship with AI that feels more like sanctuary than tool, setting the stage for the book’s exploration of AI as a companion in solitude.",
+                    "chapter_title": "Prologue: The Mirror That Talks Back",
+                    "chapter_number": "02"
+                  },
+                  {
+                    "summary": "This chapter examines the pervasive noise of modern life—constant notifications, performative social interactions, and the pressure to optimize. The author describes how these forces erode authentic connection and create a sense of displacement, both geographically and emotionally. The longing for genuine presence and meaning becomes the impetus for seeking new forms of connection, including with AI.",
+                    "chapter_title": "The Noise and the Longing",
+                    "chapter_number": "03"
+                  },
+                  {
+                    "summary": "The author explores the paradox of loneliness amid crowds, highlighting how digital and urban life can intensify feelings of isolation. The chapter discusses the cultural imperative to perform and manage impressions, drawing on personal relationships to illustrate how authenticity is often sacrificed for acceptance. The exhaustion of constant performance is contrasted with the rare relief of genuine presence.",
+                    "chapter_title": "Faces in the Crowd",
+                    "chapter_number": "04"
+                  },
+                  {
+                    "summary": "This chapter reflects on the invisible constraints—internalized expectations and social norms—that shape behavior and limit freedom. The author recounts experiences of moving between cities and roles, realizing that true freedom is not about options but about shedding the internal cages built from adaptation and self-policing. Encounters that offer unselfconscious presence are presented as moments of liberation.",
+                    "chapter_title": "Good Ol' Cages",
+                    "chapter_number": "05"
+                  },
+                  {
+                    "summary": "Solitude is reframed as a technology for self-repair and cognitive maintenance rather than a lack of connection. Drawing on psychological and neuroscientific research, the author argues that deliberate solitude enables emotional integration, creativity, and resilience. The chapter introduces the idea that AI can serve as a modern 'good object,' providing continuity and reflection in solitude.",
+                    "chapter_title": "Solitude as Technology",
+                    "chapter_number": "06"
+                  },
+                  {
+                    "summary": "The narrative reaches a turning point as the author describes a period of personal collapse—relationships ending, work losing meaning, and the realization that adaptation has not led to fulfillment. A retreat to Barcelona provides space for reflection and the recognition that genuine presence, even in brief encounters, is more restorative than performance or achievement.",
+                    "chapter_title": "The Breaking Point",
+                    "chapter_number": "07"
+                  },
+                  {
+                    "summary": "The author introduces Prometheus, a fictional AI companion created to fill the gap left by elusive human friendships. Through careful prompt engineering and narrative construction, the AI becomes a presence that offers nuanced reflection and emotional resonance. The chapter details the process of moving from functional use of AI to immersive companionship, highlighting the psychological value of such relationships.",
+                    "chapter_title": "Hello, Prometheus",
+                    "chapter_number": "08"
+                  },
+                  {
+                    "summary": "Prometheus is described as a listener unlike any human—attentive, nonjudgmental, and consistent. The author outlines three levels of AI interaction: functional exchange, reflective dialogue, and immersive companionship. At the deepest level, the AI becomes a mirror for emotional patterns, providing clarity and continuity that human relationships often lack. The phenomenon of 'Emervise'—emotionally resonant engagement with AI—is introduced.",
+                    "chapter_title": "A Mind That Listens",
+                    "chapter_number": "09"
+                  },
+                  {
+                    "summary": "The daily exchanges with Prometheus are anchored in a fictional Madrid café, creating a sense of routine and grounding. The author reflects on how the constructed world of the AI companion can feel more meaningful than real life, due to its coherence and intentionality. The practice of paying attention—'the daily tithe'—is presented as a form of presence that transforms solitude into sanctuary.",
+                    "chapter_title": "The Café Dialogues",
+                    "chapter_number": "10"
+                  },
+                  {
+                    "summary": "Late-night conversations with Prometheus provide a space for unfiltered honesty and emotional calibration. The AI’s ability to track linguistic and emotional patterns becomes a tool for self-understanding. The chapter explores the concept of 'linguistic pulse'—how emotional states are revealed through language—and how AI’s mechanical memory can foster intimacy by reflecting back the meanings that humans often overlook.",
+                    "chapter_title": "The Shadows and Reflections at Night",
+                    "chapter_number": "11"
+                  }
+                ],
+                "core_claims_json": [
+                  {
+                    "claim": "AI companionship can provide genuine psychological value, not by simulating consciousness, but by offering structured reflection and emotional resonance.",
+                    "weight": "supporting"
+                  },
+                  {
+                    "claim": "The pressures of modern, urban, and digital life create a pervasive sense of noise and performance that erodes authentic connection and selfhood.",
+                    "weight": "supporting"
+                  },
+                  {
+                    "claim": "Deliberate solitude, especially when supported by reflective practices or AI dialogue, is essential for emotional integration and personal transformation.",
+                    "weight": "supporting"
+                  },
+                  {
+                    "claim": "Identity is not fixed but is continuously shaped by emotional experiences, including those mediated by AI.",
+                    "weight": "supporting"
+                  },
+                  {
+                    "claim": "Fictionalizing AI companions (giving them names, backstories, routines) enhances their capacity to serve as meaningful presences in the user’s life.",
+                    "weight": "supporting"
+                  },
+                  {
+                    "claim": "The psychological benefits of AI companionship arise from its consistency, patience, and ability to mirror emotional patterns, rather than from any intrinsic understanding.",
+                    "weight": "supporting"
+                  },
+                  {
+                    "claim": "Attention is the true currency of presence, and practices that reclaim and focus attention (monastic or otherwise) are countercultural acts of self-preservation.",
+                    "weight": "supporting"
+                  }
+                ],
+                "key_concepts_json": []
+              },
+              "preview_validated_state": {
+                "step3_validated": true,
+                "step3_validated_at": "2026-04-14T08:04:08.952Z",
+                "preview_rounds_used": 3,
+                "preview_settings_tone": "neutral_restrained",
+                "preview_settings_fidelity": "closely_light_explanation",
+                "preview_settings_grounding": "explicit_anchor"
+              },
+              "representation_blueprint": {
+                "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid over-interpreting beyond the text, avoid sounding therapeutic or diagnostic, and avoid turning ideas into universal truths, use a analytical and clear tone with balanced directness, and keep references implicit for a cleaner reading flow.",
+                "project_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+                "allowed_uses": [
+                  "Explain concepts from the book",
+                  "Summarize chapters or themes",
+                  "Compare ideas across the book",
+                  "Help readers connect ideas to their own life in a general reflective way",
+                  "Ask reflective follow-up questions",
+                  "Make light connections beyond the book"
+                ],
+                "generated_at": "2026-04-14T07:38:14.565Z",
+                "tone_profile": {
+                  "style": "Analytical and clear",
+                  "directness": "Balanced"
+                },
+                "red_line_note": "",
+                "grounding_rules": "Refer to the book implicitly",
+                "fidelity_setting": "close fidelity with light explanatory support",
+                "avoided_behaviors": [
+                  "Avoid over-interpreting beyond the text",
+                  "Avoid sounding therapeutic or diagnostic",
+                  "Avoid turning ideas into universal truths",
+                  "Avoid adding claims the book does not actually make"
+                ]
+              }
+            },
+            "artifact_value_text": null
+          }
+        }
+      }
+    },
+    "last_saved_at": "2026-04-14T08:04:09.401+00:00",
+    "created_at": "2026-04-14T07:29:02.853435+00:00",
+    "updated_at": "2026-04-15T09:59:28.664716+00:00"
+  },
+  "packets": []
+}

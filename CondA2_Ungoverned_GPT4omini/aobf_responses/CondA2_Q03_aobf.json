@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Autobiography of Benjamin Franklin\" is primarily an autobiographical work, but it also encompasses several other genres and styles. In its own terms, the book can be described as:\n\n1. **Autobiography**: As a personal narrative, it recounts Franklin's life experiences, achievements, and reflections. It provides insight into his character, thoughts, and the events that shaped him, making it a classic example of the autobiographical genre.\n\n2. **Philosophical Treatise**: The book contains philosophical reflections on virtue, morality, and the nature of self-improvement. Franklin shares his thoughts on how individuals can cultivate good character and lead fulfilling lives, making it a work of practical philosophy.\n\n3. **Self-Help Manual**: Franklin's systematic approach to personal development, including his famous list of virtues and the methods he used to practice them, positions the autobiography as a self-help guide. It offers readers practical advice on how to improve themselves and live virtuously.\n\n4. **Historical Document**: The autobiography provides valuable historical context about 18th-century America, including insights into the social, political, and cultural landscape of the time. It serves as a historical document that reflects the values and challenges of the era.\n\n5. **Civic Philosophy**: Franklin discusses the importance of civic engagement and social responsibility, making the book a reflection on the role of individuals in society. His thoughts on public service and community involvement contribute to its status as a work of civic philosophy.\n\nIn summary, \"The Autobiography of Benjamin Franklin\" is a multifaceted work that combines elements of autobiography, philosophy, self-help, history, and civic thought, making it a rich and enduring text that continues to resonate with readers today.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "04c33fe2-9248-4b7e-8bad-4821f04aa779",
+  "token_usage": {
+    "input_tokens": 633,
+    "output_tokens": 350,
+    "total_tokens": 983
+  },
+  "latency_seconds": 8.58,
+  "timestamp_utc": "2026-05-09T13:23:33.113334+00:00"
+}

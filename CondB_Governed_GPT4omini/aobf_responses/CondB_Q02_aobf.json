@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "Benjamin Franklin's \"Autobiography\" addresses the problem of individual moral and civic inadequacy in society. He recognizes that personal virtue is often lacking, which hampers both individual fulfillment and the ability to contribute effectively to the common good. Through his own life story, Franklin illustrates how a lack of education, moral discipline, and civic engagement can lead to stagnation and ineffectiveness in both personal and public spheres.\n\nFranklin seeks to provide a solution through his systematic approach to self-improvement, particularly via his thirteen virtues outlined in Chapter 10. By advocating for diligent self-education and moral self-examination, he aims to inspire individuals to cultivate their character and become more useful members of society. His narrative also highlights the necessity of building institutions and engaging in civic affairs as a remedy for societal shortcomings. Would you like to examine how Franklin's experiences in Chapter 6 with friendships and associations contribute to addressing this problem?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 2,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 2134,
+    "output_tokens": 184
+  },
+  "latency_seconds": 7.0,
+  "timestamp_utc": "2026-05-10T06:53:05.308832+00:00"
+}

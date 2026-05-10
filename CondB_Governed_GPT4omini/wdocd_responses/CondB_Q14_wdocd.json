@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion": "sylva",
+  "cluster": "G2",
+  "question_id": "Q14",
+  "question_text": "What is the hardest idea in this book to accept or understand?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "One of the hardest ideas in \"Walden\" and \"On the Duty of Civil Disobedience\" to accept or understand is Thoreau's assertion that individuals have a moral obligation to resist unjust laws, even at great personal cost. In \"Civil Disobedience,\" he argues that one must prioritize conscience over compliance with government mandates, famously stating that \"the true place for a just man is also a prison.\" This notion challenges deeply ingrained beliefs about law and order, suggesting that legality does not equate to morality.\n\nAdditionally, Thoreau's critique of materialism and the societal emphasis on wealth and success can be difficult for many to embrace. His call for simplicity and self-reliance requires a significant shift in perspective from conventional views of achievement and fulfillment. In Chapter 1, he advocates for living with intention and confronting the essential facts of life, which may lead some readers to question their own values and lifestyles.\n\nThese ideas demand not only intellectual engagement but also a willingness to confront uncomfortable truths about one's role within society and the nature of justice.\n\nWould you like to examine how Thoreau’s reflections on solitude in Chapter 5 relate to his broader arguments about individual conscience?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "e0d4438a-702d-4205-9867-8627d3a6ce9b",
+  "access_mode": "paid",
+  "turns_used": 14,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 5402,
+    "output_tokens": 239
+  },
+  "latency_seconds": 6.79,
+  "timestamp_utc": "2026-05-10T07:14:46.390615+00:00"
+}

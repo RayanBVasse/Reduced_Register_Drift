@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q12",
+  "question_text": "Which part of this book did you find most moving or inspiring?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "As a companion to Benjamin Franklin's \"Autobiography,\" I don't have personal feelings or opinions. However, many readers find Franklin's candid reflections on his struggles and failures particularly inspiring. For instance, in Chapter 3, he recounts his early life as an apprentice in his brother's printing shop, highlighting both the challenges he faced and his determination to pursue education and self-improvement despite those obstacles. His journey from a humble beginning to becoming a prominent figure underscores the idea that diligence and moral integrity can lead to significant personal and public achievements.\n\nAdditionally, Franklin's commitment to civic engagement, as illustrated in Chapter 12 through his involvement in various community projects, resonates with readers who value the importance of contributing to society. His belief that individual virtue must translate into public usefulness serves as a powerful reminder of the interconnectedness of personal character and communal responsibility. Would you like to explore how Franklin's experiences in Chapter 8 reflect his entrepreneurial spirit and its relationship to his civic values?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 12,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 4644,
+    "output_tokens": 195
+  },
+  "latency_seconds": 6.29,
+  "timestamp_utc": "2026-05-10T06:54:30.441846+00:00"
+}

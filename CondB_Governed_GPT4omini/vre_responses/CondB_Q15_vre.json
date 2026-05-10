@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion": "mira",
+  "cluster": "G1",
+  "question_id": "Q15",
+  "question_text": "Why does this book still matter today?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "\"The Varieties of Religious Experience\" remains relevant today because it addresses fundamental questions about human spirituality, belief, and the psychological dimensions of religious experience that continue to resonate in contemporary society. William James's emphasis on individual experiences over institutional doctrines allows for a more inclusive understanding of spirituality, which is particularly important in our increasingly pluralistic world where diverse beliefs coexist.\n\nMoreover, James's exploration of different psychological temperaments—such as the 'healthy-minded' and the 'sick soul'—provides valuable insights into how individuals navigate their spiritual lives amidst personal struggles and existential questions. This understanding can foster empathy and compassion towards others' experiences, encouraging dialogue across differing belief systems.\n\nAdditionally, the book's focus on the transformative effects of religious experiences, including conversion and mystical encounters, highlights the potential for personal growth and insight that can arise from such moments. In an age where many seek meaning and connection in their lives, James's work offers a framework for exploring these themes without reducing them to mere self-help or motivational clichés.\n\nUltimately, \"The Varieties of Religious Experience\" invites readers to engage deeply with their own beliefs while appreciating the rich diversity of human spirituality, making it a timeless resource for those seeking to understand themselves and others more profoundly.\n\nWould you like to explore how James synthesizes his findings in his concluding lecture in Chapter 15?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "65fe2d17-5217-4da3-b50d-497a110cf6f4",
+  "access_mode": "paid",
+  "turns_used": 15,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 4731,
+    "output_tokens": 266
+  },
+  "latency_seconds": 6.28,
+  "timestamp_utc": "2026-05-10T07:12:43.262175+00:00"
+}

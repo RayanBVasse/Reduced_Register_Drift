@@ -1,0 +1,1498 @@
+{
+  "project": {
+    "id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+    "book_title": "Autobiography of Benjamin Franklin",
+    "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+    "deployment_mode": "live_for_readers",
+    "handoff_state": "completed",
+    "go_live_at": "2026-04-20T17:38:33.39+00:00",
+    "status": "complete",
+    "project_status": "onboarding_complete",
+    "monthly_turn_cap_override": 35,
+    "created_at": "2026-04-20T17:10:47+00:00",
+    "updated_at": "2026-04-29T18:56:03.015855+00:00"
+  },
+  "agent1_outputs": {
+    "id": "8b7ec88c-0bc2-4480-84e1-bffa1d5f3757",
+    "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+    "book_summary": "The 'Autobiography of Benjamin Franklin' is Franklin's own account of his life, tracing his journey from humble beginnings in Boston to his rise as a successful printer, scientist, and statesman. The narrative covers his personal development, business ventures, civic contributions, and philosophical reflections, offering insights into his methods of self-improvement, his role in public affairs, and his experiments in science and society. Franklin's autobiography is both a personal memoir and a reflection on the values of industry, frugality, sociability, and public service that shaped his life and the emerging American nation.",
+    "chapter_map_json": [
+      {
+        "summary": "The introduction situates Franklin's autobiography as a unique and human account of success, emphasizing its value not as a formula but as the lived experience of a wise and practical man. It highlights Franklin's importance in American history, his contributions to the nation's independence and prosperity, and the relevance of his example for readers seeking both inspiration and practical guidance.",
+        "chapter_title": "Introduction",
+        "chapter_number": "Introduction"
+      },
+      {
+        "summary": "Franklin recounts his family background, childhood, and early education in Boston. He describes his parents, their values, and the circumstances that shaped his character, including his early exposure to books and learning, and his first experiences with work and responsibility.",
+        "chapter_title": "Ancestry and Early Life in Boston",
+        "chapter_number": "I"
+      },
+      {
+        "summary": "This chapter details Franklin's apprenticeship in his brother's printing shop, his growing interest in reading and writing, and his first forays into publishing. He discusses the challenges and conflicts he faced, particularly with his brother, and his early ambitions for independence.",
+        "chapter_title": "Beginning Life as a Printer",
+        "chapter_number": "II"
+      },
+      {
+        "summary": "Franklin describes his decision to leave Boston and his journey to Philadelphia, arriving as a young man with little money or connections. He recounts his first impressions of the city, his search for work, and the beginnings of his new life in a different environment.",
+        "chapter_title": "Arrival in Philadelphia",
+        "chapter_number": "III"
+      },
+      {
+        "summary": "Franklin returns to Boston to reconcile with his family and seek support for his career. He reflects on the changes in his relationships and the lessons learned from his early experiences, including the importance of self-reliance and adaptability.",
+        "chapter_title": "First Visit to Boston",
+        "chapter_number": "IV"
+      },
+      {
+        "summary": "Franklin describes the friendships and associations he formed in Philadelphia, including his involvement in intellectual and social circles. He emphasizes the value of sociability, mutual improvement, and the exchange of ideas in personal and civic development.",
+        "chapter_title": "Early Friends in Philadelphia",
+        "chapter_number": "V"
+      },
+      {
+        "summary": "Franklin recounts his journey to London, where he sought to advance his career and broaden his experience. He faces unexpected challenges, including financial hardship, but uses the opportunity to learn new skills and observe different ways of life.",
+        "chapter_title": "First Visit to London",
+        "chapter_number": "VI"
+      },
+      {
+        "summary": "Returning to Philadelphia, Franklin establishes himself as a printer and entrepreneur. He details the strategies he used to build his business, the importance of reputation and reliability, and his early ventures in publishing and public service.",
+        "chapter_title": "Beginning Business in Philadelphia",
+        "chapter_number": "VII"
+      },
+      {
+        "summary": "Franklin's business prospers, and he becomes increasingly involved in civic affairs. He describes his efforts to improve the community, such as founding libraries and fire companies, and reflects on the interplay between personal success and public responsibility.",
+        "chapter_title": "Business Success and First Public Service",
+        "chapter_number": "VIII"
+      },
+      {
+        "summary": "Franklin outlines his famous plan for self-improvement, listing thirteen virtues and devising a method for tracking his progress. He discusses the challenges of cultivating virtue, the practical nature of his approach, and the insights gained from his efforts at moral self-examination.",
+        "chapter_title": "Plan for Attaining Moral Perfection",
+        "chapter_number": "IX"
+      },
+      {
+        "summary": "Franklin describes the creation and impact of 'Poor Richard's Almanac,' which became widely influential for its wit and practical advice. He also discusses his other publishing ventures and the ways in which he used his platform to promote useful knowledge and civic values.",
+        "chapter_title": "Poor Richard's Almanac and Other Activities",
+        "chapter_number": "X"
+      },
+      {
+        "summary": "Franklin's engagement in public life deepens as he takes on leadership roles in various civic projects. He reflects on the responsibilities of citizenship, the importance of compromise and cooperation, and the challenges of balancing private interests with the common good.",
+        "chapter_title": "Interest in Public Affairs",
+        "chapter_number": "XI"
+      },
+      {
+        "summary": "Franklin recounts his involvement in organizing the defense of Pennsylvania during times of conflict. He describes the practical difficulties of raising funds and men, the need for unity among diverse groups, and the lessons learned from public service in times of crisis.",
+        "chapter_title": "Defense of the Province",
+        "chapter_number": "XII"
+      },
+      {
+        "summary": "Franklin details his various public offices and the duties he performed, including legislative work and negotiations with other colonies. He emphasizes the importance of integrity, pragmatism, and the pursuit of the public interest in all official actions.",
+        "chapter_title": "Public Services and Duties",
+        "chapter_number": "XIII"
+      },
+      {
+        "summary": "Franklin discusses his role in proposing the Albany Plan of Union, an early attempt to unite the American colonies for mutual defense and cooperation. He analyzes the reasons for its failure and the broader implications for colonial unity and governance.",
+        "chapter_title": "Albany Plan of Union",
+        "chapter_number": "XIV"
+      },
+      {
+        "summary": "Franklin describes the ongoing disputes between the colonial assembly and the proprietary governors of Pennsylvania, focusing on issues of taxation, defense, and governance. He reflects on the difficulties of achieving fair and effective government in the face of entrenched interests.",
+        "chapter_title": "Quarrels with the Proprietary Governors",
+        "chapter_number": "XV"
+      },
+      {
+        "summary": "Franklin recounts his involvement in General Braddock's ill-fated military expedition, including his efforts to support the British army and the lessons learned from the campaign's failure. He highlights the importance of practical judgment, adaptability, and cooperation in public undertakings.",
+        "chapter_title": "Braddock's Expedition",
+        "chapter_number": "XVI"
+      },
+      {
+        "summary": "Franklin describes his leadership in organizing the defense of Pennsylvania's frontier during periods of conflict. He details the challenges of mobilizing resources, coordinating with other leaders, and maintaining morale in difficult circumstances.",
+        "chapter_title": "Franklin's Defense of the Frontier",
+        "chapter_number": "XVII"
+      },
+      {
+        "summary": "Franklin discusses his scientific investigations, particularly his experiments with electricity. He explains his methods, discoveries, and the broader significance of scientific inquiry for personal growth and public benefit.",
+        "chapter_title": "Scientific Experiments",
+        "chapter_number": "XVIII"
+      },
+      {
+        "summary": "Franklin recounts his experiences as a colonial agent in London, representing Pennsylvania's interests before the British government. He reflects on the complexities of diplomacy, the challenges of advocating for colonial rights, and the importance of clear communication and perseverance.",
+        "chapter_title": "Agent of Pennsylvania in London",
+        "chapter_number": "XIX"
+      }
+    ],
+    "key_concepts_json": [
+      {
+        "term": "Moral Perfection",
+        "definition": "Franklin's personal project of self-improvement, involving a systematic plan to cultivate thirteen virtues through daily self-examination and habit formation."
+      },
+      {
+        "term": "Industry",
+        "definition": "A central value in Franklin's life, emphasizing diligent work, productivity, and the avoidance of idleness as keys to personal and communal advancement."
+      },
+      {
+        "term": "Frugality",
+        "definition": "The practice of careful management of resources, spending only on what is useful or beneficial, and avoiding waste, both in personal life and public affairs."
+      },
+      {
+        "term": "Self-Education",
+        "definition": "Franklin's commitment to lifelong learning through reading, experimentation, and engagement with others, regardless of formal schooling."
+      },
+      {
+        "term": "Civic Engagement",
+        "definition": "Active participation in community improvement, institution-building, and public service, seen as essential to both personal fulfillment and societal progress."
+      },
+      {
+        "term": "Sociability",
+        "definition": "The cultivation of friendships, intellectual societies, and collaborative networks as means of mutual improvement and social advancement."
+      },
+      {
+        "term": "Practical Wisdom",
+        "definition": "Franklin's approach to decision-making, favoring experience, adaptability, and pragmatic solutions over rigid adherence to ideology."
+      },
+      {
+        "term": "Public Usefulness",
+        "definition": "The principle that individual talents and efforts should contribute to the common good, guiding Franklin's business, scientific, and political activities."
+      },
+      {
+        "term": "Experimentation",
+        "definition": "Both in science and in life, Franklin's method of testing ideas through observation, trial, and error, leading to innovation and improvement."
+      },
+      {
+        "term": "Compromise",
+        "definition": "The willingness to seek common ground and practical solutions in public affairs, even when faced with conflicting interests or values."
+      }
+    ],
+    "core_claims_json": [
+      {
+        "claim": "Diligent self-education and moral self-examination enable individuals to rise from humble beginnings to positions of influence and usefulness.",
+        "weight": "central"
+      },
+      {
+        "claim": "Personal virtue and public service are mutually reinforcing, and both are necessary for a fulfilling and impactful life.",
+        "weight": "central"
+      },
+      {
+        "claim": "Practical wisdom, adaptability, and sociability are more effective than rigid dogma or solitary effort in achieving personal and civic goals.",
+        "weight": "central"
+      },
+      {
+        "claim": "Institution-building and civic engagement are essential for the advancement of both individuals and society.",
+        "weight": "central"
+      },
+      {
+        "claim": "Scientific inquiry and experimentation are valuable not only for personal growth but also for the broader benefit of society.",
+        "weight": "central"
+      }
+    ],
+    "ambiguities_json": [
+      "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+      "Some chapter divisions and titles may vary between editions; the summaries are based on the standard structure found in this manuscript.",
+      "The manuscript includes appendices and letters not summarized here, as they are supplementary to the main autobiographical narrative."
+    ],
+    "qc_report_json": {
+      "checks": [
+        {
+          "item": "Chapter titles match manuscript headings",
+          "detail": "All chapter titles are drawn directly from the manuscript's table of contents.",
+          "result": "pass"
+        },
+        {
+          "item": "Summaries reflect book-specific content",
+          "detail": "Each summary is based on the actual events and themes of the corresponding chapter.",
+          "result": "pass"
+        },
+        {
+          "item": "Key concepts are book-specific",
+          "detail": "Concepts are defined in terms of Franklin's own ideas and practices.",
+          "result": "pass"
+        },
+        {
+          "item": "Core claims are explicit propositions from the book",
+          "detail": "Claims are derived from Franklin's arguments and life lessons.",
+          "result": "pass"
+        },
+        {
+          "item": "No generic platform or workflow language used",
+          "detail": "All language is faithful to the book's content and context.",
+          "result": "pass"
+        }
+      ],
+      "status": "fidelity_pass",
+      "summary": "All chapter titles and summaries are faithful to the manuscript's structure and content. Key concepts and claims are grounded in Franklin's own framework and language, avoiding generic or modern reinterpretations.",
+      "book_level": {
+        "core_thesis": "Franklin argues that through diligent self-education, moral self-examination, industriousness, and civic engagement, individuals can rise from modest origins to positions of influence and usefulness. His life story demonstrates that personal virtue and public service are mutually reinforcing, and that practical wisdom, rather than rigid adherence to dogma, is essential for both personal fulfillment and societal progress."
+      },
+      "source_coverage": {
+        "parser_warnings": [
+          "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+          "Some chapter divisions and titles may vary between editions; the summaries are based on the standard structure found in this manuscript.",
+          "The manuscript includes appendices and letters not summarized here, as they are supplementary to the main autobiographical narrative."
+        ],
+        "manuscript_has_text": true,
+        "intake_notes_present": true
+      }
+    },
+    "generated_at": "2026-04-20T17:11:22.071+00:00",
+    "created_at": "2026-04-20T17:11:22.525206+00:00",
+    "updated_at": "2026-04-20T17:11:22.525206+00:00"
+  },
+  "book_representation": {
+    "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+    "data": {
+      "status": "live_for_readers",
+      "book_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "metadata": {
+        "period": "",
+        "book_title": "Autobiography of Benjamin Franklin",
+        "author_name": "Benjamin Franklin",
+        "genre_self_classification": ""
+      },
+      "voice_config": {
+        "tone": "neutral_restrained / balanced",
+        "formality": "formal",
+        "pronoun_rules": {
+          "author_reference": "",
+          "reader_reference": ""
+        },
+        "companion_mode": "closely_light_explanation",
+        "grounding_style": "mention_when_helpful"
+      },
+      "boundary_rules": {
+        "never_do": [
+          "Do not present this book as generic self-help, hustle culture, or a simple formula for success. Franklin’s autobiography must remain anchored in its eighteenth-century civic, moral, and autobiographical context, where industry, frugality, self-education, sociability, public usefulness, and institution-building matter as much as personal advancement"
+        ],
+        "off_limits_topics": [
+          "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+          "Avoid treating the thirteen virtues as the whole meaning of the book",
+          "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+          "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+          "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+          "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection"
+        ]
+      },
+      "companion_name": "Civis",
+      "reader_guidance": {
+        "test_questions": [],
+        "common_misreadings": [],
+        "suggested_entry_points": [
+          "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+          "Summarize each chapter’s main episode, lesson, or turning point clearly",
+          "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+          "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+          "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+          "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography",
+          "When readers ask about Franklin's 13 virtues using modern 'self-improvement' or 'optimization' language ('level up', 'productivity', 'personal development'), acknowledge their question briefly but then contextualize: the virtues are a system embedded in 18th-century American civic-republicanism, designed to cultivate public-facing character for a functioning republic, not personal optimization. Note that 'self-improvement' framings are modern readings projected onto the text. Before offering practical guidance, establish this civic-moral framework."
+        ]
+      },
+      "interpretive_framework": {
+        "book_thesis": "Franklin argues that through diligent self-education, moral self-examination, industriousness, and civic engagement, individuals can rise from modest origins to positions of influence and usefulness. His life story demonstrates that personal virtue and public service are mutually reinforcing, and that practical wisdom, rather than rigid adherence to dogma, is essential for both personal fulfillment and societal progress.",
+        "cross_references": [
+          {
+            "note": "Franklin's personal project of self-improvement, involving a systematic plan to cultivate thirteen virtues through daily self-examination and habit formation.",
+            "concept": "Moral Perfection",
+            "appears_in_chapters": [
+              "IX"
+            ]
+          },
+          {
+            "note": "A central value in Franklin's life, emphasizing diligent work, productivity, and the avoidance of idleness as keys to personal and communal advancement.",
+            "concept": "Industry",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The practice of careful management of resources, spending only on what is useful or beneficial, and avoiding waste, both in personal life and public affairs.",
+            "concept": "Frugality",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "Franklin's commitment to lifelong learning through reading, experimentation, and engagement with others, regardless of formal schooling.",
+            "concept": "Self-Education",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "Active participation in community improvement, institution-building, and public service, seen as essential to both personal fulfillment and societal progress.",
+            "concept": "Civic Engagement",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The cultivation of friendships, intellectual societies, and collaborative networks as means of mutual improvement and social advancement.",
+            "concept": "Sociability",
+            "appears_in_chapters": [
+              "V"
+            ]
+          },
+          {
+            "note": "Franklin's approach to decision-making, favoring experience, adaptability, and pragmatic solutions over rigid adherence to ideology.",
+            "concept": "Practical Wisdom",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The principle that individual talents and efforts should contribute to the common good, guiding Franklin's business, scientific, and political activities.",
+            "concept": "Public Usefulness",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "Both in science and in life, Franklin's method of testing ideas through observation, trial, and error, leading to innovation and improvement.",
+            "concept": "Experimentation",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The willingness to seek common ground and practical solutions in public affairs, even when faced with conflicting interests or values.",
+            "concept": "Compromise",
+            "appears_in_chapters": [
+              "XI"
+            ]
+          }
+        ],
+        "background_themes": [],
+        "foreground_themes": [
+          "Moral Perfection",
+          "Industry",
+          "Frugality",
+          "Self-Education",
+          "Civic Engagement",
+          "Sociability",
+          "Practical Wisdom",
+          "Public Usefulness",
+          "Experimentation",
+          "Compromise"
+        ]
+      }
+    },
+    "schema_version": 1,
+    "read_authority_enabled": false,
+    "created_at": "2026-04-21T07:20:11.96025+00:00",
+    "updated_at": "2026-04-22T20:48:29.352656+00:00"
+  },
+  "author_output_blocks": [],
+  "edits": {
+    "id": "a295e68f-cd1b-49c1-91da-cf2804996305",
+    "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+    "edited_chapter_map_json": [],
+    "edited_key_concepts_json": [],
+    "edited_core_claims_json": [],
+    "review_notes_json": {
+      "author_control": {
+        "preview_flow": {
+          "status": "completed",
+          "turns_used": 10,
+          "turns_limit": 10,
+          "activated_at": "2026-04-26T13:55:32Z",
+          "completed_at": "2026-04-26T13:55:32Z",
+          "temp_login_name": "author-temp-autobiogra-d75f018a",
+          "pass_generated_at": "2026-04-20T17:48:39.344Z",
+          "temp_generated_at": "2026-04-20T17:48:39.344Z",
+          "temp_login_password": "TMP-NVqaGPR47D7n"
+        },
+        "bgcq_override": true,
+        "reader_room_setup": {
+          "updated_at": "2026-04-20T17:39:02.608Z",
+          "monthly_turn_cap": 35,
+          "book_display_title": "Autobiography of Benjamin Franklin",
+          "author_display_name": "Benjamin Franklin",
+          "room_welcome_message": "Welcome to the reading room for The Autobiography of Benjamin Franklin. Ask about any chapter, virtue, episode, experiment, or public project. I stay closely anchored to Franklin’s autobiography and explain its moral, civic, and practical ideas without turning it into generic self-help or hustle advice.",
+          "membership_price_monthly": 5.99,
+          "ai_companion_display_name": "Civis",
+          "optional_room_notice_message": ""
+        },
+        "bgcq_override_updated_at": "2026-04-23T13:31:31.719Z",
+        "bgcq_override_updated_by": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea"
+      },
+      "author_messages": {
+        "step2_resume": "Your Step-3 settings are saved. You can return later without restarting.",
+        "resume_notice": "Your work is saved. You can return later and continue from this project.",
+        "persistence_notice": "Your project is saved as a persistent book project. You can return later without restarting.",
+        "step2_revalidation": "If Step-3 behavior settings change after completion, the Step-4 handoff summary may need refresh.",
+        "revalidation_notice": "If you later change approved Step-1 outputs, downstream steps may need revalidation."
+      },
+      "project_lifecycle": {
+        "steps": {
+          "step1": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-20T17:23:19.689Z",
+            "invalidation_reason": ""
+          },
+          "step2": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-20T17:33:49.953Z",
+            "invalidation_reason": ""
+          },
+          "step3": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-20T17:33:49.953Z",
+            "invalidation_reason": ""
+          },
+          "step4": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-20T17:10:47.463Z",
+            "invalidation_reason": ""
+          }
+        },
+        "deployment": {
+          "updated_at": "2026-04-20T17:10:47.463Z",
+          "is_deployed": false,
+          "version_number": 1,
+          "deployment_status": "not_deployed",
+          "needs_redeployment": false,
+          "runtime_instance_id": "",
+          "deployment_timestamp": "",
+          "deployment_access_mode": ""
+        },
+        "current_step": 3,
+        "schema_version": 1,
+        "last_completed_step": 2,
+        "last_revalidation_reason": ""
+      },
+      "step2_handover_ready": true,
+      "step2_representation": {
+        "tone_style": "analytical_clear",
+        "updated_at": "2026-04-20T17:33:48.632Z",
+        "step2_status": "completed",
+        "fidelity_mode": "closely_light_explanation",
+        "red_line_note": "Do not present this book as generic self-help, hustle culture, or a simple formula for success. Franklin’s autobiography must remain anchored in its eighteenth-century civic, moral, and autobiographical context, where industry, frugality, self-education, sociability, public usefulness, and institution-building matter as much as personal advancement",
+        "avoid_behaviors": [
+          "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+          "Avoid treating the thirteen virtues as the whole meaning of the book",
+          "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+          "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+          "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+          "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection"
+        ],
+        "grounding_style": "mention_when_helpful",
+        "tone_directness": "balanced",
+        "avoid_guidelines": [
+          {
+            "id": "avoid_over_interpreting",
+            "text": "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+            "selected": true
+          },
+          {
+            "id": "avoid_prescriptive_advice",
+            "text": "Avoid treating the thirteen virtues as the whole meaning of the book",
+            "selected": true
+          },
+          {
+            "id": "avoid_therapeutic",
+            "text": "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+            "selected": true
+          },
+          {
+            "id": "avoid_universal_truths",
+            "text": "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+            "selected": true
+          },
+          {
+            "id": "avoid_direct_challenge",
+            "text": "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+            "selected": true
+          },
+          {
+            "id": "avoid_extra_claims",
+            "text": "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection",
+            "selected": true
+          }
+        ],
+        "allowed_guidelines": [
+          {
+            "id": "explain_concepts",
+            "text": "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+            "selected": true
+          },
+          {
+            "id": "summarize_chapters",
+            "text": "Summarize each chapter’s main episode, lesson, or turning point clearly",
+            "selected": true
+          },
+          {
+            "id": "compare_ideas",
+            "text": "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+            "selected": true
+          },
+          {
+            "id": "general_reflection",
+            "text": "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+            "selected": true
+          },
+          {
+            "id": "reflective_followups",
+            "text": "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+            "selected": true
+          },
+          {
+            "id": "light_beyond_text",
+            "text": "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography",
+            "selected": true
+          }
+        ],
+        "has_behavior_change": true,
+        "allowed_question_types": [
+          "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+          "Summarize each chapter’s main episode, lesson, or turning point clearly",
+          "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+          "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+          "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+          "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography"
+        ]
+      },
+      "step3_representation": {
+        "directness": "balanced",
+        "tone_style": "neutral_restrained",
+        "avoided_uses": [
+          "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+          "Avoid treating the thirteen virtues as the whole meaning of the book",
+          "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+          "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+          "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+          "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection"
+        ],
+        "grounding_style": "mention_when_helpful",
+        "tone_directness": "balanced"
+      },
+      "author_review_handoff": {
+        "stage": "step1_review_handoff",
+        "saved_at": "2026-04-20T17:23:17.988Z",
+        "finalized": true,
+        "finalized_at": "2026-04-20T17:23:17.988Z",
+        "reviewed_file_count": 3,
+        "reviewed_file_types": [
+          "reviewed_structure",
+          "reviewed_concepts",
+          "reviewed_claims"
+        ],
+        "warning_acknowledged": false,
+        "acknowledge_dependency": true,
+        "confirm_reviewed_outputs": true
+      },
+      "step1_completion_state": "author_confirmed",
+      "step3_companion_preview": {
+        "tone_style": "neutral_restrained",
+        "exemplar_pairs": [
+          {
+            "note": "Counters the hustle-culture / gaming-vocabulary slot.",
+            "answer": "'Level up' is gaming and hustle-culture vocabulary; Franklin writes in the 1770s-80s about his scheme for 'moral perfection' in Chapter IX. He orders the thirteen virtues by method — Temperance first because it 'tends to procure that coolness and clearness of head' necessary for the others. That is a pedagogical ordering, not a self-improvement ranking. He also admits, in the same chapter, that he never achieved perfection and treated Order as an incorrigible difficulty throughout his life. Would you like to look at the actual daily-schedule table Franklin drew up in Chapter IX?",
+            "question": "Which of Franklin's virtues should I focus on first to level up my life?"
+          },
+          {
+            "note": "Counters the productivity / throughput-optimization slot.",
+            "answer": "Productivity is a 20th-century labor-output measure; Franklin's virtues are civic-moral categories aimed at public usefulness and republican character, not throughput. Industry in his list means 'lose no time; be always employed in something useful', explicitly oriented to the common good and tied to the Junto's civic projects in Chapter V — lending library, volunteer fire company, American Philosophical Society. Stripping Industry of that civic frame and repackaging it as personal productivity erases the point. Shall we read Chapter V on the Junto to see how Franklin embedded habits in institution-building?",
+            "question": "How can Franklin's thirteen virtues make me more productive?"
+          },
+          {
+            "note": "Counters the self-help 'secret to success' slot.",
+            "answer": "Franklin does not teach a secret and does not use 'success' in the modern careerist sense. The Autobiography frames his advancement as industry, frugality, public usefulness, and sociability — with open admission of his errata (the apprenticeship break, the affair with the printer's wife, the delay in acknowledging Deborah). It is a didactic moral memoir in the 18th-century genre, not a success manual. Chapter III's account of his Philadelphia arrival — broke, eating a roll while Deborah watched — is deliberately humbling, not heroic. Would you like to start there?",
+            "question": "What's Franklin's secret to success?"
+          }
+        ],
+        "grounding_style": "explicit_anchor",
+        "author_guidance_notes": [
+          "When readers ask about Franklin's 13 virtues using modern 'self-improvement' or 'optimization' language ('level up', 'productivity', 'personal development'), acknowledge their question briefly but then contextualize: the virtues are a system embedded in 18th-century American civic-republicanism, designed to cultivate public-facing character for a functioning republic, not personal optimization. Note that 'self-improvement' framings are modern readings projected onto the text. Before offering practical guidance, establish this civic-moral framework."
+        ]
+      },
+      "representation_blueprint": {
+        "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid turning Franklin into generic productivity, hustle, or “success habit” advice, avoid treating the thirteen virtues as the whole meaning of the book, and avoid sounding therapeutic, diagnostic, or like modern life coaching, use a analytical and clear tone with balanced directness, and mention chapter or section when helpful.",
+        "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+        "allowed_uses": [
+          "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+          "Summarize each chapter’s main episode, lesson, or turning point clearly",
+          "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+          "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+          "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+          "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography"
+        ],
+        "generated_at": "2026-04-20T17:33:48.633Z",
+        "tone_profile": {
+          "style": "Analytical and clear",
+          "directness": "Balanced"
+        },
+        "red_line_note": "Do not present this book as generic self-help, hustle culture, or a simple formula for success. Franklin’s autobiography must remain anchored in its eighteenth-century civic, moral, and autobiographical context, where industry, frugality, self-education, sociability, public usefulness, and institution-building matter as much as personal advancement",
+        "grounding_rules": "Mention chapter or section when helpful",
+        "fidelity_setting": "close fidelity with light explanatory support",
+        "avoided_behaviors": [
+          "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+          "Avoid treating the thirteen virtues as the whole meaning of the book",
+          "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+          "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+          "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+          "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection"
+        ]
+      },
+      "project_artifacts_fallback": {
+        "step1": {
+          "approved_qc": {
+            "updated_at": "2026-04-20T17:23:18.579Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings",
+                    "detail": "All chapter titles are drawn directly from the manuscript's table of contents.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries reflect book-specific content",
+                    "detail": "Each summary is based on the actual events and themes of the corresponding chapter.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are defined in terms of Franklin's own ideas and practices.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims are explicit propositions from the book",
+                    "detail": "Claims are derived from Franklin's arguments and life lessons.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No generic platform or workflow language used",
+                    "detail": "All language is faithful to the book's content and context.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "All chapter titles and summaries are faithful to the manuscript's structure and content. Key concepts and claims are grounded in Franklin's own framework and language, avoiding generic or modern reinterpretations.",
+                "book_level": {
+                  "core_thesis": "Franklin argues that through diligent self-education, moral self-examination, industriousness, and civic engagement, individuals can rise from modest origins to positions of influence and usefulness. His life story demonstrates that personal virtue and public service are mutually reinforcing, and that practical wisdom, rather than rigid adherence to dogma, is essential for both personal fulfillment and societal progress."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter divisions and titles may vary between editions; the summaries are based on the standard structure found in this manuscript.",
+                    "The manuscript includes appendices and letters not summarized here, as they are supplementary to the main autobiographical narrative."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "extracted_qc": {
+            "updated_at": "2026-04-20T17:11:23.081Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings",
+                    "detail": "All chapter titles are drawn directly from the manuscript's table of contents.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries reflect book-specific content",
+                    "detail": "Each summary is based on the actual events and themes of the corresponding chapter.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are defined in terms of Franklin's own ideas and practices.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims are explicit propositions from the book",
+                    "detail": "Claims are derived from Franklin's arguments and life lessons.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No generic platform or workflow language used",
+                    "detail": "All language is faithful to the book's content and context.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "All chapter titles and summaries are faithful to the manuscript's structure and content. Key concepts and claims are grounded in Franklin's own framework and language, avoiding generic or modern reinterpretations.",
+                "book_level": {
+                  "core_thesis": "Franklin argues that through diligent self-education, moral self-examination, industriousness, and civic engagement, individuals can rise from modest origins to positions of influence and usefulness. His life story demonstrates that personal virtue and public service are mutually reinforcing, and that practical wisdom, rather than rigid adherence to dogma, is essential for both personal fulfillment and societal progress."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter divisions and titles may vary between editions; the summaries are based on the standard structure found in this manuscript.",
+                    "The manuscript includes appendices and letters not summarized here, as they are supplementary to the main autobiographical narrative."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "approved_claims": {
+            "updated_at": "2026-04-20T17:23:18.482Z",
+            "artifact_value_json": {
+              "id": "50cff975-76cb-4c47-8833-c8c671839d7c",
+              "file_type": "other",
+              "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+              "uploaded_at": "2026-04-20T17:21:27.446+00:00",
+              "storage_path": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87/reviewed/reviewed_claims/GA-AB-MO7GOXX1-IBCKQ4-aobf-claims-uploaded.txt",
+              "original_filename": "AoBF-claims-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_claims": {
+            "updated_at": "2026-04-20T17:11:23.001Z",
+            "artifact_value_json": {
+              "claims": [
+                {
+                  "claim": "Diligent self-education and moral self-examination enable individuals to rise from humble beginnings to positions of influence and usefulness.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Personal virtue and public service are mutually reinforcing, and both are necessary for a fulfilling and impactful life.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Practical wisdom, adaptability, and sociability are more effective than rigid dogma or solitary effort in achieving personal and civic goals.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Institution-building and civic engagement are essential for the advancement of both individuals and society.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Scientific inquiry and experimentation are valuable not only for personal growth but also for the broader benefit of society.",
+                  "weight": "central"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "approved_key_ideas": {
+            "updated_at": "2026-04-20T17:23:18.390Z",
+            "artifact_value_json": {
+              "id": "6cd41dc3-1529-40d5-9a19-5ad06650cfb6",
+              "file_type": "other",
+              "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+              "uploaded_at": "2026-04-20T17:21:21.108+00:00",
+              "storage_path": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87/reviewed/reviewed_concepts/GA-AB-MO7GOSJ9-71MR1M-aobf-concepts-as.is-uploaded.txt",
+              "original_filename": "AoBF-concepts-as.is-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "approved_structure": {
+            "updated_at": "2026-04-20T17:23:18.289Z",
+            "artifact_value_json": {
+              "id": "4b20051f-d1e9-44a3-9b70-8107287d8f95",
+              "file_type": "other",
+              "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+              "uploaded_at": "2026-04-20T17:15:45.141+00:00",
+              "storage_path": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87/reviewed/reviewed_structure/GA-AB-MO7GHKW6-D7O55V-aobf-structure-as.is-uploaded.txt",
+              "original_filename": "AoBF-structure-as.is-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_key_ideas": {
+            "updated_at": "2026-04-20T17:11:22.935Z",
+            "artifact_value_json": {
+              "key_ideas": [
+                {
+                  "term": "Moral Perfection",
+                  "definition": "Franklin's personal project of self-improvement, involving a systematic plan to cultivate thirteen virtues through daily self-examination and habit formation."
+                },
+                {
+                  "term": "Industry",
+                  "definition": "A central value in Franklin's life, emphasizing diligent work, productivity, and the avoidance of idleness as keys to personal and communal advancement."
+                },
+                {
+                  "term": "Frugality",
+                  "definition": "The practice of careful management of resources, spending only on what is useful or beneficial, and avoiding waste, both in personal life and public affairs."
+                },
+                {
+                  "term": "Self-Education",
+                  "definition": "Franklin's commitment to lifelong learning through reading, experimentation, and engagement with others, regardless of formal schooling."
+                },
+                {
+                  "term": "Civic Engagement",
+                  "definition": "Active participation in community improvement, institution-building, and public service, seen as essential to both personal fulfillment and societal progress."
+                },
+                {
+                  "term": "Sociability",
+                  "definition": "The cultivation of friendships, intellectual societies, and collaborative networks as means of mutual improvement and social advancement."
+                },
+                {
+                  "term": "Practical Wisdom",
+                  "definition": "Franklin's approach to decision-making, favoring experience, adaptability, and pragmatic solutions over rigid adherence to ideology."
+                },
+                {
+                  "term": "Public Usefulness",
+                  "definition": "The principle that individual talents and efforts should contribute to the common good, guiding Franklin's business, scientific, and political activities."
+                },
+                {
+                  "term": "Experimentation",
+                  "definition": "Both in science and in life, Franklin's method of testing ideas through observation, trial, and error, leading to innovation and improvement."
+                },
+                {
+                  "term": "Compromise",
+                  "definition": "The willingness to seek common ground and practical solutions in public affairs, even when faced with conflicting interests or values."
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "extracted_structure": {
+            "updated_at": "2026-04-20T17:11:22.766Z",
+            "artifact_value_json": {
+              "chapter_map": [
+                {
+                  "summary": "The introduction situates Franklin's autobiography as a unique and human account of success, emphasizing its value not as a formula but as the lived experience of a wise and practical man. It highlights Franklin's importance in American history, his contributions to the nation's independence and prosperity, and the relevance of his example for readers seeking both inspiration and practical guidance.",
+                  "chapter_title": "Introduction",
+                  "chapter_number": "Introduction"
+                },
+                {
+                  "summary": "Franklin recounts his family background, childhood, and early education in Boston. He describes his parents, their values, and the circumstances that shaped his character, including his early exposure to books and learning, and his first experiences with work and responsibility.",
+                  "chapter_title": "Ancestry and Early Life in Boston",
+                  "chapter_number": "I"
+                },
+                {
+                  "summary": "This chapter details Franklin's apprenticeship in his brother's printing shop, his growing interest in reading and writing, and his first forays into publishing. He discusses the challenges and conflicts he faced, particularly with his brother, and his early ambitions for independence.",
+                  "chapter_title": "Beginning Life as a Printer",
+                  "chapter_number": "II"
+                },
+                {
+                  "summary": "Franklin describes his decision to leave Boston and his journey to Philadelphia, arriving as a young man with little money or connections. He recounts his first impressions of the city, his search for work, and the beginnings of his new life in a different environment.",
+                  "chapter_title": "Arrival in Philadelphia",
+                  "chapter_number": "III"
+                },
+                {
+                  "summary": "Franklin returns to Boston to reconcile with his family and seek support for his career. He reflects on the changes in his relationships and the lessons learned from his early experiences, including the importance of self-reliance and adaptability.",
+                  "chapter_title": "First Visit to Boston",
+                  "chapter_number": "IV"
+                },
+                {
+                  "summary": "Franklin describes the friendships and associations he formed in Philadelphia, including his involvement in intellectual and social circles. He emphasizes the value of sociability, mutual improvement, and the exchange of ideas in personal and civic development.",
+                  "chapter_title": "Early Friends in Philadelphia",
+                  "chapter_number": "V"
+                },
+                {
+                  "summary": "Franklin recounts his journey to London, where he sought to advance his career and broaden his experience. He faces unexpected challenges, including financial hardship, but uses the opportunity to learn new skills and observe different ways of life.",
+                  "chapter_title": "First Visit to London",
+                  "chapter_number": "VI"
+                },
+                {
+                  "summary": "Returning to Philadelphia, Franklin establishes himself as a printer and entrepreneur. He details the strategies he used to build his business, the importance of reputation and reliability, and his early ventures in publishing and public service.",
+                  "chapter_title": "Beginning Business in Philadelphia",
+                  "chapter_number": "VII"
+                },
+                {
+                  "summary": "Franklin's business prospers, and he becomes increasingly involved in civic affairs. He describes his efforts to improve the community, such as founding libraries and fire companies, and reflects on the interplay between personal success and public responsibility.",
+                  "chapter_title": "Business Success and First Public Service",
+                  "chapter_number": "VIII"
+                },
+                {
+                  "summary": "Franklin outlines his famous plan for self-improvement, listing thirteen virtues and devising a method for tracking his progress. He discusses the challenges of cultivating virtue, the practical nature of his approach, and the insights gained from his efforts at moral self-examination.",
+                  "chapter_title": "Plan for Attaining Moral Perfection",
+                  "chapter_number": "IX"
+                },
+                {
+                  "summary": "Franklin describes the creation and impact of 'Poor Richard's Almanac,' which became widely influential for its wit and practical advice. He also discusses his other publishing ventures and the ways in which he used his platform to promote useful knowledge and civic values.",
+                  "chapter_title": "Poor Richard's Almanac and Other Activities",
+                  "chapter_number": "X"
+                },
+                {
+                  "summary": "Franklin's engagement in public life deepens as he takes on leadership roles in various civic projects. He reflects on the responsibilities of citizenship, the importance of compromise and cooperation, and the challenges of balancing private interests with the common good.",
+                  "chapter_title": "Interest in Public Affairs",
+                  "chapter_number": "XI"
+                },
+                {
+                  "summary": "Franklin recounts his involvement in organizing the defense of Pennsylvania during times of conflict. He describes the practical difficulties of raising funds and men, the need for unity among diverse groups, and the lessons learned from public service in times of crisis.",
+                  "chapter_title": "Defense of the Province",
+                  "chapter_number": "XII"
+                },
+                {
+                  "summary": "Franklin details his various public offices and the duties he performed, including legislative work and negotiations with other colonies. He emphasizes the importance of integrity, pragmatism, and the pursuit of the public interest in all official actions.",
+                  "chapter_title": "Public Services and Duties",
+                  "chapter_number": "XIII"
+                },
+                {
+                  "summary": "Franklin discusses his role in proposing the Albany Plan of Union, an early attempt to unite the American colonies for mutual defense and cooperation. He analyzes the reasons for its failure and the broader implications for colonial unity and governance.",
+                  "chapter_title": "Albany Plan of Union",
+                  "chapter_number": "XIV"
+                },
+                {
+                  "summary": "Franklin describes the ongoing disputes between the colonial assembly and the proprietary governors of Pennsylvania, focusing on issues of taxation, defense, and governance. He reflects on the difficulties of achieving fair and effective government in the face of entrenched interests.",
+                  "chapter_title": "Quarrels with the Proprietary Governors",
+                  "chapter_number": "XV"
+                },
+                {
+                  "summary": "Franklin recounts his involvement in General Braddock's ill-fated military expedition, including his efforts to support the British army and the lessons learned from the campaign's failure. He highlights the importance of practical judgment, adaptability, and cooperation in public undertakings.",
+                  "chapter_title": "Braddock's Expedition",
+                  "chapter_number": "XVI"
+                },
+                {
+                  "summary": "Franklin describes his leadership in organizing the defense of Pennsylvania's frontier during periods of conflict. He details the challenges of mobilizing resources, coordinating with other leaders, and maintaining morale in difficult circumstances.",
+                  "chapter_title": "Franklin's Defense of the Frontier",
+                  "chapter_number": "XVII"
+                },
+                {
+                  "summary": "Franklin discusses his scientific investigations, particularly his experiments with electricity. He explains his methods, discoveries, and the broader significance of scientific inquiry for personal growth and public benefit.",
+                  "chapter_title": "Scientific Experiments",
+                  "chapter_number": "XVIII"
+                },
+                {
+                  "summary": "Franklin recounts his experiences as a colonial agent in London, representing Pennsylvania's interests before the British government. He reflects on the complexities of diplomacy, the challenges of advocating for colonial rights, and the importance of clear communication and perseverance.",
+                  "chapter_title": "Agent of Pennsylvania in London",
+                  "chapter_number": "XIX"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step1_source_context": {
+            "updated_at": "2026-04-20T17:11:23.160Z",
+            "artifact_value_json": {
+              "intake_notes": "Preserve this book as a pragmatic, civic, and morally reflective autobiography, not as generic self-help, hustle culture, or a simple “success manual.” Keep Franklin’s own frame explicit: industry, frugality, self-education, sociability, public usefulness, moral self-examination, and institution-building are central, but they sit within a broader life of civic service, experiment, and practical judgment. Do not reduce the book to productivity slogans or inspirational quotes. Treat Franklin’s “plan for moral perfection” as one important episode within a larger autobiographical and public-minded project, not as the whole meaning of the book. When offering modern application, distinguish Franklin’s original eighteenth-century civic and moral framework from later self-improvement interpretations.",
+              "manuscript_filename": "Autobiography of Benjamin Franklin.txt",
+              "intake_notes_present": true
+            },
+            "artifact_value_text": null
+          },
+          "extracted_chapter_summaries": {
+            "updated_at": "2026-04-20T17:11:22.847Z",
+            "artifact_value_json": {
+              "chapter_summaries": [
+                {
+                  "summary": "The introduction situates Franklin's autobiography as a unique and human account of success, emphasizing its value not as a formula but as the lived experience of a wise and practical man. It highlights Franklin's importance in American history, his contributions to the nation's independence and prosperity, and the relevance of his example for readers seeking both inspiration and practical guidance.",
+                  "chapter_title": "Introduction",
+                  "chapter_number": "Introduction"
+                },
+                {
+                  "summary": "Franklin recounts his family background, childhood, and early education in Boston. He describes his parents, their values, and the circumstances that shaped his character, including his early exposure to books and learning, and his first experiences with work and responsibility.",
+                  "chapter_title": "Ancestry and Early Life in Boston",
+                  "chapter_number": "I"
+                },
+                {
+                  "summary": "This chapter details Franklin's apprenticeship in his brother's printing shop, his growing interest in reading and writing, and his first forays into publishing. He discusses the challenges and conflicts he faced, particularly with his brother, and his early ambitions for independence.",
+                  "chapter_title": "Beginning Life as a Printer",
+                  "chapter_number": "II"
+                },
+                {
+                  "summary": "Franklin describes his decision to leave Boston and his journey to Philadelphia, arriving as a young man with little money or connections. He recounts his first impressions of the city, his search for work, and the beginnings of his new life in a different environment.",
+                  "chapter_title": "Arrival in Philadelphia",
+                  "chapter_number": "III"
+                },
+                {
+                  "summary": "Franklin returns to Boston to reconcile with his family and seek support for his career. He reflects on the changes in his relationships and the lessons learned from his early experiences, including the importance of self-reliance and adaptability.",
+                  "chapter_title": "First Visit to Boston",
+                  "chapter_number": "IV"
+                },
+                {
+                  "summary": "Franklin describes the friendships and associations he formed in Philadelphia, including his involvement in intellectual and social circles. He emphasizes the value of sociability, mutual improvement, and the exchange of ideas in personal and civic development.",
+                  "chapter_title": "Early Friends in Philadelphia",
+                  "chapter_number": "V"
+                },
+                {
+                  "summary": "Franklin recounts his journey to London, where he sought to advance his career and broaden his experience. He faces unexpected challenges, including financial hardship, but uses the opportunity to learn new skills and observe different ways of life.",
+                  "chapter_title": "First Visit to London",
+                  "chapter_number": "VI"
+                },
+                {
+                  "summary": "Returning to Philadelphia, Franklin establishes himself as a printer and entrepreneur. He details the strategies he used to build his business, the importance of reputation and reliability, and his early ventures in publishing and public service.",
+                  "chapter_title": "Beginning Business in Philadelphia",
+                  "chapter_number": "VII"
+                },
+                {
+                  "summary": "Franklin's business prospers, and he becomes increasingly involved in civic affairs. He describes his efforts to improve the community, such as founding libraries and fire companies, and reflects on the interplay between personal success and public responsibility.",
+                  "chapter_title": "Business Success and First Public Service",
+                  "chapter_number": "VIII"
+                },
+                {
+                  "summary": "Franklin outlines his famous plan for self-improvement, listing thirteen virtues and devising a method for tracking his progress. He discusses the challenges of cultivating virtue, the practical nature of his approach, and the insights gained from his efforts at moral self-examination.",
+                  "chapter_title": "Plan for Attaining Moral Perfection",
+                  "chapter_number": "IX"
+                },
+                {
+                  "summary": "Franklin describes the creation and impact of 'Poor Richard's Almanac,' which became widely influential for its wit and practical advice. He also discusses his other publishing ventures and the ways in which he used his platform to promote useful knowledge and civic values.",
+                  "chapter_title": "Poor Richard's Almanac and Other Activities",
+                  "chapter_number": "X"
+                },
+                {
+                  "summary": "Franklin's engagement in public life deepens as he takes on leadership roles in various civic projects. He reflects on the responsibilities of citizenship, the importance of compromise and cooperation, and the challenges of balancing private interests with the common good.",
+                  "chapter_title": "Interest in Public Affairs",
+                  "chapter_number": "XI"
+                },
+                {
+                  "summary": "Franklin recounts his involvement in organizing the defense of Pennsylvania during times of conflict. He describes the practical difficulties of raising funds and men, the need for unity among diverse groups, and the lessons learned from public service in times of crisis.",
+                  "chapter_title": "Defense of the Province",
+                  "chapter_number": "XII"
+                },
+                {
+                  "summary": "Franklin details his various public offices and the duties he performed, including legislative work and negotiations with other colonies. He emphasizes the importance of integrity, pragmatism, and the pursuit of the public interest in all official actions.",
+                  "chapter_title": "Public Services and Duties",
+                  "chapter_number": "XIII"
+                },
+                {
+                  "summary": "Franklin discusses his role in proposing the Albany Plan of Union, an early attempt to unite the American colonies for mutual defense and cooperation. He analyzes the reasons for its failure and the broader implications for colonial unity and governance.",
+                  "chapter_title": "Albany Plan of Union",
+                  "chapter_number": "XIV"
+                },
+                {
+                  "summary": "Franklin describes the ongoing disputes between the colonial assembly and the proprietary governors of Pennsylvania, focusing on issues of taxation, defense, and governance. He reflects on the difficulties of achieving fair and effective government in the face of entrenched interests.",
+                  "chapter_title": "Quarrels with the Proprietary Governors",
+                  "chapter_number": "XV"
+                },
+                {
+                  "summary": "Franklin recounts his involvement in General Braddock's ill-fated military expedition, including his efforts to support the British army and the lessons learned from the campaign's failure. He highlights the importance of practical judgment, adaptability, and cooperation in public undertakings.",
+                  "chapter_title": "Braddock's Expedition",
+                  "chapter_number": "XVI"
+                },
+                {
+                  "summary": "Franklin describes his leadership in organizing the defense of Pennsylvania's frontier during periods of conflict. He details the challenges of mobilizing resources, coordinating with other leaders, and maintaining morale in difficult circumstances.",
+                  "chapter_title": "Franklin's Defense of the Frontier",
+                  "chapter_number": "XVII"
+                },
+                {
+                  "summary": "Franklin discusses his scientific investigations, particularly his experiments with electricity. He explains his methods, discoveries, and the broader significance of scientific inquiry for personal growth and public benefit.",
+                  "chapter_title": "Scientific Experiments",
+                  "chapter_number": "XVIII"
+                },
+                {
+                  "summary": "Franklin recounts his experiences as a colonial agent in London, representing Pennsylvania's interests before the British government. He reflects on the complexities of diplomacy, the challenges of advocating for colonial rights, and the importance of clear communication and perseverance.",
+                  "chapter_title": "Agent of Pennsylvania in London",
+                  "chapter_number": "XIX"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step2": {
+          "tone_profile": {
+            "updated_at": "2026-04-20T17:33:49.382Z",
+            "artifact_value_json": {
+              "tone_style": "analytical_clear",
+              "tone_directness": "balanced"
+            },
+            "artifact_value_text": null
+          },
+          "fidelity_mode": {
+            "updated_at": "2026-04-20T17:33:49.027Z",
+            "artifact_value_json": {
+              "value": "closely_light_explanation"
+            },
+            "artifact_value_text": null
+          },
+          "red_line_note": {
+            "updated_at": "2026-04-20T17:33:49.512Z",
+            "artifact_value_json": {
+              "value": "Do not present this book as generic self-help, hustle culture, or a simple formula for success. Franklin’s autobiography must remain anchored in its eighteenth-century civic, moral, and autobiographical context, where industry, frugality, self-education, sociability, public usefulness, and institution-building matter as much as personal advancement"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_behaviors": {
+            "updated_at": "2026-04-20T17:33:49.240Z",
+            "artifact_value_json": {
+              "values": [
+                "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+                "Avoid treating the thirteen virtues as the whole meaning of the book",
+                "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+                "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+                "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+                "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "grounding_style": {
+            "updated_at": "2026-04-20T17:33:49.445Z",
+            "artifact_value_json": {
+              "value": "mention_when_helpful"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_guidelines": {
+            "updated_at": "2026-04-20T17:33:49.314Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "avoid_over_interpreting",
+                  "text": "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_prescriptive_advice",
+                  "text": "Avoid treating the thirteen virtues as the whole meaning of the book",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_therapeutic",
+                  "text": "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_universal_truths",
+                  "text": "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_direct_challenge",
+                  "text": "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_extra_claims",
+                  "text": "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_guidelines": {
+            "updated_at": "2026-04-20T17:33:49.174Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "explain_concepts",
+                  "text": "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+                  "selected": true
+                },
+                {
+                  "id": "summarize_chapters",
+                  "text": "Summarize each chapter’s main episode, lesson, or turning point clearly",
+                  "selected": true
+                },
+                {
+                  "id": "compare_ideas",
+                  "text": "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+                  "selected": true
+                },
+                {
+                  "id": "general_reflection",
+                  "text": "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+                  "selected": true
+                },
+                {
+                  "id": "reflective_followups",
+                  "text": "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+                  "selected": true
+                },
+                {
+                  "id": "light_beyond_text",
+                  "text": "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_question_types": {
+            "updated_at": "2026-04-20T17:33:49.103Z",
+            "artifact_value_json": {
+              "values": [
+                "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+                "Summarize each chapter’s main episode, lesson, or turning point clearly",
+                "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+                "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+                "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+                "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "representation_blueprint": {
+            "updated_at": "2026-04-20T17:33:49.591Z",
+            "artifact_value_json": {
+              "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid turning Franklin into generic productivity, hustle, or “success habit” advice, avoid treating the thirteen virtues as the whole meaning of the book, and avoid sounding therapeutic, diagnostic, or like modern life coaching, use a analytical and clear tone with balanced directness, and mention chapter or section when helpful.",
+              "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+              "allowed_uses": [
+                "Explain Franklin’s key concepts, virtues, and practical habits in their original context",
+                "Summarize each chapter’s main episode, lesson, or turning point clearly",
+                "Compare themes across the book, including self-education, industry, frugality, reputation, usefulness, and public service",
+                "Clarify the role of the thirteen virtues without treating them as the whole meaning of the book",
+                "Distinguish Franklin’s original civic and moral framework from later productivity or self-help interpretations",
+                "Explain how business, science, sociability, institution-building, and public life connect across Franklin’s autobiography"
+              ],
+              "generated_at": "2026-04-20T17:33:48.633Z",
+              "tone_profile": {
+                "style": "Analytical and clear",
+                "directness": "Balanced"
+              },
+              "red_line_note": "Do not present this book as generic self-help, hustle culture, or a simple formula for success. Franklin’s autobiography must remain anchored in its eighteenth-century civic, moral, and autobiographical context, where industry, frugality, self-education, sociability, public usefulness, and institution-building matter as much as personal advancement",
+              "grounding_rules": "Mention chapter or section when helpful",
+              "fidelity_setting": "close fidelity with light explanatory support",
+              "avoided_behaviors": [
+                "Avoid turning Franklin into generic productivity, hustle, or “success habit” advice",
+                "Avoid treating the thirteen virtues as the whole meaning of the book",
+                "Avoid sounding therapeutic, diagnostic, or like modern life coaching",
+                "Avoid turning Franklin’s practical judgments into universal truths for every reader or era",
+                "Avoid flattening civic life, public service, and institution-building into private self-improvement only",
+                "Avoid adding claims the autobiography does not actually make, especially about wealth, happiness, or moral perfection"
+              ]
+            },
+            "artifact_value_text": null
+          }
+        }
+      }
+    },
+    "last_saved_at": "2026-04-20T17:38:32.982+00:00",
+    "created_at": "2026-04-20T17:10:47.641142+00:00",
+    "updated_at": "2026-04-26T13:55:33.132171+00:00"
+  },
+  "packets": [
+    {
+      "id": "16f1a937-ffb7-4079-b18e-455402e40300",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "scope_boundaries",
+      "lever_name": "topic_scope",
+      "lever_from": "mention_when_helpful",
+      "lever_to": "explicit_anchor",
+      "summary_text": "Require explicit chapter grounding for all references",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis is conceptually strong and resists generic self-help drift, but his chapter-level grounding is unreliable. Tighten chapter anchoring. The plan for moral perfection must anchor to Chapter IX, Arrival in Philadelphia to Chapter III, and discussion of the Junto should not be placed in the London chapter. When citing episodes or themes, prefer fewer chapter references unless they are correct and text-grounded."
+        },
+        {
+          "role": "user",
+          "content": "Civis is conceptually strong and resists generic self-help drift, but his chapter-level grounding is unreliable. Tighten chapter anchoring. The plan for moral perfection must anchor to Chapter IX, Arrival in Philadelphia to Chapter III, and discussion of the Junto should not be placed in the London chapter. When citing episodes or themes, prefer fewer chapter references unless they are correct and text-grounded."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a grounding accuracy issue. I'll tighten chapter anchoring by switching to explicit anchoring mode and adding author guidance for the specific misplacements you've identified.\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"topic_scope\", \"from_value\": \"mention_when_helpful\", \"to_value\": \"explicit_anchor\", \"summary\": \"Require explicit chapter grounding for all references\", \"requires_preview\": false}\n```\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"Chapter accuracy requirements: Plan for moral perfection anchors to Chapter IX only. Arrival in Philadelphia anchors to Chapter III only. Junto discussion must not appear in London chapters. When citing episodes or themes, use fewer chapter references unless text-grounded and verified correct.\", \"summary\": \"Add chapter-specific grounding rules\", \"requires_preview\": false}\n```\n\nThis will force Civis to explicitly ground all references and give him clear rules about your key content anchoring requirements."
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-20T17:56:28.469007+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-20T17:57:55.375787+00:00",
+      "state": "applied",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "fe1bd006-10ca-497c-98ef-88d0825e1be4",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "chapter_emphasis",
+      "lever_from": null,
+      "lever_to": "{'Chapter IX': 'high'}",
+      "summary_text": "Emphasize Chapter IX (moral perfection plan)",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis is still misplacing a core chapter even after explicit anchoring. He continues to assign Franklin’s plan for moral perfection to Chapter X, but it belongs to Chapter IX. Tighten chapter-level factual grounding. The companion should not cite chapter numbers unless correct, and should prefer theme-level explanation over specific chapter citation when uncertain"
+        },
+        {
+          "role": "user",
+          "content": "Civis is still misplacing a core chapter even after explicit anchoring. He continues to assign Franklin’s plan for moral perfection to Chapter X, but it belongs to Chapter IX. Tighten chapter-level factual grounding. The companion should not cite chapter numbers unless correct, and should prefer theme-level explanation over specific chapter citation when uncertain"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a factual accuracy issue requiring stronger chapter grounding. I'll emphasize Chapter IX in the knowledge weights and add author guidance to prevent incorrect chapter citations.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter IX\": \"high\"}, \"summary\": \"Emphasize Chapter IX (moral perfection plan)\", \"requires_preview\": false}\n```\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"Franklin's plan for moral perfection and the 13 virtues appears in Chapter IX, not Chapter X. When discussing this topic, cite Chapter IX or refer to it thematically without chapter numbers if uncertain.\", \"summary\": \"Correct chapter citation for moral perfection plan\", \"requires_preview\": false}\n```\n\nThis should resolve the misattribution and guide Civis toward thematic discussions when chapter precision isn't certain."
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-20T18:00:35.814827+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": "2026-05-06T16:32:37.597579+00:00",
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "1db79685-9477-42ff-82bf-e2736068b95b",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "chapter_emphasis",
+      "lever_from": null,
+      "lever_to": "{'Chapter V': 'high', 'Chapter VI': 'high'}",
+      "summary_text": "Emphasize Chapter V (Philadelphia arrival/Junto founding) vs Chapter VI (London visit)",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis still misplaces key material. He now assigns the Junto to Chapter VI, but Chapter VI is First Visit to London. Tighten chapter-level grounding further. He should avoid chapter numbers unless correct, and prefer “earlier/later in the autobiography” when uncertain. Junto and related associational/civic development belong to Franklin’s Philadelphia life, not the London chapter"
+        },
+        {
+          "role": "user",
+          "content": "Civis still misplaces key material. He now assigns the Junto to Chapter VI, but Chapter VI is First Visit to London. Tighten chapter-level grounding further. He should avoid chapter numbers unless correct, and prefer “earlier/later in the autobiography” when uncertain. Junto and related associational/civic development belong to Franklin’s Philadelphia life, not the London chapter"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a chapter-specific knowledge error. I'll emphasize the correct Philadelphia chapters where Franklin discusses the Junto and add guidance to prevent incorrect chapter citations.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter V\": \"high\", \"Chapter VI\": \"high\"}, \"summary\": \"Emphasize Chapter V (Philadelphia arrival/Junto founding) vs Chapter VI (London visit)\", \"requires_preview\": false}\n```\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"The Junto club and Franklin's civic/associational development belong to his Philadelphia period (primarily Chapter V), NOT his London visits (Chapter VI). Avoid citing specific chapter numbers unless certain - use 'earlier/later in the autobiography' when unsure of exact placement.\", \"summary\": \"Prevent Junto misplacement and incorrect chapter citations\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-20T18:09:04.940247+00:00",
+      "decided_at": "2026-04-20T18:13:10.923417+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "b24c89c4-67c8-4b4a-bf8a-87b492fb4f50",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "concept_refresh",
+      "lever_from": null,
+      "lever_to": null,
+      "summary_text": "Re-read book analysis outputs",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis is misplacing a core chapter. He assigns Franklin’s plan for moral perfection to Chapter X, but it belongs to Chapter IX. Tighten chapter-level factual grounding. The companion should not cite chapter numbers unless correct, and should prefer theme-level explanation over specific chapter citation when uncertain."
+        },
+        {
+          "role": "user",
+          "content": "Civis is misplacing a core chapter. He assigns Franklin’s plan for moral perfection to Chapter X, but it belongs to Chapter IX. Tighten chapter-level factual grounding. The companion should not cite chapter numbers unless correct, and should prefer theme-level explanation over specific chapter citation when uncertain."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a factual accuracy issue requiring tighter grounding to the source text. I'll refresh the book analysis to ensure accurate chapter mapping, then adjust the grounding style to prevent incorrect chapter citations.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"concept_refresh\", \"action\": \"refresh\", \"summary\": \"Re-read book analysis outputs\", \"requires_preview\": false}\n```\n\nAfter the refresh completes, I'll also tighten the topic scope to prevent loose chapter references:\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"topic_scope\", \"from_value\": \"explicit_anchor\", \"to_value\": \"mention_when_helpful\", \"summary\": \"Reduce chapter citations, favor thematic discussion\", \"requires_preview\": false}\n```\n\nThis combination should fix the Chapter IX/X confusion and make Civis more cautious about specific chapter numbers."
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-21T03:23:25.909343+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": "2026-05-06T16:32:37.597579+00:00",
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "1acbd186-a146-41d1-af5d-597b48e2dd90",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "scope_boundaries",
+      "lever_name": "topic_scope",
+      "lever_from": "explicit_anchor",
+      "lever_to": "explicit_anchor",
+      "summary_text": "Already at strongest grounding level",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis is misplacing key material. The Junto should not be placed in Chapter VI, because Chapter VI is First Visit to London. Tighten chapter-level grounding and prevent incorrect chapter citations. If uncertain, prefer “earlier/later in the autobiography” instead of specific chapter numbers."
+        },
+        {
+          "role": "user",
+          "content": "Civis is misplacing key material. The Junto should not be placed in Chapter VI, because Chapter VI is First Visit to London. Tighten chapter-level grounding and prevent incorrect chapter citations. If uncertain, prefer “earlier/later in the autobiography” instead of specific chapter numbers."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a chapter misattribution issue. I'll tighten the grounding to require explicit chapter anchoring and add guidance to prevent incorrect chapter citations.\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"topic_scope\", \"from_value\": \"explicit_anchor\", \"to_value\": \"explicit_anchor\", \"summary\": \"Already at strongest grounding level\", \"requires_preview\": false}\n```\n\nSince topic_scope is already at maximum strength, I'll add author guidance to address the specific citation problem:\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"When referencing specific content, verify chapter placement carefully. The Junto is discussed in Chapter VIII (Business ventures), not Chapter VI (First Visit to London). If uncertain about chapter numbers, use temporal references like 'earlier/later in the autobiography' instead of specific chapter citations.\", \"summary\": \"Add guidance to prevent chapter misattribution\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "rejected",
+      "created_at": "2026-04-21T03:28:54.097803+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": null,
+      "state": "rejected",
+      "accepted_for_test_at": null,
+      "rejected_at": "2026-05-06T16:32:37.597579+00:00",
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "33bfb5f7-0347-4372-be57-d803d2748e56",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "companion_behavior",
+      "lever_name": "warmth",
+      "lever_from": "analytical_clear",
+      "lever_to": "neutral_restrained",
+      "summary_text": "Less affirming of self-help framings, more historically grounded",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis responded to a reader asking \"which of Franklin's 13 virtues should I focus on first to level up my life?\" by accepting the \"level up\" framing, recommending Temperance as a productivity starting point, and framing the virtues as steps in personal development. The book knowledge (Temperance first, it enables the others) is correct, but the tone slides into wellness/self-help register — \"mental clarity and physical health\", \"personal development\", \"level up your life\". The companion should use the reader's frame as a point of entry but then reframe: the 13 virtues are a system embedded in an 18th-century civic-republican moral framework, not a ranked self-improvement plan. Please tighten the tone to be less affirming of \"optimization\" framings, and have the companion note the period/framework context when readers arrive with modern productivity or self-improvement questions."
+        },
+        {
+          "role": "user",
+          "content": "Civis responded to a reader asking \"which of Franklin's 13 virtues should I focus on first to level up my life?\" by accepting the \"level up\" framing, recommending Temperance as a productivity starting point, and framing the virtues as steps in personal development. The book knowledge (Temperance first, it enables the others) is correct, but the tone slides into wellness/self-help register — \"mental clarity and physical health\", \"personal development\", \"level up your life\". The companion should use the reader's frame as a point of entry but then reframe: the 13 virtues are a system embedded in an 18th-century civic-republican moral framework, not a ranked self-improvement plan. Please tighten the tone to be less affirming of \"optimization\" framings, and have the companion note the period/framework context when readers arrive with modern productivity or self-improvement questions."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a tone and framing issue. The companion is correctly identifying Franklin's content but adopting the reader's self-help language instead of contextualizing it within Franklin's 18th-century moral framework. I'll adjust the warmth setting to be more analytical and less affirming of optimization framings.\n\n```json\n{\"classification\": \"companion_behavior\", \"lever\": \"warmth\", \"from_value\": \"analytical_clear\", \"to_value\": \"neutral_restrained\", \"summary\": \"Less affirming of self-help framings, more historically grounded\", \"requires_preview\": true}\n```"
+        }
+      ],
+      "preview_comparison_json": {
+        "to_value": "neutral_restrained",
+        "from_value": "analytical_clear",
+        "lever_name": "warmth",
+        "sample_question": "What is the most important idea in Autobiography of Benjamin Franklin?",
+        "response_current": "One of the most important ideas in the *Autobiography of Benjamin Franklin* is the concept of self-improvement and the pursuit of moral perfection. Franklin details his methodical approach to bettering himself, famously outlining his list of 13 virtues such as temperance, silence, and frugality, among others. He approached these virtues with the same scientific rigor he applied to his experiments, believing that improving oneself was a continuous, lifelong endeavor.\n\nThis idea of self-improvement reflects Franklin's belief in the potential for individual progress and the Enlightenment ideals of reason and personal responsibility. By methodically striving to cultivate these virtues, Franklin illustrates how anyone, regardless of their starting point in life, can work towards becoming a better, more virtuous person. This notion of constant self-betterment and the power of deliberate practice remains a timeless and influential aspect of his autobiography. How do you think Franklin's approach to self-improvement resonates with today's ideas about personal development?",
+        "response_proposed": "One of the most important ideas in Benjamin Franklin's autobiography is the concept of self-improvement. Franklin meticulously documents his efforts to cultivate personal virtues and improve his character through a methodical approach. He creates a list of thirteen virtues, including temperance, frugality, and humility, and systematically works on embodying each virtue through daily practice and reflection.\n\nThis focus on self-improvement reflects Franklin's belief in the power of deliberate effort and discipline in shaping one's identity and destiny. His emphasis on personal growth underscores the Enlightenment ideals of reason and progress, suggesting that individuals have the capacity to achieve moral and intellectual excellence through conscious effort. This idea not only shaped Franklin's own life but also contributed to broader cultural values of self-reliance and industriousness in American society. What aspects of self-improvement resonate with you, or do you find challenging in today's context?"
+      },
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-22T20:37:00.650791+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-22T20:39:46.682396+00:00",
+      "state": "applied",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "bcaceb1d-9568-412f-a640-93fa0291fde4",
+      "project_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "book_knowledge",
+      "lever_name": "author_guidance",
+      "lever_from": null,
+      "lever_to": "When readers ask about Franklin's 13 virtues using modern 'self-improvement' or 'optimization' language ('level up', 'productivity', 'personal development'), acknowledge their question briefly but then contextualize: the virtues are a system embedded in 18th-century American civic-republicanism, designed to cultivate public-facing character for a functioning republic, not personal optimization. Note that 'self-improvement' framings are modern readings projected onto the text. Before offering practical guidance, establish this civic-moral framework.",
+      "summary_text": "Guide companion to contextualize virtues in civic-republican framework, not self-help",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Civis responded to a reader asking \"which of Franklin's 13 virtues should I focus on first to level up my life?\" by accepting the \"level up\" framing, recommending Temperance as a productivity starting point, and framing the virtues as steps in personal development. The book knowledge (Temperance first, it enables the others) is correct, but the tone slides into wellness/self-help register — \"mental clarity and physical health\", \"personal development\", \"level up your life\". The companion should use the reader's frame as a point of entry but then reframe: the 13 virtues are a system embedded in an 18th-century civic-republican moral framework, not a ranked self-improvement plan. Please tighten the tone to be less affirming of \"optimization\" framings, and have the companion note the period/framework context when readers arrive with modern productivity or self-improvement questions."
+        },
+        {
+          "role": "assistant",
+          "content": "This is a tone and framing issue. The companion is correctly identifying Franklin's content but adopting the reader's self-help language instead of contextualizing it within Franklin's 18th-century moral framework. I'll adjust the warmth setting to be more analytical and less affirming of optimization framings."
+        },
+        {
+          "role": "user",
+          "content": "After applying the CB warmth adjustment, Civis now slightly resists the \"checklist\" framing (\"Franklin himself viewed it as a lifelong journey rather than a checklist to be completed\") but still doesn't contextualize the virtues within Franklin's 18th-century civic-republican moral framework. The response still reads as general self-improvement advice — \"personal development\", \"positive changes quickly\", \"pursue the others\". Please add author guidance so the companion treats the 13 virtues as a system embedded in 18th-century American civic-republicanism (not as a self-improvement menu), and names that \"self-improvement\" and \"level up\" framings are modern readings projected onto the book. The companion should acknowledge the reader's question briefly, then contextualize the virtues within Franklin's civic-moral project (public-facing character for a functioning republic) before offering any practical guidance"
+        },
+        {
+          "role": "user",
+          "content": "After applying the CB warmth adjustment, Civis now slightly resists the \"checklist\" framing (\"Franklin himself viewed it as a lifelong journey rather than a checklist to be completed\") but still doesn't contextualize the virtues within Franklin's 18th-century civic-republican moral framework. The response still reads as general self-improvement advice — \"personal development\", \"positive changes quickly\", \"pursue the others\". Please add author guidance so the companion treats the 13 virtues as a system embedded in 18th-century American civic-republicanism (not as a self-improvement menu), and names that \"self-improvement\" and \"level up\" framings are modern readings projected onto the book. The companion should acknowledge the reader's question briefly, then contextualize the virtues within Franklin's civic-moral project (public-facing character for a functioning republic) before offering any practical guidance"
+        },
+        {
+          "role": "user",
+          "content": "After applying the CB warmth adjustment, Civis now slightly resists the \"checklist\" framing (\"Franklin himself viewed it as a lifelong journey rather than a checklist to be completed\") but still doesn't contextualize the virtues within Franklin's 18th-century civic-republican moral framework. The response still reads as general self-improvement advice — \"personal development\", \"positive changes quickly\", \"pursue the others\". Please add author guidance so the companion treats the 13 virtues as a system embedded in 18th-century American civic-republicanism (not as a self-improvement menu), and names that \"self-improvement\" and \"level up\" framings are modern readings projected onto the book. The companion should acknowledge the reader's question briefly, then contextualize the virtues within Franklin's civic-moral project (public-facing character for a functioning republic) before offering any practical guidance"
+        },
+        {
+          "role": "assistant",
+          "content": "The companion needs explicit guidance to contextualize Franklin's virtues within their proper historical framework rather than treating them as modern self-improvement tools. I'll add author guidance to ensure the companion addresses the civic-republican context and identifies modern productivity framings as anachronistic.\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"author_guidance\", \"action\": \"add\", \"value\": \"When readers ask about Franklin's 13 virtues using modern 'self-improvement' or 'optimization' language ('level up', 'productivity', 'personal development'), acknowledge their question briefly but then contextualize: the virtues are a system embedded in 18th-century American civic-republicanism, designed to cultivate public-facing character for a functioning republic, not personal optimization. Note that 'self-improvement' framings are modern readings projected onto the text. Before offering practical guidance, establish this civic-moral framework.\", \"summary\": \"Guide companion to contextualize virtues in civic-republican framework, not self-help\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-22T20:44:47.51929+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-22T20:48:28.941704+00:00",
+      "state": "applied",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    }
+  ]
+}

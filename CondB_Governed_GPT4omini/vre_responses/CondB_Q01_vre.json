@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion": "mira",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Varieties of Religious Experience\" is that religious experiences should be understood through the lens of individual, personal accounts rather than through institutional or doctrinal frameworks. William James posits that there is no single essence to religion; instead, its varieties reveal significant truths about human psychology and the nature of the unseen. He emphasizes that the value of religion lies in its transformative effects on individuals' lives, which he refers to as the \"fruits\" of religious experience.\n\nJames categorizes different psychological temperaments—such as the 'healthy-minded' and the 'sick soul'—to illustrate how these perspectives shape distinct forms of religious experience. He also explores phenomena like conversion and mystical experiences, arguing that they can lead to profound insights and personal transformations, despite sometimes being associated with abnormal psychology. Overall, James advocates for a descriptive, psychological approach to understanding religion, focusing on individual experiences rather than dogma.\n\nWould you like to explore how James differentiates between healthy-mindedness and the sick soul in Lectures V and VI?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "65fe2d17-5217-4da3-b50d-497a110cf6f4",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1388,
+    "output_tokens": 209
+  },
+  "latency_seconds": 6.63,
+  "timestamp_utc": "2026-05-10T07:10:55.012412+00:00"
+}

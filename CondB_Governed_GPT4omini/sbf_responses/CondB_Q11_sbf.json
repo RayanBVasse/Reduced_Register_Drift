@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion": "aletheia",
+  "cluster": "G2",
+  "question_id": "Q11",
+  "question_text": "How can I use the ideas in this book in my daily life?",
+  "primary_drift": "D1",
+  "block": 5,
+  "reply": "While \"The Souls of Black Folk\" is not a manual for daily living, its ideas can inform and inspire actions that contribute to a deeper understanding of racial justice and community engagement. One practical application is to actively educate oneself about the history and ongoing realities of systemic racism, as Du Bois emphasizes the importance of higher education and informed advocacy. This could involve reading literature on race relations, attending lectures or discussions, and engaging with diverse perspectives.\n\nAnother way to incorporate Du Bois's ideas is by fostering open conversations about race within your community or workplace. By addressing the color line and acknowledging the complexities of identity as described through double-consciousness, you can help create an environment that values inclusivity and challenges prevailing prejudices. Additionally, supporting organizations that advocate for civil rights or participating in community initiatives aimed at promoting equity aligns with Du Bois's call for political engagement and social responsibility.\n\nUltimately, integrating these ideas into daily life means committing to a continuous process of learning, reflection, and action that honors the struggles articulated by Du Bois while working toward a more just society.\n\nHow does Du Bois's discussion of the Sorrow Songs in Chapter 15 serve as a lens through which we can understand the cultural significance of Black expression in America?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "4a207fc6-7f27-469f-9f05-11c850117b04",
+  "access_mode": "paid",
+  "turns_used": 11,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3680,
+    "output_tokens": 243
+  },
+  "latency_seconds": 8.51,
+  "timestamp_utc": "2026-05-10T07:09:58.666389+00:00"
+}

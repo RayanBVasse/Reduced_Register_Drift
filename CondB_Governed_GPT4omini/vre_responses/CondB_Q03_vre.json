@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion": "mira",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, \"The Varieties of Religious Experience\" is a series of lectures that William James delivered at the University of Edinburgh, where he approaches the study of religion from a psychological perspective. James explicitly states that his aim is not to evaluate religious doctrines or institutions but to explore the personal experiences of individuals who identify as religious. He adopts a descriptive and empirical methodology, seeking to understand the nature and impact of religious experiences on human psychology.\n\nJames emphasizes that this work is intended as a \"psychological study\" rather than a theological treatise. He prioritizes individual accounts and the subjective nature of belief, arguing that these personal experiences reveal significant insights into the human condition and our relationship with the unseen. Throughout the book, he aims to present a broad spectrum of religious experiences, thereby acknowledging the diversity and complexity inherent in religious life.\n\nWould you like to examine how James's approach in Chapter 2 contrasts with traditional theological perspectives?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "65fe2d17-5217-4da3-b50d-497a110cf6f4",
+  "access_mode": "paid",
+  "turns_used": 3,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1807,
+    "output_tokens": 186
+  },
+  "latency_seconds": 5.36,
+  "timestamp_utc": "2026-05-10T07:11:09.498935+00:00"
+}

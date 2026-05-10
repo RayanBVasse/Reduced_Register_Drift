@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion": "aletheia",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "Connecting the core idea of \"The Souls of Black Folk\"—the centrality of the color line and the need for political rights and education—to a concrete daily practice involves fostering awareness and engagement with issues of racial injustice in everyday life. One such practice could be actively seeking to educate oneself and others about the historical and contemporary realities of systemic racism, as Du Bois emphasizes the importance of higher education and informed advocacy.\n\nThis could manifest in various ways, such as participating in community discussions, reading literature that addresses racial issues, or supporting organizations that work towards racial equity. Additionally, individuals can commit to reflecting on their own biases and privileges, engaging in conversations that challenge prevailing narratives about race, and advocating for policies that promote equality. Such practices align with Du Bois's call for an honest engagement with racial realities and the pursuit of justice.\n\nHow does Du Bois's discussion of leadership in relation to Booker T. Washington in Chapter 4 inform our understanding of effective advocacy for social change?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "4a207fc6-7f27-469f-9f05-11c850117b04",
+  "access_mode": "paid",
+  "turns_used": 7,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2684,
+    "output_tokens": 194
+  },
+  "latency_seconds": 7.48,
+  "timestamp_utc": "2026-05-10T07:09:18.372548+00:00"
+}

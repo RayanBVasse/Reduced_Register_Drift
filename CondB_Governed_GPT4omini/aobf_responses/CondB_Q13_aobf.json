@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "\"Autobiography of Benjamin Franklin\" would benefit a diverse audience, particularly those interested in personal development, civic engagement, and the foundations of American identity. Students and scholars of history, political science, or literature can gain valuable insights into the 18th-century context that shaped Franklin's ideas about virtue, morality, and public service. His reflections on the interplay between individual character and societal responsibility provide a rich resource for understanding the principles underlying early American republicanism.\n\nAdditionally, individuals seeking to cultivate personal virtues and improve their character may find Franklin's systematic approach to self-improvement—especially his thirteen virtues outlined in Chapter 10—both instructive and inspiring. Leaders, managers, and professionals can also glean lessons on the importance of civic involvement and community building from Franklin's experiences in Chapters 6 and 12, which emphasize the value of collaboration and public usefulness.\n\nFinally, anyone interested in the art of autobiography or narrative storytelling can appreciate Franklin's engaging writing style and his ability to weave moral lessons into his life story. The book serves as a model for how personal narratives can convey broader philosophical ideas while remaining relatable. Would you like to delve deeper into how Franklin's reflections on friendship in Chapter 6 contribute to his views on community building?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 13,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 4856,
+    "output_tokens": 247
+  },
+  "latency_seconds": 8.45,
+  "timestamp_utc": "2026-05-10T06:54:40.392526+00:00"
+}

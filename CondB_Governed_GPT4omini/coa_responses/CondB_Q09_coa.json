@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion": "ambrose",
+  "cluster": "G1",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, \"The Confessions of St. Augustine\" is deeply rooted in specific beliefs about God, human nature, society, and the self. Augustine's framework is fundamentally theocentric, centering on the belief in a personal and sovereign God who is both the creator and sustainer of all things. This belief shapes his understanding of sin as a turning away from God, leading to disorder and unhappiness in human life.\n\nIn terms of human nature, Augustine posits that humans are created good but have fallen into sinfulness due to free will. He emphasizes the restless nature of the human heart, which seeks fulfillment only in God. This view informs his reflections on society, where he critiques the distractions and moral failings that can lead individuals away from divine truth. The self, in Augustine's view, is not an isolated entity but is defined in relationship to God; true self-knowledge comes through understanding oneself in light of God's grace.\n\nThese beliefs are integral to Augustine's arguments throughout the text and shape his narrative of conversion and spiritual growth. Would you like to examine how Augustine’s exploration of time in Book XI relates to his understanding of God's eternal nature?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "7ff61948-e3bd-4897-821a-e616f38628f5",
+  "access_mode": "paid",
+  "turns_used": 9,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3469,
+    "output_tokens": 232
+  },
+  "latency_seconds": 6.5,
+  "timestamp_utc": "2026-05-10T06:58:03.421010+00:00"
+}

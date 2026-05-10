@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "One of the core ideas of \"The Autobiography of Benjamin Franklin\" is the pursuit of self-improvement through the cultivation of personal virtues. Franklin famously created a list of thirteen virtues that he aimed to develop in himself, including temperance, silence, order, resolution, frugality, industry, sincerity, justice, moderation, cleanliness, tranquility, chastity, and humility. He tracked his progress in practicing these virtues, which served as a daily guide for his behavior and decision-making.\n\n### Concrete Daily Practice: The Virtue Tracking System\n\n**1. Choose Your Virtues**: Start by selecting a few virtues that resonate with you personally or that you feel you need to work on. You might choose three to five virtues to focus on initially, such as:\n\n- **Discipline**: Committing to a daily routine or specific goals.\n- **Gratitude**: Practicing thankfulness for the people and opportunities in your life.\n- **Empathy**: Making an effort to understand and connect with others' perspectives.\n\n**2. Create a Tracking System**: Develop a simple tracking system to monitor your daily practice of these virtues. This could be a physical journal, a digital spreadsheet, or a habit-tracking app. Each day, note your efforts and any challenges you faced in embodying these virtues.\n\n**3. Daily Reflection**: At the end of each day, take a few minutes to reflect on your experiences. Ask yourself questions like:\n- How did I practice this virtue today?\n- What challenges did I encounter?\n- How did my actions align with my values?\n\n**4. Weekly Review**: Set aside time each week to review your progress. Assess which virtues you practiced well and which ones need more attention. This reflection can help you identify patterns in your behavior and areas for improvement.\n\n**5. Adjust and Adapt**: Based on your reflections, adjust your approach as needed. If you find that a particular virtue is consistently challenging, consider breaking it down into smaller, more manageable actions or seeking resources to help you develop that virtue further.\n\n**6. Share and Engage**: Consider sharing your journey with a trusted friend, mentor, or accountability partner. Discussing your progress and challenges can provide additional motivation and support.\n\n### Conclusion\n\nBy implementing this daily practice of tracking and reflecting on virtues, you can embody the core idea of Franklin's autobiography: the commitment to self-improvement and moral development. This practice not only fosters personal growth but also encourages a deeper understanding of how your actions impact yourself and those around you, aligning with Franklin's belief in the interconnectedness of individual and societal well-being.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "04c33fe2-9248-4b7e-8bad-4821f04aa779",
+  "token_usage": {
+    "input_tokens": 2419,
+    "output_tokens": 530,
+    "total_tokens": 2949
+  },
+  "latency_seconds": 18.35,
+  "timestamp_utc": "2026-05-09T13:24:34.547237+00:00"
+}

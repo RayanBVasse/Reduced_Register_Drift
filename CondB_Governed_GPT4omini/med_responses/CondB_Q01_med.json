@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion": "marcus",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Meditations\" revolves around the practice of Stoicism, emphasizing self-governance, virtue, and acceptance of the rational order of nature. Marcus Aurelius reflects on the importance of living in accordance with reason and virtue rather than pursuing external goods or pleasures. He asserts that true happiness and tranquility arise from within, shaped by one's judgments and responses to events rather than by the events themselves.\n\nThroughout the text, Marcus grapples with themes such as mortality, duty, and the inevitability of change. He encourages a disciplined approach to life, advocating for self-examination and continual effort to cultivate virtue while recognizing that all events are part of a larger cosmic order. This perspective fosters resilience in facing life's challenges and a sense of peace in accepting what is beyond one's control. Would you like to explore how Marcus's reflections on mortality in Book II inform his views on duty?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "1015ca7f-c99c-4e78-a7ee-6e414d852744",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1403,
+    "output_tokens": 177
+  },
+  "latency_seconds": 6.27,
+  "timestamp_utc": "2026-05-10T07:03:10.952457+00:00"
+}

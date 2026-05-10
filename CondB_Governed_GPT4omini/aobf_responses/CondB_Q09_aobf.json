@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, Benjamin Franklin's \"Autobiography\" is underpinned by specific beliefs about God, human nature, society, and the self. Franklin's framework reflects a deistic view of God, which emphasizes reason and moral order rather than strict religious dogma. He believes that a higher power exists but places greater importance on individual moral agency and the pursuit of virtue through rational thought and self-examination.\n\nRegarding human nature, Franklin expresses an optimistic belief in the capacity for self-improvement and moral development. He posits that individuals can cultivate their character through diligence and adherence to his thirteen virtues, suggesting that people have the potential to rise above their circumstances through effort and reflection.\n\nIn terms of society, Franklin's framework is rooted in the ideals of civic-republicanism, emphasizing the interconnectedness of personal virtue and public service. He argues that individual character is essential for the health of society as a whole; thus, one's moral development contributes to communal well-being.\n\nFinally, Franklin's understanding of the self is tied to the idea of continuous growth. He advocates for lifelong learning and adaptability as vital components of personal development. This perspective encourages individuals to engage with their communities actively while striving for personal excellence. Would you like to delve deeper into how Franklin's views on human nature in Chapter 10 inform his approach to self-improvement?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 9,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 3766,
+    "output_tokens": 266
+  },
+  "latency_seconds": 7.5,
+  "timestamp_utc": "2026-05-10T06:54:05.384305+00:00"
+}

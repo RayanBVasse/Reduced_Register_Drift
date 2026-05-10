@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Varieties of Religious Experience\" by William James is that religious experiences are a fundamental aspect of human life and should be studied from a psychological perspective. James explores the diversity of religious experiences across different cultures and traditions, emphasizing that these experiences are deeply personal and subjective.\n\nHe argues that the essence of religion lies not in dogma or institutional practices, but in the individual experiences of the divine or the transcendent. James categorizes these experiences into two main types: the \"healthy-minded\" and the \"sick soul,\" reflecting different approaches to understanding suffering and the nature of existence.\n\nAdditionally, he discusses the pragmatic value of religious experiences, suggesting that they can lead to personal transformation and a sense of meaning in life. Overall, James advocates for an open-minded and empirical approach to studying religion, recognizing its complexity and the profound impact it has on individuals and society.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Varieties of Religious Experience by William James.",
+  "session_uuid": "4c7b1f1d-32a0-4433-a2e4-823aa4b2e161",
+  "token_usage": {
+    "input_tokens": 43,
+    "output_tokens": 177,
+    "total_tokens": 220
+  },
+  "latency_seconds": 3.39,
+  "timestamp_utc": "2026-05-09T13:43:54.748033+00:00"
+}

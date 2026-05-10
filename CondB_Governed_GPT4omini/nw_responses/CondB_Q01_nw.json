@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion": "miriam",
+  "cluster": "G3",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Nathan the Wise\" revolves around the theme of religious tolerance and the critique of dogmatic certainty. Lessing illustrates that true virtue is demonstrated through actions and character rather than strict adherence to a particular religious creed. Nathan, the protagonist, embodies this principle by emphasizing that all people, regardless of their faith, are capable of goodness and should be judged by their deeds.\n\nThe play also highlights the impossibility of determining which religion holds absolute truth, as seen in Nathan's famous Ring Parable. This parable suggests that each religion may hold value but cannot claim exclusive access to truth. Through dialogue among characters from different faiths—Nathan (Jew), Saladin (Muslim), and the Templar (Christian)—Lessing advocates for humility regarding our knowledge of divine matters and promotes honest dialogue to overcome prejudice and suspicion. Would you like to explore how Nathan's interactions with Saladin in Chapter 12 exemplify these themes?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "cd1854b1-88f7-447a-a47f-e250e2119878",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 15,
+  "token_usage": {
+    "input_tokens": 1726,
+    "output_tokens": 188
+  },
+  "latency_seconds": 11.36,
+  "timestamp_utc": "2026-05-10T07:05:20.228546+00:00"
+}

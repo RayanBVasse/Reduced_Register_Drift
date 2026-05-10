@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion": "miriam",
+  "cluster": "G3",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"Nathan the Wise\" offers modern leaders, managers, and professionals insights into the importance of tolerance, dialogue, and moral integrity in diverse environments. The play emphasizes that true virtue is demonstrated through actions rather than strict adherence to particular ideologies or identities. This principle can be particularly relevant for leaders who must navigate complex social dynamics and foster inclusive workplaces.\n\nAdditionally, the text advocates for humility regarding one's own beliefs and knowledge, which can serve as a valuable lesson for professionals facing diverse perspectives. The philosophical exchanges among characters illustrate the need for open dialogue and understanding in resolving conflicts and building relationships across differing backgrounds. Nathan's interactions with Saladin and the Templar exemplify how recognizing shared values can lead to cooperation and mutual respect, essential qualities for effective leadership in today's interconnected world. Would you like to explore how Nathan's approach to conflict resolution in Chapter 5 reflects these principles?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "cd1854b1-88f7-447a-a47f-e250e2119878",
+  "access_mode": "paid",
+  "turns_used": 6,
+  "turns_cap": 15,
+  "token_usage": {
+    "input_tokens": 2753,
+    "output_tokens": 173
+  },
+  "latency_seconds": 9.47,
+  "timestamp_utc": "2026-05-10T07:06:14.180549+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion": "sylva",
+  "cluster": "G2",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"Walden\" and \"On the Duty of Civil Disobedience\" offer modern leaders, managers, and professionals profound insights into the importance of integrity, simplicity, and moral responsibility. Thoreau’s emphasis on living deliberately encourages individuals in positions of authority to reflect on their values and the impact of their decisions. In Chapter 1, he articulates a desire to \"live deep,\" which can inspire leaders to prioritize authenticity and purpose over mere productivity or profit.\n\nMoreover, Thoreau's critique of materialism and unnecessary labor serves as a reminder for contemporary professionals to assess their priorities and the societal implications of their work. He challenges the notion that success is synonymous with accumulation, suggesting instead that true fulfillment comes from meaningful engagement with one’s environment and community. This perspective can lead to more conscientious leadership that values ethical practices and social responsibility.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau advocates for standing against injustice, which is particularly relevant for leaders who must navigate ethical dilemmas in their organizations. His insistence on acting according to one's conscience can guide leaders in making principled decisions even when faced with pressure to conform.\n\nWould you like to explore how Thoreau's reflections on solitude in Chapter 5 relate to the challenges faced by modern leaders in fostering authentic connections?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "e0d4438a-702d-4205-9867-8627d3a6ce9b",
+  "access_mode": "paid",
+  "turns_used": 6,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3117,
+    "output_tokens": 259
+  },
+  "latency_seconds": 6.17,
+  "timestamp_utc": "2026-05-10T07:13:37.733091+00:00"
+}

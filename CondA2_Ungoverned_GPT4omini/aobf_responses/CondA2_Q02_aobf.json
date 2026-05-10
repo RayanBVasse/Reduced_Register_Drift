@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Autobiography of Benjamin Franklin\" addresses several interrelated problems, primarily focusing on the challenges of self-improvement, moral development, and the pursuit of a meaningful life. Here are some key issues the book seeks to address:\n\n1. **Personal Improvement**: Franklin grapples with the problem of how individuals can better themselves. He shares his own struggles with character flaws and his systematic approach to cultivating virtues, aiming to inspire readers to take charge of their own moral and personal development.\n\n2. **Moral and Ethical Living**: The book addresses the challenge of living a virtuous life in a world that often prioritizes self-interest. Franklin emphasizes the importance of ethics, integrity, and civic responsibility, encouraging readers to consider their impact on others and society as a whole.\n\n3. **Education and Knowledge**: Franklin highlights the importance of education and lifelong learning as tools for personal and societal advancement. He addresses the problem of ignorance and the need for individuals to seek knowledge to improve themselves and contribute positively to their communities.\n\n4. **Social Responsibility**: The autobiography reflects on the role of individuals in society and the importance of civic engagement. Franklin addresses the problem of apathy and encourages readers to take an active role in their communities, advocating for public service and the betterment of society.\n\n5. **Balancing Ambition and Humility**: Franklin discusses the tension between personal ambition and the need for humility. He shares his own experiences of success and failure, illustrating the importance of maintaining a balanced perspective on one's achievements and contributions.\n\nOverall, Franklin's autobiography serves as a guide for individuals seeking to navigate the complexities of life, emphasizing the importance of self-awareness, ethical behavior, and active participation in society.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Autobiography of Benjamin Franklin by Benjamin Franklin.",
+  "session_uuid": "04c33fe2-9248-4b7e-8bad-4821f04aa779",
+  "token_usage": {
+    "input_tokens": 271,
+    "output_tokens": 342,
+    "total_tokens": 613
+  },
+  "latency_seconds": 9.54,
+  "timestamp_utc": "2026-05-09T13:23:23.028393+00:00"
+}

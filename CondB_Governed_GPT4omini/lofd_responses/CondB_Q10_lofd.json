@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion": "elias",
+  "cluster": "G2",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If \"Narrative of the Life of Frederick Douglass\" is turned into general life advice, several critical elements get lost, particularly its historical specificity and the urgency of its political message. The narrative is not merely a personal story of overcoming adversity; it is a profound indictment of the institution of slavery and a call to action against systemic injustice. Reducing it to generic life lessons diminishes the weight of Douglass's experiences and the particularities of his context, which are essential for understanding the full impact of his arguments.\n\nAdditionally, the book's focus on collective responsibility and moral accountability in confronting oppression may be overlooked. Douglass emphasizes that true change requires not just individual perseverance but also a societal commitment to justice and equality. By framing his narrative as general advice, one risks promoting a notion of self-reliance that ignores the systemic barriers faced by enslaved individuals and marginalized communities.\n\nMoreover, the rich critique of hypocrisy within American Christianity and the moral complexities surrounding slavery are often simplified or ignored when extracted from their original context. This can lead to a misunderstanding of Douglass's insights into faith, morality, and human rights. Therefore, maintaining fidelity to the text's core themes and historical significance is crucial for preserving its power as an abolitionist document.\n\nWould you like to explore how Douglass’s reflections on violence in Chapter 6 serve as a critical commentary on the nature of power and oppression?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "3ff37f8a-c9f1-48b9-bb9d-dd29e8e512ee",
+  "access_mode": "paid",
+  "turns_used": 10,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3891,
+    "output_tokens": 278
+  },
+  "latency_seconds": 6.58,
+  "timestamp_utc": "2026-05-10T07:02:18.561434+00:00"
+}

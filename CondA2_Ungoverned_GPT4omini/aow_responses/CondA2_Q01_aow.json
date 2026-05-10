@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Art of War\" by Sun Tzu is that effective strategy and understanding of both oneself and the enemy are crucial for success in conflict, whether in warfare or other competitive situations. The book emphasizes the importance of careful planning, adaptability, and the use of intelligence and deception. \n\nKey teachings include:\n\n1. **Know Yourself and Your Enemy**: Understanding your own strengths and weaknesses, as well as those of your opponent, is essential for victory.\n\n2. **The Importance of Strategy**: Success comes from careful planning and strategy rather than sheer force. Winning without fighting is the ultimate goal.\n\n3. **Flexibility and Adaptability**: Conditions in conflict can change rapidly, and a successful leader must be able to adapt their strategies accordingly.\n\n4. **Deception**: Misleading the enemy and creating confusion can provide a significant advantage.\n\n5. **The Role of Terrain and Environment**: Understanding the physical and psychological landscape of the battlefield can influence the outcome of conflicts.\n\nOverall, \"The Art of War\" teaches that wisdom, strategy, and psychological insight are more powerful than brute strength in achieving victory.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Art of War by Sun Tzu.",
+  "session_uuid": "ca5b1838-8ea9-4f71-a0dd-59d563a06e5d",
+  "token_usage": {
+    "input_tokens": 41,
+    "output_tokens": 228,
+    "total_tokens": 269
+  },
+  "latency_seconds": 4.94,
+  "timestamp_utc": "2026-05-09T13:26:52.622606+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "Connecting the core idea of \"The Art of War\"—that the best victory is achieved through strategy and intelligence rather than direct confrontation—to a concrete daily practice can be seen in the realm of strategic planning. One practical application could be the regular assessment of one's own strengths and weaknesses, as well as those of competitors or collaborators, akin to Sun Tzu's emphasis on understanding both oneself and the enemy.\n\nFor instance, a leader might implement a weekly review process where they analyze their team's performance, identify areas for improvement, and consider how external factors (such as market conditions or competitor actions) might impact their strategies. This reflective practice aligns with Sun Tzu's principle that thorough preparation and knowledge are crucial for success. By anticipating challenges and opportunities, leaders can position themselves advantageously without resorting to conflict or reactive measures.\n\nMoreover, incorporating elements of deception—such as not revealing all strategic intentions to competitors—can also be a daily practice. This could manifest in maintaining confidentiality around certain projects or initiatives until they are fully developed, thereby preventing competitors from countering effectively. \n\nIn this way, the teachings of \"The Art of War\" can inform daily practices that prioritize strategic foresight and careful planning over immediate confrontation. Would you like to examine how Chapter IV discusses the importance of careful planning before engaging in warfare?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 7,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3831,
+    "output_tokens": 261
+  },
+  "latency_seconds": 6.0,
+  "timestamp_utc": "2026-05-10T06:55:53.700122+00:00"
+}

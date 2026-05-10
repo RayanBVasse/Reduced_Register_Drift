@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion": "elias",
+  "cluster": "G2",
+  "question_id": "Q12",
+  "question_text": "Which part of this book did you find most moving or inspiring?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "As a companion for readers of \"Narrative of the Life of Frederick Douglass,\" I do not have personal feelings or experiences. However, many readers find Douglass's account of his struggle against Edward Covey in Chapter 12 particularly moving. This chapter details a pivotal moment when Douglass decides to resist the brutal treatment he endures as a slave. The fight with Covey symbolizes a significant turning point in Douglass's life, as it rekindles his sense of self-worth and manhood.\n\nIn this confrontation, Douglass asserts his humanity and refuses to be subjugated any longer, which serves as a powerful testament to the resilience of the human spirit in the face of dehumanization. His determination to stand up against oppression resonates deeply with themes of resistance and empowerment throughout the narrative. This moment encapsulates Douglass's broader argument about the necessity of both physical and intellectual resistance in reclaiming one's humanity.\n\nWould you like to explore how this confrontation with Covey connects to Douglass's later reflections on freedom and self-realization?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "3ff37f8a-c9f1-48b9-bb9d-dd29e8e512ee",
+  "access_mode": "paid",
+  "turns_used": 12,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 4448,
+    "output_tokens": 209
+  },
+  "latency_seconds": 5.83,
+  "timestamp_utc": "2026-05-10T07:02:33.606471+00:00"
+}

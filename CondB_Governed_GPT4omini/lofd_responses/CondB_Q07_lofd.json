@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion": "elias",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "Connecting the core idea of \"Narrative of the Life of Frederick Douglass\" to a concrete daily practice involves recognizing the importance of education and advocacy in the fight against injustice. One practical application is the commitment to lifelong learning and promoting literacy within one’s community. This could manifest as volunteering to teach reading and writing skills to those who lack access to education, thereby empowering individuals with the tools necessary for self-advocacy and personal growth.\n\nAdditionally, Douglass’s narrative encourages individuals to engage in active listening and dialogue about social justice issues. This practice can be integrated into daily life by participating in discussions, attending community meetings, or supporting organizations that work toward racial equity and abolition of systemic oppression. By fostering an environment where diverse voices are heard and valued, individuals can contribute to a collective effort toward justice, mirroring Douglass's own advocacy for truth-telling and moral responsibility.\n\nWould you like to examine how Douglass's reflections on his early experiences with literacy in Chapter 8 inform his later arguments about education as a means of liberation?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "3ff37f8a-c9f1-48b9-bb9d-dd29e8e512ee",
+  "access_mode": "paid",
+  "turns_used": 7,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3106,
+    "output_tokens": 208
+  },
+  "latency_seconds": 5.95,
+  "timestamp_utc": "2026-05-10T07:01:52.686805+00:00"
+}

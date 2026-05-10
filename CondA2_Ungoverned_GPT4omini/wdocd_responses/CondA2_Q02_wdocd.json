@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In \"Walden,\" Thoreau addresses the problem of modern society's disconnection from nature and the overemphasis on materialism and consumerism. He critiques the fast-paced, industrialized lifestyle that prioritizes wealth and social status over personal fulfillment and spiritual growth. Thoreau seeks to highlight the importance of simplicity, self-sufficiency, and a deeper connection to the natural world as a remedy for the emptiness he perceives in contemporary life.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau addresses the problem of governmental injustice and the moral implications of complicity in such systems. He critiques the role of government in perpetuating slavery and engaging in war, arguing that individuals have a responsibility to resist unjust laws and actions. Thoreau emphasizes the need for personal conscience and moral integrity, urging people to act according to their principles rather than conforming to societal expectations or legal mandates that conflict with their ethical beliefs.\n\nOverall, both works tackle the issues of individual agency, moral responsibility, and the quest for a more meaningful existence in the face of societal pressures and injustices.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau.",
+  "session_uuid": "5288406b-8fcf-414d-b816-097335027c78",
+  "token_usage": {
+    "input_tokens": 301,
+    "output_tokens": 221,
+    "total_tokens": 522
+  },
+  "latency_seconds": 3.29,
+  "timestamp_utc": "2026-05-09T13:46:03.440699+00:00"
+}

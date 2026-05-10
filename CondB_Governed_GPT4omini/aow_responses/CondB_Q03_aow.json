@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, \"The Art of War\" is a military treatise that serves as a guide for commanders and leaders in the practice of warfare and statecraft. It is structured as a compilation of strategic principles, tactics, and philosophical insights derived from Sun Tzu's extensive experience in military affairs. The text emphasizes the importance of strategy over mere force, advocating for wisdom, careful planning, and adaptability in the face of conflict.\n\nSun Tzu presents his teachings through a series of aphorisms and principles that are meant to be applied in various contexts of warfare. The book is not merely a manual on combat techniques; rather, it provides a comprehensive framework for understanding the dynamics of conflict, including the psychological aspects of warfare, the significance of intelligence, and the necessity of flexibility in tactics.\n\nOverall, \"The Art of War\" positions itself as an essential resource for those engaged in military leadership and governance, aiming to impart timeless wisdom on how to navigate the complexities of conflict effectively. Would you like to explore how Chapter I outlines the fundamental factors that influence success in warfare?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 3,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2878,
+    "output_tokens": 215
+  },
+  "latency_seconds": 5.71,
+  "timestamp_utc": "2026-05-10T06:55:25.059138+00:00"
+}

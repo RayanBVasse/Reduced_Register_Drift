@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q08",
+  "question_text": "Where should modern application of this book stop?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The modern application of Benjamin Franklin's \"Autobiography\" should stop at the point where its principles are contextualized within the 18th-century civic-republican framework rather than being interpreted as a straightforward self-help guide. While readers may draw valuable insights from Franklin's emphasis on personal virtue, public service, and lifelong learning, it is crucial to recognize that these concepts were rooted in his specific historical and social context.\n\nFranklin's virtues and practices were designed to foster character development for the purpose of contributing to society and improving communal life, not merely for individual advancement or personal optimization. Therefore, applying his teachings should focus on the enhancement of civic engagement and moral responsibility rather than reducing them to contemporary notions of self-improvement or productivity.\n\nAdditionally, while Franklin's narrative provides inspiration through his successes and failures, it is essential to avoid romanticizing his journey as a formulaic path to achievement. Each individual's circumstances are unique, and the complexities of modern life require adaptations of Franklin's ideas that respect both historical context and contemporary realities. Would you like to explore how Franklin's reflections on community projects in Chapter 12 illustrate this balance between individual virtue and collective responsibility?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 8,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 3506,
+    "output_tokens": 231
+  },
+  "latency_seconds": 6.19,
+  "timestamp_utc": "2026-05-10T06:53:56.384404+00:00"
+}

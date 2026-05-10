@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Souls of Black Folk\" addresses several interrelated problems faced by African Americans in the early 20th century, particularly in the context of post-Reconstruction America. Key issues include:\n\n1. **Racial Inequality and Discrimination**: Du Bois highlights the systemic racism and discrimination that African Americans endure, including segregation, disenfranchisement, and economic exploitation. He critiques the social structures that perpetuate these injustices.\n\n2. **Double Consciousness**: The concept of double consciousness is central to the book. Du Bois describes the internal conflict experienced by African Americans who navigate their identity as both Black and American in a society that often devalues their existence. This duality creates a sense of alienation and confusion.\n\n3. **Education and Empowerment**: Du Bois advocates for the importance of higher education and intellectual development for African Americans. He argues that education is essential for achieving social and economic progress and for cultivating leadership within the Black community.\n\n4. **Cultural Identity**: The book emphasizes the significance of African American culture and heritage. Du Bois argues that understanding and embracing this cultural identity is crucial for the empowerment and self-affirmation of Black individuals.\n\n5. **Civil Rights and Social Justice**: Du Bois calls for active engagement in the fight for civil rights and social justice. He critiques the complacency of some Black leaders and emphasizes the need for a more assertive approach to achieving equality and justice.\n\nOverall, \"The Souls of Black Folk\" seeks to illuminate the struggles of African Americans and advocate for a more just and equitable society, while also exploring the complexities of Black identity in America.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Souls of Black Folk by W. E. B. Du Bois.",
+  "session_uuid": "9dc1487b-f54b-4e70-97ba-d8a6ca4b3e72",
+  "token_usage": {
+    "input_tokens": 258,
+    "output_tokens": 325,
+    "total_tokens": 583
+  },
+  "latency_seconds": 5.49,
+  "timestamp_utc": "2026-05-09T13:41:53.492982+00:00"
+}

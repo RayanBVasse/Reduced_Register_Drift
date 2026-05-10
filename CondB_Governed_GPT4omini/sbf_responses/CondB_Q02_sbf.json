@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion": "aletheia",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Souls of Black Folk\" addresses the profound and systemic problem of the color line, which Du Bois identifies as the central issue facing America in the twentieth century. This problem manifests in the pervasive racial discrimination, social inequality, and economic disenfranchisement experienced by African Americans. Du Bois seeks to illuminate the spiritual and social world of Black Americans, emphasizing how these injustices create a unique psychological condition characterized by double-consciousness—a struggle to maintain one's identity amidst societal prejudice.\n\nAdditionally, Du Bois critiques the prevailing attitudes toward race relations, particularly those embodied by figures like Booker T. Washington, whose philosophy of accommodation he argues is insufficient for achieving true progress. He asserts that without political rights and higher education, Black Americans cannot fully realize their potential or contribute meaningfully to American society. Thus, the book serves as both a critique of contemporary racial dynamics and a call to action for greater engagement with issues of justice and equality.\n\nIn what ways does Du Bois's historical account in Chapter 3 inform his critique of leadership and educational philosophies discussed in later chapters?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "4a207fc6-7f27-469f-9f05-11c850117b04",
+  "access_mode": "paid",
+  "turns_used": 2,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1569,
+    "output_tokens": 209
+  },
+  "latency_seconds": 9.95,
+  "timestamp_utc": "2026-05-10T07:08:32.657651+00:00"
+}

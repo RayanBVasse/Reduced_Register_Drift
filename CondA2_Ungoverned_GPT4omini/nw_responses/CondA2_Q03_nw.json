@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Nathan the Wise\" is a philosophical play, often categorized as a dramatic work that combines elements of tragedy and comedy. Written by Gotthold Ephraim Lessing in the 18th century, it is notable for its Enlightenment ideals, particularly its emphasis on reason, tolerance, and the pursuit of truth.\n\nIn its own terms, the play can be described as:\n\n1. **A Moral and Philosophical Drama**: The play engages with deep moral questions and philosophical themes, particularly regarding religious tolerance, the nature of truth, and the importance of human values over dogma.\n\n2. **A Parable**: The narrative structure includes parabolic elements, particularly through the \"Ring Parable,\" which serves as a moral lesson about the coexistence of different religions and the essence of true faith.\n\n3. **A Social Commentary**: It critiques the societal norms of its time, particularly the religious conflicts and prejudices that were prevalent during the Crusades, advocating for a more enlightened and compassionate approach to interfaith relations.\n\n4. **A Humanist Work**: Reflecting the ideals of the Enlightenment, the play promotes humanism, emphasizing the capacity for reason and empathy in overcoming ignorance and intolerance.\n\nOverall, \"Nathan the Wise\" is a significant literary work that uses drama as a vehicle to explore and advocate for important social and philosophical issues, making it a timeless piece relevant to discussions of tolerance and understanding in a diverse world.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Nathan the Wise by Gotthold Ephraim Lessing.",
+  "session_uuid": "f05529ba-8ef2-46db-9075-e1cee27ab324",
+  "token_usage": {
+    "input_tokens": 567,
+    "output_tokens": 290,
+    "total_tokens": 857
+  },
+  "latency_seconds": 3.34,
+  "timestamp_utc": "2026-05-09T13:40:18.915570+00:00"
+}

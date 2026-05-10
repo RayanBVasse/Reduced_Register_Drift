@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Nathan the Wise\" by Gotthold Ephraim Lessing revolves around the themes of religious tolerance, the universality of human values, and the importance of reason and compassion over dogma. The play is set in Jerusalem during the Crusades and features a Jewish merchant, Nathan, who embodies wisdom and understanding.\n\nOne of the key teachings of the book is the idea that no single religion holds the absolute truth, and that all faiths can coexist peacefully. This is exemplified through the famous \"Ring Parable,\" where Nathan illustrates that each of the three major religions—Judaism, Christianity, and Islam—has its own merits and truths, much like the three rings that represent them. The parable emphasizes that the true value of a religion lies in its moral teachings and the love and compassion it inspires in its followers.\n\nOverall, Lessing advocates for dialogue, empathy, and mutual respect among different cultures and religions, promoting the idea that wisdom and humanity should guide our interactions rather than prejudice and intolerance.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Nathan the Wise by Gotthold Ephraim Lessing.",
+  "session_uuid": "f05529ba-8ef2-46db-9075-e1cee27ab324",
+  "token_usage": {
+    "input_tokens": 46,
+    "output_tokens": 207,
+    "total_tokens": 253
+  },
+  "latency_seconds": 3.81,
+  "timestamp_utc": "2026-05-09T13:40:09.238902+00:00"
+}

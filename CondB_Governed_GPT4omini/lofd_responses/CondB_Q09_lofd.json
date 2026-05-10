@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion": "elias",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, \"Narrative of the Life of Frederick Douglass\" operates within a framework that is deeply intertwined with specific beliefs about God, human nature, society, and the self. Douglass articulates a belief in the inherent dignity and humanity of all individuals, which stands in stark contrast to the dehumanizing ideology of slavery. He argues that every person possesses an intrinsic value that cannot be stripped away by any institution or societal structure, including slavery.\n\nFurthermore, Douglass's critique of American Christianity reveals his belief in a moral and just God who opposes oppression and injustice. He distinguishes between true Christianity—rooted in love, compassion, and justice—and the hypocritical version practiced by many slaveholders who use religion to justify their actions. This distinction underscores his view that genuine faith should compel individuals to act against injustice rather than perpetuate it.\n\nIn terms of society, Douglass emphasizes the need for collective moral responsibility to confront and dismantle systems of oppression. His narrative calls upon individuals to recognize their role within society and advocate for change. Thus, the framework of the book is built on a foundation of ethical beliefs about humanity's capacity for good, the moral obligations we have toward one another, and the necessity of challenging societal norms that uphold injustice.\n\nWould you like to delve deeper into how Douglass’s views on religion in Chapter 14 reflect his broader arguments about morality and justice?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "3ff37f8a-c9f1-48b9-bb9d-dd29e8e512ee",
+  "access_mode": "paid",
+  "turns_used": 9,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3593,
+    "output_tokens": 277
+  },
+  "latency_seconds": 8.25,
+  "timestamp_utc": "2026-05-10T07:02:10.479613+00:00"
+}

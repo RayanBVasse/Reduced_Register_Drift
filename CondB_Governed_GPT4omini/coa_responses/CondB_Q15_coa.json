@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion": "ambrose",
+  "cluster": "G1",
+  "question_id": "Q15",
+  "question_text": "Why does this book still matter today?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "\"The Confessions of St. Augustine\" remains significant today due to its profound exploration of themes that continue to resonate with contemporary readers, such as the nature of sin, the quest for truth, and the transformative power of grace. Augustine's candid reflections on his own struggles with desire, ambition, and moral failure provide a relatable narrative for anyone grappling with similar issues in a modern context. His journey from a life of restlessness to one of spiritual fulfillment speaks to the timeless human condition.\n\nMoreover, Augustine's theological insights have had a lasting impact on Christian thought and Western philosophy. His ideas about the nature of God, human free will, and the relationship between time and eternity continue to influence discussions in theology, ethics, and philosophy. The book invites readers to reflect deeply on their own lives and relationships with God, encouraging a humble acknowledgment of one's shortcomings and the need for divine mercy.\n\nIn an age where many seek meaning and purpose amidst distractions and moral complexities, Augustine's emphasis on finding true fulfillment in God offers a compelling counter-narrative to contemporary pursuits of success and self-sufficiency. Would you like to explore how Augustine’s understanding of memory in Book X informs his views on self-knowledge?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "7ff61948-e3bd-4897-821a-e616f38628f5",
+  "access_mode": "paid",
+  "turns_used": 15,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 4924,
+    "output_tokens": 240
+  },
+  "latency_seconds": 6.5,
+  "timestamp_utc": "2026-05-10T06:58:49.587120+00:00"
+}

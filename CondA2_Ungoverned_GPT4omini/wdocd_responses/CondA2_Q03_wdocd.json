@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Walden\" and \"On the Duty of Civil Disobedience\" can be characterized as philosophical essays that blend elements of autobiography, social critique, and nature writing. \n\n1. **\"Walden\"**: This work is often described as a reflective memoir or philosophical treatise. It chronicles Thoreau's experiment in simple living at Walden Pond, where he spent two years in a cabin he built himself. The book is structured around his observations of nature, personal experiences, and philosophical musings. It serves as both a narrative of his time in solitude and a broader commentary on society, encouraging readers to contemplate their own lives and the values they hold.\n\n2. **\"On the Duty of Civil Disobedience\"**: This essay is a political and ethical argument that advocates for individual resistance to unjust government actions. It is a call to action for citizens to prioritize their moral convictions over compliance with laws that they believe are wrong. The essay is rooted in Thoreau's own experiences with civil disobedience, particularly his refusal to pay taxes that supported slavery and the Mexican-American War.\n\nIn its own terms, the combination of these works presents a vision of a life lived with intention, integrity, and a commitment to justice, urging readers to reflect on their relationship with society, nature, and their own moral compass.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau.",
+  "session_uuid": "5288406b-8fcf-414d-b816-097335027c78",
+  "token_usage": {
+    "input_tokens": 542,
+    "output_tokens": 268,
+    "total_tokens": 810
+  },
+  "latency_seconds": 3.9,
+  "timestamp_utc": "2026-05-09T13:46:08.843852+00:00"
+}

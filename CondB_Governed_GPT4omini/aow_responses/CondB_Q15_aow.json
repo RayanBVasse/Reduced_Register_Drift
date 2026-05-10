@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q15",
+  "question_text": "Why does this book still matter today?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "\"The Art of War\" remains relevant today because its core principles of strategy, planning, and adaptability transcend the specific context of military conflict and can be applied to various fields, including business, leadership, and personal development. The text addresses fundamental aspects of human behavior and decision-making that are timeless, such as the importance of understanding one's strengths and weaknesses, anticipating challenges, and leveraging intelligence to gain an advantage.\n\nIn a rapidly changing world characterized by competition and complexity, Sun Tzu's insights into strategic thinking encourage leaders to approach problems with foresight and flexibility. The emphasis on careful planning before action aligns well with modern practices in project management and organizational strategy, where thorough preparation is essential for success.\n\nFurthermore, the book's exploration of psychological tactics—such as deception and the manipulation of perceptions—remains pertinent in various competitive environments. Understanding how to navigate relationships and influence outcomes without direct confrontation can be valuable in negotiations, conflict resolution, and team dynamics.\n\nUltimately, \"The Art of War\" continues to matter because it provides a framework for thinking strategically about challenges in both professional and personal contexts, encouraging a thoughtful approach to achieving goals while minimizing unnecessary conflict. Would you like to delve into how Chapter IV emphasizes the importance of careful planning before engaging in warfare?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 15,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 5783,
+    "output_tokens": 248
+  },
+  "latency_seconds": 6.57,
+  "timestamp_utc": "2026-05-10T06:56:51.735081+00:00"
+}

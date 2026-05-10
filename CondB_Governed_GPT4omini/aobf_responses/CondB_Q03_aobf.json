@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, Benjamin Franklin's \"Autobiography\" is a moral memoir that serves as both a personal narrative and a didactic text. It is structured to provide insights into Franklin's life experiences, emphasizing the importance of self-improvement, virtue, and public service. The work reflects the 18th-century genre of autobiographical writing, where the author not only recounts their life story but also imparts lessons learned along the way.\n\nFranklin presents his life as a journey of moral and intellectual development, aiming to inspire readers by demonstrating how diligence, frugality, and civic engagement can lead to personal success and societal benefit. He uses his own experiences to illustrate broader principles of character formation and public usefulness. This blend of autobiography with moral instruction positions the book as a guide for others seeking to navigate their own paths toward virtue and contribution to society. Would you like to delve deeper into how Franklin's narrative style in Chapter 1 sets the tone for this moral exploration?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 3,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 2338,
+    "output_tokens": 197
+  },
+  "latency_seconds": 8.01,
+  "timestamp_utc": "2026-05-10T06:53:14.817039+00:00"
+}

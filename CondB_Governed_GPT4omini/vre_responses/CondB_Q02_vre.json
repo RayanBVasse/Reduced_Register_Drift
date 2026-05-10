@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion": "mira",
+  "cluster": "G1",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Varieties of Religious Experience\" addresses the problem of understanding religion from a psychological perspective rather than through traditional theological or institutional lenses. William James seeks to illuminate the complexities of individual religious experiences, which often transcend doctrinal boundaries and institutional frameworks. By doing so, he aims to provide a more nuanced understanding of the role that personal belief and experience play in shaping one's religious life.\n\nJames also grapples with the dichotomy between different psychological temperaments—specifically, the 'healthy-minded' and the 'sick soul.' He examines how these differing perspectives influence individuals' experiences of faith, suffering, and spirituality. This exploration highlights the need for a more comprehensive approach to studying religion that acknowledges the diversity of human experience and the subjective nature of belief.\n\nWould you like to delve deeper into how James characterizes the 'healthy-minded' temperament in Lectures IV and V?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "65fe2d17-5217-4da3-b50d-497a110cf6f4",
+  "access_mode": "paid",
+  "turns_used": 2,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1614,
+    "output_tokens": 173
+  },
+  "latency_seconds": 6.12,
+  "timestamp_utc": "2026-05-10T07:11:02.635727+00:00"
+}

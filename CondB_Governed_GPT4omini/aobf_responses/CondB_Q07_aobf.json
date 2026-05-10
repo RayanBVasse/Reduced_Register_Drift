@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of Benjamin Franklin's \"Autobiography\" centers on the cultivation of personal virtue and public service as essential components of a fulfilling life. A concrete daily practice that aligns with this core idea is the implementation of a personal reflection routine based on Franklin's method of tracking his virtues, as described in Chapter 10. \n\nFranklin devised a system for self-improvement by listing his thirteen virtues and assessing his adherence to them daily. A modern reader could adopt a similar practice by selecting a few key virtues or values relevant to their own life and career, then reflecting on their actions each day. This might involve keeping a journal where one notes instances of practicing these virtues, challenges faced, and areas for improvement. Such a practice not only fosters self-awareness but also encourages accountability in both personal and professional contexts.\n\nBy engaging in this daily reflection, individuals can cultivate habits that enhance their character while simultaneously contributing positively to their communities, echoing Franklin's belief in the interconnectedness of personal virtue and public usefulness. Would you like to examine how Franklin's approach to self-examination in Chapter 9 informs this practice of daily reflection?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 7,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 3264,
+    "output_tokens": 225
+  },
+  "latency_seconds": 6.41,
+  "timestamp_utc": "2026-05-10T06:53:48.694380+00:00"
+}

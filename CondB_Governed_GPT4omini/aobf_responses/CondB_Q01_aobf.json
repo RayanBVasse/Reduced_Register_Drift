@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion": "civis",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of Benjamin Franklin's \"Autobiography\" revolves around the interplay between personal virtue and public service, emphasizing that individual moral development is essential for contributing to the greater good of society. Franklin illustrates this through his own life experiences, showing how diligent self-education, moral self-examination, and civic engagement enabled him to rise from humble beginnings to a position of influence. He presents a framework for achieving personal improvement through his thirteen virtues, which he believes are necessary for both personal fulfillment and effective participation in public life.\n\nFranklin also underscores the importance of practical wisdom, adaptability, and sociability over rigid dogma. He argues that these qualities not only facilitate personal growth but also enhance one's ability to serve the community. His narrative serves as a didactic moral memoir, encouraging readers to reflect on their own character and contributions to society. Would you like to explore how Franklin's discussion of his thirteen virtues in Chapter 10 supports this central argument?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "ab8a6ebe-c759-426c-b849-efa9fbe33acd",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 35,
+  "token_usage": {
+    "input_tokens": 1927,
+    "output_tokens": 190
+  },
+  "latency_seconds": 11.85,
+  "timestamp_utc": "2026-05-10T06:52:56.805787+00:00"
+}

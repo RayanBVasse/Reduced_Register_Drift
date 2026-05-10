@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "One of the core ideas of \"Narrative of the Life of Frederick Douglass\" is the transformative power of education and self-advocacy. Douglass emphasizes that literacy and knowledge are essential for personal empowerment and liberation from oppression. This idea can be connected to a concrete daily practice: **setting aside time for personal development and learning**.\n\n### Daily Practice: Personal Development and Learning\n\n**1. Allocate Time for Reading and Learning:**\n   - **Action**: Dedicate at least 30 minutes each day to reading books, articles, or other materials that expand your knowledge and skills. This could include topics related to your profession, personal interests, or social justice issues.\n   - **Connection to Douglass**: Just as Douglass sought to educate himself despite the barriers of slavery, committing to daily learning can empower you to grow personally and professionally.\n\n**2. Engage in Reflective Writing:**\n   - **Action**: Spend 10-15 minutes each day journaling about what you learned, how it applies to your life, and how you can advocate for yourself and others. Reflect on your experiences and consider how you can use your knowledge to effect change.\n   - **Connection to Douglass**: Douglass used writing as a tool for self-expression and advocacy. Reflective writing can help clarify your thoughts and reinforce your commitment to personal growth and social justice.\n\n**3. Participate in Discussions or Study Groups:**\n   - **Action**: Join or form a group focused on discussing books, articles, or current events related to social justice, leadership, or professional development. Aim to meet weekly or bi-weekly.\n   - **Connection to Douglass**: Douglass engaged with others in the abolitionist movement, recognizing the power of community and collaboration. Engaging in discussions can enhance your understanding and inspire collective action.\n\n**4. Set Learning Goals:**\n   - **Action**: Identify specific skills or knowledge areas you want to develop over the next month or quarter. Create a plan with actionable steps to achieve these goals, such as enrolling in a course, attending workshops, or seeking mentorship.\n   - **Connection to Douglass**: Douglass’s pursuit of education was intentional and goal-oriented. Setting clear learning goals can help you stay focused and motivated in your personal development journey.\n\n### Conclusion\n\nBy incorporating these daily practices into your routine, you can embody the core idea of education and self-advocacy that Douglass championed. This commitment to continuous learning not only empowers you but also positions you to advocate for yourself and others, fostering a culture of growth and justice in your personal and professional life.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Narrative of the Life of Frederick Douglass by Frederick Douglass.",
+  "session_uuid": "644e236b-e936-4167-83b0-8d5bba661a9a",
+  "token_usage": {
+    "input_tokens": 2449,
+    "output_tokens": 531,
+    "total_tokens": 2980
+  },
+  "latency_seconds": 8.71,
+  "timestamp_utc": "2026-05-09T13:36:11.621566+00:00"
+}

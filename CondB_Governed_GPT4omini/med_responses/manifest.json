@@ -1,0 +1,40 @@
+{
+  "book": {
+    "abbrev": "med",
+    "slug": "meditations",
+    "title": "Meditations",
+    "author_canonical": "Marcus Aurelius",
+    "author_display": "Marcus Aurelius",
+    "companion": "Marcus",
+    "cluster": "G1"
+  },
+  "condition": "B_governed_companion",
+  "endpoint": "https://www.living-literature.org/api/mem/chat",
+  "expected_model_prefix": "gpt-4o-mini",
+  "models_seen": [
+    "gpt-4o-mini-2024-07-18"
+  ],
+  "thread_id": "1015ca7f-c99c-4e78-a7ee-6e414d852744",
+  "started_at": "2026-05-10T07:03:04.683740+00:00",
+  "ended_at": "2026-05-10T07:05:03.665720+00:00",
+  "completed_qids": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q08",
+    "Q09",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15"
+  ],
+  "failed_qids": [],
+  "n_completed": 15,
+  "n_failed": 0
+}

@@ -1,0 +1,1293 @@
+{
+  "project": {
+    "id": "06532ba5-e957-4917-86f5-5b341376f199",
+    "book_title": "The Confessions of St. Augustine",
+    "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+    "deployment_mode": "live_for_readers",
+    "handoff_state": "completed",
+    "go_live_at": "2026-04-20T07:29:57.483+00:00",
+    "status": "complete",
+    "project_status": "onboarding_complete",
+    "monthly_turn_cap_override": null,
+    "created_at": "2026-04-20T06:46:32.139+00:00",
+    "updated_at": "2026-05-09T09:51:43.565537+00:00"
+  },
+  "agent1_outputs": {
+    "id": "0ec1e809-47d6-4215-ba2c-4082181fe4c0",
+    "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+    "book_summary": "The Confessions of St. Augustine is a deeply personal spiritual autobiography in which Augustine, addressing God directly, recounts his journey from a restless and sinful youth to his eventual conversion to Christianity. The work explores his struggles with desire, pride, and error, his search for truth, and the transformative power of God's grace and mercy. Throughout, Augustine reflects on the nature of God, the human soul, memory, sin, and the longing for rest that can only be satisfied in God.",
+    "chapter_map_json": [
+      {
+        "summary": "Augustine opens with praise for God's greatness and reflects on the human condition: created by God, yet fallen and restless until finding rest in Him. He meditates on the mystery of God's presence, the limits of human understanding, and the need for confession and humility. Augustine recalls his infancy and early childhood, recognizing even then the seeds of sin and the beginnings of his journey away from God.",
+        "chapter_title": "Book I",
+        "chapter_number": "01"
+      },
+      {
+        "summary": "Augustine recounts the sins of his adolescence, focusing on his growing desires and the confusion between love and lust. He describes his rebellion, pride, and the infamous episode of stealing pears not out of need but for the thrill of wrongdoing. Augustine analyzes the nature of sin, the allure of forbidden things, and the emptiness of seeking fulfillment apart from God.",
+        "chapter_title": "Book II",
+        "chapter_number": "02"
+      },
+      {
+        "summary": "Arriving in Carthage, Augustine is swept up in the city's culture of sensuality and intellectual pride. He becomes enamored with love itself and is drawn to the theater and philosophical pursuits. Augustine describes his attraction to the Manichaean sect, his search for wisdom, and his growing dissatisfaction with the emptiness of worldly pleasures and false teachings.",
+        "chapter_title": "Book III",
+        "chapter_number": "03"
+      },
+      {
+        "summary": "Augustine details his years as a teacher of rhetoric and his deepening involvement with Manichaeism. He forms close friendships and experiences the pain of loss when a dear friend dies, which plunges him into grief and existential despair. This period is marked by intellectual pride, spiritual confusion, and a longing for stability and truth.",
+        "chapter_title": "Book IV",
+        "chapter_number": "04"
+      },
+      {
+        "summary": "Augustine describes his move to Rome and then Milan, motivated by professional ambition and dissatisfaction with his life in Carthage. He encounters skepticism about Manichaeism and meets Ambrose, the bishop of Milan, whose eloquence and kindness impress him. Augustine begins to question his beliefs more deeply and is drawn closer to Christianity, though he still struggles with doubts.",
+        "chapter_title": "Book V",
+        "chapter_number": "05"
+      },
+      {
+        "summary": "In Milan, Augustine continues his search for truth, influenced by his mother Monica's prayers and Ambrose's preaching. He wrestles with philosophical questions and the demands of Christian morality, feeling torn between his desires and his growing conviction of the truth of Christianity. Augustine describes his inner turmoil and the gradual softening of his heart.",
+        "chapter_title": "Book VI",
+        "chapter_number": "06"
+      },
+      {
+        "summary": "Augustine recounts his intellectual conversion, influenced by Neoplatonist philosophy, which helps him understand the immaterial nature of God and the reality of evil as a privation of good. He recognizes the limitations of philosophy without Christ and begins to see the coherence of Christian doctrine, though he has not yet fully surrendered his will to God.",
+        "chapter_title": "Book VII",
+        "chapter_number": "07"
+      },
+      {
+        "summary": "This chapter centers on Augustine's dramatic conversion. He describes his intense struggle with his will, his inability to break free from sinful habits, and the pivotal moment in a garden when, after hearing a child's voice say 'take and read,' he opens Scripture and finds the decisive call to conversion. Augustine surrenders to God, experiencing profound relief and joy.",
+        "chapter_title": "Book VIII",
+        "chapter_number": "08"
+      },
+      {
+        "summary": "Augustine recounts the aftermath of his conversion: his baptism by Ambrose, the spiritual joy he shares with his friends, and the death of his mother Monica, whose faith and prayers were instrumental in his journey. He reflects on Monica's life and their final conversations, expressing gratitude for her example and God's providence.",
+        "chapter_title": "Book IX",
+        "chapter_number": "09"
+      },
+      {
+        "summary": "Augustine turns from autobiography to introspection, examining the nature of memory, self-knowledge, and desire. He explores the depths of the human soul, the persistence of temptation, and the need for continual confession and reliance on God's grace. Augustine emphasizes that even after conversion, the Christian life is a journey of ongoing transformation.",
+        "chapter_title": "Book X",
+        "chapter_number": "10"
+      },
+      {
+        "summary": "Augustine embarks on a philosophical and theological meditation on the nature of time, creation, and God's eternity. He analyzes the opening of Genesis, considering how God created the world out of nothing and how time itself is a created reality. Augustine reflects on the relationship between past, present, and future, and the mystery of God's timelessness.",
+        "chapter_title": "Book XI",
+        "chapter_number": "11"
+      },
+      {
+        "summary": "Continuing his commentary on Genesis, Augustine discusses the interpretation of Scripture, the diversity of legitimate readings, and the importance of humility in seeking truth. He explores the meaning of creation, the distinction between spiritual and material realities, and the dangers of pride and dogmatism in theological inquiry.",
+        "chapter_title": "Book XII",
+        "chapter_number": "12"
+      },
+      {
+        "summary": "Augustine concludes by interpreting the seven days of creation as a spiritual allegory for the soul's journey to God. He meditates on the work of the Holy Spirit, the beauty of creation, and the rest found in God alone. The book ends with praise for God's mercy and a prayer for continued transformation and perseverance in faith.",
+        "chapter_title": "Book XIII",
+        "chapter_number": "13"
+      }
+    ],
+    "key_concepts_json": [
+      {
+        "term": "Restlessness",
+        "definition": "The human soul is restless and unsatisfied until it finds rest in God, a central theme Augustine returns to throughout his confessions."
+      },
+      {
+        "term": "Confession",
+        "definition": "A prayerful and honest admission of one's sins and weaknesses before God, seen as the first step toward healing and transformation."
+      },
+      {
+        "term": "Sin",
+        "definition": "A turning away from God and the pursuit of lesser goods, resulting in disorder, unhappiness, and separation from the source of true life."
+      },
+      {
+        "term": "Grace",
+        "definition": "God's unmerited favor and transformative power, which enables Augustine to overcome sin and find true happiness."
+      },
+      {
+        "term": "Conversion",
+        "definition": "The process by which Augustine moves from a life centered on self and worldly desires to one oriented toward God, culminating in his surrender to Christ."
+      },
+      {
+        "term": "Memory",
+        "definition": "A faculty of the soul that stores experiences, knowledge, and desires, playing a crucial role in Augustine's self-examination and understanding of the self."
+      },
+      {
+        "term": "Desire",
+        "definition": "The deep longing within the human heart, which can be misdirected toward created things but is ultimately fulfilled only in God."
+      },
+      {
+        "term": "Pride",
+        "definition": "A root sin for Augustine, characterized by self-exaltation and the refusal to submit to God, leading to spiritual blindness and misery."
+      },
+      {
+        "term": "Evil as Privation",
+        "definition": "Augustine's doctrine that evil is not a substance but a lack or corruption of good, clarifying the nature of sin and suffering."
+      },
+      {
+        "term": "Divine Providence",
+        "definition": "The belief that God's wisdom and care govern all events, even those that seem tragic or inexplicable, as seen in Augustine's life story."
+      }
+    ],
+    "core_claims_json": [
+      {
+        "claim": "The human heart is fundamentally restless until it finds rest in God.",
+        "weight": "central"
+      },
+      {
+        "claim": "Sin is a turning away from God and the pursuit of lesser goods, leading to unhappiness and disorder.",
+        "weight": "central"
+      },
+      {
+        "claim": "Only through God's grace and mercy can a person be transformed and find true fulfillment.",
+        "weight": "central"
+      },
+      {
+        "claim": "Confession and humility are essential for spiritual growth and reconciliation with God.",
+        "weight": "central"
+      },
+      {
+        "claim": "Intellectual achievement and worldly pleasures cannot satisfy the deepest longings of the soul.",
+        "weight": "central"
+      },
+      {
+        "claim": "Evil is not a substance but a privation of good, and all creation is fundamentally good as made by God.",
+        "weight": "central"
+      }
+    ],
+    "ambiguities_json": [
+      "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+      "Some chapter divisions and titles may differ between translations; the summaries are based on the standard structure of the work.",
+      "The manuscript excerpt does not include the full text of all thirteen books, so some summaries are based on established content of The Confessions."
+    ],
+    "qc_report_json": {
+      "checks": [
+        {
+          "item": "Chapter titles match manuscript headings or standard divisions",
+          "detail": "Book numbers and structure are preserved.",
+          "result": "pass"
+        },
+        {
+          "item": "Summaries are grounded in book content",
+          "detail": "Each summary reflects the actual narrative and themes of the corresponding book.",
+          "result": "pass"
+        },
+        {
+          "item": "Key concepts are book-specific",
+          "detail": "Concepts are drawn directly from Augustine's theology and confessional practice.",
+          "result": "pass"
+        },
+        {
+          "item": "Core claims are explicit propositions argued by Augustine",
+          "detail": "Claims reflect Augustine's main arguments and spiritual insights.",
+          "result": "pass"
+        },
+        {
+          "item": "No platform or workflow language present",
+          "detail": "All language is faithful to the book's own framework.",
+          "result": "pass"
+        }
+      ],
+      "status": "fidelity_pass",
+      "summary": "The extraction preserves Augustine's theological focus, confessional tone, and key doctrines. Chapter titles and summaries are faithful to the manuscript and the book's structure. Key concepts and claims are grounded in Augustine's own arguments, not modern reinterpretations.",
+      "book_level": {
+        "core_thesis": "Augustine argues that the human heart is restless until it finds rest in God, and that true happiness and fulfillment are possible only through the grace of God in Christ. He maintains that all human striving apart from God leads to error and misery, and that confession, humility, and divine mercy are essential for spiritual transformation."
+      },
+      "source_coverage": {
+        "parser_warnings": [
+          "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+          "Some chapter divisions and titles may differ between translations; the summaries are based on the standard structure of the work.",
+          "The manuscript excerpt does not include the full text of all thirteen books, so some summaries are based on established content of The Confessions."
+        ],
+        "manuscript_has_text": true,
+        "intake_notes_present": true
+      }
+    },
+    "generated_at": "2026-04-20T06:47:09.74+00:00",
+    "created_at": "2026-04-20T06:47:10.371847+00:00",
+    "updated_at": "2026-04-20T06:47:10.371847+00:00"
+  },
+  "book_representation": {
+    "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+    "data": {
+      "status": "live_for_readers",
+      "book_id": "06532ba5-e957-4917-86f5-5b341376f199",
+      "metadata": {
+        "period": "",
+        "book_title": "The Confessions of St. Augustine",
+        "author_name": "Saint of Hippo Augustine",
+        "genre_self_classification": ""
+      },
+      "voice_config": {
+        "tone": "reflective_calm / balanced",
+        "formality": "neutral",
+        "pronoun_rules": {
+          "author_reference": "",
+          "reader_reference": ""
+        },
+        "companion_mode": "closely_light_explanation",
+        "grounding_style": "explicit_anchor"
+      },
+      "boundary_rules": {
+        "never_do": [
+          "Do not recast this book as therapy, generic spirituality, secular introspection, or self-help. Keep Augustine’s Christian framework explicit, and treat modern application as secondary interpretation rather than the book’s original frame."
+        ],
+        "off_limits_topics": [
+          "Avoid over-interpreting beyond the text without clear justification",
+          "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+          "Avoid adding claims the book does not actually make",
+          "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+          "Avoid turning specific theological claims into universal life lessons by default",
+          "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language"
+        ]
+      },
+      "companion_name": "Ambrose",
+      "reader_guidance": {
+        "test_questions": [],
+        "common_misreadings": [],
+        "suggested_entry_points": [
+          "Explain theological concepts, confessional language, and key terms from the book",
+          "Summarize each Book’s main movement, prayer, and turning point clearly",
+          "Compare ideas across the thirteen Books and show how themes develop over time",
+          "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+          "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+          "Explain how autobiographical narrative and theological reflection connect in the book"
+        ]
+      },
+      "interpretive_framework": {
+        "book_thesis": "Augustine argues that the human heart is restless until it finds rest in God, and that true happiness and fulfillment are possible only through the grace of God in Christ. He maintains that all human striving apart from God leads to error and misery, and that confession, humility, and divine mercy are essential for spiritual transformation.",
+        "cross_references": [
+          {
+            "note": "The human soul is restless and unsatisfied until it finds rest in God, a central theme Augustine returns to throughout his confessions.",
+            "concept": "Restlessness",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "A prayerful and honest admission of one's sins and weaknesses before God, seen as the first step toward healing and transformation.",
+            "concept": "Confession",
+            "appears_in_chapters": [
+              "01",
+              "10"
+            ]
+          },
+          {
+            "note": "A turning away from God and the pursuit of lesser goods, resulting in disorder, unhappiness, and separation from the source of true life.",
+            "concept": "Sin",
+            "appears_in_chapters": [
+              "01",
+              "02",
+              "08",
+              "09"
+            ]
+          },
+          {
+            "note": "God's unmerited favor and transformative power, which enables Augustine to overcome sin and find true happiness.",
+            "concept": "Grace",
+            "appears_in_chapters": [
+              "10"
+            ]
+          },
+          {
+            "note": "The process by which Augustine moves from a life centered on self and worldly desires to one oriented toward God, culminating in his surrender to Christ.",
+            "concept": "Conversion",
+            "appears_in_chapters": [
+              "07",
+              "08",
+              "09",
+              "10"
+            ]
+          },
+          {
+            "note": "A faculty of the soul that stores experiences, knowledge, and desires, playing a crucial role in Augustine's self-examination and understanding of the self.",
+            "concept": "Memory",
+            "appears_in_chapters": [
+              "10"
+            ]
+          },
+          {
+            "note": "The deep longing within the human heart, which can be misdirected toward created things but is ultimately fulfilled only in God.",
+            "concept": "Desire",
+            "appears_in_chapters": [
+              "02",
+              "06",
+              "10"
+            ]
+          },
+          {
+            "note": "A root sin for Augustine, characterized by self-exaltation and the refusal to submit to God, leading to spiritual blindness and misery.",
+            "concept": "Pride",
+            "appears_in_chapters": [
+              "02",
+              "03",
+              "04",
+              "12"
+            ]
+          },
+          {
+            "note": "Augustine's doctrine that evil is not a substance but a lack or corruption of good, clarifying the nature of sin and suffering.",
+            "concept": "Evil as Privation",
+            "appears_in_chapters": []
+          },
+          {
+            "note": "The belief that God's wisdom and care govern all events, even those that seem tragic or inexplicable, as seen in Augustine's life story.",
+            "concept": "Divine Providence",
+            "appears_in_chapters": []
+          }
+        ],
+        "background_themes": [],
+        "foreground_themes": [
+          "Restlessness",
+          "Confession",
+          "Sin",
+          "Grace",
+          "Conversion",
+          "Memory",
+          "Desire",
+          "Pride",
+          "Evil as Privation",
+          "Divine Providence"
+        ]
+      }
+    },
+    "schema_version": 1,
+    "read_authority_enabled": false,
+    "created_at": "2026-04-21T07:20:14.461933+00:00",
+    "updated_at": "2026-04-21T07:20:14.461933+00:00"
+  },
+  "author_output_blocks": [],
+  "edits": {
+    "id": "33b990d4-7d7b-4f78-9dd3-112f954b1814",
+    "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+    "edited_chapter_map_json": [],
+    "edited_key_concepts_json": [],
+    "edited_core_claims_json": [],
+    "review_notes_json": {
+      "author_control": {
+        "bgcq_override": true,
+        "reader_room_setup": {
+          "updated_at": "2026-05-09T09:51:42.871Z",
+          "monthly_turn_cap": 35,
+          "book_display_title": "The Confessions of St. Augustine",
+          "author_display_name": "Augustine of Hippo",
+          "room_welcome_message": "Welcome to the reading room for The Confessions of St. Augustine. Ask about any Book, passage, prayer, or central theme. I stay close to Augustine’s text and help clarify its Christian, confessional, and theological meaning",
+          "membership_price_monthly": 9.99,
+          "ai_companion_display_name": "Ambrose",
+          "optional_room_notice_message": "Translator: E. B. Pusey. Release date: June 1, 2002. Most recently updated: May 5, 2023"
+        },
+        "bgcq_override_updated_at": "2026-04-23T13:31:37.115Z",
+        "bgcq_override_updated_by": "dce7a2c7-c0df-4555-9057-bafdd9cc15ea"
+      },
+      "author_messages": {
+        "step2_resume": "Your Step-3 settings are saved. You can return later without restarting.",
+        "resume_notice": "Your work is saved. You can return later and continue from this project.",
+        "persistence_notice": "Your project is saved as a persistent book project. You can return later without restarting.",
+        "step2_revalidation": "If Step-3 behavior settings change after completion, the Step-4 handoff summary may need refresh.",
+        "revalidation_notice": "If you later change approved Step-1 outputs, downstream steps may need revalidation."
+      },
+      "project_lifecycle": {
+        "steps": {
+          "step1": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-20T07:11:35.744Z",
+            "invalidation_reason": ""
+          },
+          "step2": {
+            "status": "completed",
+            "is_valid": true,
+            "updated_at": "2026-04-20T07:24:58.754Z",
+            "invalidation_reason": ""
+          },
+          "step3": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-20T07:24:58.754Z",
+            "invalidation_reason": ""
+          },
+          "step4": {
+            "status": "not_started",
+            "is_valid": true,
+            "updated_at": "2026-04-20T06:46:32.475Z",
+            "invalidation_reason": ""
+          }
+        },
+        "deployment": {
+          "updated_at": "2026-04-20T06:46:32.475Z",
+          "is_deployed": false,
+          "version_number": 1,
+          "deployment_status": "not_deployed",
+          "needs_redeployment": false,
+          "runtime_instance_id": "",
+          "deployment_timestamp": "",
+          "deployment_access_mode": ""
+        },
+        "current_step": 3,
+        "schema_version": 1,
+        "last_completed_step": 2,
+        "last_revalidation_reason": ""
+      },
+      "step2_handover_ready": true,
+      "step2_representation": {
+        "tone_style": "reflective_calm",
+        "updated_at": "2026-04-20T07:24:57.391Z",
+        "step2_status": "completed",
+        "fidelity_mode": "closely_light_explanation",
+        "red_line_note": "Do not recast this book as therapy, generic spirituality, secular introspection, or self-help. Keep Augustine’s Christian framework explicit, and treat modern application as secondary interpretation rather than the book’s original frame.",
+        "avoid_behaviors": [
+          "Avoid over-interpreting beyond the text without clear justification",
+          "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+          "Avoid adding claims the book does not actually make",
+          "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+          "Avoid turning specific theological claims into universal life lessons by default",
+          "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language"
+        ],
+        "grounding_style": "explicit_anchor",
+        "tone_directness": "balanced",
+        "avoid_guidelines": [
+          {
+            "id": "avoid_over_interpreting",
+            "text": "Avoid over-interpreting beyond the text without clear justification",
+            "selected": true
+          },
+          {
+            "id": "avoid_prescriptive_advice",
+            "text": "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+            "selected": true
+          },
+          {
+            "id": "avoid_therapeutic",
+            "text": "Avoid adding claims the book does not actually make",
+            "selected": true
+          },
+          {
+            "id": "avoid_universal_truths",
+            "text": "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+            "selected": true
+          },
+          {
+            "id": "avoid_direct_challenge",
+            "text": "Avoid turning specific theological claims into universal life lessons by default",
+            "selected": true
+          },
+          {
+            "id": "avoid_extra_claims",
+            "text": "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language",
+            "selected": true
+          }
+        ],
+        "allowed_guidelines": [
+          {
+            "id": "explain_concepts",
+            "text": "Explain theological concepts, confessional language, and key terms from the book",
+            "selected": true
+          },
+          {
+            "id": "summarize_chapters",
+            "text": "Summarize each Book’s main movement, prayer, and turning point clearly",
+            "selected": true
+          },
+          {
+            "id": "compare_ideas",
+            "text": "Compare ideas across the thirteen Books and show how themes develop over time",
+            "selected": true
+          },
+          {
+            "id": "general_reflection",
+            "text": "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+            "selected": true
+          },
+          {
+            "id": "reflective_followups",
+            "text": "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+            "selected": true
+          },
+          {
+            "id": "light_beyond_text",
+            "text": "Explain how autobiographical narrative and theological reflection connect in the book",
+            "selected": true
+          }
+        ],
+        "has_behavior_change": true,
+        "allowed_question_types": [
+          "Explain theological concepts, confessional language, and key terms from the book",
+          "Summarize each Book’s main movement, prayer, and turning point clearly",
+          "Compare ideas across the thirteen Books and show how themes develop over time",
+          "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+          "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+          "Explain how autobiographical narrative and theological reflection connect in the book"
+        ]
+      },
+      "author_review_handoff": {
+        "stage": "step1_review_handoff",
+        "saved_at": "2026-04-20T07:11:33.762Z",
+        "finalized": true,
+        "finalized_at": "2026-04-20T07:11:33.762Z",
+        "reviewed_file_count": 3,
+        "reviewed_file_types": [
+          "reviewed_structure",
+          "reviewed_concepts",
+          "reviewed_claims"
+        ],
+        "warning_acknowledged": false,
+        "acknowledge_dependency": true,
+        "confirm_reviewed_outputs": true
+      },
+      "step1_completion_state": "author_confirmed",
+      "step3_companion_preview": {
+        "avoided_uses": [
+          "Do not offer modern business, personal development, or self-help applications unless explicitly requested. Always present Sun Tzu's original military-strategic doctrine first.",
+          "Always present Sun Tzu's original military-strategic context first. The principle 'supreme excellence is subduing the enemy without fighting' (Chapter III) refers to military victory through superior strategy, not personal or business success."
+        ],
+        "exemplar_pairs": [
+          {
+            "note": "Counters the self-discovery / secular-introspection slot.",
+            "answer": "The Confessions is not a self-discovery text. It is a prayer — Augustine addresses God throughout the thirteen books — structured as a theological argument about sin, grace, and conversion. In Book X §1 he writes 'thou, O Lord, dost know everything about me … I would know thee, O thou who knowest me.' The movement is not inward toward a self to be found; it is toward God, with the self visible only by the light God casts on it. Secular introspection drops the theological frame entirely. Shall we look at Book X on memory and Augustine's question 'what do I love when I love my God?'",
+            "question": "How can Augustine's Confessions help me with self-discovery?"
+          },
+          {
+            "note": "Counters the 'spiritual growth / healing' wellness slot.",
+            "answer": "Augustine does not offer advice on growth or healing; he narrates his conversion as an event of grace, not practice. Book VIII §12 describes the garden scene — the child's voice, tolle lege, Romans 13 opened — as the moment 'a light of serenity flooded my heart and all the darkness of doubt vanished away.' That is a theological claim about grace operating on a divided will, not a growth technique. Book VII's earlier failure to convert despite correct Neoplatonic understanding is the counter-evidence. Shall we read Book VIII §12 alongside Book VII on the Platonists?",
+            "question": "What's Augustine's advice for spiritual growth and healing?"
+          },
+          {
+            "note": "Counters the therapeutic 'overcoming shame and guilt' slot.",
+            "answer": "Augustine does not present shame and guilt as things to be overcome; he presents confession as a sacramental act by which sin is acknowledged before God. The famous pear-theft in Book II §4 is Augustine puzzling over the fact that he and his friends stole pears they did not want, to discover something about the nature of sinfulness — 'it was foul, and I loved it.' That is a theological investigation of will, not a therapeutic narrative. Confession in his sense is praise of God and accusation of self at once. Would you like to look at the pear passage closely?",
+            "question": "What does Augustine teach about overcoming shame and guilt?"
+          }
+        ]
+      },
+      "representation_blueprint": {
+        "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid over-interpreting beyond the text without clear justification, avoid sounding therapeutic, diagnostic, or like modern self-help, and avoid adding claims the book does not actually make, use a reflective and calm tone with balanced directness, and stay explicitly anchored to chapters and concepts.",
+        "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+        "allowed_uses": [
+          "Explain theological concepts, confessional language, and key terms from the book",
+          "Summarize each Book’s main movement, prayer, and turning point clearly",
+          "Compare ideas across the thirteen Books and show how themes develop over time",
+          "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+          "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+          "Explain how autobiographical narrative and theological reflection connect in the book"
+        ],
+        "generated_at": "2026-04-20T07:24:57.392Z",
+        "tone_profile": {
+          "style": "Reflective and calm",
+          "directness": "Balanced"
+        },
+        "red_line_note": "Do not recast this book as therapy, generic spirituality, secular introspection, or self-help. Keep Augustine’s Christian framework explicit, and treat modern application as secondary interpretation rather than the book’s original frame.",
+        "grounding_rules": "Stay explicitly anchored to chapters and concepts",
+        "fidelity_setting": "close fidelity with light explanatory support",
+        "avoided_behaviors": [
+          "Avoid over-interpreting beyond the text without clear justification",
+          "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+          "Avoid adding claims the book does not actually make",
+          "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+          "Avoid turning specific theological claims into universal life lessons by default",
+          "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language"
+        ]
+      },
+      "project_artifacts_fallback": {
+        "step1": {
+          "approved_qc": {
+            "updated_at": "2026-04-20T07:11:35.187Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings or standard divisions",
+                    "detail": "Book numbers and structure are preserved.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries are grounded in book content",
+                    "detail": "Each summary reflects the actual narrative and themes of the corresponding book.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are drawn directly from Augustine's theology and confessional practice.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims are explicit propositions argued by Augustine",
+                    "detail": "Claims reflect Augustine's main arguments and spiritual insights.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or workflow language present",
+                    "detail": "All language is faithful to the book's own framework.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "The extraction preserves Augustine's theological focus, confessional tone, and key doctrines. Chapter titles and summaries are faithful to the manuscript and the book's structure. Key concepts and claims are grounded in Augustine's own arguments, not modern reinterpretations.",
+                "book_level": {
+                  "core_thesis": "Augustine argues that the human heart is restless until it finds rest in God, and that true happiness and fulfillment are possible only through the grace of God in Christ. He maintains that all human striving apart from God leads to error and misery, and that confession, humility, and divine mercy are essential for spiritual transformation."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter divisions and titles may differ between translations; the summaries are based on the standard structure of the work.",
+                    "The manuscript excerpt does not include the full text of all thirteen books, so some summaries are based on established content of The Confessions."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "extracted_qc": {
+            "updated_at": "2026-04-20T06:47:10.673Z",
+            "artifact_value_json": {
+              "qc_report": {
+                "checks": [
+                  {
+                    "item": "Chapter titles match manuscript headings or standard divisions",
+                    "detail": "Book numbers and structure are preserved.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Summaries are grounded in book content",
+                    "detail": "Each summary reflects the actual narrative and themes of the corresponding book.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Key concepts are book-specific",
+                    "detail": "Concepts are drawn directly from Augustine's theology and confessional practice.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "Core claims are explicit propositions argued by Augustine",
+                    "detail": "Claims reflect Augustine's main arguments and spiritual insights.",
+                    "result": "pass"
+                  },
+                  {
+                    "item": "No platform or workflow language present",
+                    "detail": "All language is faithful to the book's own framework.",
+                    "result": "pass"
+                  }
+                ],
+                "status": "fidelity_pass",
+                "summary": "The extraction preserves Augustine's theological focus, confessional tone, and key doctrines. Chapter titles and summaries are faithful to the manuscript and the book's structure. Key concepts and claims are grounded in Augustine's own arguments, not modern reinterpretations.",
+                "book_level": {
+                  "core_thesis": "Augustine argues that the human heart is restless until it finds rest in God, and that true happiness and fulfillment are possible only through the grace of God in Christ. He maintains that all human striving apart from God leads to error and misery, and that confession, humility, and divine mercy are essential for spiritual transformation."
+                },
+                "source_coverage": {
+                  "parser_warnings": [
+                    "Manuscript text was truncated for this intake run to fit API limits. Large books should be reviewed carefully in Step-2.",
+                    "Some chapter divisions and titles may differ between translations; the summaries are based on the standard structure of the work.",
+                    "The manuscript excerpt does not include the full text of all thirteen books, so some summaries are based on established content of The Confessions."
+                  ],
+                  "manuscript_has_text": true,
+                  "intake_notes_present": true
+                }
+              }
+            },
+            "artifact_value_text": null
+          },
+          "approved_claims": {
+            "updated_at": "2026-04-20T07:11:34.963Z",
+            "artifact_value_json": {
+              "id": "e56c80cf-940a-43e8-92ef-47a630d9b1bd",
+              "file_type": "other",
+              "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+              "uploaded_at": "2026-04-20T06:57:06.087+00:00",
+              "storage_path": "06532ba5-e957-4917-86f5-5b341376f199/reviewed/reviewed_claims/GA-CS-MO6UE0O3-ZJP3DF-coa-claims-uploaded.txt",
+              "original_filename": "CoA-claims-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_claims": {
+            "updated_at": "2026-04-20T06:47:10.601Z",
+            "artifact_value_json": {
+              "claims": [
+                {
+                  "claim": "The human heart is fundamentally restless until it finds rest in God.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Sin is a turning away from God and the pursuit of lesser goods, leading to unhappiness and disorder.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Only through God's grace and mercy can a person be transformed and find true fulfillment.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Confession and humility are essential for spiritual growth and reconciliation with God.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Intellectual achievement and worldly pleasures cannot satisfy the deepest longings of the soul.",
+                  "weight": "central"
+                },
+                {
+                  "claim": "Evil is not a substance but a privation of good, and all creation is fundamentally good as made by God.",
+                  "weight": "central"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "approved_key_ideas": {
+            "updated_at": "2026-04-20T07:11:34.743Z",
+            "artifact_value_json": {
+              "id": "953bacbd-f71b-4311-91a9-d51e017ef94c",
+              "file_type": "other",
+              "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+              "uploaded_at": "2026-04-20T06:57:01.637+00:00",
+              "storage_path": "06532ba5-e957-4917-86f5-5b341376f199/reviewed/reviewed_concepts/GA-CS-MO6UDX0H-OGAG0V-coa-concepts-uploaded.txt",
+              "original_filename": "CoA-concepts-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "approved_structure": {
+            "updated_at": "2026-04-20T07:11:34.582Z",
+            "artifact_value_json": {
+              "id": "03836faf-fe7a-4e7d-b2fc-321e6f1fb320",
+              "file_type": "other",
+              "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+              "uploaded_at": "2026-04-20T06:56:57.047+00:00",
+              "storage_path": "06532ba5-e957-4917-86f5-5b341376f199/reviewed/reviewed_structure/GA-CS-MO6UDT61-9MSKOX-coa-structure-uploaded.txt",
+              "original_filename": "CoA-structure-uploaded.txt"
+            },
+            "artifact_value_text": null
+          },
+          "extracted_key_ideas": {
+            "updated_at": "2026-04-20T06:47:10.532Z",
+            "artifact_value_json": {
+              "key_ideas": [
+                {
+                  "term": "Restlessness",
+                  "definition": "The human soul is restless and unsatisfied until it finds rest in God, a central theme Augustine returns to throughout his confessions."
+                },
+                {
+                  "term": "Confession",
+                  "definition": "A prayerful and honest admission of one's sins and weaknesses before God, seen as the first step toward healing and transformation."
+                },
+                {
+                  "term": "Sin",
+                  "definition": "A turning away from God and the pursuit of lesser goods, resulting in disorder, unhappiness, and separation from the source of true life."
+                },
+                {
+                  "term": "Grace",
+                  "definition": "God's unmerited favor and transformative power, which enables Augustine to overcome sin and find true happiness."
+                },
+                {
+                  "term": "Conversion",
+                  "definition": "The process by which Augustine moves from a life centered on self and worldly desires to one oriented toward God, culminating in his surrender to Christ."
+                },
+                {
+                  "term": "Memory",
+                  "definition": "A faculty of the soul that stores experiences, knowledge, and desires, playing a crucial role in Augustine's self-examination and understanding of the self."
+                },
+                {
+                  "term": "Desire",
+                  "definition": "The deep longing within the human heart, which can be misdirected toward created things but is ultimately fulfilled only in God."
+                },
+                {
+                  "term": "Pride",
+                  "definition": "A root sin for Augustine, characterized by self-exaltation and the refusal to submit to God, leading to spiritual blindness and misery."
+                },
+                {
+                  "term": "Evil as Privation",
+                  "definition": "Augustine's doctrine that evil is not a substance but a lack or corruption of good, clarifying the nature of sin and suffering."
+                },
+                {
+                  "term": "Divine Providence",
+                  "definition": "The belief that God's wisdom and care govern all events, even those that seem tragic or inexplicable, as seen in Augustine's life story."
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "extracted_structure": {
+            "updated_at": "2026-04-20T06:47:10.373Z",
+            "artifact_value_json": {
+              "chapter_map": [
+                {
+                  "summary": "Augustine opens with praise for God's greatness and reflects on the human condition: created by God, yet fallen and restless until finding rest in Him. He meditates on the mystery of God's presence, the limits of human understanding, and the need for confession and humility. Augustine recalls his infancy and early childhood, recognizing even then the seeds of sin and the beginnings of his journey away from God.",
+                  "chapter_title": "Book I",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "Augustine recounts the sins of his adolescence, focusing on his growing desires and the confusion between love and lust. He describes his rebellion, pride, and the infamous episode of stealing pears not out of need but for the thrill of wrongdoing. Augustine analyzes the nature of sin, the allure of forbidden things, and the emptiness of seeking fulfillment apart from God.",
+                  "chapter_title": "Book II",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "Arriving in Carthage, Augustine is swept up in the city's culture of sensuality and intellectual pride. He becomes enamored with love itself and is drawn to the theater and philosophical pursuits. Augustine describes his attraction to the Manichaean sect, his search for wisdom, and his growing dissatisfaction with the emptiness of worldly pleasures and false teachings.",
+                  "chapter_title": "Book III",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "Augustine details his years as a teacher of rhetoric and his deepening involvement with Manichaeism. He forms close friendships and experiences the pain of loss when a dear friend dies, which plunges him into grief and existential despair. This period is marked by intellectual pride, spiritual confusion, and a longing for stability and truth.",
+                  "chapter_title": "Book IV",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "Augustine describes his move to Rome and then Milan, motivated by professional ambition and dissatisfaction with his life in Carthage. He encounters skepticism about Manichaeism and meets Ambrose, the bishop of Milan, whose eloquence and kindness impress him. Augustine begins to question his beliefs more deeply and is drawn closer to Christianity, though he still struggles with doubts.",
+                  "chapter_title": "Book V",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "In Milan, Augustine continues his search for truth, influenced by his mother Monica's prayers and Ambrose's preaching. He wrestles with philosophical questions and the demands of Christian morality, feeling torn between his desires and his growing conviction of the truth of Christianity. Augustine describes his inner turmoil and the gradual softening of his heart.",
+                  "chapter_title": "Book VI",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "Augustine recounts his intellectual conversion, influenced by Neoplatonist philosophy, which helps him understand the immaterial nature of God and the reality of evil as a privation of good. He recognizes the limitations of philosophy without Christ and begins to see the coherence of Christian doctrine, though he has not yet fully surrendered his will to God.",
+                  "chapter_title": "Book VII",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "This chapter centers on Augustine's dramatic conversion. He describes his intense struggle with his will, his inability to break free from sinful habits, and the pivotal moment in a garden when, after hearing a child's voice say 'take and read,' he opens Scripture and finds the decisive call to conversion. Augustine surrenders to God, experiencing profound relief and joy.",
+                  "chapter_title": "Book VIII",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "Augustine recounts the aftermath of his conversion: his baptism by Ambrose, the spiritual joy he shares with his friends, and the death of his mother Monica, whose faith and prayers were instrumental in his journey. He reflects on Monica's life and their final conversations, expressing gratitude for her example and God's providence.",
+                  "chapter_title": "Book IX",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "Augustine turns from autobiography to introspection, examining the nature of memory, self-knowledge, and desire. He explores the depths of the human soul, the persistence of temptation, and the need for continual confession and reliance on God's grace. Augustine emphasizes that even after conversion, the Christian life is a journey of ongoing transformation.",
+                  "chapter_title": "Book X",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "Augustine embarks on a philosophical and theological meditation on the nature of time, creation, and God's eternity. He analyzes the opening of Genesis, considering how God created the world out of nothing and how time itself is a created reality. Augustine reflects on the relationship between past, present, and future, and the mystery of God's timelessness.",
+                  "chapter_title": "Book XI",
+                  "chapter_number": "11"
+                },
+                {
+                  "summary": "Continuing his commentary on Genesis, Augustine discusses the interpretation of Scripture, the diversity of legitimate readings, and the importance of humility in seeking truth. He explores the meaning of creation, the distinction between spiritual and material realities, and the dangers of pride and dogmatism in theological inquiry.",
+                  "chapter_title": "Book XII",
+                  "chapter_number": "12"
+                },
+                {
+                  "summary": "Augustine concludes by interpreting the seven days of creation as a spiritual allegory for the soul's journey to God. He meditates on the work of the Holy Spirit, the beauty of creation, and the rest found in God alone. The book ends with praise for God's mercy and a prayer for continued transformation and perseverance in faith.",
+                  "chapter_title": "Book XIII",
+                  "chapter_number": "13"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "step1_source_context": {
+            "updated_at": "2026-04-20T06:47:10.744Z",
+            "artifact_value_json": {
+              "intake_notes": "Preserve this book as a confessional, theological, and spiritually serious work addressed to God, not as generic self-help, therapy, or motivational reflection. Keep Augustine’s Christian framework explicit: sin, grace, pride, mercy, conversion, prayer, memory, desire, and rest in God are central. Treat the text first as confession and theological self-examination, not as modern psychology in disguise. When offering explanation, distinguish Augustine’s original doctrine from later or modern interpretation. Avoid flattening the book into wellness language, productivity advice, or purely secular introspection.",
+              "manuscript_filename": "The Confessions of St. Augustine.txt",
+              "intake_notes_present": true
+            },
+            "artifact_value_text": null
+          },
+          "extracted_chapter_summaries": {
+            "updated_at": "2026-04-20T06:47:10.450Z",
+            "artifact_value_json": {
+              "chapter_summaries": [
+                {
+                  "summary": "Augustine opens with praise for God's greatness and reflects on the human condition: created by God, yet fallen and restless until finding rest in Him. He meditates on the mystery of God's presence, the limits of human understanding, and the need for confession and humility. Augustine recalls his infancy and early childhood, recognizing even then the seeds of sin and the beginnings of his journey away from God.",
+                  "chapter_title": "Book I",
+                  "chapter_number": "01"
+                },
+                {
+                  "summary": "Augustine recounts the sins of his adolescence, focusing on his growing desires and the confusion between love and lust. He describes his rebellion, pride, and the infamous episode of stealing pears not out of need but for the thrill of wrongdoing. Augustine analyzes the nature of sin, the allure of forbidden things, and the emptiness of seeking fulfillment apart from God.",
+                  "chapter_title": "Book II",
+                  "chapter_number": "02"
+                },
+                {
+                  "summary": "Arriving in Carthage, Augustine is swept up in the city's culture of sensuality and intellectual pride. He becomes enamored with love itself and is drawn to the theater and philosophical pursuits. Augustine describes his attraction to the Manichaean sect, his search for wisdom, and his growing dissatisfaction with the emptiness of worldly pleasures and false teachings.",
+                  "chapter_title": "Book III",
+                  "chapter_number": "03"
+                },
+                {
+                  "summary": "Augustine details his years as a teacher of rhetoric and his deepening involvement with Manichaeism. He forms close friendships and experiences the pain of loss when a dear friend dies, which plunges him into grief and existential despair. This period is marked by intellectual pride, spiritual confusion, and a longing for stability and truth.",
+                  "chapter_title": "Book IV",
+                  "chapter_number": "04"
+                },
+                {
+                  "summary": "Augustine describes his move to Rome and then Milan, motivated by professional ambition and dissatisfaction with his life in Carthage. He encounters skepticism about Manichaeism and meets Ambrose, the bishop of Milan, whose eloquence and kindness impress him. Augustine begins to question his beliefs more deeply and is drawn closer to Christianity, though he still struggles with doubts.",
+                  "chapter_title": "Book V",
+                  "chapter_number": "05"
+                },
+                {
+                  "summary": "In Milan, Augustine continues his search for truth, influenced by his mother Monica's prayers and Ambrose's preaching. He wrestles with philosophical questions and the demands of Christian morality, feeling torn between his desires and his growing conviction of the truth of Christianity. Augustine describes his inner turmoil and the gradual softening of his heart.",
+                  "chapter_title": "Book VI",
+                  "chapter_number": "06"
+                },
+                {
+                  "summary": "Augustine recounts his intellectual conversion, influenced by Neoplatonist philosophy, which helps him understand the immaterial nature of God and the reality of evil as a privation of good. He recognizes the limitations of philosophy without Christ and begins to see the coherence of Christian doctrine, though he has not yet fully surrendered his will to God.",
+                  "chapter_title": "Book VII",
+                  "chapter_number": "07"
+                },
+                {
+                  "summary": "This chapter centers on Augustine's dramatic conversion. He describes his intense struggle with his will, his inability to break free from sinful habits, and the pivotal moment in a garden when, after hearing a child's voice say 'take and read,' he opens Scripture and finds the decisive call to conversion. Augustine surrenders to God, experiencing profound relief and joy.",
+                  "chapter_title": "Book VIII",
+                  "chapter_number": "08"
+                },
+                {
+                  "summary": "Augustine recounts the aftermath of his conversion: his baptism by Ambrose, the spiritual joy he shares with his friends, and the death of his mother Monica, whose faith and prayers were instrumental in his journey. He reflects on Monica's life and their final conversations, expressing gratitude for her example and God's providence.",
+                  "chapter_title": "Book IX",
+                  "chapter_number": "09"
+                },
+                {
+                  "summary": "Augustine turns from autobiography to introspection, examining the nature of memory, self-knowledge, and desire. He explores the depths of the human soul, the persistence of temptation, and the need for continual confession and reliance on God's grace. Augustine emphasizes that even after conversion, the Christian life is a journey of ongoing transformation.",
+                  "chapter_title": "Book X",
+                  "chapter_number": "10"
+                },
+                {
+                  "summary": "Augustine embarks on a philosophical and theological meditation on the nature of time, creation, and God's eternity. He analyzes the opening of Genesis, considering how God created the world out of nothing and how time itself is a created reality. Augustine reflects on the relationship between past, present, and future, and the mystery of God's timelessness.",
+                  "chapter_title": "Book XI",
+                  "chapter_number": "11"
+                },
+                {
+                  "summary": "Continuing his commentary on Genesis, Augustine discusses the interpretation of Scripture, the diversity of legitimate readings, and the importance of humility in seeking truth. He explores the meaning of creation, the distinction between spiritual and material realities, and the dangers of pride and dogmatism in theological inquiry.",
+                  "chapter_title": "Book XII",
+                  "chapter_number": "12"
+                },
+                {
+                  "summary": "Augustine concludes by interpreting the seven days of creation as a spiritual allegory for the soul's journey to God. He meditates on the work of the Holy Spirit, the beauty of creation, and the rest found in God alone. The book ends with praise for God's mercy and a prayer for continued transformation and perseverance in faith.",
+                  "chapter_title": "Book XIII",
+                  "chapter_number": "13"
+                }
+              ]
+            },
+            "artifact_value_text": null
+          }
+        },
+        "step2": {
+          "tone_profile": {
+            "updated_at": "2026-04-20T07:24:58.200Z",
+            "artifact_value_json": {
+              "tone_style": "reflective_calm",
+              "tone_directness": "balanced"
+            },
+            "artifact_value_text": null
+          },
+          "fidelity_mode": {
+            "updated_at": "2026-04-20T07:24:57.788Z",
+            "artifact_value_json": {
+              "value": "closely_light_explanation"
+            },
+            "artifact_value_text": null
+          },
+          "red_line_note": {
+            "updated_at": "2026-04-20T07:24:58.336Z",
+            "artifact_value_json": {
+              "value": "Do not recast this book as therapy, generic spirituality, secular introspection, or self-help. Keep Augustine’s Christian framework explicit, and treat modern application as secondary interpretation rather than the book’s original frame."
+            },
+            "artifact_value_text": null
+          },
+          "avoid_behaviors": {
+            "updated_at": "2026-04-20T07:24:58.050Z",
+            "artifact_value_json": {
+              "values": [
+                "Avoid over-interpreting beyond the text without clear justification",
+                "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+                "Avoid adding claims the book does not actually make",
+                "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+                "Avoid turning specific theological claims into universal life lessons by default",
+                "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "grounding_style": {
+            "updated_at": "2026-04-20T07:24:58.269Z",
+            "artifact_value_json": {
+              "value": "explicit_anchor"
+            },
+            "artifact_value_text": null
+          },
+          "avoid_guidelines": {
+            "updated_at": "2026-04-20T07:24:58.127Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "avoid_over_interpreting",
+                  "text": "Avoid over-interpreting beyond the text without clear justification",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_prescriptive_advice",
+                  "text": "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_therapeutic",
+                  "text": "Avoid adding claims the book does not actually make",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_universal_truths",
+                  "text": "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_direct_challenge",
+                  "text": "Avoid turning specific theological claims into universal life lessons by default",
+                  "selected": true
+                },
+                {
+                  "id": "avoid_extra_claims",
+                  "text": "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_guidelines": {
+            "updated_at": "2026-04-20T07:24:57.971Z",
+            "artifact_value_json": {
+              "items": [
+                {
+                  "id": "explain_concepts",
+                  "text": "Explain theological concepts, confessional language, and key terms from the book",
+                  "selected": true
+                },
+                {
+                  "id": "summarize_chapters",
+                  "text": "Summarize each Book’s main movement, prayer, and turning point clearly",
+                  "selected": true
+                },
+                {
+                  "id": "compare_ideas",
+                  "text": "Compare ideas across the thirteen Books and show how themes develop over time",
+                  "selected": true
+                },
+                {
+                  "id": "general_reflection",
+                  "text": "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+                  "selected": true
+                },
+                {
+                  "id": "reflective_followups",
+                  "text": "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+                  "selected": true
+                },
+                {
+                  "id": "light_beyond_text",
+                  "text": "Explain how autobiographical narrative and theological reflection connect in the book",
+                  "selected": true
+                }
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "allowed_question_types": {
+            "updated_at": "2026-04-20T07:24:57.890Z",
+            "artifact_value_json": {
+              "values": [
+                "Explain theological concepts, confessional language, and key terms from the book",
+                "Summarize each Book’s main movement, prayer, and turning point clearly",
+                "Compare ideas across the thirteen Books and show how themes develop over time",
+                "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+                "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+                "Explain how autobiographical narrative and theological reflection connect in the book"
+              ]
+            },
+            "artifact_value_text": null
+          },
+          "representation_blueprint": {
+            "updated_at": "2026-04-20T07:24:58.426Z",
+            "artifact_value_json": {
+              "summary": "The AI will stay closely anchored to the book with light explanation, cover the full approved range of question types, avoid over-interpreting beyond the text without clear justification, avoid sounding therapeutic, diagnostic, or like modern self-help, and avoid adding claims the book does not actually make, use a reflective and calm tone with balanced directness, and stay explicitly anchored to chapters and concepts.",
+              "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+              "allowed_uses": [
+                "Explain theological concepts, confessional language, and key terms from the book",
+                "Summarize each Book’s main movement, prayer, and turning point clearly",
+                "Compare ideas across the thirteen Books and show how themes develop over time",
+                "Clarify difficult passages on sin, grace, will, memory, Scripture, creation, and time",
+                "Distinguish Augustine’s original Christian framework from later or modern interpretations",
+                "Explain how autobiographical narrative and theological reflection connect in the book"
+              ],
+              "generated_at": "2026-04-20T07:24:57.392Z",
+              "tone_profile": {
+                "style": "Reflective and calm",
+                "directness": "Balanced"
+              },
+              "red_line_note": "Do not recast this book as therapy, generic spirituality, secular introspection, or self-help. Keep Augustine’s Christian framework explicit, and treat modern application as secondary interpretation rather than the book’s original frame.",
+              "grounding_rules": "Stay explicitly anchored to chapters and concepts",
+              "fidelity_setting": "close fidelity with light explanatory support",
+              "avoided_behaviors": [
+                "Avoid over-interpreting beyond the text without clear justification",
+                "Avoid sounding therapeutic, diagnostic, or like modern self-help",
+                "Avoid adding claims the book does not actually make",
+                "Avoid recasting Augustine’s Christian theology as generic spirituality or secular introspection",
+                "Avoid turning specific theological claims into universal life lessons by default",
+                "Avoid flattening prayer, confession, sin, grace, and conversion into wellness language"
+              ]
+            },
+            "artifact_value_text": null
+          }
+        }
+      }
+    },
+    "last_saved_at": "2026-04-20T07:29:57.126+00:00",
+    "created_at": "2026-04-20T06:46:32.869628+00:00",
+    "updated_at": "2026-05-09T09:51:43.356853+00:00"
+  },
+  "packets": [
+    {
+      "id": "1e8db9d1-4a1d-4d89-8f47-9f71e63271d2",
+      "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "companion_behavior",
+      "lever_name": "directness",
+      "lever_from": "not set",
+      "lever_to": "direct",
+      "summary_text": "Anchor responses in Augustine's theology rather than modern reflective guidance",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Ambrose is doctrinally sound and understands the whole book, but his style is still too smooth and reader-guidance oriented. Tighten the Christian-confessional frame. Reduce phrases that sound like modern reflective coaching or curated reading advice. When answering application-boundary questions, anchor more explicitly in Augustine’s theology of sin, grace, confession, prayer, and rest in God, and avoid rephrasing the book as a prompt for personal introspection unless the reader explicitly asks for that"
+        },
+        {
+          "role": "user",
+          "content": "Ambrose is doctrinally sound and understands the whole book, but his style is still too smooth and reader-guidance oriented. Tighten the Christian-confessional frame. Reduce phrases that sound like modern reflective coaching or curated reading advice. When answering application-boundary questions, anchor more explicitly in Augustine’s theology of sin, grace, confession, prayer, and rest in God, and avoid rephrasing the book as a prompt for personal introspection unless the reader explicitly asks for that"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a companion behavior issue - Ambrose needs less modern coaching language and stronger theological anchoring. I'll adjust the directness to be more explicit about Augustine's doctrinal framework and reduce the smoothed-over guidance style.\n\n```json\n{\"classification\": \"companion_behavior\", \"lever\": \"directness\", \"from_value\": \"not set\", \"to_value\": \"direct\", \"summary\": \"Anchor responses in Augustine's theology rather than modern reflective guidance\", \"requires_preview\": true}\n```"
+        }
+      ],
+      "preview_comparison_json": {
+        "to_value": "direct",
+        "from_value": "not set",
+        "lever_name": "directness",
+        "sample_question": "What is the most important idea in The Confessions of St. Augustine?",
+        "response_current": "\"The Confessions of St. Augustine\" revolves around many profound ideas, but perhaps the most central is the concept of the restless heart and the search for God. Augustine famously opens his work with the line, \"You have made us for yourself, O Lord, and our hearts are restless until they rest in you.\" This encapsulates the idea that humans are inherently driven to seek fulfillment and meaning, which can only be truly satisfied in a relationship with God.\n\nThroughout the book, Augustine chronicles his own spiritual journey from a wayward youth, through various philosophical and religious trials, to his eventual conversion to Christianity. This journey reflects a broader existential quest for truth and understanding, illustrating how Augustine grapples with questions of identity, sin, and grace. His introspective examination of his life serves as a timeless exploration of human nature and its ultimate longing for divine connection. By sharing his own struggles and insights, Augustine invites readers to reflect on their own spiritual journeys and the nature of true fulfillment.",
+        "response_proposed": "One of the most important ideas in \"The Confessions of St. Augustine\" is the concept of an inner journey towards self-discovery and understanding one's relationship with God. Augustine's narrative is a profound exploration of the human soul, sin, and the relentless pursuit of truth. This spiritual autobiography details Augustine's struggles with his own desires, his intellectual pursuits, and ultimately, his conversion to Christianity.\n\nCentral to this idea is the notion of restlessness and the search for fulfillment. Augustine famously begins his confessions by acknowledging that our hearts are restless until they rest in God. This encapsulates his belief that true peace and fulfillment cannot be found in earthly pleasures or achievements but only through a deep, personal relationship with the divine. His confessions are not merely about admitting sins but are an honest reflection on the human condition and the transformative power of grace."
+      },
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-20T07:57:19.712156+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": "2026-05-06T16:32:37.597579+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-05-06T16:32:37.597579+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "655d36ac-5dcc-403a-bd9a-df572187088a",
+      "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "companion_behavior",
+      "lever_name": "interpretive_depth",
+      "lever_from": "not set",
+      "lever_to": "deep",
+      "summary_text": "Focus on Augustine's theological framework over general spiritual guidance",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Ambrose is doctrinally sound and understands the whole book, but his style is still too smooth and reader-guidance oriented. Tighten the Christian-confessional frame. Reduce phrases that sound like modern reflective coaching or curated reading advice. When answering application-boundary questions, anchor more explicitly in Augustine’s theology of sin, grace, confession, prayer, and rest in God, and avoid rephrasing the book as a prompt for personal introspection unless the reader explicitly asks for that"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a companion behavior issue - Ambrose needs less modern coaching language and stronger theological anchoring. I'll adjust the directness to be more explicit about Augustine's doctrinal framework and reduce the smoothed-over guidance style."
+        },
+        {
+          "role": "user",
+          "content": "A is better than B, but it still ends in reader-guidance language. Keep Augustine’s Christian-confessional frame and remove phrases like “invites readers to reflect on their own spiritual journeys.” Emphasize confession before God, sin, grace, conversion, and rest in God, without reframing the book as self-discovery or a generalized spiritual journey"
+        },
+        {
+          "role": "user",
+          "content": "A is better than B, but it still ends in reader-guidance language. Keep Augustine’s Christian-confessional frame and remove phrases like “invites readers to reflect on their own spiritual journeys.” Emphasize confession before God, sin, grace, conversion, and rest in God, without reframing the book as self-discovery or a generalized spiritual journey"
+        },
+        {
+          "role": "assistant",
+          "content": "The directness change helped but didn't fully eliminate the modern spiritual guidance framing. I need to adjust the interpretive depth to focus more on Augustine's specific theological concepts rather than broader application language.\n\n```json\n{\"classification\": \"companion_behavior\", \"lever\": \"interpretive_depth\", \"from_value\": \"not set\", \"to_value\": \"deep\", \"summary\": \"Focus on Augustine's theological framework over general spiritual guidance\", \"requires_preview\": true}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-20T07:59:58.850252+00:00",
+      "decided_at": "2026-05-06T16:32:37.597579+00:00",
+      "applied_at": "2026-05-06T16:32:37.597579+00:00",
+      "state": "applied",
+      "accepted_for_test_at": "2026-05-06T16:32:37.597579+00:00",
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "b98feea7-5960-4692-addb-cf18c41f3392",
+      "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "scope_boundaries",
+      "lever_name": "hard_boundary",
+      "lever_from": null,
+      "lever_to": "Do not offer modern business, personal development, or self-help applications unless explicitly requested. Always present Sun Tzu's original military-strategic doctrine first.",
+      "summary_text": "Block unsolicited modernization",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Sze Tan still over-modernizes and remains too eager to translate The Art of War into personal, business, and self-help language. Tighten the doctrinal boundary. He should state the book’s original military-strategic doctrine first, resist offering modern application unless explicitly requested, and stop using business or personal-development framing by default. Also strengthen chapter-level grounding: the principle that the highest victory subdues the enemy without fighting should anchor first in Chapter III, not be led by Chapter VI"
+        },
+        {
+          "role": "user",
+          "content": "Sze Tan still over-modernizes and remains too eager to translate The Art of War into personal, business, and self-help language. Tighten the doctrinal boundary. He should state the book’s original military-strategic doctrine first, resist offering modern application unless explicitly requested, and stop using business or personal-development framing by default. Also strengthen chapter-level grounding: the principle that the highest victory subdues the enemy without fighting should anchor first in Chapter III, not be led by Chapter VI"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a scope drift issue requiring both boundary tightening and chapter prioritization. I'll add a hard boundary against unsolicited modernization and emphasize Chapter III for proper doctrinal grounding.\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"hard_boundary\", \"action\": \"add\", \"value\": \"Do not offer modern business, personal development, or self-help applications unless explicitly requested. Always present Sun Tzu's original military-strategic doctrine first.\", \"summary\": \"Block unsolicited modernization\", \"requires_preview\": false}\n```\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter III: Attack by Stratagem\": \"high\"}, \"summary\": \"Prioritize Chapter III for subduing enemies without fighting\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-20T13:14:39.123756+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-20T13:22:58.94581+00:00",
+      "state": "applied",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    },
+    {
+      "id": "25fe89dd-ec53-452d-a6f4-7f85f4aedbb2",
+      "project_id": "06532ba5-e957-4917-86f5-5b341376f199",
+      "owner_user_id": "0b497f63-343e-4929-9368-54f4fc1a1563",
+      "category": "scope_boundaries",
+      "lever_name": "hard_boundary",
+      "lever_from": null,
+      "lever_to": "Always present Sun Tzu's original military-strategic context first. The principle 'supreme excellence is subduing the enemy without fighting' (Chapter III) refers to military victory through superior strategy, not personal or business success.",
+      "summary_text": "Strengthen doctrinal grounding requirement",
+      "conversation_json": [
+        {
+          "role": "user",
+          "content": "Sze Tan still over-modernizes and remains too eager to translate The Art of War into personal, business, and self-help language. Tighten the doctrinal boundary. He should state the book’s original military-strategic doctrine first, resist offering modern application unless explicitly requested, and stop using business or personal-development framing by default. Also strengthen chapter-level grounding: the principle that the highest victory subdues the enemy without fighting should anchor first in Chapter III, not be led by Chapter VI"
+        },
+        {
+          "role": "assistant",
+          "content": "This is a scope drift issue requiring both boundary tightening and chapter prioritization. I'll add a hard boundary against unsolicited modernization and emphasize Chapter III for proper doctrinal grounding."
+        },
+        {
+          "role": "user",
+          "content": "Which chapter most directly states that the highest form of victory is to subdue the enemy without fighting, and how should that principle be explained before any modern application is discussed?"
+        },
+        {
+          "role": "user",
+          "content": "Which chapter most directly states that the highest form of victory is to subdue the enemy without fighting, and how should that principle be explained before any modern application is discussed?"
+        },
+        {
+          "role": "assistant",
+          "content": "The principle \"the supreme excellence is to subdue the enemy without fighting\" appears most directly in **Chapter III: Strategic Attack**. This should be explained as Sun Tzu's core military doctrine: that the highest strategic skill lies in winning through superior positioning, intelligence, and psychological pressure rather than direct combat - preserving your own forces while achieving complete victory over the enemy's will to resist.\n\nHere are the adjustments:\n\n```json\n{\"classification\": \"scope_boundaries\", \"lever\": \"hard_boundary\", \"action\": \"add\", \"value\": \"Always present Sun Tzu's original military-strategic context first. The principle 'supreme excellence is subduing the enemy without fighting' (Chapter III) refers to military victory through superior strategy, not personal or business success.\", \"summary\": \"Strengthen doctrinal grounding requirement\", \"requires_preview\": false}\n```\n\n```json\n{\"classification\": \"book_knowledge\", \"lever\": \"chapter_emphasis\", \"value\": {\"Chapter III: Strategic Attack\": \"high\"}, \"summary\": \"Prioritize Chapter III for core strategic doctrine\", \"requires_preview\": false}\n```"
+        }
+      ],
+      "preview_comparison_json": null,
+      "authority_level": 2,
+      "status": "applied",
+      "created_at": "2026-04-20T13:23:38.996337+00:00",
+      "decided_at": null,
+      "applied_at": "2026-04-20T13:26:37.39903+00:00",
+      "state": "applied",
+      "accepted_for_test_at": null,
+      "rejected_at": null,
+      "test_session_id": null,
+      "test_results_json": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "One of the core ideas of \"The Art of War\" is the importance of strategic planning and preparation in achieving success. This principle can be connected to a concrete daily practice through the implementation of a \"Daily Strategic Review\" routine. Here’s how this practice can be structured:\n\n### Daily Strategic Review Practice\n\n**1. Set Aside Time**: Dedicate 15-30 minutes each day, preferably at the beginning or end of your workday, to reflect on your goals, tasks, and challenges.\n\n**2. Review Goals**: Start by reviewing your short-term and long-term goals. Ask yourself:\n   - What are my key objectives for the week/month?\n   - Are there any upcoming deadlines or important meetings?\n\n**3. Assess Current Challenges**: Identify any obstacles or conflicts you are currently facing. Consider:\n   - What challenges did I encounter yesterday?\n   - Are there any potential conflicts with colleagues or stakeholders that need addressing?\n\n**4. Analyze Resources and Strengths**: Reflect on the resources at your disposal and your own strengths. Consider:\n   - What resources (time, personnel, tools) do I have available to tackle today’s tasks?\n   - What strengths can I leverage to overcome challenges?\n\n**5. Plan Strategic Actions**: Based on your assessment, outline specific actions for the day. This could include:\n   - Prioritizing tasks that align with your goals.\n   - Developing strategies to address conflicts or challenges.\n   - Identifying opportunities for collaboration or negotiation.\n\n**6. Anticipate and Adapt**: Think ahead about potential changes or unexpected developments. Ask yourself:\n   - What could go wrong today, and how can I prepare for it?\n   - How can I remain flexible and adapt my plans if circumstances change?\n\n**7. Reflect and Adjust**: At the end of the day, take a few minutes to reflect on what worked and what didn’t. Consider:\n   - Did I achieve my goals for the day?\n   - What lessons can I learn from today’s experiences to improve my strategy tomorrow?\n\n### Benefits of the Daily Strategic Review\n\n- **Enhanced Focus**: By regularly reviewing your goals and challenges, you maintain a clear focus on what is important.\n- **Proactive Problem-Solving**: Anticipating challenges allows you to address issues before they escalate, embodying Sun Tzu’s principle of preparation.\n- **Increased Adaptability**: Regular reflection helps you become more adaptable, as you learn to adjust your strategies based on daily experiences.\n- **Improved Decision-Making**: The practice encourages thoughtful decision-making, aligning with the idea of knowing oneself and one’s environment.\n\nBy integrating this daily practice into your routine, you embody the strategic principles of \"The Art of War,\" applying them to your personal and professional life in a concrete and actionable way. This approach not only enhances your effectiveness but also fosters a mindset of continuous improvement and strategic awareness.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book Art of War by Sun Tzu.",
+  "session_uuid": "ca5b1838-8ea9-4f71-a0dd-59d563a06e5d",
+  "token_usage": {
+    "input_tokens": 2240,
+    "output_tokens": 589,
+    "total_tokens": 2829
+  },
+  "latency_seconds": 13.5,
+  "timestamp_utc": "2026-05-09T13:27:59.871645+00:00"
+}

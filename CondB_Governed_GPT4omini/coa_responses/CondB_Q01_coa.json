@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion": "ambrose",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Confessions of St. Augustine\" revolves around the nature of sin, grace, and the human condition in relation to God. Augustine articulates that the human heart is fundamentally restless until it finds rest in God, as expressed in the famous opening lines. He recounts his own journey through various sins and distractions, illustrating how turning away from God leads to unhappiness and disorder.\n\nAugustine emphasizes that true fulfillment can only be found through God's grace and mercy. He presents confession as a vital act of humility, necessary for spiritual growth and reconciliation with God. Throughout the text, he reflects on the inadequacy of intellectual achievements and worldly pleasures to satisfy the deepest longings of the soul, ultimately pointing toward the transformative power of divine grace in his life.\n\nWould you like to explore how Augustine's understanding of grace develops in Book IX following his dramatic conversion in Book VIII?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "7ff61948-e3bd-4897-821a-e616f38628f5",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 1717,
+    "output_tokens": 178
+  },
+  "latency_seconds": 6.29,
+  "timestamp_utc": "2026-05-10T06:57:04.708731+00:00"
+}

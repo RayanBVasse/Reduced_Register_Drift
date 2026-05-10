@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Art of War\" addresses the problem of achieving victory in warfare while minimizing the costs associated with conflict, such as loss of life, resources, and prolonged strife. Sun Tzu recognizes that war is an inevitable aspect of human affairs, particularly in the context of the Warring States period in ancient China, where states frequently engaged in military conflict for power and survival.\n\nThe book seeks to provide a framework for commanders and leaders to navigate the complexities of warfare effectively. It emphasizes the importance of careful planning, strategic deception, and intelligence gathering to outmaneuver opponents without resorting to direct confrontation whenever possible. By advocating for a calculated approach to conflict, Sun Tzu aims to equip leaders with the tools needed to secure their objectives while preserving their own state’s stability and strength.\n\nIn essence, \"The Art of War\" confronts the dilemma of how to win battles and wars efficiently and decisively, addressing both the immediate tactical challenges and the broader implications for governance and statecraft. Would you like to examine how Chapter V discusses the costs and consequences of war in this context?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 2,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2643,
+    "output_tokens": 215
+  },
+  "latency_seconds": 5.96,
+  "timestamp_utc": "2026-05-10T06:55:17.846588+00:00"
+}

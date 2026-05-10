@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion": "sylva",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, the framework of \"Walden\" and \"On the Duty of Civil Disobedience\" is underpinned by specific beliefs about God, human nature, society, and the self. Thoreau's philosophy reflects a transcendentalist perspective, which emphasizes the inherent goodness of both people and nature. He believes that individuals possess an inner moral compass that guides them toward truth and authenticity. This belief in a higher moral order is evident in his assertion that individuals must act according to their conscience, as articulated in \"Civil Disobedience.\"\n\nThoreau also holds a critical view of society, suggesting that social conventions often hinder personal and moral development. In \"Walden,\" he critiques the material pursuits that dominate modern life, arguing that they distract individuals from understanding their true needs and potential. His call for simplicity and self-reliance stems from a belief in the importance of individual experience over societal expectations.\n\nAdditionally, Thoreau’s reflections on nature reveal his belief in its spiritual significance. He sees nature as a source of inspiration and wisdom, asserting that engagement with the natural world can lead to deeper self-understanding. This interconnectedness between humanity and nature is central to his argument for living deliberately.\n\nWould you like to delve deeper into how Thoreau's views on solitude in Chapter 5 relate to his beliefs about human nature?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "e0d4438a-702d-4205-9867-8627d3a6ce9b",
+  "access_mode": "paid",
+  "turns_used": 9,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3967,
+    "output_tokens": 268
+  },
+  "latency_seconds": 8.23,
+  "timestamp_utc": "2026-05-10T07:14:04.204535+00:00"
+}

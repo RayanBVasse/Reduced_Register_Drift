@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion": "miriam",
+  "cluster": "G3",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Nathan the Wise\" addresses the problem of religious intolerance and the conflicts that arise from dogmatic certainty about religious truth. Lessing critiques the absolutist mindset that leads individuals to believe their faith is the only valid one, which often results in prejudice, suspicion, and violence among different religious communities. Through the interactions of Nathan, Saladin, and the Templar, the play showcases how such dogmatism can be detrimental to human relationships and societal harmony.\n\nAdditionally, the book seeks to demonstrate that genuine tolerance requires a recognition of our shared humanity and an acknowledgment of the limits of human knowledge regarding divine truths. By illustrating characters who engage in meaningful dialogue across religious boundaries, Lessing advocates for an approach that prioritizes moral character and actions over rigid adherence to doctrine. Would you like to delve deeper into how Nathan's philosophical discussions in Chapter 4 reflect this critique of dogmatism?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "cd1854b1-88f7-447a-a47f-e250e2119878",
+  "access_mode": "paid",
+  "turns_used": 2,
+  "turns_cap": 15,
+  "token_usage": {
+    "input_tokens": 1931,
+    "output_tokens": 176
+  },
+  "latency_seconds": 9.07,
+  "timestamp_utc": "2026-05-10T07:05:30.803468+00:00"
+}

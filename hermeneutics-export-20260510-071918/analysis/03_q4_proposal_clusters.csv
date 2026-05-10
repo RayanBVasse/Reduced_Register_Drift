@@ -1,0 +1,11 @@
+slug,title,cluster,n,first,last,span_h,median_delta_min,min_delta_min,max_delta_min,bursts
+meditations,Meditations,G1,10,2026-04-18T04:48:11.460423+00:00,2026-04-23T05:16:14.504478+00:00,120.47,58.8,1.9,3796.5,3
+the-confessions-of-st-augustine,The Confessions of St. Augustine,G1,4,2026-04-20T07:57:19.712156+00:00,2026-04-20T13:23:38.996337+00:00,5.44,9.0,2.7,314.7,2
+the-varieties-of-religious-experience,The Varieties of Religious Experience,G1,4,2026-04-26T14:56:21.200155+00:00,2026-04-26T16:28:28.473705+00:00,1.54,21.7,20.8,49.6,1
+autobiography-of-john-stuart-mill,Autobiography of John Stuart Mill,G1,1,2026-05-09T09:09:34.243320+00:00,2026-05-09T09:09:34.243320+00:00,0.0,,,,0
+autobiography-of-benjamin-franklin,Autobiography of Benjamin Franklin,G2,7,2026-04-20T17:56:28.469007+00:00,2026-04-22T20:44:47.519290+00:00,50.81,8.5,4.1,2468.1,3
+the-souls-of-black-folk,The Souls of Black Folk,G2,5,2026-04-25T11:49:47.618853+00:00,2026-05-07T18:52:12.787213+00:00,295.04,41.5,27.7,17594.2,1
+narrative-of-the-life-of-frederick-douglass,Narrative of the Life of Frederick Douglass,G2,3,2026-04-19T15:13:08.931258+00:00,2026-05-01T06:59:22.003547+00:00,279.77,11608.0,5178.2,11608.0,0
+walden-and-on-the-duty-of-civil-disobedience,"Walden, and On The Duty Of Civil Disobedience",G2,2,2026-04-21T05:00:32.650337+00:00,2026-04-21T05:02:16.024405+00:00,0.03,1.7,1.7,1.7,1
+art-of-war,Art of War,G3,8,2026-04-19T18:54:31.132917+00:00,2026-04-22T19:49:52.477211+00:00,72.92,25.8,3.9,3225.0,2
+nathan-the-wise,Nathan the Wise,G3,2,2026-04-23T10:29:44.658808+00:00,2026-04-23T10:50:31.876115+00:00,0.35,20.8,20.8,20.8,1

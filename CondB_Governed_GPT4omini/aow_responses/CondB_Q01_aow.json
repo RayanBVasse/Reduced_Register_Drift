@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion": "sze_tan",
+  "cluster": "G3",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Art of War\" is that the most effective way to achieve victory in conflict is through strategic planning, intelligence, and the careful assessment of both one's own capabilities and those of the enemy. Sun Tzu posits that success in warfare is determined long before the actual battle occurs; it hinges on thorough preparation, understanding the terrain, and knowing when to engage or avoid confrontation altogether.\n\nA key teaching is that \"to subdue the enemy without fighting is the acme of skill.\" This underscores the importance of strategy over brute force, advocating for clever maneuvers, deception, and psychological tactics to undermine an opponent’s resolve. The text emphasizes that prolonged warfare can drain resources and morale, making swift and decisive action preferable. \n\nUltimately, Sun Tzu's work serves as a comprehensive guide to military strategy and statecraft, illustrating how wisdom, adaptability, and foresight are crucial for securing victory while minimizing unnecessary conflict. Would you like to explore how Chapter III elaborates on the significance of knowledge in achieving victory?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "beb36f50-28ca-48fc-905f-29d0e1b26770",
+  "access_mode": "paid",
+  "turns_used": 1,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 2419,
+    "output_tokens": 207
+  },
+  "latency_seconds": 6.09,
+  "timestamp_utc": "2026-05-10T06:55:10.384367+00:00"
+}

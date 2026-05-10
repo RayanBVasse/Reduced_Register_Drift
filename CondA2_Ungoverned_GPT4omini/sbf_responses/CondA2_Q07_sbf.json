@@ -1,0 +1,27 @@
+{
+  "condition": "A2_ungoverned_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "One of the core ideas of \"The Souls of Black Folk\" is the concept of **double consciousness**, which refers to the internal conflict experienced by individuals who navigate multiple identities, particularly in the context of being both Black and American. This idea can be connected to a concrete daily practice: **mindful reflection and active listening**.\n\n### Daily Practice: Mindful Reflection and Active Listening\n\n**1. Mindful Reflection:**\n   - **What to Do:** Set aside a few minutes each day for personal reflection. This can be done through journaling, meditation, or simply quiet contemplation. Focus on your own identity, experiences, and the various roles you play in your life (e.g., as a professional, family member, community member).\n   - **How It Connects:** Reflecting on your own experiences of identity can help you understand the complexities of double consciousness. Consider how societal perceptions may influence your self-perception and how you navigate different spaces. This practice encourages self-awareness and empathy toward others who may experience similar or different struggles.\n\n**2. Active Listening:**\n   - **What to Do:** In your daily interactions—whether in the workplace, at home, or in social settings—practice active listening. This means fully concentrating on what the other person is saying, asking clarifying questions, and reflecting back what you hear to ensure understanding.\n   - **How It Connects:** Active listening fosters an environment where individuals feel heard and valued, which is essential for understanding diverse perspectives. By engaging with others' experiences, particularly those from different backgrounds, you can gain insights into their identities and the challenges they face, aligning with Du Bois's emphasis on the importance of recognizing and valuing cultural heritage.\n\n### Implementation:\n- **Set a Time:** Dedicate 10-15 minutes each day for mindful reflection, perhaps in the morning or before bed.\n- **Create a Safe Space:** Find a quiet place where you can reflect without distractions. For active listening, approach conversations with an open mind and a genuine desire to understand.\n- **Engage with Others:** In meetings or discussions, consciously practice active listening. Encourage team members to share their experiences and perspectives, especially those from underrepresented backgrounds.\n\n### Outcome:\nBy incorporating mindful reflection and active listening into your daily routine, you can cultivate a deeper understanding of your own identity and the identities of others. This practice not only enhances personal growth but also fosters a more inclusive and empathetic environment, echoing Du Bois's call for awareness and advocacy in the face of societal challenges.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a helpful assistant that answers questions about the book The Souls of Black Folk by W. E. B. Du Bois.",
+  "session_uuid": "9dc1487b-f54b-4e70-97ba-d8a6ca4b3e72",
+  "token_usage": {
+    "input_tokens": 2287,
+    "output_tokens": 508,
+    "total_tokens": 2795
+  },
+  "latency_seconds": 6.61,
+  "timestamp_utc": "2026-05-09T13:42:32.161234+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "condition": "B_governed_companion",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion": "mira",
+  "cluster": "G1",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If \"The Varieties of Religious Experience\" is turned into general life advice, much of the depth and complexity inherent in William James's exploration of religious experiences would be lost. The book is fundamentally a psychological study that seeks to understand the nuances of individual belief systems and the diverse ways people engage with spirituality. Reducing it to simplistic life advice risks oversimplifying the rich tapestry of human experience that James aims to illuminate.\n\nAdditionally, the specific context in which James wrote—early 20th-century thought and the emerging field of psychology—provides critical insights that may not translate effectively into contemporary self-help frameworks. His nuanced distinctions between temperaments, such as the 'healthy-minded' versus the 'sick soul,' are meant to provoke deeper reflection rather than serve as straightforward prescriptions for personal behavior.\n\nMoreover, by framing the book as general life advice, one might overlook its emphasis on the subjective nature of religious experience and the importance of individual accounts. This could lead to a homogenization of spiritual practices and beliefs, undermining James's core argument that there is no single essence to religion; rather, it is through its varieties that we gain meaningful insights into human psychology and our relationship with the unseen.\n\nWould you like to examine how James discusses the characteristics of saintliness in Chapters 10 and 11 and their implications for understanding virtue?",
+  "model": "gpt-4o-mini-2024-07-18",
+  "thread_id": "65fe2d17-5217-4da3-b50d-497a110cf6f4",
+  "access_mode": "paid",
+  "turns_used": 10,
+  "turns_cap": 55,
+  "token_usage": {
+    "input_tokens": 3464,
+    "output_tokens": 266
+  },
+  "latency_seconds": 6.92,
+  "timestamp_utc": "2026-05-10T07:12:02.594298+00:00"
+}
