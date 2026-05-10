@@ -1,0 +1,31 @@
+abbrev,title,cluster,condition,d1_per1k,d2_per1k,d3_per1k,d4_per1k,total_per1k
+aobf,Autobiography of Benjamin Franklin,G2,A1,0.3108,3.16,1.2407,0.1377,4.8492
+aobf,Autobiography of Benjamin Franklin,G2,A2,0.6842,5.5645,2.2176,1.1548,9.621
+aobf,Autobiography of Benjamin Franklin,G2,B,0.0,4.4416,2.4051,1.1842,8.0308
+aow,Art of War,G3,A1,0.1217,2.544,1.4968,0.0,4.1625
+aow,Art of War,G3,A2,0.1783,3.6041,1.7228,0.9484,6.4535
+aow,Art of War,G3,B,0.0,1.7999,1.0576,0.0,2.8575
+coa,The Confessions of St. Augustine,G1,A1,0.1217,0.9114,3.3909,0.6243,5.0482
+coa,The Confessions of St. Augustine,G1,A2,0.6244,4.9899,5.4012,1.2372,12.2527
+coa,The Confessions of St. Augustine,G1,B,0.0,2.2499,3.708,1.2413,7.1992
+jsm,Autobiography of John Stuart Mill,G1,A1,0.9958,3.1674,2.8977,0.2452,7.3061
+jsm,Autobiography of John Stuart Mill,G1,A2,1.5177,6.0814,1.7648,1.1841,10.5481
+jsm,Autobiography of John Stuart Mill,G1,B,0.0,4.0551,1.3904,0.9543,6.3998
+lofd,Narrative of the Life of Frederick Douglass,G2,A1,1.9178,2.0999,1.6763,0.2197,5.9137
+lofd,Narrative of the Life of Frederick Douglass,G2,A2,3.5648,4.4256,2.7584,0.8325,11.5814
+lofd,Narrative of the Life of Frederick Douglass,G2,B,1.2608,1.6306,1.243,0.3876,4.522
+med,Meditations,G1,A1,3.4507,1.2348,0.9922,0.0721,5.7498
+med,Meditations,G1,A2,5.0662,5.2226,2.0135,2.1031,14.4054
+med,Meditations,G1,B,3.3531,4.2997,0.751,1.2121,9.6159
+nw,Nathan the Wise,G3,A1,0.6251,1.2227,0.878,0.113,2.8389
+nw,Nathan the Wise,G3,A2,0.1404,1.943,1.5835,1.9634,5.6303
+nw,Nathan the Wise,G3,B,0.0,1.4628,0.0,0.4301,1.8929
+sbf,The Souls of Black Folk,G2,A1,2.2036,0.5011,0.092,0.2252,3.0219
+sbf,The Souls of Black Folk,G2,A2,1.967,1.9454,0.6417,1.0138,5.5679
+sbf,The Souls of Black Folk,G2,B,2.0588,1.0976,0.0,0.0,3.1563
+vre,The Varieties of Religious Experience,G1,A1,2.1159,2.0342,0.8949,0.0,5.045
+vre,The Varieties of Religious Experience,G1,A2,1.3657,2.6262,1.1837,1.8143,6.9899
+vre,The Varieties of Religious Experience,G1,B,0.0,2.2015,0.7077,0.4141,3.3233
+wdocd,"Walden, and On the Duty of Civil Disobedience",G2,A1,0.0826,1.7515,0.9939,0.0,2.828
+wdocd,"Walden, and On the Duty of Civil Disobedience",G2,A2,0.0,3.342,1.1036,1.7124,6.158
+wdocd,"Walden, and On the Duty of Civil Disobedience",G2,B,0.0,1.7944,0.0,0.7227,2.5171

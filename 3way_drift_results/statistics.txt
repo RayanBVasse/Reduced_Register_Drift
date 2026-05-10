@@ -1,0 +1,58 @@
+========================================================================
+DRIFT REDUCTION — pairwise paired Wilcoxon results
+========================================================================
+
+Tier 1 lexicon (43 markers, H2H Appendix A).
+Score = drift markers per 1,000 tokens, paired by (book, qid).
+Effect size r = Z / sqrt(N).
+
+------------------------------------------------------------------------
+COMPARISON: Cond_A1 (Gemini ungoverned) vs Cond_B (governed)
+  Hypothesis: A1 > B
+------------------------------------------------------------------------
+  Tier 1 total — n=150  mean(A1)=4.676  mean(B)=4.952  diff=-0.275
+                W=3892.0  p=0.71268         ns  r=0.000
+  D1 (Therapeutic / self-help       )  mean(A1)=1.195  mean(B)=0.667  diff=+0.527  W=1124.0  p=0.00151         **  r=0.242
+  D2 (Productivity / application    )  mean(A1)=1.863  mean(B)=2.503  diff=-0.641  W=2026.0  p=0.94146         ns  r=0.000
+  D3 (Doctrinal / intellectual flatt)  mean(A1)=1.455  mean(B)=1.126  diff=+0.329  W=1540.0  p=0.06665    (trend)  r=0.123
+  D4 (Chatty-assistant / audience-sm)  mean(A1)=0.164  mean(B)=0.655  diff=-0.491  W=66.0  p=0.99844         ns  r=0.000
+
+------------------------------------------------------------------------
+COMPARISON: Cond_A2 (gpt-4o-mini ungoverned) vs Cond_B (governed)  [matched-model]
+  Hypothesis: A2 > B
+------------------------------------------------------------------------
+  Tier 1 total — n=150  mean(A2)=8.921  mean(B)=4.952  diff=+3.969
+                W=7453.0  p=0.00000        ***  r=0.496
+  D1 (Therapeutic / self-help       )  mean(A2)=1.511  mean(B)=0.667  diff=+0.844  W=1110.0  p=0.00024        ***  r=0.285
+  D2 (Productivity / application    )  mean(A2)=3.974  mean(B)=2.503  diff=+1.471  W=4601.0  p=0.00021        ***  r=0.288
+  D3 (Doctrinal / intellectual flatt)  mean(A2)=2.039  mean(B)=1.126  diff=+0.913  W=2513.0  p=0.00001        ***  r=0.350
+  D4 (Chatty-assistant / audience-sm)  mean(A2)=1.396  mean(B)=0.655  diff=+0.742  W=1257.0  p=0.00249         **  r=0.229
+
+------------------------------------------------------------------------
+COMPARISON: Cond_A1 (Gemini) vs Cond_A2 (gpt-4o-mini ungoverned)  [model effect]
+  Hypothesis: A1 != A2
+------------------------------------------------------------------------
+  Tier 1 total — n=150  mean(A1)=4.676  mean(A2)=8.921  diff=-4.245
+                W=1419.0  p=0.00000        ***  r=0.499
+  D1 (Therapeutic / self-help       )  mean(A1)=1.195  mean(A2)=1.511  diff=-0.316  W=1148.0  p=0.10292         ns  r=0.133
+  D2 (Productivity / application    )  mean(A1)=1.863  mean(A2)=3.974  diff=-2.112  W=1446.0  p=0.00000        ***  r=0.488
+  D3 (Doctrinal / intellectual flatt)  mean(A1)=1.455  mean(A2)=2.039  diff=-0.584  W=1527.5  p=0.00522         **  r=0.228
+  D4 (Chatty-assistant / audience-sm)  mean(A1)=0.164  mean(A2)=1.396  diff=-1.233  W=34.0  p=0.00000        ***  r=0.499
+
+========================================================================
+D4 RAW vs STRIPPED — platform interface contribution to D4
+========================================================================
+
+D4 markers per 1,000 tokens, three conditions, two views:
+  raw      = full reply incl. terminal interface suffix (Cond_B only)
+  stripped = reply with platform suffix removed before counting
+Cond_A1 and Cond_A2 are not stripped (no platform suffix exists).
+
+  A1:  D4 raw = 0.164  D4 stripped = 0.164  Δ = +0.000  (suffixes stripped: 0/150)
+  A2:  D4 raw = 1.396  D4 stripped = 1.396  Δ = +0.000  (suffixes stripped: 0/150)
+  B:  D4 raw = 5.501  D4 stripped = 0.655  Δ = +4.846  (suffixes stripped: 145/150)
+
+Tier 1 total per 1,000 tokens, three conditions:
+  A1:  total raw = 4.676  total stripped = 4.676  Δ = +0.000
+  A2:  total raw = 8.921  total stripped = 8.921  Δ = +0.000
+  B:  total raw = 9.393  total stripped = 4.951  Δ = +4.442
