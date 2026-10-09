@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "Connecting the core idea of \"The Art of War\"—specifically, the principle of strategic planning and adaptability—to a concrete daily practice can be illustrated through the practice of setting and reviewing objectives in a professional context.\n\n**Daily Practice: Strategic Objective Setting and Review**\n\n1. **Setting Clear Objectives**: At the beginning of each week, a leader or manager can establish specific, measurable objectives for their team or project. This aligns with Sun Tzu's emphasis on thorough preparation and understanding the goals of engagement. The objectives should be informed by an analysis of the current situation, including strengths, weaknesses, opportunities, and threats (SWOT analysis).\n\n2. **Assessing the Environment**: Each day, the leader should take time to assess the external and internal environment that may impact these objectives. This involves gathering information about market conditions, competitor actions, and team dynamics, reflecting Sun Tzu's insistence on knowing both oneself and the adversary.\n\n3. **Adapting Strategies**: As circumstances change—whether due to new information, unexpected challenges, or shifts in team dynamics—the leader should be prepared to adapt their strategies. This could involve adjusting objectives, reallocating resources, or modifying approaches to tasks. This practice embodies the principle of flexibility that Sun Tzu advocates.\n\n4. **Daily Reflection and Review**: At the end of each day, the leader should reflect on the progress made toward the objectives. This includes evaluating what strategies worked, what did not, and why. Such reflection allows for continuous learning and improvement, echoing Sun Tzu's notion of learning from each engagement.\n\n5. **Communication and Morale**: Throughout the week, the leader should maintain open lines of communication with their team, ensuring that morale is high and that everyone is aligned with the objectives. This practice resonates with Sun Tzu's emphasis on the importance of leadership and the cohesion of one's forces.\n\nBy integrating these practices into daily routines, a leader can embody the strategic principles articulated in \"The Art of War,\" fostering a proactive and adaptable approach to achieving objectives while navigating the complexities of their professional environment.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 2165,
+    "output_tokens": 421,
+    "total_tokens": 2586
+  },
+  "latency_seconds": 4.85,
+  "timestamp_utc": "2026-10-05T16:22:09.959346+00:00"
+}

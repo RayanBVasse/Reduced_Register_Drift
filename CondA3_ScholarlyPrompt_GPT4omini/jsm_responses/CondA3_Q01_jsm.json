@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "jsm",
+  "book_slug": "autobiography-of-john-stuart-mill",
+  "book_title": "Autobiography of John Stuart Mill",
+  "book_author_canonical": "John Stuart Mill",
+  "book_author_display": "John Stuart Miller",
+  "companion_for_cross_ref": "Auden",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The \"Autobiography of John Stuart Mill\" does not present a singular central argument or teaching in the manner of a systematic philosophical treatise. Instead, it serves as a reflective account of Mill's life, intellectual development, and the influences that shaped his philosophical outlook. \n\nIn this work, Mill articulates the profound impact of his early education, particularly the rigorous and often austere instruction he received from his father, James Mill, and the intellectual environment fostered by the utilitarian philosophy of his upbringing. He discusses the formative experiences that led him to question and ultimately refine his views on liberty, individuality, and the role of society in the life of the individual.\n\nA significant theme in the autobiography is Mill's struggle with the constraints of utilitarianism as he perceived it, particularly in relation to the development of personal autonomy and the importance of individuality. He reflects on the tension between societal expectations and personal freedom, emphasizing the necessity of allowing individuals to pursue their own paths to happiness, which he argues is essential for both personal and societal progress.\n\nMoreover, Mill recounts his intellectual evolution, including his eventual critique of certain utilitarian principles and his advocacy for a more nuanced understanding of happiness that incorporates qualitative distinctions. His experiences with depression and the subsequent recovery through engagement with literature and philosophy further illustrate the interplay between personal experience and intellectual inquiry.\n\nThus, while the autobiography does not distill a singular teaching, it reveals Mill's commitment to the principles of liberty, individuality, and the importance of intellectual and moral development, all of which are interwoven throughout his philosophical contributions.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of John Stuart Mill by John Stuart Mill. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "d86027fc-f3ed-4e91-b168-687628082515",
+  "token_usage": {
+    "input_tokens": 236,
+    "output_tokens": 313,
+    "total_tokens": 549
+  },
+  "latency_seconds": 3.84,
+  "timestamp_utc": "2026-10-05T16:29:27.977645+00:00"
+}

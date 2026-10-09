@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Souls of Black Folk\" addresses the profound and multifaceted problem of racial inequality and the systemic oppression faced by African Americans in the United States, particularly in the post-Reconstruction era. Du Bois confronts the pervasive social, political, and economic injustices that arise from a society structured on white supremacy and the legacy of slavery.\n\nOne of the primary issues Du Bois highlights is the psychological and social impact of racism, encapsulated in the concept of \"double consciousness.\" This phenomenon reflects the internal struggle of African Americans who are forced to reconcile their self-perception with the derogatory views imposed upon them by a racist society. This duality creates a sense of alienation and complicates their quest for identity and self-worth.\n\nAdditionally, Du Bois critiques the educational and economic strategies advocated by figures like Booker T. Washington, arguing that such approaches fail to address the fundamental need for civil rights and political representation. He emphasizes the importance of higher education and intellectual leadership in the fight for equality, advocating for a \"Talented Tenth\" that would uplift the entire race through education and activism.\n\nMoreover, Du Bois seeks to illuminate the cultural richness and contributions of Black Americans, countering the dominant narratives that dehumanize and marginalize them. He aims to foster a greater understanding of the Black experience and to galvanize support for social justice and civil rights.\n\nIn summary, the book addresses the systemic injustices of racism, the psychological effects of oppression, the inadequacies of certain reform strategies, and the urgent need for a collective movement towards equality and recognition of Black humanity.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 576,
+    "output_tokens": 312,
+    "total_tokens": 888
+  },
+  "latency_seconds": 3.28,
+  "timestamp_utc": "2026-10-05T16:36:03.191879+00:00"
+}

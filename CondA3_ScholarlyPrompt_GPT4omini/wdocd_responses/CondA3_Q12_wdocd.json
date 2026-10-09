@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q12",
+  "question_text": "Which part of this book did you find most moving or inspiring?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "As an AI, I do not possess personal feelings or experiences, so I do not have the capacity to find any part of the book moving or inspiring in a subjective sense. However, I can highlight passages and themes from \"Walden\" and \"On the Duty of Civil Disobedience\" that many readers have found particularly impactful.\n\nIn \"Walden,\" Thoreau's reflections on nature and the simplicity of life resonate deeply with many. His descriptions of the changing seasons, the beauty of the natural world, and the profound insights gained from solitude often inspire readers to seek a more meaningful connection with their environment. For instance, his assertion that \"I went to the woods because I wished to live deliberately, to front only the essential facts of life\" encapsulates a desire for authenticity and intentionality that many find compelling.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau's passionate argument for individual moral responsibility in the face of injustice has inspired countless activists and thinkers. His declaration that \"the only obligation which I have a right to assume is to do at any time what I think right\" emphasizes the importance of conscience and ethical action, encouraging individuals to stand up against societal wrongs. This call to act according to one's principles, even in the face of legal repercussions, resonates with those who seek to challenge injustice and advocate for change.\n\nThese themes and passages reflect the core ideas of Thoreau's works and have inspired many readers to reflect on their own lives, values, and responsibilities.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9d11e48e-3db4-4ce0-bdf4-74562845008e",
+  "token_usage": {
+    "input_tokens": 4414,
+    "output_tokens": 303,
+    "total_tokens": 4717
+  },
+  "latency_seconds": 2.89,
+  "timestamp_utc": "2026-10-05T16:40:43.746112+00:00"
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "book_id": "40d7e8d4-ca9b-489c-a2a1-edd4ee9c95c0",
+    "book_title": "Art of War",
+    "author_name": "Sun Tzŭ",
+    "owner_email": "rayan@living-literature.org",
+    "status": "hidden",
+    "slug": "art-of-war",
+    "file": "art-of-war-40d7e8d4.json"
+  },
+  {
+    "book_id": "c81e0f73-c727-4e03-a7ef-2f256c5f3fa6",
+    "book_title": "Art of War",
+    "author_name": "Sun Tzŭ",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "art-of-war",
+    "file": "art-of-war-c81e0f73.json"
+  },
+  {
+    "book_id": "d75f018a-8e0d-49f3-b01c-77a6e7fa9f87",
+    "book_title": "Autobiography of Benjamin Franklin",
+    "author_name": "Benjamin Franklin",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "autobiography-of-benjamin-franklin",
+    "file": "autobiography-of-benjamin-franklin-d75f018a.json"
+  },
+  {
+    "book_id": "c124bbd1-3d5f-44aa-9883-2a5382387e21",
+    "book_title": "Autobiography of John Stuart Mill",
+    "author_name": "John Stuart Miller",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "autobiography-of-john-stuart-mill",
+    "file": "autobiography-of-john-stuart-mill-c124bbd1.json"
+  },
+  {
+    "book_id": "faa65508-cc5d-4757-9d2f-abe350ca12e6",
+    "book_title": "Meditations",
+    "author_name": "Marcus Aurelius",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "meditations",
+    "file": "meditations-faa65508.json"
+  },
+  {
+    "book_id": "7eb68976-080f-4f43-818b-8e6ed4b8b097",
+    "book_title": "Narrative of the Life of Frederick Douglass",
+    "author_name": "Frederick Douglass",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "narrative-of-the-life-of-frederick-douglass",
+    "file": "narrative-of-the-life-of-frederick-douglass-7eb68976.json"
+  },
+  {
+    "book_id": "d52840ff-f18c-4361-9bdd-1e44f96a268e",
+    "book_title": "Nathan the Wise",
+    "author_name": "Gotthold Ephraim Lessing",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "nathan-the-wise",
+    "file": "nathan-the-wise-d52840ff.json"
+  },
+  {
+    "book_id": "06532ba5-e957-4917-86f5-5b341376f199",
+    "book_title": "The Confessions of St. Augustine",
+    "author_name": "Saint of Hippo Augustine",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "the-confessions-of-st-augustine",
+    "file": "the-confessions-of-st-augustine-06532ba5.json"
+  },
+  {
+    "book_id": "fa657976-8d1b-4e63-92b2-f56e6cd4a5ab",
+    "book_title": "Urban Monasticism",
+    "author_name": "Shane Matt",
+    "owner_email": "shine.material@gmail.com",
+    "status": "hidden",
+    "slug": "urban-monasticism",
+    "file": "urban-monasticism-fa657976.json"
+  },
+  {
+    "book_id": "8cba36b1-2fa7-4aad-9dd2-5fd2daaa7e6c",
+    "book_title": "Urban Monasticism",
+    "author_name": "Shane Matt",
+    "owner_email": "shine.material@gmail.com",
+    "status": "live_for_readers",
+    "slug": "urban-monasticism",
+    "file": "urban-monasticism-8cba36b1.json"
+  },
+  {
+    "book_id": "08011ac2-d6e6-4711-b58d-40bdac9f3665",
+    "book_title": "Walden, and On The Duty Of Civil Disobedience",
+    "author_name": "Henry David Thoreau",
+    "owner_email": "g10_ar@living-literature.org",
+    "status": "live_for_readers",
+    "slug": "walden-and-on-the-duty-of-civil-disobedience",
+    "file": "walden-and-on-the-duty-of-civil-disobedience-08011ac2.json"
+  }
+]

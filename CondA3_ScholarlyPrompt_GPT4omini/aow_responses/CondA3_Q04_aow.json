@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q04",
+  "question_text": "Some readers find this text personally helpful. Is that a faithful reading?",
+  "primary_drift": "D1",
+  "block": 2,
+  "reply": "While some readers may derive personal insights or applications from \"The Art of War,\" such interpretations may not align with the text's original intent or its primary focus on military strategy and philosophy. The work is fundamentally a treatise on the principles of warfare, emphasizing strategic thinking, the nature of conflict, and the dynamics of leadership in a military context.\n\nThe aphorisms and maxims within the text are designed to address the complexities of warfare rather than to serve as general life advice or personal development guidance. Sun Tzu's teachings are rooted in the specific historical and cultural milieu of ancient China, where the art of war was a critical aspect of statecraft and governance. The principles articulated in the text are meant to inform military leaders and strategists on how to navigate the challenges of conflict, rather than to provide a framework for personal or interpersonal challenges outside of that context.\n\nThus, while readers may find value in the text's insights on strategy, adaptability, and the nature of competition, such readings may risk anachronism or oversimplification of the work's deeper military and philosophical themes. A faithful reading of \"The Art of War\" recognizes its primary focus on warfare and strategy, rather than extending its principles into the realm of personal or self-help applications.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 1162,
+    "output_tokens": 252,
+    "total_tokens": 1414
+  },
+  "latency_seconds": 3.3,
+  "timestamp_utc": "2026-10-05T16:21:52.671815+00:00"
+}

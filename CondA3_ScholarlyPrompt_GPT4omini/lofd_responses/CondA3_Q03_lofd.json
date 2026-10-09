@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Narrative of the Life of Frederick Douglass\" is an autobiographical narrative that falls within the genre of slave narratives, a specific literary form that emerged in the 19th century. This genre is characterized by first-person accounts of the experiences of enslaved individuals, often detailing their struggles for freedom and the brutal realities of slavery. Douglass's work is not merely a personal memoir; it is also a political document aimed at advocating for the abolition of slavery and the recognition of African Americans as full citizens.\n\nThe narrative employs a rhetorical style that combines personal testimony with persuasive argumentation. Douglass uses vivid imagery and emotional appeals to engage the reader's conscience, illustrating the horrors of slavery while simultaneously asserting the dignity and humanity of the enslaved. His narrative is structured to educate the audience about the realities of slavery, challenge prevailing misconceptions, and inspire action against the institution.\n\nMoreover, Douglass's work is situated within the broader abolitionist movement, serving as a critical tool for advocacy and raising awareness among both sympathetic and indifferent audiences. It is a foundational text in American literature and social justice discourse, reflecting the complexities of identity, race, and the struggle for freedom in a deeply divided society. In its own terms, the book is a powerful testament to the resilience of the human spirit in the face of oppression and a clarion call for justice and equality.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 766,
+    "output_tokens": 271,
+    "total_tokens": 1037
+  },
+  "latency_seconds": 2.79,
+  "timestamp_utc": "2026-10-05T16:31:20.711468+00:00"
+}

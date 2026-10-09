@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Nathan the Wise\" is a dramatic work, specifically a play, that falls within the genre of Enlightenment literature. It is characterized by its philosophical underpinnings and its engagement with themes of reason, tolerance, and ethical conduct. The play is structured in five acts and employs a dialogue-driven format, which is typical of the theatrical tradition of the time, allowing for the exploration of complex ideas through character interactions.\n\nThe work is also a form of didactic literature, aiming to instruct its audience on the virtues of tolerance and the importance of understanding among different religious traditions. Lessing utilizes the conventions of the dramatic genre to present moral dilemmas and to provoke thought regarding the nature of faith, truth, and human relationships. \n\nMoreover, \"Nathan the Wise\" can be seen as a response to the religious conflicts of its time, particularly the Enlightenment's challenge to dogmatic beliefs. It embodies the ideals of the Enlightenment, such as rationality, humanism, and the pursuit of knowledge, while simultaneously critiquing the intolerance that often accompanies religious fervor.\n\nIn summary, \"Nathan the Wise\" is a philosophical drama that serves both as a critique of religious dogmatism and as a call for ethical engagement and mutual respect among diverse faiths, reflecting the intellectual currents of the Enlightenment period.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Nathan the Wise by Gotthold Ephraim Lessing. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "b6286326-835a-4f57-abf1-7a1b090c7b76",
+  "token_usage": {
+    "input_tokens": 843,
+    "output_tokens": 262,
+    "total_tokens": 1105
+  },
+  "latency_seconds": 2.99,
+  "timestamp_utc": "2026-10-05T16:34:33.293990+00:00"
+}

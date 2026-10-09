@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of the \"Autobiography of Benjamin Franklin\" lies in the exploration of self-improvement and the cultivation of virtue through a systematic approach to personal development. Franklin presents his life as a testament to the Enlightenment ideals of reason, industriousness, and moral rectitude. He articulates a methodical plan for achieving moral perfection, which he outlines through his famous list of thirteen virtues, including temperance, silence, order, and humility.\n\nFranklin's narrative is not merely a recounting of his life events; it serves as a philosophical treatise on the importance of self-governance and the pursuit of knowledge. He emphasizes the value of education, practical wisdom, and civic responsibility, arguing that individual improvement contributes to the greater good of society. His reflections on his own successes and failures provide a framework for understanding the complexities of human nature and the challenges inherent in the pursuit of virtue.\n\nMoreover, Franklin's work engages with the tension between individual ambition and communal obligation, suggesting that personal advancement should align with the welfare of the community. This dual focus on self and society encapsulates the Enlightenment belief in progress through rationality and ethical conduct. Thus, the \"Autobiography\" serves as both a personal memoir and a broader commentary on the ideals of the American Enlightenment, advocating for a life led by reasoned principles and moral integrity.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 234,
+    "output_tokens": 273,
+    "total_tokens": 507
+  },
+  "latency_seconds": 5.01,
+  "timestamp_utc": "2026-10-05T16:20:04.048280+00:00"
+}

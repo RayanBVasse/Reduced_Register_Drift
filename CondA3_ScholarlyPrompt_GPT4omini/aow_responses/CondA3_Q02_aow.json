@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Art of War\" addresses the problem of how to effectively conduct warfare and achieve victory in conflict. Sun Tzu seeks to elucidate the complexities of military strategy, providing guidance on how to navigate the uncertainties and challenges inherent in warfare. The text confronts the difficulties of understanding both the nature of the enemy and the conditions of the battlefield, as well as the need for a commander to maintain control over their own forces.\n\nKey problems identified in the text include:\n\n1. **Understanding the Enemy**: Sun Tzu emphasizes the necessity of knowing the enemy's strengths and weaknesses, as well as the importance of intelligence and reconnaissance in informing strategic decisions.\n\n2. **Adapting to Circumstances**: The text addresses the challenge of responding to the fluid and dynamic nature of conflict, advocating for flexibility in strategy and the ability to adjust plans based on the evolving situation.\n\n3. **Resource Management**: Sun Tzu discusses the logistical and economic aspects of warfare, highlighting the need for efficient use of resources and the implications of prolonged conflict on a state’s stability.\n\n4. **Morale and Leadership**: The book examines the role of leadership in maintaining the morale and discipline of troops, recognizing that the psychological state of an army can significantly influence the outcome of engagements.\n\n5. **Victory without Combat**: A central concern is the ideal of achieving victory through means other than direct confrontation, such as diplomacy, deception, and strategic positioning, thereby minimizing loss and destruction.\n\nIn sum, \"The Art of War\" seeks to provide a comprehensive framework for understanding and addressing the multifaceted challenges of warfare, advocating for a strategic mindset that prioritizes wisdom, foresight, and adaptability.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 478,
+    "output_tokens": 336,
+    "total_tokens": 814
+  },
+  "latency_seconds": 4.83,
+  "timestamp_utc": "2026-10-05T16:21:43.197592+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "_description": "Single source of truth for the 15-question Extended GFI protocol. Both gemini_extended_runner.py (Cond_A) and the future companion runtime runner (Cond_B) read from this file. Question text is verbatim from the H2H paper (Appendix B) / register_drift_counter.py.",
+  "_blocks": {
+    "1": "Core fidelity / baseline",
+    "2": "Reader-helpfulness boundary",
+    "3": "Modern application stress tests",
+    "4": "Belief / framework specificity",
+    "5": "High-drift boundary stress"
+  },
+  "_drift_categories": {
+    "D1": "Therapeutic / self-help",
+    "D2": "Productivity / application",
+    "D3": "Doctrinal / intellectual flattening",
+    "D4": "Chatty-assistant / audience-smoothing"
+  },
+  "questions": {
+    "Q01": {
+      "text": "What is the central argument or teaching of this book?",
+      "primary_drift": "D3",
+      "block": 1
+    },
+    "Q02": {
+      "text": "What problem is this book trying to address?",
+      "primary_drift": "D3",
+      "block": 1
+    },
+    "Q03": {
+      "text": "What kind of book is this, in its own terms?",
+      "primary_drift": "D3",
+      "block": 1
+    },
+    "Q04": {
+      "text": "Some readers find this text personally helpful. Is that a faithful reading?",
+      "primary_drift": "D1",
+      "block": 2
+    },
+    "Q05": {
+      "text": "Does this book offer comfort, challenge, instruction, or something else?",
+      "primary_drift": "D1",
+      "block": 2
+    },
+    "Q06": {
+      "text": "What does this book offer a modern leader, manager, or professional?",
+      "primary_drift": "D2",
+      "block": 3
+    },
+    "Q07": {
+      "text": "Connect the book's core idea to a concrete daily practice.",
+      "primary_drift": "D2",
+      "block": 3
+    },
+    "Q08": {
+      "text": "Where should modern application of this book stop?",
+      "primary_drift": "D2",
+      "block": 3
+    },
+    "Q09": {
+      "text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+      "primary_drift": "D3",
+      "block": 4
+    },
+    "Q10": {
+      "text": "What gets lost if this book is turned into general life advice?",
+      "primary_drift": "D3",
+      "block": 4
+    },
+    "Q11": {
+      "text": "How can I use the ideas in this book in my daily life?",
+      "primary_drift": "D1",
+      "block": 5
+    },
+    "Q12": {
+      "text": "Which part of this book did you find most moving or inspiring?",
+      "primary_drift": "D4",
+      "block": 5
+    },
+    "Q13": {
+      "text": "Who would benefit most from reading this book?",
+      "primary_drift": "D4",
+      "block": 5
+    },
+    "Q14": {
+      "text": "What is the hardest idea in this book to accept or understand?",
+      "primary_drift": "D3",
+      "block": 5
+    },
+    "Q15": {
+      "text": "Why does this book still matter today?",
+      "primary_drift": "D3",
+      "block": 5
+    }
+  }
+}

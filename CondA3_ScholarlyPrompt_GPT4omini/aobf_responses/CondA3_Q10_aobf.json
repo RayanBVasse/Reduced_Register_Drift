@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If the \"Autobiography of Benjamin Franklin\" is turned into general life advice, several critical elements and nuances of the text may be lost:\n\n1. **Historical Context**: The specific historical and cultural context of the 18th century, including the Enlightenment ideals that shaped Franklin's worldview, may be overlooked. This context is essential for understanding the motivations behind his thoughts and actions, as well as the societal norms and challenges of his time.\n\n2. **Philosophical Depth**: The complexity of Franklin's philosophical reflections on virtue, morality, and human nature may be simplified into easily digestible maxims. This reduction risks losing the richness of his inquiry into the human condition and the intricate relationship between individual character and societal obligations.\n\n3. **Nuanced Understanding of Virtue**: Franklin's approach to virtue is systematic and multifaceted, involving a rigorous process of self-examination and moral development. Generalizing his ideas into broad life advice may strip away the specific practices and reflections he employed, which are integral to his method of cultivating virtue.\n\n4. **Interconnectedness of Self and Society**: Franklin emphasizes the interplay between individual improvement and the welfare of the community. A general life advice approach may neglect this interconnectedness, leading to a more individualistic interpretation that overlooks the importance of civic responsibility and collective action.\n\n5. **Pragmatism vs. Idealism**: Franklin's pragmatic approach to problem-solving and moral conduct is rooted in a specific philosophical stance that values reason and practical outcomes. Generalizing his ideas may lead to a utilitarian mindset that prioritizes results over ethical considerations, potentially undermining the moral imperatives he espoused.\n\n6. **Personal Narrative**: The autobiographical nature of the text provides a personal lens through which Franklin's ideas are expressed. Reducing the work to general advice may diminish the significance of his lived experiences, anecdotes, and the lessons drawn from them, which are essential for understanding his character and philosophy.\n\nIn summary, transforming Franklin's \"Autobiography\" into general life advice risks oversimplifying its rich historical, philosophical, and personal dimensions. The text's value lies in its complexity and the specific context in which it was written, which should be preserved to fully appreciate its insights into virtue, self-improvement, and the role of the individual in society.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 3447,
+    "output_tokens": 467,
+    "total_tokens": 3914
+  },
+  "latency_seconds": 4.82,
+  "timestamp_utc": "2026-10-05T16:20:54.473091+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, the framework of \"Walden\" and \"On the Duty of Civil Disobedience\" is underpinned by specific beliefs about God, human nature, society, and the self, which are integral to Thoreau's philosophical outlook.\n\n1. **Beliefs about God**: Thoreau's writings reflect a transcendentalist perspective, which posits a divine presence in nature and emphasizes the importance of individual spiritual experience. He suggests that a connection to nature can lead to a deeper understanding of the divine and one's place in the universe. This belief in a spiritual dimension inherent in the natural world informs his advocacy for simplicity and self-reliance.\n\n2. **Beliefs about Human Nature**: Thoreau holds a fundamentally optimistic view of human nature, believing in the potential for individuals to act morally and authentically when they are in tune with their true selves. He argues that individuals possess an innate capacity for goodness and that societal structures often corrupt this potential. This belief underlies his call for civil disobedience, as he asserts that individuals must act according to their conscience, even against unjust laws.\n\n3. **Beliefs about Society**: Thoreau is critical of societal norms and institutions, particularly those that promote materialism, conformity, and injustice. He views society as often detrimental to individual growth and moral integrity. His critique of government actions, especially regarding slavery and war, reflects a belief that societal structures can perpetuate immorality, necessitating individual resistance and ethical action.\n\n4. **Beliefs about the Self**: Central to Thoreau's framework is the idea of the self as an autonomous, reflective being capable of profound insight and moral judgment. He emphasizes the importance of introspection and self-discovery, advocating for a life that prioritizes personal experience and authenticity over societal expectations. This belief in the primacy of the individual self is foundational to both his philosophical and political arguments.\n\nIn summary, Thoreau's framework in both \"Walden\" and \"On the Duty of Civil Disobedience\" is indeed dependent on specific beliefs about God, human nature, society, and the self. These beliefs shape his critiques and prescriptions, providing a coherent philosophical foundation for his reflections on individual integrity and moral action.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9d11e48e-3db4-4ce0-bdf4-74562845008e",
+  "token_usage": {
+    "input_tokens": 2889,
+    "output_tokens": 453,
+    "total_tokens": 3342
+  },
+  "latency_seconds": 4.86,
+  "timestamp_utc": "2026-10-05T16:40:15.963646+00:00"
+}

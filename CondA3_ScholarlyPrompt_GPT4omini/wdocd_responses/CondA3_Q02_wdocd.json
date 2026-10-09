@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The problem that \"Walden\" and \"On the Duty of Civil Disobedience\" seek to address is the disconnection between individuals and their true selves, as well as the moral failings of society and government. \n\nIn \"Walden,\" Thoreau confronts the issue of materialism and the relentless pace of industrialization that characterizes 19th-century American life. He critiques the societal tendency to prioritize economic gain, social status, and superficial comforts over genuine self-exploration and a meaningful existence. Thoreau's retreat to nature at Walden Pond serves as a response to this problem, illustrating the necessity of simplicity and solitude for personal growth and understanding.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau addresses the moral implications of complicity in governmental actions that perpetuate injustice, particularly regarding slavery and war. He identifies the problem of individuals acquiescing to unjust laws and the moral decay that arises from such compliance. Thoreau argues that the state often enacts policies that violate individual conscience and ethical principles, and he calls for active resistance to these injustices through civil disobedience.\n\nThus, the overarching problems Thoreau grapples with are the alienation of individuals from their authentic selves and the ethical dilemmas posed by an unjust society and government. He advocates for a return to personal integrity and moral action as a means of addressing these profound issues.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9d11e48e-3db4-4ce0-bdf4-74562845008e",
+  "token_usage": {
+    "input_tokens": 547,
+    "output_tokens": 282,
+    "total_tokens": 829
+  },
+  "latency_seconds": 5.68,
+  "timestamp_utc": "2026-10-05T16:39:23.813151+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"The Art of War\" offers modern leaders, managers, and professionals a framework for strategic thinking and decision-making that can be applied to various competitive contexts, even beyond the realm of military engagement. The text's core principles can be distilled into several key areas relevant to contemporary leadership and management:\n\n1. **Strategic Planning**: Sun Tzu emphasizes the importance of thorough preparation and planning before engaging in any endeavor. Modern leaders can draw from this to develop comprehensive strategies that account for potential challenges and opportunities.\n\n2. **Understanding Competition**: The text underscores the necessity of knowing both oneself and one's adversaries. In a business context, this translates to market analysis, competitor assessment, and the importance of leveraging one's strengths while addressing weaknesses.\n\n3. **Adaptability and Flexibility**: Sun Tzu advocates for the ability to adapt strategies in response to changing circumstances. This principle is crucial for modern leaders who must navigate dynamic environments and respond to unforeseen challenges.\n\n4. **Deception and Information Management**: The work discusses the role of deception in warfare, which can be interpreted in a business context as the strategic use of information and the management of perceptions. Leaders can learn the value of positioning and messaging in competitive scenarios.\n\n5. **Resource Management**: Sun Tzu highlights the significance of efficient resource allocation and logistics. Modern leaders can apply this principle to optimize operations, manage budgets, and ensure that resources are utilized effectively to achieve organizational goals.\n\n6. **Morale and Leadership**: The text addresses the importance of maintaining the morale and cohesion of one's forces. For contemporary leaders, this translates to fostering a positive organizational culture, motivating teams, and ensuring effective communication.\n\n7. **Conflict Resolution**: While the primary focus is on warfare, the principles of negotiation, conflict resolution, and the pursuit of victory without direct confrontation can be relevant in managing workplace disputes and fostering collaboration.\n\nIn summary, \"The Art of War\" offers modern leaders, managers, and professionals a rich repository of strategic insights that can inform their approach to competition, decision-making, and organizational dynamics. However, it is essential to engage with the text's teachings in their original military context, recognizing that while the principles may be applicable, they are rooted in the complexities of warfare and should be adapted thoughtfully to contemporary situations.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 1688,
+    "output_tokens": 457,
+    "total_tokens": 2145
+  },
+  "latency_seconds": 4.79,
+  "timestamp_utc": "2026-10-05T16:22:03.606772+00:00"
+}

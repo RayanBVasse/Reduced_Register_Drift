@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "The \"Autobiography of Benjamin Franklin\" can benefit a diverse range of readers, particularly those who are interested in the following areas:\n\n1. **Students of History**: Individuals studying American history, the Enlightenment, or the founding of the United States will find Franklin's autobiography an invaluable primary source. It provides insight into the social, political, and cultural context of the 18th century, as well as the values and ideals that shaped early American identity.\n\n2. **Philosophy and Ethics Scholars**: Readers interested in moral philosophy and ethical conduct will benefit from Franklin's reflections on virtue and self-improvement. His systematic approach to cultivating character and his exploration of human nature offer rich material for philosophical inquiry.\n\n3. **Aspiring Leaders and Managers**: Those in leadership or managerial roles can draw lessons from Franklin's emphasis on civic responsibility, collaboration, and the importance of personal integrity. His experiences in founding organizations and engaging with the community provide practical insights into effective leadership.\n\n4. **Individuals Seeking Personal Development**: Readers interested in self-improvement and personal growth will find Franklin's methodical approach to virtue cultivation and self-examination particularly relevant. His reflections on discipline, education, and moral conduct can inspire individuals to pursue their own paths of development.\n\n5. **Civic-Minded Individuals**: Those who are engaged in community service or social activism may find inspiration in Franklin's commitment to civic engagement and the belief that individual virtue contributes to the greater good. His initiatives in founding libraries, fire departments, and other civic organizations exemplify the impact of active citizenship.\n\n6. **Enlightenment Enthusiasts**: Readers fascinated by Enlightenment thought and its implications for modern society will appreciate Franklin's embodiment of these ideals. His emphasis on reason, knowledge, and ethical living reflects the core tenets of Enlightenment philosophy.\n\nIn summary, the \"Autobiography of Benjamin Franklin\" offers valuable insights and lessons for a wide array of readers, particularly those interested in history, philosophy, leadership, personal development, civic engagement, and Enlightenment ideals. Its multifaceted nature makes it a relevant and enriching text for anyone seeking to understand the complexities of human character and societal progress.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 4734,
+    "output_tokens": 438,
+    "total_tokens": 5172
+  },
+  "latency_seconds": 7.49,
+  "timestamp_utc": "2026-10-05T16:21:14.883053+00:00"
+}

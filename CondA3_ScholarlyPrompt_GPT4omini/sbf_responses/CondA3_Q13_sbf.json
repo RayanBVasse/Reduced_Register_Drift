@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "\"The Souls of Black Folk\" by W. E. B. Du Bois is a foundational text that can benefit a wide range of readers, particularly those who are engaged with issues of race, identity, and social justice. Specific groups that would gain significantly from reading this book include:\n\n1. **Students and Scholars of African American Studies**: Those studying African American history, literature, or sociology will find Du Bois's insights invaluable for understanding the complexities of race relations in the United States and the historical context of the African American experience.\n\n2. **Activists and Social Justice Advocates**: Individuals involved in social justice movements can draw from Du Bois's critiques of systemic racism and his calls for collective action. His work provides a framework for understanding the ongoing struggles for civil rights and equality.\n\n3. **Educators and Policy Makers**: Teachers and those involved in educational policy can benefit from Du Bois's emphasis on the importance of education and the need for equitable access to resources. His ideas can inform discussions about curriculum development and educational equity.\n\n4. **Leaders and Managers**: Professionals in leadership positions can gain insights into the importance of diversity, inclusion, and the complexities of identity in the workplace. Du Bois's exploration of \"double consciousness\" can help leaders understand the experiences of marginalized individuals and foster more inclusive environments.\n\n5. **General Readers Interested in Social Issues**: Anyone seeking to deepen their understanding of race, identity, and the historical context of social justice in America will find Du Bois's work enlightening. His eloquent prose and powerful arguments can inspire readers to reflect on their own beliefs and actions regarding race and equality.\n\n6. **Cultural Critics and Artists**: Those engaged in cultural criticism or the arts can draw inspiration from Du Bois's celebration of Black culture and his reflections on the role of art and literature in the struggle for identity and justice.\n\nIn summary, \"The Souls of Black Folk\" is a text that offers profound insights and critical reflections relevant to a diverse audience, making it a valuable read for anyone interested in understanding the complexities of race, identity, and social justice in both historical and contemporary contexts.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 5188,
+    "output_tokens": 426,
+    "total_tokens": 5614
+  },
+  "latency_seconds": 4.89,
+  "timestamp_utc": "2026-10-05T16:37:14.719615+00:00"
+}

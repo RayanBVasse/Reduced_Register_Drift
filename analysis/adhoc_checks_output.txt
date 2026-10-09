@@ -1,0 +1,17 @@
+A3 (prompt only, no book content) vs B (pack + retrieval), per book, full text
+Book                                             A3      B    delta
+Art of War                                     2.33   2.60   +11.4%
+Autobiography of Benjamin Franklin             5.01   6.41   +27.9%
+Autobiography of John Stuart Mill              6.23   4.84   -22.4%
+Meditations                                    8.13   7.55    -7.1%
+Narrative of the Life of Frederick Douglass    7.12   3.96   -44.4%
+Nathan the Wise                                2.15   1.29   -40.0%
+The Confessions of St. Augustine               8.04   5.20   -35.3%
+The Souls of Black Folk                        2.08   2.84   +36.7%
+The Varieties of Religious Experience          2.29   2.63   +14.8%
+Walden, and On the Duty of Civil Disobedien    2.17   1.61   -25.9%
+B lower than A3 in 6/10 books
+across-book spread: A3 sd 2.63 range 2.08-8.13 | B sd 2.07 range 1.29-7.55
+Levene equal-variance A3 vs B: p = 0.250  (no evidence the pack makes performance more consistent across books)
+A3: 7/150 replies hedge about access to the text
+B: 4/150 replies hedge about access to the text

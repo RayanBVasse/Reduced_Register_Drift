@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion_for_cross_ref": "Marcus",
+  "cluster": "G1",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Meditations\" addresses the problem of how to live a good and meaningful life amidst the challenges and vicissitudes of human existence. Marcus Aurelius grapples with the internal and external turmoil that arises from the human condition, including the inevitability of suffering, the transience of life, and the moral dilemmas faced in a complex world.\n\nAurelius confronts the difficulties of maintaining one's composure and virtue in the face of adversity, societal pressures, and the unpredictability of fate. He seeks to provide guidance on how to cultivate an inner resilience that allows one to navigate these challenges with wisdom and integrity. The text serves as a personal reflection on the struggle to align one's actions with Stoic principles, particularly in moments of distress or moral conflict.\n\nAdditionally, Aurelius addresses the problem of human relationships and the tendency toward discord. He emphasizes the importance of understanding the interconnectedness of all people and the necessity of compassion and rationality in interactions with others. By advocating for a life lived in accordance with nature and reason, Aurelius aims to resolve the dissonance between individual desires and the greater good of the community.\n\nIn essence, \"Meditations\" seeks to provide a philosophical framework for confronting the inherent difficulties of life, guiding the reader toward a state of tranquility and moral clarity.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Meditations by Marcus Aurelius. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "21f5a173-352e-418e-9e17-05ab6aed614b",
+  "token_usage": {
+    "input_tokens": 492,
+    "output_tokens": 258,
+    "total_tokens": 750
+  },
+  "latency_seconds": 6.78,
+  "timestamp_utc": "2026-10-05T16:32:48.895980+00:00"
+}

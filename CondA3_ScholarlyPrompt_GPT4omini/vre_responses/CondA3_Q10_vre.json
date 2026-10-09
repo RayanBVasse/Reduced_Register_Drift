@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If \"The Varieties of Religious Experience\" is turned into general life advice, several critical aspects of William James's work may be lost or diminished:\n\n1. **Nuance and Complexity**: James's exploration of religious experiences is marked by a deep engagement with the complexities and subtleties of belief. Reducing his insights to general life advice risks oversimplifying the rich tapestry of human experience that he seeks to illuminate. The intricate interplay of emotions, cultural contexts, and individual differences that characterize religious experiences would be flattened into easily digestible, one-size-fits-all recommendations.\n\n2. **Contextual Understanding**: The book is situated within a specific historical and intellectual context, reflecting early 20th-century debates about religion, psychology, and philosophy. Generalizing its content into contemporary life advice may overlook the significance of this context, leading to anachronistic interpretations that fail to honor the original arguments and concerns that James was addressing.\n\n3. **Empirical Inquiry**: James's work is fundamentally an empirical investigation into the nature of religious experience, grounded in psychological and philosophical inquiry. Transforming it into life advice could undermine the scholarly rigor and critical analysis that underpin his arguments, reducing the text to a collection of platitudes rather than a serious exploration of complex phenomena.\n\n4. **Pluralism and Diversity**: One of the core tenets of James's framework is the acknowledgment of the diversity of religious experiences and beliefs. General life advice may inadvertently promote a homogenized view of spirituality that does not account for the plurality of perspectives that James emphasizes. This could lead to a dismissal of the unique and varied ways in which individuals engage with the sacred.\n\n5. **Subjectivity and Personal Experience**: James places significant importance on the subjective nature of religious experiences, advocating for an understanding that is deeply personal and individualized. General life advice may impose external standards or expectations that do not resonate with the unique spiritual journeys of individuals, thereby neglecting the personal and introspective dimensions that are central to James's analysis.\n\n6. **Ethical and Existential Depth**: The book engages with profound ethical and existential questions about meaning, purpose, and the nature of belief. Reducing these themes to practical advice may strip away the depth of inquiry that James undertakes, resulting in a superficial treatment of issues that require careful contemplation and reflection.\n\nIn summary, turning \"The Varieties of Religious Experience\" into general life advice risks losing the nuance, contextual understanding, empirical inquiry, pluralism, subjectivity, and ethical depth that characterize James's work. The richness of his exploration of religious experience is best appreciated within the framework he provides, rather than as a set of prescriptive guidelines for living.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Varieties of Religious Experience by William James. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9a9c1aed-f654-4573-9896-af0b1a004743",
+  "token_usage": {
+    "input_tokens": 3533,
+    "output_tokens": 537,
+    "total_tokens": 4070
+  },
+  "latency_seconds": 4.89,
+  "timestamp_utc": "2026-10-05T16:38:32.207171+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"Walden\" and \"On the Duty of Civil Disobedience\" offer modern leaders, managers, and professionals a rich source of philosophical inquiry and ethical reflection, though their applicability may not be direct or prescriptive.\n\nFrom \"Walden,\" contemporary leaders can glean insights into the value of simplicity, mindfulness, and the importance of connecting with nature. Thoreau's emphasis on self-reliance and introspection encourages individuals to cultivate a deeper understanding of their own values and priorities, which can inform their leadership style and decision-making processes. The text advocates for a critical examination of societal norms and the pursuit of authenticity, which can inspire leaders to foster environments that prioritize genuine engagement and well-being over mere productivity or conformity.\n\nIn \"On the Duty of Civil Disobedience,\" Thoreau's arguments about moral responsibility and the necessity of standing against injustice resonate with the ethical dimensions of leadership. Modern professionals may find value in Thoreau's insistence on the importance of individual conscience and the courage to act in accordance with one's principles, especially in contexts where organizational policies or societal norms may conflict with ethical considerations. This essay serves as a reminder that leaders have a duty to challenge unjust practices and to advocate for integrity within their organizations and communities.\n\nHowever, it is essential to note that Thoreau's works do not provide straightforward strategies or frameworks for leadership or management. Instead, they provoke critical thought about the nature of authority, the role of the individual within larger systems, and the ethical implications of one's actions. Leaders and professionals may find inspiration in Thoreau's reflections, but they must interpret and apply these insights within the complexities of contemporary organizational and societal contexts.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9d11e48e-3db4-4ce0-bdf4-74562845008e",
+  "token_usage": {
+    "input_tokens": 1862,
+    "output_tokens": 333,
+    "total_tokens": 2195
+  },
+  "latency_seconds": 3.41,
+  "timestamp_utc": "2026-10-05T16:39:59.726704+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q15",
+  "question_text": "Why does this book still matter today?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "\"The Art of War\" continues to matter today for several reasons, reflecting its enduring relevance across various fields and contexts:\n\n1. **Timeless Strategic Principles**: The core principles of strategy, planning, and adaptability articulated by Sun Tzu are applicable beyond the battlefield. In business, politics, sports, and personal development, the ability to analyze situations, anticipate challenges, and devise effective strategies remains crucial for success.\n\n2. **Understanding Competition**: In an increasingly competitive world, the insights on understanding both oneself and one's adversaries are invaluable. The text encourages a deep analysis of competitive dynamics, which is essential for navigating markets, negotiations, and interpersonal relationships.\n\n3. **Emphasis on Intelligence and Information**: Sun Tzu's focus on the importance of intelligence, reconnaissance, and information management resonates in today's data-driven environments. The ability to gather and interpret information effectively is critical for making informed decisions in various fields.\n\n4. **Adaptability in a Changing Environment**: The principle of flexibility in strategy is particularly relevant in a rapidly changing world. Organizations and individuals must be able to pivot and adapt to new circumstances, making Sun Tzu's teachings on adaptability and responsiveness highly applicable.\n\n5. **Conflict Resolution and Negotiation**: The text's insights into conflict dynamics and the pursuit of resolution without direct confrontation are relevant in both personal and professional contexts. The emphasis on negotiation, understanding motivations, and finding common ground can enhance interpersonal relationships and organizational harmony.\n\n6. **Leadership and Morale**: Sun Tzu's teachings on leadership, discipline, and the importance of maintaining morale are essential for effective management and team dynamics. Leaders can draw from these insights to foster a positive organizational culture and motivate their teams.\n\n7. **Philosophical Depth**: Beyond its practical applications, \"The Art of War\" offers a philosophical exploration of conflict, human nature, and the complexities of decision-making. This depth invites reflection and critical thinking, making it a valuable text for those interested in the broader implications of strategy and leadership.\n\nIn summary, \"The Art of War\" remains relevant today due to its timeless strategic insights, applicability across various domains, and its exploration of fundamental human dynamics in conflict and competition. Its teachings continue to inform and inspire leaders, strategists, and individuals seeking to navigate the complexities of modern life.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 5628,
+    "output_tokens": 463,
+    "total_tokens": 6091
+  },
+  "latency_seconds": 7.78,
+  "timestamp_utc": "2026-10-05T16:23:02.866172+00:00"
+}

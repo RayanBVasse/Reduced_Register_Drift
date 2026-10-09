@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, \"The Varieties of Religious Experience\" is a series of lectures delivered by William James, which were later compiled into a book. It occupies the genre of philosophical psychology and religious studies, characterized by an empirical and pragmatic approach to the exploration of religious phenomena. The work is fundamentally interdisciplinary, drawing from psychology, philosophy, and theology, and it seeks to analyze religious experiences through a lens that emphasizes their subjective and experiential dimensions.\n\nJames employs a method of introspective analysis, focusing on the lived experiences of individuals rather than on doctrinal or institutional aspects of religion. He utilizes a comparative approach, examining a wide range of religious traditions and experiences, including mysticism, conversion, and the moral life, to illustrate the diversity of religious expression and the commonalities that underlie them.\n\nThe book is also reflective of the early 20th-century intellectual milieu, engaging with contemporary debates about the nature of belief, the validity of religious experience, and the relationship between science and religion. It is not a systematic theology or a prescriptive guide to religious practice; rather, it is an exploration of the psychological and existential dimensions of religion, aimed at understanding how these experiences shape human life and consciousness.\n\nOverall, \"The Varieties of Religious Experience\" is a scholarly inquiry into the nature of religious experience, advocating for a pluralistic and experiential understanding of religion that respects the complexity and richness of individual belief systems.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Varieties of Religious Experience by William James. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9a9c1aed-f654-4573-9896-af0b1a004743",
+  "token_usage": {
+    "input_tokens": 765,
+    "output_tokens": 283,
+    "total_tokens": 1048
+  },
+  "latency_seconds": 2.82,
+  "timestamp_utc": "2026-10-05T16:37:46.094845+00:00"
+}

@@ -1,0 +1,27 @@
+Genre drift profile — UNGOVERNED baseline (A2), share of D1-D3 markers by dimension
+
+Cluster                       D1 therapeutic  D2 productivity  D3 flattening  n markers
+Philosophical & spiritual              22.2%           51.3%           26.5%        230
+Civic / testimony                      22.0%           53.0%           25.0%        164
+Strategic & expository                  3.8%           59.6%           36.5%         52
+
+Book                                            D1%    D2%    D3%     n
+The Confessions of St. Augustine                 6%    48%    46%    65
+Autobiography of John Stuart Mill               17%    64%    19%    59
+Meditations                                     39%    45%    16%    74
+The Varieties of Religious Experience           25%    50%    25%    32
+Autobiography of Benjamin Franklin               8%    65%    27%    49
+Narrative of the Life of Frederick Douglass     34%    40%    26%    62
+The Souls of Black Folk                         41%    44%    15%    27
+Walden, and On the Duty of Civil Disobedien      0%    69%    31%    26
+Art of War                                       3%    65%    32%    31
+Nathan the Wise                                  5%    52%    43%    21
+
+Claim in v6.5 §5.5, tested:
+  'philosophical works vulnerable to therapeutic reframing'  -> G1 D1 share 22.2% vs corpus-wide 20.0%
+  'military-strategic texts to managerial application'       -> G3 D2 share 59.6% vs corpus-wide 52.9%
+
+NOTE: D2 dominates every cluster, so 'each genre has its own vulnerability' is
+not what this measure shows. The lexicon has 4 D1-only, 9 D2-only and 7 D3-only
+distinct strings and is not balanced across dimensions, so cross-dimension share
+comparisons are confounded by lexicon construction.

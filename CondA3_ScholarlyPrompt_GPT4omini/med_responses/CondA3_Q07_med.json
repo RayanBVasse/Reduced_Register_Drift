@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion_for_cross_ref": "Marcus",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of \"Meditations\" revolves around the cultivation of virtue and rationality in the face of life's challenges, emphasizing the importance of self-examination and the acceptance of what is beyond our control. A concrete daily practice that connects to this core idea is the practice of **morning reflection and evening review**.\n\n### Morning Reflection:\nAt the start of each day, a leader or individual can engage in a brief period of reflection, considering the following:\n\n1. **Set Intentions**: Contemplate the virtues one wishes to embody throughout the day—such as wisdom, courage, justice, and temperance. This aligns with Aurelius's emphasis on living in accordance with one's values.\n\n2. **Anticipate Challenges**: Reflect on potential challenges or adversities that may arise during the day. Acknowledge that difficulties are a natural part of life and consider how to respond to them with composure and rationality, as Aurelius advises.\n\n3. **Focus on Control**: Remind oneself of the Stoic distinction between what is within one's control and what is not. This can help in prioritizing actions and reducing anxiety about external circumstances.\n\n### Evening Review:\nAt the end of the day, one can engage in a reflective practice to assess the day's actions and thoughts:\n\n1. **Self-Examination**: Review the day's events and interactions. Consider whether one acted in accordance with the virtues set in the morning. This aligns with Aurelius's practice of self-scrutiny and moral reflection.\n\n2. **Learn from Experiences**: Identify moments of success and areas for improvement. Reflect on how one responded to challenges and whether those responses were aligned with Stoic principles.\n\n3. **Acceptance and Gratitude**: Acknowledge the day's experiences, both positive and negative, and cultivate a sense of acceptance for what transpired. This practice fosters gratitude for the lessons learned and reinforces the Stoic acceptance of fate.\n\nBy integrating morning reflection and evening review into daily life, individuals can actively engage with the core ideas of \"Meditations,\" fostering a disciplined approach to personal growth, ethical living, and emotional resilience. This practice not only aligns with Aurelius's teachings but also provides a structured way to apply Stoic philosophy in everyday situations.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Meditations by Marcus Aurelius. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "21f5a173-352e-418e-9e17-05ab6aed614b",
+  "token_usage": {
+    "input_tokens": 2286,
+    "output_tokens": 453,
+    "total_tokens": 2739
+  },
+  "latency_seconds": 4.68,
+  "timestamp_utc": "2026-10-05T16:33:16.005928+00:00"
+}

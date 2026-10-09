@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of \"Narrative of the Life of Frederick Douglass\" revolves around the pursuit of freedom, justice, and the transformative power of education. A concrete daily practice that connects to this core idea is the commitment to continuous learning and advocacy for equity within one's community or workplace.\n\n**Daily Practice: Engage in Lifelong Learning and Advocacy**\n\n1. **Lifelong Learning**: Dedicate time each day to educate oneself about social justice issues, historical contexts, and the experiences of marginalized communities. This could involve reading books, articles, or reports that address systemic inequalities, attending workshops, or participating in discussions that challenge one's perspectives. By actively seeking knowledge, individuals can better understand the complexities of oppression and the importance of advocacy.\n\n2. **Advocacy for Equity**: Identify one actionable way to promote equity and inclusion within your environment. This could involve mentoring someone from a marginalized background, advocating for inclusive policies in the workplace, or participating in community initiatives that support underrepresented groups. By taking concrete steps to uplift others, individuals can embody the principles of justice and empowerment that Douglass championed.\n\nBy integrating these practices into daily life, individuals can honor Douglass's legacy and contribute to the ongoing struggle for freedom and equality, fostering a more just and informed society.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 2013,
+    "output_tokens": 256,
+    "total_tokens": 2269
+  },
+  "latency_seconds": 3.26,
+  "timestamp_utc": "2026-10-05T16:31:39.784136+00:00"
+}

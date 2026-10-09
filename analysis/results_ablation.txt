@@ -1,0 +1,26 @@
+==============================================================================
+4-WAY ABLATION — full 10-book corpus, n=150 pairs/condition
+==============================================================================
+rows=600 | per cond={'A1': 150, 'A2': 150, 'A3': 150, 'B': 150}
+A3 replies ending in a routing-style question (NOT stripped; counted as content): 0/150
+
+DECOMPOSITION — D1-D3 (suffix-independent basis), means per 1,000 tokens:
+   A1: 4.513
+   A2: 7.524
+   A3: 4.555
+   B: 4.297
+
+THE KEY QUESTION — does governance add anything over a strong scholarly prompt? (D1-D3)
+   A2 vs A3  (bare prompt -> scholarly prompt)    A2= 7.52 A3= 4.56   +39.5%  W= 7272.0 p=6.24e-12 r=0.553
+   A3 vs B   (scholarly prompt -> governance, B stripped) A3= 4.56 B= 4.30    +5.7%  W= 3553.5 p=3.29e-01 r=0.036
+   A3 vs B   (scholarly prompt -> governance, B RAW) A3= 4.56 B= 3.89   +14.5%  W= 3979.0 p=5.32e-02 r=0.132
+   A2 vs B   (combined, for continuity)           A2= 7.52 B= 4.30   +42.9%  W= 6973.0 p=2.19e-09 r=0.479
+
+Tier-1 total (D1-D4):
+   A2 vs A3                                       A2= 8.92 A3= 5.58   +37.5%  W= 7620.0 p=1.42e-11 r=0.543
+   A3 vs B (B stripped)                           A3= 5.58 B= 4.95   +11.2%  W= 4279.5 p=1.20e-01 r=0.096
+   A3 vs B (B RAW)                                A3= 5.58 B= 9.39   -68.4%  W= 1689.0 p=1.00e+00 r=0.000
+
+Context:
+   A1 vs A3  (Gemini vs scholarly-prompted gpt-4o-mini) A1= 4.51 A3= 4.56    -0.9%  W= 4659.0 p=2.70e-01 r=0.050
+   A1 vs B   (Gemini vs governed)                 A1= 4.51 B= 4.30    +4.8%  W= 4188.5 p=3.24e-01 r=0.037

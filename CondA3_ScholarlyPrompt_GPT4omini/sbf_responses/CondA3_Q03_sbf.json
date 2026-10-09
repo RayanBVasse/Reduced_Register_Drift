@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"The Souls of Black Folk\" is a seminal work that occupies a unique position at the intersection of sociology, autobiography, and political manifesto. It is structured as a collection of essays, each addressing different aspects of the African American experience in the United States, particularly in the context of the early 20th century. \n\nIn its own terms, the book is both a scholarly examination and a deeply personal reflection. Du Bois employs a sociological lens to analyze the conditions of Black life, drawing on empirical data and historical context to support his arguments. However, he also infuses the text with lyrical prose and personal narrative, allowing for a rich exploration of his own experiences and the collective experiences of African Americans. This blending of genres serves to humanize the statistical and sociological insights, making the plight of Black Americans palpable and urgent.\n\nFurthermore, the book is a polemical work that challenges the prevailing ideologies of its time, particularly those that advocate for accommodation and gradualism in the face of systemic oppression. Du Bois's writing is imbued with a sense of moral urgency, as he calls for immediate action and a rethinking of strategies for achieving civil rights and social justice.\n\nOverall, \"The Souls of Black Folk\" is a profound and multifaceted text that seeks to illuminate the complexities of race, identity, and social justice, while simultaneously advocating for the recognition and elevation of Black humanity within American society. It is a foundational work in African American literature and thought, and it continues to resonate in discussions of race and equality today.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 908,
+    "output_tokens": 306,
+    "total_tokens": 1214
+  },
+  "latency_seconds": 4.05,
+  "timestamp_utc": "2026-10-05T16:36:08.740849+00:00"
+}

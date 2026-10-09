@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, \"The Souls of Black Folk\" is underpinned by specific beliefs about God, human nature, society, and the self, which inform Du Bois's framework and arguments throughout the text.\n\n1. **Beliefs about God**: Du Bois's writing reflects a theological dimension, particularly in his acknowledgment of the spiritual resilience of African Americans. He often invokes a sense of divine justice and moral order, suggesting that the struggle for equality and dignity is not only a social and political endeavor but also a moral one. This belief in a higher moral authority undergirds his call for justice and the recognition of the humanity of Black individuals.\n\n2. **Beliefs about Human Nature**: Du Bois presents a nuanced view of human nature, particularly in relation to the impact of systemic oppression on identity and self-perception. He argues that the experience of \"double consciousness\" complicates the understanding of self, as individuals navigate conflicting identities imposed by a racist society. This perspective suggests that human nature is shaped by social contexts and that the struggle for self-definition is a fundamental aspect of the human experience, especially for those marginalized by systemic injustice.\n\n3. **Beliefs about Society**: The framework of the book is deeply critical of the societal structures that perpetuate racism and inequality. Du Bois argues that society is fundamentally flawed when it denies the dignity and rights of any group based on race. He advocates for a reformation of societal values to recognize the worth of all individuals, emphasizing the need for collective action to dismantle oppressive systems. His critique of the social order reflects a belief in the possibility of progress and the moral imperative to strive for a more just society.\n\n4. **Beliefs about the Self**: Du Bois's exploration of identity, particularly through the lens of \"double consciousness,\" reveals his belief in the complexity of the self. He posits that the self is not a singular, fixed entity but is shaped by external perceptions and societal conditions. This understanding of the self as multifaceted and often in conflict highlights the psychological struggles faced by African Americans and underscores the importance of self-affirmation and recognition in the pursuit of dignity.\n\nIn summary, the framework of \"The Souls of Black Folk\" is indeed dependent on specific beliefs about God, human nature, society, and the self. These beliefs inform Du Bois's arguments and shape his vision for a more equitable and just world, emphasizing the interconnectedness of moral, social, and personal dimensions in the struggle for racial equality.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 3314,
+    "output_tokens": 497,
+    "total_tokens": 3811
+  },
+  "latency_seconds": 6.68,
+  "timestamp_utc": "2026-10-05T16:36:50.234337+00:00"
+}

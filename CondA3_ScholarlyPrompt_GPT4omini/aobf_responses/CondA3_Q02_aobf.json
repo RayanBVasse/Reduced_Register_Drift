@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The \"Autobiography of Benjamin Franklin\" addresses the problem of moral and personal development in the context of an individual's life and their role within society. Franklin grapples with the challenge of achieving moral perfection and self-improvement amidst the complexities of human nature and societal expectations. He recognizes that individuals often struggle with vices and shortcomings that hinder their progress and fulfillment.\n\nFranklin's systematic approach to this problem is articulated through his enumeration of thirteen virtues, which he believes are essential for personal growth and ethical living. He seeks to provide a practical framework for individuals to cultivate these virtues, thereby addressing the difficulties of self-discipline, the pursuit of knowledge, and the balance between personal ambition and social responsibility.\n\nAdditionally, the book reflects on the broader societal implications of individual moral development. Franklin posits that the improvement of the self contributes to the betterment of society as a whole. Thus, the problem he addresses is not only one of individual character but also of how personal virtue can lead to a more enlightened and harmonious community. In this way, Franklin's narrative serves as a guide for navigating the moral landscape of life, emphasizing the importance of reason, education, and civic duty in overcoming the inherent challenges of human existence.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 524,
+    "output_tokens": 242,
+    "total_tokens": 766
+  },
+  "latency_seconds": 3.26,
+  "timestamp_utc": "2026-10-05T16:20:08.812026+00:00"
+}

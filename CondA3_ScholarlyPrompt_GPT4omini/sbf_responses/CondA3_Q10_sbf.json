@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If \"The Souls of Black Folk\" is turned into general life advice, several critical elements and nuances inherent in Du Bois's work may be lost:\n\n1. **Historical Context**: The specific historical and sociopolitical context of the early 20th century, particularly the legacy of slavery, Jim Crow laws, and systemic racism, is central to Du Bois's arguments. Reducing the text to general life advice risks overlooking the profound impact of these historical realities on the African American experience and the ongoing struggle for civil rights.\n\n2. **Complexity of Identity**: Du Bois's exploration of \"double consciousness\" captures the intricate and often painful realities of navigating multiple identities in a racially stratified society. Simplifying this concept into a general life lesson about self-acceptance or personal growth diminishes the depth of the psychological conflict and the societal pressures that shape identity for marginalized individuals.\n\n3. **Collective Struggle**: The book emphasizes the importance of collective action and solidarity among African Americans in the fight for justice and equality. Transforming this into individual life advice may shift the focus away from the necessity of community and collective responsibility, which are crucial for addressing systemic issues.\n\n4. **Moral and Ethical Imperatives**: Du Bois's work is imbued with a moral urgency that calls for social justice and the recognition of human dignity. Generalizing his insights into life advice may dilute this ethical dimension, reducing the call to action against systemic oppression to mere personal development or self-improvement.\n\n5. **Critique of Society**: Du Bois offers a profound critique of societal structures that perpetuate inequality. If the text is reframed as general life advice, the critical examination of these structures may be lost, leading to a focus on individual agency without addressing the systemic barriers that individuals face.\n\n6. **Cultural Richness and Heritage**: The book celebrates the cultural contributions and resilience of African Americans. Generalizing this into life advice risks oversimplifying the richness of Black culture and the historical context that informs it, potentially leading to a homogenized understanding of identity.\n\nIn summary, turning \"The Souls of Black Folk\" into general life advice risks losing the depth, historical specificity, and critical social analysis that are central to Du Bois's work. The text is a profound exploration of race, identity, and justice, and its significance lies in its ability to challenge readers to confront systemic inequalities rather than merely offering personal guidance.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 3832,
+    "output_tokens": 488,
+    "total_tokens": 4320
+  },
+  "latency_seconds": 4.77,
+  "timestamp_utc": "2026-10-05T16:36:56.512049+00:00"
+}

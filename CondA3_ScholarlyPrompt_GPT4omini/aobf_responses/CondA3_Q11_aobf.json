@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q11",
+  "question_text": "How can I use the ideas in this book in my daily life?",
+  "primary_drift": "D1",
+  "block": 5,
+  "reply": "To use the ideas in the \"Autobiography of Benjamin Franklin\" in your daily life, one can adopt a structured approach to self-improvement and moral development that reflects Franklin's principles. Here are several practical applications grounded in the text:\n\n1. **Virtue Tracking**: Create a personal system for tracking your adherence to specific virtues. You might select a set of virtues inspired by Franklin's thirteen (such as temperance, order, and humility) and reflect on your daily actions in relation to these virtues. This could involve keeping a journal where you note instances of success and areas for improvement.\n\n2. **Daily Reflection**: Set aside time each day for reflection. Consider what you learned, how you acted in accordance with your chosen virtues, and where you may have fallen short. This practice of self-examination aligns with Franklin's emphasis on the importance of understanding oneself in the pursuit of moral development.\n\n3. **Goal Setting**: Based on your reflections, establish specific, actionable goals for improvement. For example, if you identify a need to be more industrious, you might set a goal to allocate a certain amount of time each day to focused work or learning.\n\n4. **Lifelong Learning**: Embrace Franklin's commitment to education by dedicating time to read, study, or engage in new learning experiences. This could involve reading books, attending lectures, or participating in discussions that challenge your thinking and expand your knowledge.\n\n5. **Civic Engagement**: Reflect on your role within your community and seek opportunities for civic involvement. This could include volunteering, participating in local organizations, or engaging in discussions about community issues. Franklin believed that individual virtue contributes to societal well-being, so consider how your actions can positively impact those around you.\n\n6. **Networking and Collaboration**: Foster relationships and collaborate with others, as Franklin did throughout his life. Engage with peers, mentors, or community members to share ideas, seek advice, and work together on projects that align with your values and goals.\n\n7. **Pragmatic Problem-Solving**: Approach challenges with a pragmatic mindset, as Franklin did. When faced with a problem, analyze it rationally, consider various solutions, and implement practical strategies to address it. This approach encourages a focus on effective outcomes while maintaining ethical considerations.\n\nBy integrating these practices into your daily life, you can embody the principles articulated in Franklin's autobiography, fostering personal growth and contributing to the betterment of your community in a manner consistent with his Enlightenment ideals.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 3936,
+    "output_tokens": 505,
+    "total_tokens": 4441
+  },
+  "latency_seconds": 5.37,
+  "timestamp_utc": "2026-10-05T16:21:01.343057+00:00"
+}

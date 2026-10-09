@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The book addresses the profound moral and social problem of slavery in the United States, specifically the dehumanization and brutalization of enslaved individuals. Douglass seeks to expose the inhumanity of the institution of slavery, highlighting its destructive impact on both the enslaved and the enslavers. He confronts the systemic injustices that allow slavery to persist, including the legal, economic, and cultural frameworks that uphold it.\n\nAdditionally, Douglass addresses the issue of ignorance as a tool of oppression, arguing that the denial of education to enslaved people is a deliberate strategy to maintain control and subjugation. He emphasizes that knowledge and literacy are essential for liberation, both personally and collectively.\n\nFurthermore, Douglass critiques the moral hypocrisy of a society that professes Christian values while simultaneously perpetuating the institution of slavery. He challenges the complacency of those who, while not directly involved in the enslavement of others, fail to act against it.\n\nIn summary, the book seeks to confront the ethical and existential crisis posed by slavery, advocating for abolition and the recognition of the humanity and rights of African Americans. It serves as a powerful call to action against the injustices of the time.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 509,
+    "output_tokens": 237,
+    "total_tokens": 746
+  },
+  "latency_seconds": 2.91,
+  "timestamp_utc": "2026-10-05T16:31:16.416697+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q05",
+  "question_text": "Does this book offer comfort, challenge, instruction, or something else?",
+  "primary_drift": "D1",
+  "block": 2,
+  "reply": "\"The Art of War\" primarily offers instruction, framed within the context of military strategy and philosophy. It serves as a guide for commanders and strategists, providing a systematic exploration of the principles that govern successful warfare. The text challenges readers to think critically about the nature of conflict, the importance of adaptability, and the necessity of understanding both oneself and the enemy.\n\nWhile it may not explicitly aim to provide comfort, the work does offer a sense of clarity and structure regarding the complexities of warfare. Sun Tzu's insights can be seen as a means of navigating the uncertainties and challenges inherent in conflict, which may provide a form of reassurance to those engaged in military leadership.\n\nThe text also presents challenges, as it requires readers to engage with its often paradoxical and nuanced teachings. Sun Tzu's emphasis on deception, the fluidity of strategy, and the moral dimensions of leadership invites deep contemplation and critical analysis.\n\nIn summary, \"The Art of War\" is primarily instructional, offering strategic guidance and philosophical insights into the nature of warfare. It challenges readers to reflect on the intricacies of conflict while providing a framework for understanding and navigating the complexities of military engagement.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 1436,
+    "output_tokens": 230,
+    "total_tokens": 1666
+  },
+  "latency_seconds": 3.14,
+  "timestamp_utc": "2026-10-05T16:21:57.315440+00:00"
+}

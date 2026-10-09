@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, the framework of \"The Varieties of Religious Experience\" does depend on specific beliefs about God, human nature, society, and the self, though it is characterized by a pluralistic and inclusive approach that seeks to understand a wide range of religious experiences.\n\n1. **Beliefs about God**: While James does not advocate for a particular conception of God, his exploration of religious experiences often presupposes a belief in a transcendent reality or higher power that individuals may encounter. He acknowledges the diversity of understandings of the divine across different religious traditions, but the framework inherently engages with the idea that many religious experiences involve a relationship with something greater than the self.\n\n2. **Beliefs about Human Nature**: James's framework is grounded in a view of human nature that emphasizes the complexity of the human psyche, including the capacity for introspection, emotional depth, and the search for meaning. He recognizes that individuals are not solely rational beings but are also driven by feelings, instincts, and spiritual yearnings. This understanding of human nature is crucial to his analysis of religious experiences, as it highlights the subjective and often ineffable aspects of belief.\n\n3. **Beliefs about Society**: The book acknowledges the social dimensions of religious experience, recognizing that beliefs and practices are often shaped by cultural and communal contexts. James's comparative approach reflects an understanding that religion is not only a personal phenomenon but also a social one, influenced by historical and cultural factors. This perspective allows for an appreciation of the role of community in shaping individual experiences of the sacred.\n\n4. **Beliefs about the Self**: James's framework emphasizes the importance of the self in religious experience, particularly in terms of personal identity and the quest for meaning. He explores how individuals navigate their inner lives and how experiences of the divine can lead to transformations in self-understanding. His focus on the subjective nature of experience suggests a belief in the significance of personal agency and the individual's capacity to interpret and find meaning in their experiences.\n\nIn summary, while \"The Varieties of Religious Experience\" is open to a wide range of beliefs and does not endorse a singular religious perspective, its framework is nonetheless built upon specific assumptions about God, human nature, society, and the self. These beliefs inform James's analysis and shape the way he engages with the complexities of religious experience.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Varieties of Religious Experience by William James. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9a9c1aed-f654-4573-9896-af0b1a004743",
+  "token_usage": {
+    "input_tokens": 3046,
+    "output_tokens": 466,
+    "total_tokens": 3512
+  },
+  "latency_seconds": 12.59,
+  "timestamp_utc": "2026-10-05T16:38:25.814417+00:00"
+}

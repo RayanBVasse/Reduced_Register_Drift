@@ -1,0 +1,24 @@
+Does Cond_A3 show book knowledge it was never given?
+
+The A3 system prompt supplies title and author only. Any book-internal
+entity in an A3 reply therefore comes from pretraining, not from context.
+
+Book                                         A3 replies w/ internal entity   B (has retrieval)
+Nathan the Wise                                                 7/15               13/15
+Art of War                                                     15/15               15/15
+Meditations                                                    15/15               15/15
+The Confessions of St. Augustine                                6/15                4/15
+The Souls of Black Folk                                        13/15               12/15
+Narrative of the Life of Frederick Douglass                     0/15                7/15
+Walden, and On the Duty of Civil Disobedien                    15/15               15/15
+Autobiography of Benjamin Franklin                              7/15                9/15
+Autobiography of John Stuart Mill                              11/15               14/15
+The Varieties of Religious Experience                          15/15               15/15
+
+TOTAL: A3 104/150 replies contain book-internal entities; B 119/150.
+
+Implication: A3 is not a 'no book knowledge' condition. It is a 'no book
+content in the prompt' condition applied to a model that already knows these
+works. The A3 vs B contrast therefore tests whether an explicit interpretive
+profile adds anything for texts the model has already absorbed -- not whether
+book-specific governance matters in general.

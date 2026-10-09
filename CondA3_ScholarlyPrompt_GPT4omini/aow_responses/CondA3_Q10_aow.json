@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If \"The Art of War\" is turned into general life advice, several critical aspects of the text may be lost or misinterpreted:\n\n1. **Contextual Nuance**: The book is deeply rooted in the specific historical and cultural context of ancient China, where warfare was a fundamental aspect of statecraft. Generalizing its principles may overlook the complexities and nuances of military strategy that are specific to that context, leading to oversimplified or misapplied interpretations.\n\n2. **Philosophical Depth**: The text embodies a rich philosophical exploration of conflict, strategy, and leadership. Reducing its teachings to mere life advice risks stripping away the profound insights regarding the nature of warfare, the moral implications of leadership, and the psychological dimensions of conflict. The subtleties of Sun Tzu's arguments may be lost in a more superficial application.\n\n3. **Ethical Considerations**: The principles of deception, manipulation, and competition, while applicable in a military context, may not translate ethically to personal or professional relationships. A general life advice framework may inadvertently endorse unethical behavior or a win-at-all-costs mentality, which could harm interpersonal relationships and organizational culture.\n\n4. **Strategic Complexity**: Warfare involves a high degree of complexity, including the interplay of various factors such as terrain, logistics, and the unpredictability of human behavior. Simplifying these concepts into general advice may lead to a failure to appreciate the intricacies of strategic thinking and the need for careful analysis in decision-making.\n\n5. **Focus on Conflict**: \"The Art of War\" centers on the dynamics of conflict and competition. When interpreted as general life advice, there is a risk of fostering a mindset that prioritizes adversarial relationships and competition over collaboration, cooperation, and mutual understanding. This could lead to a more combative and less harmonious approach to personal and professional interactions.\n\n6. **Loss of Strategic Intent**: The text's emphasis on winning without fighting and achieving victory through intelligence and strategy may be overshadowed by a focus on direct confrontation or competition. The strategic intent behind Sun Tzu's teachings is to navigate conflict with wisdom and foresight, which may be diluted in a general life advice framework.\n\nIn summary, turning \"The Art of War\" into general life advice risks losing the text's contextual richness, philosophical depth, ethical considerations, and strategic complexity. A faithful engagement with the work requires an understanding of its original military context and the nuanced principles that govern effective leadership and strategy in warfare.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 3502,
+    "output_tokens": 500,
+    "total_tokens": 4002
+  },
+  "latency_seconds": 5.58,
+  "timestamp_utc": "2026-10-05T16:22:30.020298+00:00"
+}

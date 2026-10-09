@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, the framework of the \"Autobiography of Benjamin Franklin\" is underpinned by specific beliefs about God, human nature, society, and the self, which are reflective of the Enlightenment context in which Franklin wrote.\n\n1. **Beliefs about God**: Franklin's framework incorporates a deistic understanding of God, which emphasizes reason and morality over dogma and revelation. He believed in a Creator who endowed humans with the capacity for reason and ethical discernment. This belief informs his approach to virtue and moral conduct, suggesting that individuals can discern right from wrong through rational thought rather than solely through religious doctrine.\n\n2. **Human Nature**: Franklin's view of human nature is complex; he acknowledges both the potential for virtue and the propensity for vice. He presents individuals as capable of self-improvement through disciplined effort and rationality. His emphasis on the cultivation of virtues suggests a belief in the malleability of character, positing that individuals can shape their moral selves through conscious practice and reflection.\n\n3. **Society**: Franklin's framework is rooted in the belief that individual virtue contributes to the greater good of society. He advocates for civic responsibility and the idea that personal improvement is linked to social progress. This perspective reflects an Enlightenment faith in the potential for human beings to create a better society through reasoned action and ethical behavior.\n\n4. **The Self**: The concept of the self in Franklin's autobiography is one of an active agent capable of self-governance and moral development. He emphasizes the importance of self-examination, reflection, and the pursuit of knowledge as means to achieve personal and societal improvement. This view aligns with Enlightenment ideals of individualism and the belief in the power of the individual to effect change.\n\nIn summary, the framework of Franklin's \"Autobiography\" is indeed dependent on specific beliefs about God, human nature, society, and the self. These beliefs shape his understanding of virtue, moral development, and the relationship between the individual and the community, reflecting the broader philosophical currents of the Enlightenment era.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 3012,
+    "output_tokens": 414,
+    "total_tokens": 3426
+  },
+  "latency_seconds": 4.21,
+  "timestamp_utc": "2026-10-05T16:20:48.149309+00:00"
+}

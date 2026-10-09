@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of the \"Autobiography of Benjamin Franklin\" revolves around the systematic pursuit of self-improvement and the cultivation of virtue. A concrete daily practice that connects to this core idea is the implementation of a personal reflection and goal-setting routine based on Franklin's method of tracking virtues.\n\n**Daily Practice: Virtue Tracking Journal**\n\n1. **Identify Virtues**: Begin by selecting a set of virtues to focus on, inspired by Franklin's thirteen virtues (e.g., temperance, silence, order, resolution, frugality, industry, sincerity, justice, moderation, cleanliness, tranquility, chastity, and humility). You may choose to adapt or modify these virtues to better fit your personal or professional context.\n\n2. **Daily Reflection**: At the end of each day, take a few moments to reflect on your actions and decisions. Consider how you embodied or fell short of the selected virtues throughout the day. This reflection can be done in a dedicated journal or a digital format.\n\n3. **Score Yourself**: Assign a score or a qualitative assessment to each virtue based on your performance for the day. This could be a simple scale (e.g., 1 to 5) or a brief written note explaining your thoughts.\n\n4. **Set Goals for Improvement**: Based on your reflections, set specific, actionable goals for the following day. For instance, if you found that you struggled with \"order,\" you might resolve to organize your workspace or prioritize your tasks more effectively.\n\n5. **Weekly Review**: At the end of each week, review your journal entries to identify patterns, progress, and areas for further improvement. This practice aligns with Franklin's emphasis on self-examination and the importance of learning from one's experiences.\n\nBy engaging in this daily practice, individuals can cultivate a disciplined approach to personal development, echoing Franklin's belief in the power of systematic self-improvement and the pursuit of virtue. This method not only fosters self-awareness but also encourages a continuous commitment to ethical living and personal growth.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 2099,
+    "output_tokens": 407,
+    "total_tokens": 2506
+  },
+  "latency_seconds": 5.0,
+  "timestamp_utc": "2026-10-05T16:20:35.938412+00:00"
+}

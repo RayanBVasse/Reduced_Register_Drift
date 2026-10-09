@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "\"Nathan the Wise\" would benefit a diverse range of readers, particularly those who are engaged in or interested in the following areas:\n\n1. **Students of Philosophy and Theology**: Individuals studying philosophy, religious studies, or theology would find the text valuable for its exploration of complex ideas regarding faith, truth, and morality. The play's engagement with Enlightenment thought and its critique of dogmatism provide rich material for academic discussion.\n\n2. **Interfaith Dialogue Participants**: Those involved in interfaith dialogue or community-building efforts would gain insights from the play's advocacy for tolerance and understanding among different religious traditions. The themes of empathy and shared humanity are particularly relevant for fostering constructive conversations across faith boundaries.\n\n3. **Leaders and Educators**: Leaders, educators, and those in positions of influence can benefit from the ethical principles and moral dilemmas presented in the play. The character of Nathan exemplifies wisdom and integrity, serving as a model for ethical leadership and decision-making in diverse environments.\n\n4. **Individuals Seeking Personal Growth**: Readers interested in personal development and moral philosophy may find inspiration in the play's emphasis on empathy, ethical conduct, and the importance of understanding differing perspectives. The narrative encourages self-reflection and the cultivation of virtues that contribute to personal growth.\n\n5. **Advocates for Social Justice and Tolerance**: Activists and advocates working towards social justice, inclusivity, and tolerance would resonate with the play's core message. The critique of intolerance and the call for mutual respect align with contemporary efforts to promote understanding in increasingly diverse societies.\n\n6. **General Readers Interested in Literature**: Those who appreciate classic literature and dramatic works would find \"Nathan the Wise\" engaging for its rich character development, compelling narrative, and philosophical depth. The play's literary qualities make it a significant work within the canon of Enlightenment literature.\n\nIn summary, \"Nathan the Wise\" offers valuable insights and lessons for a wide audience, including students, leaders, advocates, and general readers, all of whom can benefit from its exploration of tolerance, ethical conduct, and the complexities of human belief.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Nathan the Wise by Gotthold Ephraim Lessing. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "b6286326-835a-4f57-abf1-7a1b090c7b76",
+  "token_usage": {
+    "input_tokens": 4859,
+    "output_tokens": 421,
+    "total_tokens": 5280
+  },
+  "latency_seconds": 4.12,
+  "timestamp_utc": "2026-10-05T16:35:28.742242+00:00"
+}

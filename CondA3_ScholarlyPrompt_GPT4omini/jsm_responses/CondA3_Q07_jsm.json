@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "jsm",
+  "book_slug": "autobiography-of-john-stuart-mill",
+  "book_title": "Autobiography of John Stuart Mill",
+  "book_author_canonical": "John Stuart Mill",
+  "book_author_display": "John Stuart Miller",
+  "companion_for_cross_ref": "Auden",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of the \"Autobiography of John Stuart Mill\" revolves around the importance of individuality, personal autonomy, and the cultivation of critical thought within the context of societal expectations. A concrete daily practice that connects to this core idea is the implementation of a reflective journaling routine.\n\n**Reflective Journaling Practice**:\n\n1. **Daily Reflection**: Set aside time each day to reflect on personal experiences, decisions, and interactions. This practice encourages individuals to consider how their choices align with their values and aspirations, fostering a sense of individuality and self-awareness.\n\n2. **Critical Engagement**: Use the journal to critically engage with prevailing opinions or societal norms encountered throughout the day. This could involve questioning assumptions, analyzing the motivations behind certain beliefs, or considering alternative perspectives. Such engagement mirrors Mill's advocacy for critical thinking and the examination of ideas.\n\n3. **Goal Setting and Autonomy**: Write about personal goals and aspirations, ensuring they reflect one's own desires rather than external pressures. This practice reinforces the importance of personal autonomy and the pursuit of one's own path to happiness, as emphasized by Mill.\n\n4. **Emotional Processing**: Incorporate reflections on emotional experiences, particularly those related to challenges or conflicts. This aspect of journaling can help individuals process their feelings and develop resilience, akin to Mill's own journey through mental health struggles.\n\n5. **Feedback Loop**: Periodically review past entries to identify patterns in thought and behavior. This retrospective analysis can illuminate areas for growth and reinforce the commitment to personal development, echoing Mill's emphasis on the continuous evolution of one's philosophical outlook.\n\nBy engaging in reflective journaling, individuals can cultivate a deeper understanding of themselves, challenge societal norms, and foster a commitment to personal growth, all of which resonate with the core ideas presented in Mill's autobiography.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of John Stuart Mill by John Stuart Mill. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "d86027fc-f3ed-4e91-b168-687628082515",
+  "token_usage": {
+    "input_tokens": 2281,
+    "output_tokens": 362,
+    "total_tokens": 2643
+  },
+  "latency_seconds": 5.05,
+  "timestamp_utc": "2026-10-05T16:30:01.289540+00:00"
+}

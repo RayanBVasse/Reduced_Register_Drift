@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q10",
+  "question_text": "What gets lost if this book is turned into general life advice?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "If \"Narrative of the Life of Frederick Douglass\" is turned into general life advice, several critical elements and nuances of the text may be lost:\n\n1. **Historical Specificity**: The unique historical context of slavery in 19th-century America is central to Douglass's narrative. Reducing the text to general life advice risks oversimplifying the complexities of his experiences and the systemic nature of oppression. The specific conditions of enslavement, the struggle for abolition, and the socio-political dynamics of the time are essential to understanding the gravity of Douglass's message.\n\n2. **Moral and Ethical Imperatives**: Douglass's work is a profound moral indictment of slavery and a call to action against systemic injustice. Generalizing his insights into life advice may dilute the urgency and ethical weight of his arguments, transforming a powerful political statement into a set of personal development tips that lack the same moral conviction.\n\n3. **Collective Struggle**: Douglass emphasizes the importance of collective action and community in the fight for freedom and justice. A shift to individualistic life advice may overlook the communal aspects of resistance and the necessity of solidarity in addressing systemic issues. This could lead to a misunderstanding of the interconnectedness of social struggles.\n\n4. **Complexity of Oppression**: The nuances of Douglass's critique of slavery, including the intersections of race, class, and gender, may be lost in a generalized application. Such simplification risks ignoring the specificities of different forms of oppression and the unique experiences of various marginalized groups.\n\n5. **Intellectual Rigor**: Douglass's narrative is not only a personal account but also a sophisticated argument against the institution of slavery. Reducing it to general life advice may undermine the intellectual rigor and depth of his analysis, which is rooted in a thorough understanding of the moral, social, and political implications of slavery.\n\n6. **Emotional Weight**: The emotional and psychological impact of Douglass's experiences is a vital aspect of his narrative. Generalizing his story into life advice may strip away the profound suffering, resilience, and humanity that characterize his account, reducing it to a formulaic approach to overcoming adversity.\n\nIn summary, transforming Douglass's narrative into general life advice risks losing the historical context, moral urgency, collective dimensions, and intellectual depth that are essential to understanding the text's significance and the profound implications of his experiences and arguments.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 3134,
+    "output_tokens": 484,
+    "total_tokens": 3618
+  },
+  "latency_seconds": 6.05,
+  "timestamp_utc": "2026-10-05T16:31:58.158813+00:00"
+}

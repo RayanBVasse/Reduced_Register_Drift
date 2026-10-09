@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "\"The Art of War\" would benefit a diverse range of individuals, particularly those engaged in fields that involve strategy, leadership, and competition. Key groups that may find the text especially valuable include:\n\n1. **Military Leaders and Strategists**: The primary audience for Sun Tzu's work, military professionals can gain insights into the principles of warfare, tactics, and the psychological aspects of conflict.\n\n2. **Business Leaders and Managers**: Executives and managers can apply the strategic principles outlined in the text to navigate competitive markets, manage teams, and make informed decisions. The emphasis on adaptability, resource management, and understanding the competitive landscape is particularly relevant in business contexts.\n\n3. **Entrepreneurs**: Individuals starting or running their own businesses can benefit from the strategic insights regarding planning, competition, and the importance of understanding both their own capabilities and those of their competitors.\n\n4. **Political Leaders and Diplomats**: Those involved in governance and diplomacy can draw from Sun Tzu's teachings on strategy, negotiation, and the importance of maintaining stability and order within society.\n\n5. **Sports Coaches and Athletes**: The principles of strategy, competition, and psychological preparation can be applied in sports contexts, where understanding opponents and adapting strategies are crucial for success.\n\n6. **Students of Strategy and Philosophy**: Scholars and students interested in military history, strategy, or philosophy may find the text valuable for its insights into human behavior, conflict, and leadership.\n\n7. **Conflict Resolution Professionals**: Mediators and conflict resolution specialists can draw from the text's emphasis on understanding the dynamics of conflict and the importance of achieving resolution without direct confrontation.\n\nIn summary, \"The Art of War\" offers valuable insights for anyone involved in leadership, strategy, or competitive environments. Its teachings can inform decision-making, enhance strategic thinking, and provide a framework for navigating complex challenges across various fields.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 4786,
+    "output_tokens": 374,
+    "total_tokens": 5160
+  },
+  "latency_seconds": 3.94,
+  "timestamp_utc": "2026-10-05T16:22:47.355372+00:00"
+}

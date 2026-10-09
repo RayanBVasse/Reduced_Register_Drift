@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Narrative of the Life of Frederick Douglass\" is a profound indictment of the institution of slavery and a compelling assertion of the inherent dignity and humanity of enslaved individuals. Douglass articulates the moral and intellectual contradictions of slavery, demonstrating how it dehumanizes both the enslaved and the enslaver. \n\nThrough his own experiences, Douglass illustrates the brutal realities of slavery, including the physical violence, psychological torment, and systemic oppression that characterize the lives of enslaved people. He emphasizes the importance of education as a pathway to freedom, arguing that knowledge is a powerful tool against oppression. Douglass's narrative serves not only as a personal testimony but also as a broader call to action, urging abolitionists and the wider public to recognize the immorality of slavery and to work towards its eradication.\n\nMoreover, Douglass critiques the complicity of religious institutions and the hypocrisy of those who profess Christian values while supporting or condoning slavery. His narrative is both a personal account of his journey from bondage to freedom and a political document advocating for the abolition of slavery and the recognition of African Americans as full citizens deserving of rights and respect. In this way, Douglass's work stands as a foundational text in the discourse on human rights and social justice.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 237,
+    "output_tokens": 255,
+    "total_tokens": 492
+  },
+  "latency_seconds": 4.75,
+  "timestamp_utc": "2026-10-05T16:31:12.000483+00:00"
+}

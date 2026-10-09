@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, \"The Art of War\" is underpinned by specific beliefs about human nature, society, and the self, though it does not explicitly invoke a particular conception of God. The framework presented by Sun Tzu reflects several foundational assumptions:\n\n1. **Human Nature**: The text operates on the premise that human beings are inherently competitive and that conflict is an inevitable aspect of existence. Sun Tzu acknowledges the complexities of human behavior, including the tendencies toward ambition, fear, and desire for power. This understanding informs his strategic recommendations, emphasizing the need to anticipate and manipulate these traits in oneself and others.\n\n2. **Society and Governance**: Sun Tzu's work is situated within the context of statecraft and the governance of society through military means. The text reflects a belief in the necessity of strong leadership and the role of the ruler in maintaining order and stability. The effectiveness of military strategy is often linked to the moral and ethical standing of the leader, suggesting that a ruler's virtue can influence the loyalty and morale of their forces.\n\n3. **The Self**: The framework emphasizes self-awareness and self-discipline as critical components of effective leadership. Sun Tzu advocates for a deep understanding of one's own strengths and weaknesses, as well as the importance of maintaining control over one's emotions and impulses. This introspective approach is essential for making sound strategic decisions and navigating the complexities of conflict.\n\n4. **The Nature of Conflict**: The text posits that conflict is not merely a physical confrontation but a complex interplay of psychological, social, and strategic elements. Sun Tzu's emphasis on deception, adaptability, and the manipulation of circumstances reflects a belief in the fluidity of conflict and the necessity of a nuanced approach to warfare.\n\nIn summary, while \"The Art of War\" does not explicitly articulate a theological framework, it is grounded in specific beliefs about human nature, the dynamics of society, and the qualities of effective leadership. These assumptions shape the strategic principles and recommendations that Sun Tzu presents, making them relevant to the context of military engagement and statecraft in ancient China.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 3063,
+    "output_tokens": 418,
+    "total_tokens": 3481
+  },
+  "latency_seconds": 5.16,
+  "timestamp_utc": "2026-10-05T16:22:22.942655+00:00"
+}

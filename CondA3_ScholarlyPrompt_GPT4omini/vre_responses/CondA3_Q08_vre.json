@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q08",
+  "question_text": "Where should modern application of this book stop?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The modern application of \"The Varieties of Religious Experience\" should stop at the point where it begins to oversimplify or misinterpret William James's nuanced exploration of religious phenomena. Specifically, the following boundaries should be observed:\n\n1. **Avoiding Reductionism**: While it may be tempting to extract broad self-help lessons or motivational insights from the text, such an approach risks reducing the complexity of religious experiences to mere tools for personal development. James's work is fundamentally an inquiry into the nature of belief and experience, and it should not be simplified into prescriptive advice or formulas for success.\n\n2. **Respecting Context**: The book is situated within a specific historical and intellectual context, reflecting early 20th-century debates about religion, psychology, and philosophy. Modern applications should respect this context and avoid anachronistic interpretations that impose contemporary values or frameworks onto James's ideas.\n\n3. **Maintaining Scholarly Integrity**: Any application of the book's insights should remain grounded in its scholarly rigor. This means engaging with the text's arguments and categories thoughtfully, rather than cherry-picking concepts to support a particular agenda or worldview. The richness of James's analysis lies in its depth and complexity, which should not be sacrificed for the sake of convenience.\n\n4. **Recognizing Limitations**: James's exploration of religious experience is not exhaustive and does not claim to provide definitive answers to all questions of belief or spirituality. Modern applications should acknowledge the limitations of his framework and remain open to the ongoing evolution of thought in the fields of psychology, theology, and philosophy.\n\n5. **Avoiding Dogmatism**: While James advocates for a pluralistic understanding of religious experiences, modern applications should not devolve into a form of relativism that dismisses the significance of particular beliefs or practices. The acknowledgment of diversity should be coupled with a respect for the depth and commitment that individuals may have to their own faith traditions.\n\nIn summary, the modern application of \"The Varieties of Religious Experience\" should be approached with care, ensuring that it honors the complexity of James's work and refrains from oversimplification, reductionism, or dogmatism. It should serve as a springboard for thoughtful engagement with the nature of belief and experience, rather than a prescriptive guide for contemporary life.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Varieties of Religious Experience by William James. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9a9c1aed-f654-4573-9896-af0b1a004743",
+  "token_usage": {
+    "input_tokens": 2556,
+    "output_tokens": 461,
+    "total_tokens": 3017
+  },
+  "latency_seconds": 4.06,
+  "timestamp_utc": "2026-10-05T16:38:11.726166+00:00"
+}

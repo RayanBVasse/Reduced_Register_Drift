@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "coa",
+  "book_slug": "the-confessions-of-st-augustine",
+  "book_title": "The Confessions of St. Augustine",
+  "book_author_canonical": "Augustine of Hippo",
+  "book_author_display": "Saint of Hippo Augustine",
+  "companion_for_cross_ref": "Ambrose",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Confessions\" by Augustine of Hippo is the exploration of the nature of sin, grace, and the transformative power of divine love. Augustine presents his own life as a narrative of spiritual struggle, detailing his journey from a life of moral waywardness and intellectual confusion to one of faith and commitment to God. \n\nThe work is structured as a series of reflections addressed to God, wherein Augustine confesses not only his sins but also the workings of divine grace in his life. He emphasizes the necessity of divine illumination for understanding truth and the human condition, asserting that true knowledge and wisdom come from God alone. \n\nAugustine articulates the concept of original sin, positing that humanity is inherently flawed and in need of redemption. He underscores the role of grace as a divine gift that enables individuals to turn away from sin and towards God. The tension between free will and divine sovereignty is also a significant theme, as Augustine grapples with the implications of human choice in the context of God's omniscience and omnipotence.\n\nUltimately, \"The Confessions\" serves as both a personal testimony and a theological treatise, illustrating the profound relationship between the individual soul and God, and the transformative journey from a life of sin to one of faith and communion with the divine.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Confessions of St. Augustine by Augustine of Hippo. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "fb4a7b31-72ad-4767-aca8-9754a64561f7",
+  "token_usage": {
+    "input_tokens": 237,
+    "output_tokens": 259,
+    "total_tokens": 496
+  },
+  "latency_seconds": 3.29,
+  "timestamp_utc": "2026-10-05T16:23:13.007775+00:00"
+}

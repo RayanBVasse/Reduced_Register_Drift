@@ -1,0 +1,83 @@
+{
+  "started_at": "2026-10-05T16:19:59.035601+00:00",
+  "model": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt_template": "You are a scholarly reading companion for the book {title} by {author}. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "book_order": [
+    "aobf",
+    "aow",
+    "coa",
+    "jsm",
+    "lofd",
+    "med",
+    "nw",
+    "sbf",
+    "vre",
+    "wdocd"
+  ],
+  "books": {
+    "aobf": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "aow": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "coa": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "jsm": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "lofd": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "med": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "nw": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "sbf": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "vre": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    },
+    "wdocd": {
+      "result": "ok",
+      "detail": "15/15 files all valid",
+      "n_completed": 15,
+      "n_failed": 0
+    }
+  },
+  "ended_at": "2026-10-05T16:41:18.079858+00:00",
+  "halt_reason": null,
+  "interrupted": false
+}

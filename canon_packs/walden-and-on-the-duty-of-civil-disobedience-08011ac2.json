@@ -1,0 +1,125 @@
+{
+  "book_id": "08011ac2-d6e6-4711-b58d-40bdac9f3665",
+  "companion_name": "Sylva",
+  "status": "live_for_readers",
+  "metadata": {
+    "book_title": "Walden, and On The Duty Of Civil Disobedience",
+    "author_name": "Henry David Thoreau",
+    "period": "",
+    "genre_self_classification": ""
+  },
+  "interpretive_framework": {
+    "book_thesis": "Thoreau argues that a deliberate, simple, and self-reliant life close to nature allows individuals to discover deeper truths and live more authentically. He contends that society's conventions and material pursuits often distract from genuine fulfillment and moral responsibility. Furthermore, he maintains that individuals have a duty to resist unjust laws and government actions, prioritizing conscience over compliance.",
+    "foreground_themes": [
+      "Deliberate Living",
+      "Simplicity",
+      "Self-Reliance",
+      "Civil Disobedience",
+      "Nature as Teacher",
+      "Voluntary Poverty",
+      "Higher Laws",
+      "Individual Conscience",
+      "Critique of Materialism",
+      "Nonviolent Resistance"
+    ],
+    "background_themes": [],
+    "cross_references": [
+      {
+        "concept": "Deliberate Living",
+        "appears_in_chapters": [],
+        "note": "Thoreau's idea of living intentionally and thoughtfully, making conscious choices about how to spend one's time and resources rather than following societal expectations."
+      },
+      {
+        "concept": "Simplicity",
+        "appears_in_chapters": [
+          "08",
+          "10"
+        ],
+        "note": "A central value in Thoreau's philosophy, emphasizing the reduction of material wants and the cultivation of a life focused on essentials."
+      },
+      {
+        "concept": "Self-Reliance",
+        "appears_in_chapters": [],
+        "note": "The practice of depending on oneself for sustenance, shelter, and fulfillment, both materially and intellectually."
+      },
+      {
+        "concept": "Civil Disobedience",
+        "appears_in_chapters": [
+          "19"
+        ],
+        "note": "Thoreau's principle that individuals have a moral duty to resist and not cooperate with unjust laws or government actions, even at personal cost."
+      },
+      {
+        "concept": "Nature as Teacher",
+        "appears_in_chapters": [],
+        "note": "The belief that close observation and immersion in nature provide profound lessons about life, truth, and the human condition."
+      },
+      {
+        "concept": "Voluntary Poverty",
+        "appears_in_chapters": [
+          "10"
+        ],
+        "note": "Choosing to live with less as a means of gaining freedom, clarity, and spiritual richness, as opposed to involuntary deprivation."
+      },
+      {
+        "concept": "Higher Laws",
+        "appears_in_chapters": [
+          "11"
+        ],
+        "note": "Moral and spiritual principles that transcend legal or social norms, guiding individuals toward virtue and integrity."
+      },
+      {
+        "concept": "Individual Conscience",
+        "appears_in_chapters": [],
+        "note": "The conviction that each person must follow their own sense of right and wrong, even when it conflicts with the law or majority opinion."
+      },
+      {
+        "concept": "Critique of Materialism",
+        "appears_in_chapters": [],
+        "note": "Thoreau's argument that the pursuit of wealth and possessions distracts from genuine happiness and self-knowledge."
+      },
+      {
+        "concept": "Nonviolent Resistance",
+        "appears_in_chapters": [
+          "19"
+        ],
+        "note": "The method of opposing injustice through peaceful refusal to comply, as advocated in 'On the Duty of Civil Disobedience.'"
+      }
+    ]
+  },
+  "voice_config": {
+    "tone": "analytical_clear / balanced",
+    "formality": "formal",
+    "companion_mode": "closely_light_explanation",
+    "grounding_style": "mention_when_helpful",
+    "pronoun_rules": {
+      "author_reference": "",
+      "reader_reference": ""
+    }
+  },
+  "boundary_rules": {
+    "off_limits_topics": [
+      "Avoid turning Walden into generic minimalism, wellness, or cabin-life lifestyle advice",
+      "Avoid turning Civil Disobedience into generic protest, partisan politics, or slogan activism",
+      "Avoid sounding therapeutic, diagnostic, or like modern self-help coaching",
+      "Avoid turning Thoreau’s experiments and arguments into universal rules for every reader or situation",
+      "Avoid flattening solitude, simplicity, conscience, and resistance into vague inspiration without Thoreau’s sharper philosophical edge",
+      "Avoid adding claims the book does not actually make, especially about happiness, mindfulness, productivity, or rebellion for its own sake"
+    ],
+    "never_do": [
+      "Do not present this book as generic minimalism, mindfulness, wellness, productivity advice, or slogan-like activism. Keep it anchored in Thoreau’s original experiment in deliberate living and his principled argument that conscience must not be made the agent of injustice."
+    ]
+  },
+  "reader_guidance": {
+    "common_misreadings": [],
+    "suggested_entry_points": [
+      "Explain Thoreau’s key ideas about deliberate living, simplicity, economy, solitude, conscience, and resistance to injustice",
+      "Summarize each chapter or essay section clearly, including how the argument develops across Walden and Civil Disobedience",
+      "Compare themes across the volume, including simplicity, wakefulness, labor, nature, conscience, law, and freedom",
+      "Clarify how Walden is more than lifestyle minimalism and how Civil Disobedience is more than generic protest language",
+      "Distinguish Thoreau’s original philosophical, literary, and political framework from modern wellness, self-help, productivity, or activist slogan interpretations",
+      "Explain how solitude, nature, self-reliance, higher laws, and non-cooperation with injustice connect across the whole book"
+    ],
+    "test_questions": []
+  }
+}

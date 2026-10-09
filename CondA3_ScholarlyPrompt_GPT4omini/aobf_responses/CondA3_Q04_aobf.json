@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q04",
+  "question_text": "Some readers find this text personally helpful. Is that a faithful reading?",
+  "primary_drift": "D1",
+  "block": 2,
+  "reply": "While some readers may find the \"Autobiography of Benjamin Franklin\" personally helpful, such a reading may not fully align with the text's primary intentions and genre. The work is fundamentally an exploration of Franklin's life, his philosophical reflections on virtue, and his systematic approach to self-improvement, rather than a self-help manual in the contemporary sense.\n\nFranklin's narrative is rich with insights into moral philosophy and the pursuit of personal excellence, and it does provide practical advice on cultivating virtues. However, the text is situated within the context of Enlightenment thought, focusing on the interplay between individual character and societal obligations. It emphasizes the importance of reason, education, and civic responsibility, rather than offering prescriptive solutions to personal dilemmas or emotional challenges.\n\nThus, while readers may derive personal inspiration or motivation from Franklin's experiences and principles, interpreting the text as a source of personal help may overlook its broader philosophical and historical dimensions. The work is more accurately understood as a reflective account of a life lived in pursuit of virtue and knowledge, serving as a commentary on the ideals of the time rather than a direct guide for personal well-being.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 1076,
+    "output_tokens": 226,
+    "total_tokens": 1302
+  },
+  "latency_seconds": 2.35,
+  "timestamp_utc": "2026-10-05T16:20:17.530583+00:00"
+}

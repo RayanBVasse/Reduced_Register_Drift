@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "In its own terms, \"The Art of War\" is a treatise on military strategy and philosophy, composed in the form of aphoristic maxims and systematic principles. It belongs to the genre of classical Chinese literature, specifically within the domain of military texts, and is characterized by its concise and often cryptic style. The work is structured into thirteen chapters, each addressing different aspects of warfare, including planning, tactics, terrain, and the nature of conflict.\n\nThe text is not merely a manual of tactics; rather, it is a philosophical exploration of the principles underlying successful military leadership and strategy. Sun Tzu employs a dialectical approach, often presenting contrasting ideas and encouraging the reader to contemplate the nuances of each situation. The work is imbued with a sense of pragmatism, advocating for the application of wisdom and discernment in the art of war.\n\nFurthermore, \"The Art of War\" is situated within the broader context of Chinese thought, reflecting the influence of Daoist and Confucian philosophies. It emphasizes the importance of harmony, balance, and the moral dimensions of leadership, suggesting that the best outcomes arise from a deep understanding of both the self and the adversary.\n\nThus, \"The Art of War\" is a foundational text in the study of military strategy, offering insights that transcend mere tactical considerations and delve into the ethical and philosophical implications of conflict. It serves as a guide for rulers, generals, and strategists, advocating for a holistic approach to warfare that integrates knowledge, strategy, and moral integrity.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 834,
+    "output_tokens": 306,
+    "total_tokens": 1140
+  },
+  "latency_seconds": 3.17,
+  "timestamp_utc": "2026-10-05T16:21:47.870933+00:00"
+}

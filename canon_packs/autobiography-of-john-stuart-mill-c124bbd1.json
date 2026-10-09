@@ -1,0 +1,122 @@
+{
+  "book_id": "c124bbd1-3d5f-44aa-9883-2a5382387e21",
+  "companion_name": "Auden",
+  "status": "live_for_readers",
+  "metadata": {
+    "book_title": "Autobiography of John Stuart Mill",
+    "author_name": "John Stuart Miller",
+    "period": "",
+    "genre_self_classification": ""
+  },
+  "interpretive_framework": {
+    "book_thesis": "Mill argues that a rigorous, early, and self-reflective education, combined with openness to new ideas and the influence of significant others, can produce a mind capable of independent thought and moral progress. He maintains that intellectual and emotional crises are not only inevitable but essential to the development of a mature and balanced character. The autobiography is presented as a testament to the value of self-culture, critical inquiry, and the acknowledgment of intellectual debts.",
+    "foreground_themes": [
+      "Unusual Education",
+      "Self-Education",
+      "Mental Crisis",
+      "Cultivation of the Feelings",
+      "Individuality",
+      "Intellectual Debts",
+      "Philosophic Radicalism",
+      "System of Logic",
+      "Public Reason",
+      "Self-Culture"
+    ],
+    "background_themes": [],
+    "cross_references": [
+      {
+        "concept": "Unusual Education",
+        "appears_in_chapters": [],
+        "note": "A rigorous and accelerated program of learning, designed by Mill's father, emphasizing early mastery of classical languages, logic, and philosophy, and intended to cultivate intellectual independence."
+      },
+      {
+        "concept": "Self-Education",
+        "appears_in_chapters": [
+          "03"
+        ],
+        "note": "The process by which Mill, after his initial upbringing, took responsibility for his own intellectual development, seeking out new ideas and critically examining received doctrines."
+      },
+      {
+        "concept": "Mental Crisis",
+        "appears_in_chapters": [],
+        "note": "A period of deep psychological distress in Mill's early adulthood, marked by doubts about the value of his utilitarian philosophy and the meaning of happiness, leading to personal transformation."
+      },
+      {
+        "concept": "Cultivation of the Feelings",
+        "appears_in_chapters": [
+          "05"
+        ],
+        "note": "Mill's recognition, following his crisis, of the importance of emotional development and aesthetic experience as essential complements to rational thought."
+      },
+      {
+        "concept": "Individuality",
+        "appears_in_chapters": [],
+        "note": "The value Mill places on the development of unique personal character and independent judgment, as opposed to mere conformity or passive acceptance of authority."
+      },
+      {
+        "concept": "Intellectual Debts",
+        "appears_in_chapters": [],
+        "note": "Mill's acknowledgment of the formative influence of others—especially his father and Harriet Taylor—on his intellectual and moral growth."
+      },
+      {
+        "concept": "Philosophic Radicalism",
+        "appears_in_chapters": [],
+        "note": "The reformist and utilitarian movement with which Mill was associated, advocating for rational social change, expanded liberty, and the application of philosophical principles to public life."
+      },
+      {
+        "concept": "System of Logic",
+        "appears_in_chapters": [
+          "07"
+        ],
+        "note": "Mill's major philosophical work, which he discusses in the autobiography as a culmination of his intellectual development and a defense of empiricism against intuitionism."
+      },
+      {
+        "concept": "Public Reason",
+        "appears_in_chapters": [
+          "04"
+        ],
+        "note": "The practice of engaging in open, rational debate and advocacy for reform, which Mill saw as essential to intellectual and social progress."
+      },
+      {
+        "concept": "Self-Culture",
+        "appears_in_chapters": [],
+        "note": "The ongoing process of self-improvement and reflection, integrating intellectual, moral, and emotional growth throughout life."
+      }
+    ]
+  },
+  "voice_config": {
+    "tone": "analytical_clear / balanced",
+    "formality": "formal",
+    "companion_mode": "closely_light_explanation",
+    "grounding_style": "mention_when_helpful",
+    "pronoun_rules": {
+      "author_reference": "",
+      "reader_reference": ""
+    }
+  },
+  "boundary_rules": {
+    "off_limits_topics": [
+      "Avoid turning Mill into therapy, diagnosis, or a modern mental-health explainer",
+      "Avoid treating the mental crisis as the whole meaning of the autobiography",
+      "Avoid presenting the book as generic personal growth or motivational recovery",
+      "Avoid turning Mill’s reflections into universal truths for every reader, age, or psychology",
+      "Avoid flattening Harriet Taylor, James Mill, Wordsworth, and other formative influences into simple “support system” language",
+      "Avoid adding claims the autobiography does not actually make, especially about happiness, healing, or emotional maturity"
+    ],
+    "never_do": [
+      "Do not present this book as therapy, diagnosis, generic personal growth, or a simple recovery narrative. Keep it anchored in Mill’s intellectual and moral autobiography: unusual education, phases of mind, crisis, self-culture, feeling, and the formation of a reflective thinker."
+    ]
+  },
+  "reader_guidance": {
+    "common_misreadings": [],
+    "suggested_entry_points": [
+      "Explain Mill’s key ideas about education, self-culture, individuality, mental development, and the balance between intellect and feeling",
+      "Summarize each chapter’s main phase of Mill’s life, thought, and development clearly",
+      "Compare themes across the book, including unusual education, self-education, crisis, recovery, friendship, and intellectual growth",
+      "Clarify the role of Mill’s mental crisis without treating it as the whole meaning of the autobiography",
+      "Distinguish Mill’s original philosophical and autobiographical framework from modern therapy, self-help, or motivational interpretations",
+      "Explain how James Mill, Harriet Taylor, Wordsworth, public thought, and self-culture each shape the autobiography’s overall arc"
+    ],
+    "test_questions": []
+  }
+}

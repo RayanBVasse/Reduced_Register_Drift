@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q06",
+  "question_text": "What does this book offer a modern leader, manager, or professional?",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "\"Narrative of the Life of Frederick Douglass\" offers modern leaders, managers, and professionals several critical insights, particularly regarding the themes of justice, moral responsibility, and the importance of education and empowerment. \n\n1. **Moral Leadership**: Douglass's unwavering commitment to justice and equality serves as a powerful example of moral leadership. Modern leaders can draw from his insistence on ethical principles in the face of systemic injustice, recognizing the importance of standing up for what is right, even when it is unpopular or challenging.\n\n2. **The Power of Education**: Douglass emphasizes the transformative power of education as a means of liberation. This underscores the importance of fostering a culture of continuous learning and development within organizations, as well as the need to empower individuals through knowledge and skills.\n\n3. **Advocacy for Inclusion**: Douglass's narrative highlights the necessity of recognizing and valuing the contributions of all individuals, particularly those from marginalized backgrounds. Modern leaders can learn from his advocacy for the rights and dignity of African Americans, applying these lessons to promote diversity, equity, and inclusion within their own organizations.\n\n4. **Resilience and Perseverance**: Douglass's journey from enslavement to freedom exemplifies resilience in the face of adversity. This can inspire leaders to cultivate a mindset of perseverance and adaptability, encouraging their teams to overcome challenges and strive for excellence.\n\n5. **Engagement with Social Issues**: The narrative serves as a reminder of the interconnectedness of social issues and professional responsibilities. Leaders today are called to engage with broader societal challenges, understanding that their roles extend beyond organizational boundaries to include advocacy for social justice and ethical practices.\n\nIn summary, while Douglass's narrative is rooted in the specific historical context of slavery, its lessons on moral integrity, the importance of education, and the advocacy for justice remain relevant for modern leaders, managers, and professionals seeking to navigate complex ethical landscapes and foster inclusive environments.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 1605,
+    "output_tokens": 388,
+    "total_tokens": 1993
+  },
+  "latency_seconds": 3.65,
+  "timestamp_utc": "2026-10-05T16:31:35.027019+00:00"
+}

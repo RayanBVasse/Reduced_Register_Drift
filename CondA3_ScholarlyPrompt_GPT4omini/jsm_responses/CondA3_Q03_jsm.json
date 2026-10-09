@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "jsm",
+  "book_slug": "autobiography-of-john-stuart-mill",
+  "book_title": "Autobiography of John Stuart Mill",
+  "book_author_canonical": "John Stuart Mill",
+  "book_author_display": "John Stuart Miller",
+  "companion_for_cross_ref": "Auden",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The \"Autobiography of John Stuart Mill\" is a reflective and introspective narrative that falls within the genre of philosophical autobiography. It is not merely a chronological account of Mill's life; rather, it serves as a vehicle for exploring the development of his philosophical ideas and the intellectual influences that shaped his thought. \n\nIn its own terms, the book is characterized by a blend of personal narrative and philosophical exposition. Mill employs autobiographical elements to illustrate the evolution of his beliefs, particularly regarding liberty, individuality, and the role of society. The work is marked by a candid examination of his formative experiences, including his rigorous education, his struggles with mental health, and his relationships with key figures in his life, such as his father and Harriet Taylor.\n\nMoreover, the autobiography is situated within the broader context of 19th-century philosophical discourse, particularly the utilitarian tradition. Mill uses his life story to engage with and critique the principles of utilitarianism, reflecting on how his understanding of happiness and moral philosophy evolved over time. \n\nThe book also serves as a testament to the importance of intellectual development and the cultivation of individuality, emphasizing the necessity of personal experience in the formation of philosophical ideas. In this sense, it is both a personal narrative and a philosophical treatise, illustrating how one's life experiences can inform and transform one's intellectual commitments.\n\nOverall, Mill's autobiography is a complex interplay of personal reflection and philosophical inquiry, aimed at elucidating the connections between individual experience and broader philosophical principles.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of John Stuart Mill by John Stuart Mill. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "d86027fc-f3ed-4e91-b168-687628082515",
+  "token_usage": {
+    "input_tokens": 894,
+    "output_tokens": 296,
+    "total_tokens": 1190
+  },
+  "latency_seconds": 3.57,
+  "timestamp_utc": "2026-10-05T16:29:37.808248+00:00"
+}

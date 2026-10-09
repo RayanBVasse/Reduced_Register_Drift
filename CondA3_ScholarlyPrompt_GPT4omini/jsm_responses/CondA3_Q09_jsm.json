@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "jsm",
+  "book_slug": "autobiography-of-john-stuart-mill",
+  "book_title": "Autobiography of John Stuart Mill",
+  "book_author_canonical": "John Stuart Mill",
+  "book_author_display": "John Stuart Miller",
+  "companion_for_cross_ref": "Auden",
+  "cluster": "G1",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, the framework of the \"Autobiography of John Stuart Mill\" is indeed influenced by specific beliefs about God, human nature, society, and the self, though it is important to note that Mill's approach is primarily secular and grounded in a philosophical rather than a theological context.\n\n1. **Beliefs about God**: Mill's framework does not rely on traditional religious beliefs about God. He identifies as a utilitarian, which emphasizes the greatest happiness principle as a basis for moral reasoning rather than divine command. His reflections suggest a more humanistic approach, focusing on human experience and rationality rather than theological doctrines.\n\n2. **Human Nature**: Mill's understanding of human nature is complex and multifaceted. He posits that individuals possess the capacity for rational thought and moral judgment, which allows them to pursue their own happiness and develop their individuality. He acknowledges the potential for both altruism and self-interest in human behavior, suggesting that a well-ordered society should cultivate the former while allowing for the latter.\n\n3. **Society**: Mill's framework is deeply concerned with the relationship between the individual and society. He argues that societal norms and expectations can often constrain individual freedom and autonomy. His belief in the importance of individuality is tied to his view that a flourishing society depends on the development of its members. He advocates for a balance between individual rights and the collective good, emphasizing the need for social structures that support personal liberty.\n\n4. **The Self**: Mill's conception of the self is rooted in the idea of individuality and personal development. He believes that individuals should be free to pursue their own paths to happiness, which requires a recognition of the self as an autonomous agent capable of making choices. His reflections on his own struggles with conformity and mental health highlight the importance of self-exploration and the cultivation of one's own identity.\n\nIn summary, the framework of Mill's autobiography is informed by specific beliefs about human nature, society, and the self, while maintaining a secular orientation that distances itself from traditional religious beliefs about God. These beliefs underpin his arguments regarding individuality, liberty, and the role of society in fostering personal development.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of John Stuart Mill by John Stuart Mill. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "d86027fc-f3ed-4e91-b168-687628082515",
+  "token_usage": {
+    "input_tokens": 3136,
+    "output_tokens": 429,
+    "total_tokens": 3565
+  },
+  "latency_seconds": 7.0,
+  "timestamp_utc": "2026-10-05T16:30:16.760798+00:00"
+}

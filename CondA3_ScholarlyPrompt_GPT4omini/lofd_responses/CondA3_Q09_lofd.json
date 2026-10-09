@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q09",
+  "question_text": "Does this book's framework depend on specific beliefs about God, human nature, society, or the self?",
+  "primary_drift": "D3",
+  "block": 4,
+  "reply": "Yes, \"Narrative of the Life of Frederick Douglass\" is framed by specific beliefs about God, human nature, society, and the self, which are integral to Douglass's arguments and the overall message of the text.\n\n1. **Beliefs about God**: Douglass's narrative reflects a belief in a just and moral God who opposes slavery and injustice. He often contrasts the true principles of Christianity with the hypocrisy of those who use religion to justify slavery. This theological framework underpins his moral arguments, as he appeals to a higher moral authority to denounce the institution of slavery and advocate for human rights.\n\n2. **Beliefs about Human Nature**: Douglass posits that all individuals possess inherent dignity and the capacity for reason and moral judgment. His narrative asserts that enslaved people are not only human but also deserving of the same rights and freedoms as any other person. This belief in the fundamental equality of all human beings is central to his critique of slavery and his call for abolition.\n\n3. **Beliefs about Society**: Douglass critiques the societal structures that uphold slavery, including legal, economic, and cultural systems that dehumanize enslaved individuals. He argues that society has a moral obligation to confront and dismantle these oppressive systems. His narrative serves as a call to action for individuals and society as a whole to recognize and rectify injustices.\n\n4. **Beliefs about the Self**: Douglass's journey from enslavement to self-actualization illustrates a belief in the power of self-determination and personal agency. He emphasizes the importance of education and self-empowerment as means to achieve freedom and autonomy. His narrative reflects a conviction that individuals can transcend their circumstances through knowledge and moral conviction.\n\nIn summary, the framework of Douglass's narrative is deeply intertwined with specific beliefs about God, human nature, society, and the self. These beliefs inform his arguments and shape the moral imperatives he presents, making them essential to understanding the text's core message and its historical significance.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 2705,
+    "output_tokens": 408,
+    "total_tokens": 3113
+  },
+  "latency_seconds": 3.86,
+  "timestamp_utc": "2026-10-05T16:31:50.601970+00:00"
+}

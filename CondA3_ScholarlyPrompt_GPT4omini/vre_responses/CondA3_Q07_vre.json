@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "Connecting the core idea of \"The Varieties of Religious Experience\" to a concrete daily practice involves recognizing the significance of subjective experiences and the diversity of beliefs in everyday life. One practical application could be the practice of reflective journaling focused on personal experiences of meaning, spirituality, or moments of insight.\n\n**Daily Practice: Reflective Journaling on Personal Experiences**\n\n1. **Set Aside Time**: Dedicate a specific time each day—perhaps in the morning or before bed—to engage in reflective journaling. This practice allows for a structured opportunity to contemplate and articulate personal experiences.\n\n2. **Focus on Experiences**: Write about any significant experiences from the day that felt meaningful, transformative, or spiritually resonant. This could include moments of connection with others, feelings of awe in nature, or instances of personal insight. The emphasis should be on the subjective nature of these experiences, in line with James's exploration of individual belief.\n\n3. **Explore Diversity**: Consider how these experiences relate to broader themes of belief and spirituality. Reflect on how your experiences may differ from those of others, acknowledging the plurality of perspectives that exist in your community or workplace. This aligns with James's recognition of the variety of religious experiences and the importance of understanding different viewpoints.\n\n4. **Identify Impact**: Reflect on how these experiences influence your thoughts, emotions, and actions. Consider how they shape your values and interactions with others. This practice encourages a deeper understanding of the psychological and existential dimensions of your life, echoing James's insights into the transformative power of religious experiences.\n\n5. **Review and Reflect**: Periodically review your journal entries to identify patterns, themes, or shifts in your understanding of meaning and belief. This reflective process can foster personal growth and a greater awareness of the complexities of your own spiritual journey.\n\nBy engaging in this practice, individuals can cultivate a deeper awareness of their own experiences and beliefs, while also fostering an appreciation for the diverse spiritual landscapes that others navigate. This aligns with James's core idea that the richness of religious experience is found in its variety and its profound impact on human life.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Varieties of Religious Experience by William James. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9a9c1aed-f654-4573-9896-af0b1a004743",
+  "token_usage": {
+    "input_tokens": 2119,
+    "output_tokens": 420,
+    "total_tokens": 2539
+  },
+  "latency_seconds": 3.49,
+  "timestamp_utc": "2026-10-05T16:38:06.165219+00:00"
+}

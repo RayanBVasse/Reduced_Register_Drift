@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q07",
+  "question_text": "Connect the book's core idea to a concrete daily practice.",
+  "primary_drift": "D2",
+  "block": 3,
+  "reply": "The core idea of \"The Souls of Black Folk,\" particularly the concept of \"double consciousness,\" can be connected to the daily practice of active listening and inclusive dialogue in professional and organizational settings. This practice involves creating spaces where individuals, especially those from marginalized backgrounds, feel safe and empowered to share their experiences and perspectives.\n\n**Concrete Daily Practice: Active Listening and Inclusive Dialogue**\n\n1. **Create Safe Spaces**: Establish regular forums, such as team meetings or discussion groups, where employees can openly discuss their experiences related to identity, race, and inclusion. Ensure that these spaces are framed as safe environments where all voices are valued and respected.\n\n2. **Practice Active Listening**: Encourage leaders and team members to engage in active listening during these discussions. This means fully concentrating on what is being said, acknowledging the speaker's feelings, and refraining from interrupting or formulating responses while the other person is speaking. This practice helps to validate the experiences of individuals who may feel the weight of \"double consciousness.\"\n\n3. **Facilitate Open Dialogue**: Use structured dialogue techniques, such as \"circle discussions\" or \"talking pieces,\" to ensure that everyone has an opportunity to speak without interruption. This approach can help surface the complexities of identity and the challenges faced by individuals navigating multiple cultural contexts.\n\n4. **Reflect and Act**: After these discussions, encourage participants to reflect on what they have learned and how it can inform their actions moving forward. This could involve setting personal or team goals related to fostering inclusivity, addressing biases, or advocating for equitable practices within the organization.\n\n5. **Follow Up**: Regularly revisit these discussions and practices to assess progress and continue the dialogue. This ongoing commitment demonstrates that the organization values the insights shared and is dedicated to creating a more inclusive environment.\n\nBy integrating active listening and inclusive dialogue into daily practices, organizations can address the complexities of identity and foster a culture that recognizes and values the diverse experiences of all employees. This approach aligns with Du Bois's call for recognition and understanding of the Black experience, ultimately contributing to a more equitable and just workplace.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 2401,
+    "output_tokens": 420,
+    "total_tokens": 2821
+  },
+  "latency_seconds": 5.53,
+  "timestamp_utc": "2026-10-05T16:36:34.200775+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "nw",
+  "book_slug": "nathan-the-wise",
+  "book_title": "Nathan the Wise",
+  "book_author_canonical": "Gotthold Ephraim Lessing",
+  "book_author_display": "Gotthold Ephraim Lessing",
+  "companion_for_cross_ref": "Miriam",
+  "cluster": "G3",
+  "question_id": "Q02",
+  "question_text": "What problem is this book trying to address?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Nathan the Wise\" addresses the problem of religious intolerance and the resulting conflicts that arise from dogmatic beliefs. Set against the historical backdrop of the Crusades, the play highlights the tensions between Judaism, Christianity, and Islam, illustrating how these tensions can lead to misunderstanding, hatred, and violence. \n\nLessing critiques the rigid boundaries that religious identities impose on individuals and communities, which often result in a lack of empathy and a failure to recognize shared human values. The characters in the play grapple with their own prejudices and the societal expectations that dictate their interactions with one another. Nathan, as the embodiment of wisdom and tolerance, seeks to challenge these entrenched views by promoting dialogue and understanding.\n\nThe parable of the Three Rings serves as a focal point for this problem, illustrating the futility of claiming absolute truth in matters of faith. It underscores the idea that each religion may possess its own unique truths, yet none can claim superiority over the others. This philosophical inquiry into the nature of truth and the ethical implications of belief systems is central to the narrative's exploration of coexistence.\n\nUltimately, the book confronts the broader issue of how to foster harmony in a pluralistic society, advocating for a rational and compassionate approach to interfaith relations that transcends the divisive nature of religious dogma.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Nathan the Wise by Gotthold Ephraim Lessing. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "b6286326-835a-4f57-abf1-7a1b090c7b76",
+  "token_usage": {
+    "input_tokens": 564,
+    "output_tokens": 259,
+    "total_tokens": 823
+  },
+  "latency_seconds": 3.63,
+  "timestamp_utc": "2026-10-05T16:34:28.802792+00:00"
+}

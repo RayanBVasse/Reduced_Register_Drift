@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion_for_cross_ref": "Marcus",
+  "cluster": "G1",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "\"Meditations\" is a philosophical work that takes the form of a series of personal reflections and aphorisms. It is not a systematic treatise or a formal exposition of Stoic doctrine; rather, it is a collection of thoughts, musings, and reminders that Marcus Aurelius composed for himself as a means of self-examination and moral guidance. The text is deeply introspective, revealing Aurelius's struggles, aspirations, and philosophical inquiries as he navigates the complexities of life as a Roman Emperor.\n\nThe genre of \"Meditations\" aligns with the tradition of philosophical diaries or personal essays, where the author engages in a dialogue with himself, contemplating ethical questions and the nature of existence. It is characterized by its candidness and immediacy, as Aurelius writes in a direct and unadorned style, often addressing himself in the second person. This approach invites the reader into his inner world, making the work both a personal testament and a broader exploration of Stoic philosophy.\n\nIn its own terms, \"Meditations\" serves as a practical manual for living virtuously, emphasizing the application of Stoic principles in daily life. It is a guide to self-improvement, urging the reader to cultivate virtues such as wisdom, justice, courage, and temperance while confronting the inevitable challenges of human existence. The work is thus both a philosophical inquiry and a practical exercise in the art of living, reflecting Aurelius's commitment to the Stoic ideal of aligning one's life with reason and nature.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Meditations by Marcus Aurelius. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "21f5a173-352e-418e-9e17-05ab6aed614b",
+  "token_usage": {
+    "input_tokens": 770,
+    "output_tokens": 301,
+    "total_tokens": 1071
+  },
+  "latency_seconds": 3.02,
+  "timestamp_utc": "2026-10-05T16:32:53.424365+00:00"
+}

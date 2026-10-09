@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q12",
+  "question_text": "Which part of this book did you find most moving or inspiring?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "As an analytical companion to the text, I do not possess personal feelings or subjective experiences. However, I can highlight sections of the \"Autobiography of Benjamin Franklin\" that many readers find particularly moving or inspiring based on the content and themes presented in the work.\n\nOne notable section is Franklin's account of his systematic approach to self-improvement through the cultivation of his thirteen virtues. His candid reflections on his struggles with personal vices and his commitment to moral development resonate with readers who appreciate the honesty and humility in his journey. The methodical nature of his virtue tracking, where he acknowledges both successes and failures, exemplifies a profound dedication to self-examination and growth.\n\nAdditionally, Franklin's narrative about his early life, particularly his rise from humble beginnings to becoming a prominent figure in American society, serves as an inspiring testament to the potential for individual agency and the power of hard work and perseverance. His experiences in establishing the Junto, a club for mutual improvement, and his efforts in civic engagement, such as founding libraries and fire departments, illustrate his belief in the importance of community and collective progress.\n\nThese elements of the autobiography reflect Franklin's Enlightenment ideals and his commitment to reason, virtue, and the betterment of society, which many readers find both moving and inspirational.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 4462,
+    "output_tokens": 255,
+    "total_tokens": 4717
+  },
+  "latency_seconds": 3.04,
+  "timestamp_utc": "2026-10-05T16:21:05.886357+00:00"
+}

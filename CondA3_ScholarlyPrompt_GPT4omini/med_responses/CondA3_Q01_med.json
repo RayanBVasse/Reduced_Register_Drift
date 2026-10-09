@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "med",
+  "book_slug": "meditations",
+  "book_title": "Meditations",
+  "book_author_canonical": "Marcus Aurelius",
+  "book_author_display": "Marcus Aurelius",
+  "companion_for_cross_ref": "Marcus",
+  "cluster": "G1",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"Meditations\" by Marcus Aurelius is the cultivation of a virtuous life through the practice of Stoic philosophy. Aurelius emphasizes the importance of rationality, self-discipline, and the acceptance of the natural order of the universe. He advocates for the development of an inner moral compass, which aligns with the Stoic understanding of virtue as the highest good.\n\nAurelius frequently reflects on the transient nature of life and the inevitability of death, urging the reader to focus on the present moment and to act in accordance with reason. He posits that external events are beyond our control, but our responses to them are within our power. This distinction between what is within our control and what is not is a recurring theme throughout the text.\n\nMoreover, Aurelius underscores the interconnectedness of all human beings, suggesting that one should act in harmony with others and contribute to the common good. He also addresses the importance of maintaining equanimity in the face of adversity and the necessity of enduring hardship with dignity.\n\nIn summary, the teachings of \"Meditations\" revolve around the Stoic ideals of virtue, rationality, acceptance of fate, and the pursuit of a life aligned with nature and reason.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Meditations by Marcus Aurelius. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "21f5a173-352e-418e-9e17-05ab6aed614b",
+  "token_usage": {
+    "input_tokens": 231,
+    "output_tokens": 244,
+    "total_tokens": 475
+  },
+  "latency_seconds": 2.68,
+  "timestamp_utc": "2026-10-05T16:32:40.611167+00:00"
+}

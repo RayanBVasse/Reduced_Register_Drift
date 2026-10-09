@@ -1,0 +1,100 @@
+{
+  "_description": "Book registry for the Extended GFI study. 10 books, keyed by lowercase abbreviation (CLI-safe). Used by gemini_extended_runner.py (Cond_A) and the future companion runtime runner (Cond_B). 'author_canonical' is the form sent to Gemini in the system prompt; 'author_display' is the platform-shown form (kept for cross-reference). 'drift_keywords' is a small list of distinctive tokens used by sanity_check_condA.py to confirm the response is about the right book; the reply is flagged if it contains none of these (case-insensitive substring match).",
+  "_clusters": {
+    "G1": "Philosophical & Spiritual Exercises",
+    "G2": "Civic, Political & Personal Testimony",
+    "G3": "Strategic, Expository & Conceptual Argument"
+  },
+  "books": {
+    "aobf": {
+      "slug": "autobiography-of-benjamin-franklin",
+      "title": "Autobiography of Benjamin Franklin",
+      "author_canonical": "Benjamin Franklin",
+      "author_display": "Benjamin Franklin",
+      "companion": "Civis",
+      "cluster": "G2",
+      "drift_keywords": ["Franklin", "Autobiography"]
+    },
+    "aow": {
+      "slug": "art-of-war",
+      "title": "Art of War",
+      "author_canonical": "Sun Tzu",
+      "author_display": "Sun Tzŭ",
+      "companion": "Sze Tan",
+      "cluster": "G3",
+      "drift_keywords": ["Sun Tzu", "Art of War"]
+    },
+    "coa": {
+      "slug": "the-confessions-of-st-augustine",
+      "title": "The Confessions of St. Augustine",
+      "author_canonical": "Augustine of Hippo",
+      "author_display": "Saint of Hippo Augustine",
+      "companion": "Ambrose",
+      "cluster": "G1",
+      "drift_keywords": ["Augustine", "Confessions"]
+    },
+    "jsm": {
+      "slug": "autobiography-of-john-stuart-mill",
+      "title": "Autobiography of John Stuart Mill",
+      "author_canonical": "John Stuart Mill",
+      "author_display": "John Stuart Miller",
+      "companion": "Auden",
+      "cluster": "G1",
+      "drift_keywords": ["Mill", "Autobiography"]
+    },
+    "lofd": {
+      "slug": "narrative-of-the-life-of-frederick-douglass",
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author_canonical": "Frederick Douglass",
+      "author_display": "Frederick Douglass",
+      "companion": "Elias",
+      "cluster": "G2",
+      "drift_keywords": ["Douglass", "Narrative"]
+    },
+    "med": {
+      "slug": "meditations",
+      "title": "Meditations",
+      "author_canonical": "Marcus Aurelius",
+      "author_display": "Marcus Aurelius",
+      "companion": "Marcus",
+      "cluster": "G1",
+      "drift_keywords": ["Marcus Aurelius", "Meditations", "Stoic"]
+    },
+    "nw": {
+      "slug": "nathan-the-wise",
+      "title": "Nathan the Wise",
+      "author_canonical": "Gotthold Ephraim Lessing",
+      "author_display": "Gotthold Ephraim Lessing",
+      "companion": "Miriam",
+      "cluster": "G3",
+      "drift_keywords": ["Nathan", "Lessing"]
+    },
+    "sbf": {
+      "slug": "the-souls-of-black-folk",
+      "title": "The Souls of Black Folk",
+      "author_canonical": "W. E. B. Du Bois",
+      "author_display": "W. E. B. Du Bois",
+      "companion": "Aletheia",
+      "cluster": "G2",
+      "drift_keywords": ["Du Bois", "Souls of Black Folk", "DuBois"]
+    },
+    "vre": {
+      "slug": "the-varieties-of-religious-experience",
+      "title": "The Varieties of Religious Experience",
+      "author_canonical": "William James",
+      "author_display": "William James",
+      "companion": "Mira",
+      "cluster": "G1",
+      "drift_keywords": ["William James", "Varieties of Religious Experience", "Varieties"]
+    },
+    "wdocd": {
+      "slug": "walden-and-on-the-duty-of-civil-disobedience",
+      "title": "Walden, and On the Duty of Civil Disobedience",
+      "author_canonical": "Henry David Thoreau",
+      "author_display": "Henry David Thoreau",
+      "companion": "Sylva",
+      "cluster": "G2",
+      "drift_keywords": ["Thoreau", "Walden", "Civil Disobedience"]
+    }
+  }
+}

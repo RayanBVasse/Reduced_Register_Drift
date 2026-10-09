@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q11",
+  "question_text": "How can I use the ideas in this book in my daily life?",
+  "primary_drift": "D1",
+  "block": 5,
+  "reply": "To use the ideas in \"The Art of War\" in your daily life, particularly in a professional or competitive context, you can adopt several principles while remaining mindful of their original military framework. Here are some practical applications:\n\n1. **Strategic Planning**: Begin each week or project by setting clear, specific goals. Assess the resources at your disposal and outline a plan to achieve these objectives. This mirrors Sun Tzu's emphasis on preparation and foresight.\n\n2. **Know Your Environment**: Regularly analyze your surroundings, whether in a workplace or competitive landscape. Understand the strengths and weaknesses of your organization, team, and competitors. This aligns with the principle of knowing both yourself and the adversary.\n\n3. **Adaptability**: Cultivate a mindset of flexibility. Be prepared to adjust your strategies based on new information or changing circumstances. This practice reflects Sun Tzu's teaching on the importance of adapting to the dynamics of conflict.\n\n4. **Effective Communication**: Foster open lines of communication with your team or colleagues. Ensure that everyone is aligned with the objectives and understands their roles. This promotes morale and cohesion, which are vital for success.\n\n5. **Conflict Resolution**: Approach conflicts or disagreements with a mindset of resolution rather than confrontation. Seek to understand differing perspectives and find common ground, embodying Sun Tzu's ideal of winning without fighting.\n\n6. **Resource Management**: Be mindful of how you allocate your time and resources. Prioritize tasks that align with your strategic goals and ensure that you are using your resources efficiently, as Sun Tzu advises in the context of logistics.\n\n7. **Continuous Learning**: Reflect on your experiences regularly. Analyze what strategies worked, what did not, and why. This practice of reflection and learning from each engagement is crucial for personal and professional growth.\n\n8. **Maintain Composure**: In high-pressure situations, strive to remain calm and composed. Sun Tzu emphasizes the importance of self-control and discipline, which can help you make better decisions under stress.\n\nBy integrating these principles into your daily routines, you can apply the strategic insights of \"The Art of War\" in a manner that enhances your effectiveness in various aspects of life, particularly in leadership, teamwork, and conflict management. However, it is essential to approach these applications with an understanding of their original context and to prioritize ethical considerations in your actions.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 4024,
+    "output_tokens": 476,
+    "total_tokens": 4500
+  },
+  "latency_seconds": 5.73,
+  "timestamp_utc": "2026-10-05T16:22:37.253490+00:00"
+}

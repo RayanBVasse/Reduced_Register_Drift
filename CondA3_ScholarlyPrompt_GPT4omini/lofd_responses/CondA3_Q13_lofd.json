@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "lofd",
+  "book_slug": "narrative-of-the-life-of-frederick-douglass",
+  "book_title": "Narrative of the Life of Frederick Douglass",
+  "book_author_canonical": "Frederick Douglass",
+  "book_author_display": "Frederick Douglass",
+  "companion_for_cross_ref": "Elias",
+  "cluster": "G2",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "\"Narrative of the Life of Frederick Douglass\" is a significant text that can benefit a wide range of readers, particularly those who are engaged with issues of social justice, history, and human rights. Specific groups that would benefit most from reading this book include:\n\n1. **Students and Educators**: Those studying American history, literature, or social justice will find Douglass's narrative an essential primary source that provides insight into the realities of slavery and the abolitionist movement. Educators can use it to teach critical thinking about historical narratives and the moral implications of social systems.\n\n2. **Activists and Advocates**: Individuals involved in social justice work, civil rights advocacy, or community organizing can draw inspiration from Douglass's commitment to fighting oppression. His experiences and insights can inform contemporary struggles for equality and human rights.\n\n3. **Leaders and Managers**: Those in leadership positions can benefit from Douglass's emphasis on moral integrity, the importance of education, and the need for inclusive practices. His narrative serves as a reminder of the ethical responsibilities leaders have in promoting justice and equity within their organizations and communities.\n\n4. **Individuals Seeking Personal Growth**: Readers interested in personal development may find Douglass's journey of self-education and resilience inspiring. His story illustrates the power of determination and the pursuit of knowledge as tools for overcoming adversity.\n\n5. **General Readers Interested in Human Rights**: Anyone with an interest in human rights, ethics, or the human condition will find Douglass's narrative a compelling exploration of the struggle for dignity and freedom. His eloquent articulation of the moral failings of slavery and the call for justice resonates across time and context.\n\n6. **Scholars and Researchers**: Academics studying literature, history, sociology, or African American studies will find Douglass's work a critical text for understanding the complexities of race, identity, and resistance in American society.\n\nIn summary, \"Narrative of the Life of Frederick Douglass\" is a foundational text that offers valuable insights and lessons for a diverse audience, making it relevant for anyone interested in the themes of justice, equality, and the human experience.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Narrative of the Life of Frederick Douglass by Frederick Douglass. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "96166c10-54c0-4d52-a2c0-1dc86f23a523",
+  "token_usage": {
+    "input_tokens": 4426,
+    "output_tokens": 430,
+    "total_tokens": 4856
+  },
+  "latency_seconds": 4.62,
+  "timestamp_utc": "2026-10-05T16:32:15.757671+00:00"
+}

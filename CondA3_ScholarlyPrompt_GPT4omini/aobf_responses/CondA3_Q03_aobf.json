@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aobf",
+  "book_slug": "autobiography-of-benjamin-franklin",
+  "book_title": "Autobiography of Benjamin Franklin",
+  "book_author_canonical": "Benjamin Franklin",
+  "book_author_display": "Benjamin Franklin",
+  "companion_for_cross_ref": "Civis",
+  "cluster": "G2",
+  "question_id": "Q03",
+  "question_text": "What kind of book is this, in its own terms?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The \"Autobiography of Benjamin Franklin\" is a work of autobiographical literature that occupies a unique position within the genre of personal narrative. It is structured as a memoir, recounting Franklin's life experiences, achievements, and reflections on his character and moral philosophy. The text is characterized by its Enlightenment ideals, emphasizing reason, self-improvement, and civic virtue.\n\nFranklin's autobiography is not merely a chronological account of events; it is also a didactic text that seeks to instruct readers on the principles of personal development and ethical living. It employs a conversational tone, blending anecdotal storytelling with philosophical discourse, which invites readers to engage with his ideas on virtue and self-governance.\n\nMoreover, the work serves as a historical document, providing insight into the social, political, and cultural milieu of 18th-century America. It reflects the values and aspirations of the emerging American identity, particularly in relation to Enlightenment thought and the burgeoning ideals of democracy and individualism.\n\nIn its own terms, the \"Autobiography\" can be understood as a reflective exploration of the self, a guide to moral conduct, and a commentary on the interplay between individual agency and societal responsibility. It stands as a testament to Franklin's belief in the potential for human improvement and the importance of contributing to the common good through personal virtue and rational thought.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Autobiography of Benjamin Franklin by Benjamin Franklin. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "32df270a-a7b9-4ee5-8c95-7ee036b4f751",
+  "token_usage": {
+    "input_tokens": 786,
+    "output_tokens": 268,
+    "total_tokens": 1054
+  },
+  "latency_seconds": 3.37,
+  "timestamp_utc": "2026-10-05T16:20:13.682525+00:00"
+}

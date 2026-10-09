@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "aow",
+  "book_slug": "art-of-war",
+  "book_title": "Art of War",
+  "book_author_canonical": "Sun Tzu",
+  "book_author_display": "Sun Tzŭ",
+  "companion_for_cross_ref": "Sze Tan",
+  "cluster": "G3",
+  "question_id": "Q12",
+  "question_text": "Which part of this book did you find most moving or inspiring?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "As an AI, I do not possess personal feelings or subjective experiences, so I do not find any part of \"The Art of War\" moving or inspiring in the way a human might. However, I can identify sections of the text that are often regarded as particularly impactful or thought-provoking by readers.\n\nOne such section is the emphasis on the concept of winning without fighting, particularly articulated in the opening chapters. Sun Tzu states that the supreme art of war is to subdue the enemy without resorting to battle. This principle highlights the value of strategy, intelligence, and psychological maneuvering over direct confrontation. It encourages leaders to seek resolution through understanding, negotiation, and strategic positioning, rather than through violence and conflict.\n\nThis idea resonates with many readers as it underscores the importance of wisdom and foresight in leadership, suggesting that true strength lies in the ability to navigate challenges with skill and insight rather than brute force. It reflects a profound understanding of the complexities of human interactions and the nature of conflict, which can be inspiring in its call for a more thoughtful and strategic approach to challenges.\n\nSuch principles can serve as a guiding philosophy for leaders and individuals in various contexts, promoting a mindset that values strategic thinking and ethical considerations in the pursuit of goals.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Art of War by Sun Tzu. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "0596a6b9-1cc0-426a-a43c-f8b4dd7b4588",
+  "token_usage": {
+    "input_tokens": 4521,
+    "output_tokens": 248,
+    "total_tokens": 4769
+  },
+  "latency_seconds": 3.16,
+  "timestamp_utc": "2026-10-05T16:22:41.912159+00:00"
+}

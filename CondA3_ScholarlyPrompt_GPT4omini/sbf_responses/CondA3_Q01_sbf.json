@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q01",
+  "question_text": "What is the central argument or teaching of this book?",
+  "primary_drift": "D3",
+  "block": 1,
+  "reply": "The central argument of \"The Souls of Black Folk\" by W. E. B. Du Bois revolves around the concept of \"double consciousness,\" which he articulates as the internal conflict experienced by African Americans who navigate a society that devalues their identity. Du Bois posits that African Americans possess a dual identity: one as a member of the African heritage and the other as an American citizen, often at odds with one another. This duality leads to a sense of alienation and a struggle for self-definition in a context marked by systemic racism and oppression.\n\nDu Bois critiques the prevailing narratives of his time, particularly the limitations of Booker T. Washington's accommodationist approach, which he argues compromises the political and civil rights of Black Americans in favor of vocational training and economic self-reliance. Instead, Du Bois advocates for the necessity of higher education and the cultivation of a \"Talented Tenth\"—an educated elite who would lead the fight for civil rights and social justice.\n\nThroughout the text, Du Bois employs a blend of sociological analysis, personal narrative, and lyrical prose to illuminate the lived experiences of Black Americans, addressing themes such as the legacy of slavery, the importance of cultural heritage, and the ongoing struggle for equality. He calls for a recognition of the humanity and dignity of Black individuals, urging a collective movement towards political activism and social change.\n\nIn essence, \"The Souls of Black Folk\" serves as both a profound critique of American society and a passionate plea for the recognition of Black identity and rights, encapsulating the complexities of race relations in the early 20th century.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 239,
+    "output_tokens": 320,
+    "total_tokens": 559
+  },
+  "latency_seconds": 7.45,
+  "timestamp_utc": "2026-10-05T16:35:58.412652+00:00"
+}

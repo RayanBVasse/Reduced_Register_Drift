@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "sbf",
+  "book_slug": "the-souls-of-black-folk",
+  "book_title": "The Souls of Black Folk",
+  "book_author_canonical": "W. E. B. Du Bois",
+  "book_author_display": "W. E. B. Du Bois",
+  "companion_for_cross_ref": "Aletheia",
+  "cluster": "G2",
+  "question_id": "Q12",
+  "question_text": "Which part of this book did you find most moving or inspiring?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "As an AI, I do not have personal feelings or experiences, but I can highlight sections of \"The Souls of Black Folk\" that many readers find particularly moving or inspiring based on the text's content and its impact on audiences.\n\nOne of the most poignant sections is the essay titled \"Of Our Spiritual Strivings,\" where Du Bois introduces the concept of \"double consciousness.\" In this essay, he articulates the profound internal conflict faced by African Americans as they navigate their identities in a society that devalues them. His vivid descriptions of the struggle for self-definition and the yearning for recognition resonate deeply, capturing the emotional weight of living in a racially stratified society.\n\nAdditionally, Du Bois's reflections on the cultural and spiritual resilience of Black Americans, particularly in the context of their historical suffering, can be inspiring. His acknowledgment of the strength found in community, faith, and cultural heritage serves as a powerful testament to the enduring spirit of those who have faced oppression.\n\nAnother moving aspect of the book is Du Bois's call for the \"Talented Tenth,\" where he emphasizes the importance of education and leadership within the Black community. This vision of empowerment through knowledge and collective action can inspire readers to recognize the potential for change and the importance of uplifting others.\n\nOverall, the combination of personal narrative, sociological insight, and moral urgency throughout the text creates a profound and inspiring message about the struggle for dignity, identity, and justice. These themes continue to resonate with readers, making Du Bois's work a lasting source of inspiration in the fight for equality.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Souls of Black Folk by W. E. B. Du Bois. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "6c76e255-1864-4574-9fdf-4c3847f0838b",
+  "token_usage": {
+    "input_tokens": 4861,
+    "output_tokens": 310,
+    "total_tokens": 5171
+  },
+  "latency_seconds": 3.54,
+  "timestamp_utc": "2026-10-05T16:37:08.325259+00:00"
+}

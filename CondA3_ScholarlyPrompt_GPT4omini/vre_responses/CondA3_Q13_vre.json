@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "vre",
+  "book_slug": "the-varieties-of-religious-experience",
+  "book_title": "The Varieties of Religious Experience",
+  "book_author_canonical": "William James",
+  "book_author_display": "William James",
+  "companion_for_cross_ref": "Mira",
+  "cluster": "G1",
+  "question_id": "Q13",
+  "question_text": "Who would benefit most from reading this book?",
+  "primary_drift": "D4",
+  "block": 5,
+  "reply": "\"The Varieties of Religious Experience\" would benefit a diverse range of readers, particularly those interested in the intersections of psychology, philosophy, and spirituality. Specific groups that may find the book especially valuable include:\n\n1. **Students and Scholars of Religion**: Those studying theology, religious studies, or comparative religion will find James's work foundational for understanding the psychological dimensions of belief and the variety of religious experiences across different traditions.\n\n2. **Psychologists and Mental Health Professionals**: Practitioners in psychology, particularly those interested in the psychology of religion or spirituality, can gain insights into how religious experiences impact mental health, identity, and personal development. James's exploration of the subjective nature of experience can inform therapeutic practices that respect clients' spiritual beliefs.\n\n3. **Philosophers and Ethicists**: Individuals engaged in philosophical inquiry, particularly in the areas of existentialism, ethics, and the philosophy of religion, will find rich material in James's arguments about the nature of belief, the self, and the moral implications of religious experiences.\n\n4. **Spiritual Seekers and Practitioners**: Those on a personal spiritual journey, regardless of their specific beliefs, may find resonance in James's emphasis on the importance of individual experience and the diversity of spiritual expressions. His insights can encourage deeper reflection on their own beliefs and experiences.\n\n5. **Educators and Leaders**: Teachers, community leaders, and those in positions of influence may benefit from James's pluralistic approach to understanding belief systems. His work can foster empathy and open-mindedness in engaging with diverse perspectives within communities.\n\n6. **General Readers Interested in Human Experience**: Anyone curious about the complexities of human experience, the search for meaning, and the nature of belief will find value in James's exploration of religious phenomena. His accessible writing style and engaging examples make the book approachable for a broad audience.\n\nIn summary, \"The Varieties of Religious Experience\" is a rich resource for anyone interested in the psychological, philosophical, and experiential dimensions of religion, making it relevant to a wide array of readers across various fields and interests.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book The Varieties of Religious Experience by William James. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9a9c1aed-f654-4573-9896-af0b1a004743",
+  "token_usage": {
+    "input_tokens": 4958,
+    "output_tokens": 419,
+    "total_tokens": 5377
+  },
+  "latency_seconds": 4.5,
+  "timestamp_utc": "2026-10-05T16:38:54.599273+00:00"
+}

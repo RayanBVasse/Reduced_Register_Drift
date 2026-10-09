@@ -1,0 +1,27 @@
+{
+  "condition": "A3_scholarly_prompt_matched_model",
+  "abbrev": "wdocd",
+  "book_slug": "walden-and-on-the-duty-of-civil-disobedience",
+  "book_title": "Walden, and On the Duty of Civil Disobedience",
+  "book_author_canonical": "Henry David Thoreau",
+  "book_author_display": "Henry David Thoreau",
+  "companion_for_cross_ref": "Sylva",
+  "cluster": "G2",
+  "question_id": "Q14",
+  "question_text": "What is the hardest idea in this book to accept or understand?",
+  "primary_drift": "D3",
+  "block": 5,
+  "reply": "One of the hardest ideas in \"Walden\" and \"On the Duty of Civil Disobedience\" to accept or understand is Thoreau's radical stance on civil disobedience and the moral imperative to resist unjust laws. This concept challenges deeply ingrained beliefs about the role of government, the nature of law, and the responsibilities of citizenship.\n\n1. **Moral Obligation vs. Legal Compliance**: Thoreau asserts that individuals have a moral obligation to act according to their conscience, even if it means breaking the law. This idea can be difficult to reconcile with conventional views that prioritize legal compliance and respect for authority. The notion that one might be justified in disobeying laws that are deemed unjust raises complex questions about the nature of justice, the legitimacy of government, and the potential consequences of such actions.\n\n2. **Individual Conscience vs. Collective Responsibility**: Thoreau's emphasis on individual conscience can also be challenging, as it places the burden of moral decision-making squarely on the individual. This perspective may conflict with societal norms that emphasize collective responsibility or adherence to established systems. The idea that one person's moral judgment can supersede the law invites debate about the implications of individualism in a democratic society.\n\n3. **The Consequences of Disobedience**: Thoreau acknowledges that civil disobedience may lead to personal sacrifice, including imprisonment or social ostracism. Accepting the idea that one must be willing to face such consequences for the sake of moral integrity can be daunting. It raises questions about the limits of individual action and the effectiveness of such resistance in bringing about social change.\n\n4. **Simplicity and Self-Reliance**: In \"Walden,\" Thoreau's advocacy for a life of simplicity and self-sufficiency can also be difficult to embrace in a modern context characterized by complexity, interconnectedness, and consumerism. The challenge of prioritizing personal values over societal expectations and material pursuits can provoke discomfort and resistance.\n\nThese ideas require readers to engage with profound ethical dilemmas and to reflect critically on their own beliefs about authority, justice, and personal responsibility. Thoreau's arguments invite a reevaluation of the relationship between the individual and society, which can be both challenging and transformative.",
+  "model": "gpt-4o-mini-2024-07-18",
+  "model_version_returned": "gpt-4o-mini-2024-07-18",
+  "temperature": 0.0,
+  "system_prompt": "You are a scholarly reading companion for the book Walden, and On the Duty of Civil Disobedience by Henry David Thoreau. Answer questions about this book in the intellectual register of the work itself.\n\nPrinciples:\n- Explain the book on its own terms, in the conceptual vocabulary and genre it occupies. Do not translate it into contemporary self-help, therapeutic, motivational, wellness, or productivity language.\n- Preserve the author's argumentative structure and doctrinal specificity. Do not soften strong or difficult claims into general life lessons, universal values, or broad human themes.\n- Keep the historical and generic situation of the text visible. Avoid anachronistic framing and modern idiom that the work does not support.\n- Be direct and substantive. Do not append reflective prompts, invitations to continue, or follow-up questions to the reader unless explicitly asked.\n- Where the text is ambiguous, unresolved, or self-contradictory, say so, rather than resolving it into a clean takeaway.\n- Ground claims in the book's own content, and state plainly when a question falls outside what the book addresses.",
+  "session_uuid": "9d11e48e-3db4-4ce0-bdf4-74562845008e",
+  "token_usage": {
+    "input_tokens": 5207,
+    "output_tokens": 454,
+    "total_tokens": 5661
+  },
+  "latency_seconds": 4.23,
+  "timestamp_utc": "2026-10-05T16:40:55.011137+00:00"
+}
