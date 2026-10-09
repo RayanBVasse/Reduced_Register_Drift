@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 S1 — end-to-end worked example: Nathan the Wise, Q11.
@@ -16,10 +20,8 @@ Output: s1_worked_example.md
 import json, re, os
 from pathlib import Path
 
-G    = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
-CP   = Path("/sessions/practical-admiring-babbage/mnt/Sc Pubs Manus/"
-            "11. Governing Generative Interpretation Authorial Control in LLM - AI&Soc/"
-            "Book JSONs/nathan-the-wise-d52840ff.json")
+G    = DATA
+CP   = canon_pack("nathan-the-wise")
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 
 import importlib.util

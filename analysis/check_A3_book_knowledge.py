@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 Does Cond_A3 — which receives NO book content in its prompt — nonetheless
@@ -9,7 +13,7 @@ Reads raw response JSONs; depends on no intermediate file.
 """
 import json, re, os
 from pathlib import Path
-GFI=Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+GFI=DATA
 HERE=Path(os.path.dirname(os.path.abspath(__file__)))
 
 # entities internal to each work; none appear in the A3 prompt, which gives

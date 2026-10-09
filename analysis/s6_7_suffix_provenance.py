@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 S6.7 — Provenance of the Cond_B follow-on question.
@@ -13,7 +17,7 @@ import csv, json, re, os
 from pathlib import Path
 from collections import Counter
 
-G    = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+G    = DATA
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 log  = list(csv.DictReader(open(HERE/"governance_log_46.csv")))
 reg  = json.loads((G/"book_registry.json").read_text())["books"]

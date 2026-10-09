@@ -5,7 +5,7 @@ data — no hand-entered numbers.
 
 Outputs 300 dpi PNG + LZW-compressed TIFF for each figure into 10_figures/.
 """
-import csv, json, os, statistics as st
+import csv, json, os, sys, statistics as st
 from pathlib import Path
 from collections import defaultdict, Counter
 import matplotlib
@@ -15,8 +15,9 @@ from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
 
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 BASE = HERE.parent
-SUP  = BASE/"09_supplement"
-G    = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+SUP  = HERE.parent / "analysis"   # derived CSVs live beside the analysis scripts
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "analysis"))
+from _paths import DATA as G, data_file
 
 plt.rcParams.update({
     "font.family":"DejaVu Sans","font.size":9,"axes.titlesize":10,
@@ -30,7 +31,7 @@ LAB = {"A1":"A1  Gemini\nungoverned","A2":"A2  gpt-4o-mini\nbare prompt",
 CONDS=["A1","A2","A3","B"]
 
 # ---------------------------------------------------------------- data
-rc=list(csv.DictReader(open(SUP/"per_response_rawcounts.csv")))
+rc=list(csv.DictReader(open(data_file("per_response_rawcounts.csv"))))
 for r in rc:
     for k in ("d1","d2","d3","d4","tokens","tokens_raw",
               "d1_raw","d2_raw","d3_raw","d4_raw"): r[k]=int(r[k])
@@ -40,7 +41,7 @@ pairs=sorted(idx)
 reg=json.loads((G/"book_registry.json").read_text())
 BOOKS,CLUSTERS=reg["books"],reg["_clusters"]
 proto=json.loads((G/"protocol_15q.json").read_text())
-log=list(csv.DictReader(open(SUP/"governance_log_46.csv")))
+log=list(csv.DictReader(open(data_file("governance_log_46.csv"))))
 
 def d123(r): return (r["d1"]+r["d2"]+r["d3"])/r["tokens"]*1000
 def d123raw(r): return (r["d1_raw"]+r["d2_raw"]+r["d3_raw"])/r["tokens_raw"]*1000

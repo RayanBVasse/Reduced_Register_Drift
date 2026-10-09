@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 S2.5 — marker counts and token bases, raw vs stripped, per condition.
@@ -13,7 +17,7 @@ Output: s2_5_marker_counts.md , per_response_rawcounts.csv
 import json, re, csv, os
 from pathlib import Path
 
-G    = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+G    = DATA
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 BASE = HERE.parent
 
@@ -85,7 +89,7 @@ with open(HERE/"per_response_rawcounts.csv","w",newline="",encoding="utf-8") as 
 
 # ---- cross-check the stripped columns against per_response_4way.csv ----
 ref={(r["cond"],r["ab"],r["qid"]):r for r in
-     csv.DictReader(open(BASE/"07_ablation_analysis"/"per_response_4way.csv"))}
+     csv.DictReader(open(data_file("per_response_4way.csv")))}
 bad=0
 for r in recs:
     q=ref[(r["cond"],r["ab"],r["qid"])]

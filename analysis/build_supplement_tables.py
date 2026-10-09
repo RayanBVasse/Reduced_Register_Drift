@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 Supplement tables S2.5, S4, S5, S7.1-S7.4 for the continuation paper.
@@ -25,9 +29,9 @@ import statistics as st
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 BASE = os.path.dirname(HERE)
-GFI  = "/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis"
+GFI  = str(DATA)
 
-rows = list(csv.DictReader(open(os.path.join(BASE, "07_ablation_analysis", "per_response_4way.csv"))))
+rows = list(csv.DictReader(open(data_file("per_response_4way.csv"))))
 for r in rows:
     for k in ("d1","d2","d3","d4","tokens"): r[k] = int(r[k])
     for k in ("d123_per1k","total_per1k","d123_per1k_raw","total_per1k_raw"): r[k] = float(r[k])

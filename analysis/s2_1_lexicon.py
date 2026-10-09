@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 S2.1 — the marker lexicon as implemented, reconciled against the documented
@@ -15,7 +19,7 @@ from pathlib import Path
 from scipy.stats import wilcoxon, norm
 from collections import defaultdict
 
-G    = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+G    = DATA
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 
 src = (HERE/"s2_5_marker_counts.py").read_text()
@@ -191,4 +195,4 @@ w("Patterns 6–7 carry a 400-character bound and require a structural noun "
   "A3→B comparison is not confounded by stripping.\n")
 
 (HERE/"s2_1_lexicon.md").write_text("\n".join(L),encoding="utf-8")
-print("\n".join(L[L.index("### S2.1.2 — Reconciliation with the earlier paper's Appendix A"):]))
+print(f"wrote {HERE/'s2_1_lexicon.md'}")

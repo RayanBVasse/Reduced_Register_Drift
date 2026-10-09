@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """S3 (system & controls), S6.1/6.3/6.4/6.5 (governance log), S2.4 (A3 prompt), S8 (manifest)."""
 import json, csv, os, glob
@@ -5,10 +9,8 @@ from pathlib import Path
 from collections import Counter, defaultdict
 import statistics as st, datetime as dt
 
-G    = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
-CP   = Path("/sessions/practical-admiring-babbage/mnt/Sc Pubs Manus/"
-            "11. Governing Generative Interpretation Authorial Control in LLM - AI&Soc/"
-            "Book JSONs/nathan-the-wise-d52840ff.json")
+G    = DATA
+CP   = canon_pack("nathan-the-wise")
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 TODO = "> **[NEEDS AUTHOR INPUT]**"
 

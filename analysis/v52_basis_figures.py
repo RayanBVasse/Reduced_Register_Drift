@@ -1,11 +1,15 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """Every figure v5.2 needs on the FULL-TEXT (unstripped) basis."""
 import csv, json, statistics as st, itertools
 from pathlib import Path
 from collections import defaultdict
 from scipy.stats import wilcoxon, norm
-G=Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
-rc=list(csv.DictReader(open("per_response_rawcounts.csv")))
+G=DATA
+rc=list(csv.DictReader(open(data_file("per_response_rawcounts.csv"))))
 for r in rc:
     for k in ("d1","d2","d3","d4","tokens","tokens_raw","d1_raw","d2_raw","d3_raw","d4_raw"): r[k]=int(r[k])
 reg=json.loads((G/"book_registry.json").read_text())["books"]

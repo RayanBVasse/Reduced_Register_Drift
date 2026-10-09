@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """4-way analysis incl. Cond_A3 ablation. Reads response JSONs directly from drive.
 Methodology identical to drift_reduction_3way.py (lexicon, suffix stripping, whitespace
@@ -8,7 +12,7 @@ from pathlib import Path
 import pandas as pd, numpy as np
 from scipy.stats import wilcoxon, norm
 
-G = Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+G = DATA
 OUT = Path(__file__).resolve().parent
 COND = {  # cond -> (folder, file-prefix, strip?)
  "A1":("CondA1_Gemini_2.5Flash","condA",False),

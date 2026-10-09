@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT as EXPORT_DIR, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 S6 — extract the full corpus-filtered 3A governance log (46 proposals).
@@ -14,8 +18,7 @@ Output:  governance_log_46.csv , governance_log_46.md
 """
 import re, csv, os, json
 
-EXPORT = ("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis/"
-          "hermeneutics-export-20260510-071918/a-llm-default-bias")
+EXPORT = str(EXPORT_DIR)
 OUT = os.path.dirname(os.path.abspath(__file__))
 
 FILES = {
@@ -24,9 +27,7 @@ FILES = {
     "SB": "sb-scope-corrections.md",
 }
 # Corpus membership and genre cluster both come from the registry.
-_REG = json.load(open(os.path.join(
-    "/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis",
-    "book_registry.json")))["books"]
+_REG = json.load(open(DATA / "book_registry.json"))["books"]
 
 def _norm(t):
     return " ".join(t.lower().replace("\u2019", "'").split())

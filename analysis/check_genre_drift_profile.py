@@ -1,3 +1,7 @@
+
+import sys, os as _os
+sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from _paths import DATA, CANON, EXPORT, HERE, data_file, canon_pack
 #!/usr/bin/env python3
 """
 Checks the claim added in v6.5 §5.5: that different genres are vulnerable to
@@ -13,7 +17,7 @@ Reads the raw response JSONs; depends on no intermediate file.
 import json, re, os, statistics as st
 from pathlib import Path
 from collections import defaultdict
-GFI=Path("/sessions/practical-admiring-babbage/mnt/5. Extended GFI/GFI_data_analysis")
+GFI=DATA
 HERE=Path(os.path.dirname(os.path.abspath(__file__)))
 TIER1={
  "D1":["what you're feeling","it's okay to","be kind to yourself","healing","resilience","inner peace",
