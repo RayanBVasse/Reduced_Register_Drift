@@ -18,7 +18,7 @@ from pathlib import Path
 import json, sys
 
 # ---- EDIT THIS if needed -----------------------------------------------------
-GFI_DIR = Path("/Users/user/Documents/_Book-Series/_GA pub and collab/5. Extended GFI/GFI_data_analysis")   # <-- set me
+GFI_DIR = Path("")   # <-- set me
 OUT_CSV = Path("biber_features.csv")
 # ------------------------------------------------------------------------------
 
